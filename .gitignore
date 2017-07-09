@@ -1,6 +1,9 @@
 # XML files
 *.xml
 
+# Unnecessary txt files
+data/ma_outputs/*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
