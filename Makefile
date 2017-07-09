@@ -15,5 +15,8 @@ morphadorn: data/1640s_txt/*.txt
 searchsdfb: src/count_names.sh data/sdfb_names.txt
 	./src/count_names.sh
 
-ner: src/ner.py
-	./src/ner.py
+ner_orig: src/ner.py
+	./src/ner.py data/1640s_txt/
+
+ner_reg: src/ner.py
+	./src/ner.py data/1640s_regularized/
