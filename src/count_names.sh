@@ -7,7 +7,7 @@
 ###########
 
 # Input
-DOCS_PATH=data/1640s_txt
+DOCS_PATH=data/1640s_regularized
 NAMES_FILE=data/sdfb_names.txt
 
 # Temp and Output
