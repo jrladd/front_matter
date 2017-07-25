@@ -20,3 +20,6 @@ ner_orig: src/ner.py
 
 ner_reg: src/ner.py
 	./src/ner.py data/1640s_regularized/
+
+fix_names: src/expand_names.py
+	./src/expand_names.py
