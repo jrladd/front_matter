@@ -92,7 +92,7 @@ A25221	1	t	George Burrish Wardens
 A93709	1	t	John Saltmarsh		
 A67155	1	t	H. Walker		
 A54668	1	f	Lord Chamberlain
-A54668	1	t	Robert Devoreux Earl of Essex
+A54668	1	t	Robert Devereux
 A66737	1	f	Your Father
 A50854	1	f	Deserving Gentry		
 A97129	2	t	Thomas Clarke		
@@ -117,7 +117,7 @@ A26353	1	t	Nicolas Amsdorf Bishop
 A83501	1	t	Servantthomas Edwards		
 A54990	1	t	Katherine Baroness		
 A89591	1	t	Stephen Marshall		
-A43401	1	t	Lord Parre		Herbert of Cardife , and Shirland , Lord Parre and Roos , of Kendal , Marmion , & Saint
+A43401	1	t	Philip Herbert
 A13439	1	t	Matronlike Hecuba		
 A47629	1	t	John Scot		
 A56192	1	f	Honours Person		
@@ -324,7 +324,6 @@ A91309	1	f	Germane Anabaptists
 A13439	1	t	Sisly Sweet-Lips		
 A79477	1	t	Pope Alexander		
 A42489	1	f	Honourable House		
-A29206	1	t	Viscount Mansfield		
 A65268	1	t	Richard Camden		
 A32802	1	f	Your Lordship's		
 A32802	1	t	Fr. Cheynelz		
@@ -347,7 +346,6 @@ A79477	3	t	Jesus Christ
 A93880	2	t	St. Paul		
 A85728	1	t	Jesus Christ	
 A71091	1	t	Rebel Rodolphus		
-A43401	1	t	Lord Warden		of Kendal , Marmion , & Saint Quintine , Lord Warden of the Stanaties in the County
 A87152	1	t	Jesus Christ	
 A90603	1	t	William Gibbs		
 A41964	1	t	John Selden
@@ -389,7 +387,7 @@ A64135	1	t	Emanuel Philibert
 A40728	1	t	S. Peter		
 A57529	1	t	Robert Earl		
 A71053	1	t	John Saltmarsh		
-A70099	1	t	Lord Percy		Algernon Earl of Northumberland, Lord Percy, Lucy, Poynings, Fitzpain, Brian, and Latimer
+A70099	1	t	Algernon Lord Percy
 A34599	3	t	Jesus Christ	
 A34747	2	t	Iohn Carter		
 A57976	1	t	Reverend Beza		
@@ -446,7 +444,6 @@ A95751	1	t	Thomas Urquhart
 A49473	1	t	John Bradley		
 A91224	1	t	Mrs Douse		
 A70099	1	f	Privy Council		
-A43401	1	f	Lord Chamberlain		Kent , Cornwall , Somerset , and Wiltes , Lord Chamberlain to his Majesty , Knight of the
 A89420	1	f	Your Lordship's		
 A89420	1	t	Robert Stapylton		
 A30705	1	t	James Price Knight		
@@ -532,7 +529,7 @@ A13439	1	t	Ellen Ever-Heard
 A70454	1	f	Lord General
 A70454	1	t	Robert Earle of Essex
 A13439	1	t	Vrsula Vpsefreeze		
-A17129	1	t	Helena Lady Marchioness	of Northampton
+A17129	1	t	Helena Lady Marchioness of Northampton
 A56976	1	t	Mrs Elizabeth Usher
 A64135	1	f	R. Father
 A64897	2	t	John Vicars		
@@ -588,7 +585,6 @@ A89585	1	t	Stephen Marshall
 A10822	1	t	Samuel Carlton		
 A70378	1	t	S. Martins		
 A69646	1	t	Martin Bueer		
-A43401	1	f	Lord Lieutenant		County of Devon , and Cornwall , Lord Lieutenant of Kent , Cornwall , Somerset , and Wiltes
 A89567	1	t	Stephen Marshall		
 A85551	1	t	John Grant		
 A21479	1	f	Your Honoured		
@@ -698,7 +694,7 @@ A43479	1	t	Frederick Henry
 A66597	1	t	Melchior Adam
 A90266	1	t	William Masham		
 A47629	2	t	Peter Lumbard		
-A29206	1	t	William Earl		
+A29206	1	t	William Cavendish
 A90603	1	t	Francis Pat		
 A43816	1	f	Communis Concilii		
 A45214	2	f	Your Majesty		
@@ -792,7 +788,7 @@ A70175	1	t	A. S.
 A40995	1	f	Worthy Sirs		
 A14722	1	f	Humble Servant		
 A70924	2	f	Illustrious Lord		
-A70924	1	t	Philip Earl of Pembroke and Montgomery		
+A70924	1	t	Philip Herbert
 A91306	1	t	Philip Stapleton		
 A12166	1	t	John Sedovvick		
 A10822	1	t	Marmaduke Royden		
@@ -1033,7 +1029,7 @@ A61155	1	f	The Lord
 A38615	2	f	My Lord		
 A45589	1	t	Pedaell Harlowe		
 A54990	1	t	Count Palatines		
-A70924	1	t	Lord Chamberlain		of Cardiffe and Shurland , etc. Lord Chamberlain of his Majeſties Houſehold , Knight of
+A70924	1	f	Lord Chamberlain
 A56127	1	f	Heavenly Father		
 A40669	1	f	Noble Patroness		
 A95892	1	t	Edmund Prideaux		
@@ -1318,7 +1314,8 @@ A90603	1	t	Peter Worster
 A30705	1	t	David Lloyd Ap		
 A91224	1	f	Honoured Friend		
 A41009	1	t	St. Paul		
-A64606	1	f	Lord Baron		Earl of Arren , and Cambridge , Lord Baron of Even , and Innerdale , Lord Master
+A64606	1	f	Lord Baron
+A64606	1	t	James Hamilton
 A05161	1	t	D. White's		
 A91298	1	f	Noble Persons		
 A32802	1	f	Popish Socinians		
@@ -1782,7 +1779,7 @@ A17286	1	t	Charles The Emperor
 A32802	1	t	G. Nys		
 A34595	1	t	N. B.		
 A61092	1	t	M. Crew		
-A19160	1	t	Lord Marshal		and KILLULTAH ; Baron of RAGLEY ; Lord Marshal of the Army , and Privy Counselor
+A19160	1	t	Edward Conway
 A86261	1	f	Lord Major		
 A01344	1	t	Thomas Fuller		
 A27361	1	t	James Story		
@@ -1816,7 +1813,6 @@ A64897	1	f	Englands Commons
 A43824	1	t	L. Mountague		
 A94736	1	t	Alexander Popham		
 A57656	1	t	A. R.		
-A29206	1	t	Lord Ogle		Earl of NEWCASTLE , Viscount Mansfield , Lord Ogle , Baron of Bolsover , Bothall , and Hepple
 A94728	1	t	John Tombes		
 A90603	1	t	Richard Kimble		
 A17129	1	f	E. B.
@@ -1858,7 +1854,7 @@ A57657	1	f	Honourable Grandfather
 A27497	2	t	St. Paul		
 A79477	2	f	Honourable House		
 A47629	1	f	Davids Counseller		
-A41155	1	t	Algernon Lord Percy		Honourable Algernon Earl of Northumberland , Lord Percy , Lucy , Poynings , Fitzpaine , Brian and Latimer
+A41155	1	t	Algernon Lord Percy
 A30705	1	t	Sampson Eure Knight		
 A12184	1	t	Jesus Christ	
 A49473	1	t	Robert Davies		
