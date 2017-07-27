@@ -23,3 +23,13 @@ ner_reg: src/ner.py
 
 fix_names: src/expand_names.py
 	./src/expand_names.py
+
+# Hand curation to eliminate obvious non-names, add edge types
+#
+expand_names: src/kwic.py #Expand names based on what's around them
+	./src/kwic.py
+
+# More hand curation, and also finding matches in open refine
+#
+initialize_network: src/initialize_network.py
+	./src/initialize_network.py

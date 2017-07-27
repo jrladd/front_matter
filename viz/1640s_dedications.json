@@ -1,0 +1,3166 @@
+{
+    "links":[
+        {
+            "source":"A70863",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A70863",
+            "target":"William Balfore Knight",
+            "weight":1
+        },
+        {
+            "source":"William Gibbs",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"William Gibbs",
+            "target":"A90603",
+            "weight":1
+        },
+        {
+            "source":"Peter Sterry",
+            "target":"A61475",
+            "weight":1
+        },
+        {
+            "source":"Peter Sterry",
+            "target":"A93880",
+            "weight":1
+        },
+        {
+            "source":"A92138",
+            "target":"Jesus Christ",
+            "weight":4
+        },
+        {
+            "source":"A07542",
+            "target":"Humphrey Mill",
+            "weight":1
+        },
+        {
+            "source":"A43816",
+            "target":"D. D. D.",
+            "weight":1
+        },
+        {
+            "source":"A43816",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"A43816",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A08829",
+            "target":"Ephraim Pagitt",
+            "weight":1
+        },
+        {
+            "source":"M. Fisher",
+            "target":"A05161",
+            "weight":10
+        },
+        {
+            "source":"George Eagles",
+            "target":"A47618",
+            "weight":3
+        },
+        {
+            "source":"A95878",
+            "target":"John Vicars",
+            "weight":1
+        },
+        {
+            "source":"A95878",
+            "target":"Anne Sprignall",
+            "weight":1
+        },
+        {
+            "source":"John Bellamie",
+            "target":"A27361",
+            "weight":2
+        },
+        {
+            "source":"A56832",
+            "target":"Jesus Christ",
+            "weight":2
+        },
+        {
+            "source":"A01234",
+            "target":"Nicholas Rainton",
+            "weight":1
+        },
+        {
+            "source":"S. John",
+            "target":"A17286",
+            "weight":2
+        },
+        {
+            "source":"S. John",
+            "target":"A67085",
+            "weight":1
+        },
+        {
+            "source":"S. John",
+            "target":"A69521",
+            "weight":1
+        },
+        {
+            "source":"S. John",
+            "target":"A13699",
+            "weight":1
+        },
+        {
+            "source":"A79477",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"A89591",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A54668",
+            "target":"Robert Devereux",
+            "weight":1
+        },
+        {
+            "source":"A54668",
+            "target":"Thomas Philipot",
+            "weight":1
+        },
+        {
+            "source":"A25370",
+            "target":"N. N.",
+            "weight":1
+        },
+        {
+            "source":"A25370",
+            "target":"Philip Sidney",
+            "weight":1
+        },
+        {
+            "source":"A37463",
+            "target":"D. L. M.",
+            "weight":2
+        },
+        {
+            "source":"A37463",
+            "target":"Henry Burton",
+            "weight":1
+        },
+        {
+            "source":"Baron Ferrars",
+            "target":"A30577",
+            "weight":1
+        },
+        {
+            "source":"Baron Ferrars",
+            "target":"A27638",
+            "weight":1
+        },
+        {
+            "source":"Almighty God",
+            "target":"A13699",
+            "weight":1
+        },
+        {
+            "source":"Almighty God",
+            "target":"A95751",
+            "weight":1
+        },
+        {
+            "source":"J. P.",
+            "target":"A27361",
+            "weight":2
+        },
+        {
+            "source":"A03196",
+            "target":"T. H.",
+            "weight":1
+        },
+        {
+            "source":"A47791",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"Thomas Fairfax",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"John Vicars",
+            "weight":2
+        },
+        {
+            "source":"A95892",
+            "target":"John Wollaston",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"Richard Sprignall",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"William Waller",
+            "weight":1
+        },
+        {
+            "source":"A95892",
+            "target":"Harbotle Grimstone",
+            "weight":2
+        },
+        {
+            "source":"A86226",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"S. Austin",
+            "target":"A64135",
+            "weight":3
+        },
+        {
+            "source":"S. Austin",
+            "target":"A13699",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A41427",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A57248",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A49256",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A61155",
+            "weight":2
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A93655",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A91187",
+            "weight":1
+        },
+        {
+            "source":"A88086",
+            "target":"Thomas Middleton",
+            "weight":1
+        },
+        {
+            "source":"A63067",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"A43819",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"A64897",
+            "target":"Richard Sprignall",
+            "weight":1
+        },
+        {
+            "source":"A64897",
+            "target":"John Vicars",
+            "weight":2
+        },
+        {
+            "source":"A64897",
+            "target":"J. V.",
+            "weight":1
+        },
+        {
+            "source":"A61119",
+            "target":"John Saltmarsh",
+            "weight":1
+        },
+        {
+            "source":"Nathaniel Fiennes",
+            "target":"A91306",
+            "weight":1
+        },
+        {
+            "source":"Nathaniel Fiennes",
+            "target":"A94736",
+            "weight":1
+        },
+        {
+            "source":"A91309",
+            "target":"Samuel Rutherford",
+            "weight":1
+        },
+        {
+            "source":"A91309",
+            "target":"Thomas Edwards",
+            "weight":2
+        },
+        {
+            "source":"A91309",
+            "target":"Burtons Vindication",
+            "weight":2
+        },
+        {
+            "source":"A91309",
+            "target":"John Goodwin",
+            "weight":2
+        },
+        {
+            "source":"A91309",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A91309",
+            "target":"John Goodwins",
+            "weight":1
+        },
+        {
+            "source":"Edward Dichfield",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Edward Dichfield",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A95897",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A95897",
+            "target":"John Vicars",
+            "weight":1
+        },
+        {
+            "source":"K. Allured",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"K. Allured",
+            "target":"A64057",
+            "weight":1
+        },
+        {
+            "source":"A91314",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A34599",
+            "target":"John Cotton",
+            "weight":2
+        },
+        {
+            "source":"A34599",
+            "target":"William Lord Archbishop of Canterbury",
+            "weight":1
+        },
+        {
+            "source":"A34599",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"S. Peter",
+            "target":"A40728",
+            "weight":1
+        },
+        {
+            "source":"S. Peter",
+            "target":"A85505",
+            "weight":1
+        },
+        {
+            "source":"S. Peter",
+            "target":"A05161",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"Bishop Fox",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"K. John's",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"Aeneas Sylvius",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"Bishop Morton",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"H. Church",
+            "weight":2
+        },
+        {
+            "source":"A64057",
+            "target":"J. Taylor",
+            "weight":1
+        },
+        {
+            "source":"A56135",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A30262",
+            "target":"Cornelius Burges",
+            "weight":1
+        },
+        {
+            "source":"A30262",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"Robert Lord Brook",
+            "target":"A67073",
+            "weight":1
+        },
+        {
+            "source":"Robert Lord Brook",
+            "target":"A97067",
+            "weight":1
+        },
+        {
+            "source":"Henry Sanders",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Henry Sanders",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A66445",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"George Walker",
+            "target":"A67095",
+            "weight":1
+        },
+        {
+            "source":"George Walker",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"A35730",
+            "target":"Edward Dering",
+            "weight":1
+        },
+        {
+            "source":"A67551",
+            "target":"Sir Martin Lumley",
+            "weight":1
+        },
+        {
+            "source":"A67551",
+            "target":"Edward Dering",
+            "weight":1
+        },
+        {
+            "source":"A67551",
+            "target":"William Massam",
+            "weight":1
+        },
+        {
+            "source":"A67551",
+            "target":"Thomas Barrington",
+            "weight":1
+        },
+        {
+            "source":"A25906",
+            "target":"Daniel",
+            "weight":1
+        },
+        {
+            "source":"King James",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"King James",
+            "target":"A52444",
+            "weight":1
+        },
+        {
+            "source":"King James",
+            "target":"A38677",
+            "weight":1
+        },
+        {
+            "source":"A67095",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A89563",
+            "target":"John Goodwins",
+            "weight":1
+        },
+        {
+            "source":"A89563",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"Alderman Adams",
+            "target":"A86261",
+            "weight":1
+        },
+        {
+            "source":"Alderman Adams",
+            "target":"A95888",
+            "weight":1
+        },
+        {
+            "source":"Alderman Adams",
+            "target":"A43818",
+            "weight":2
+        },
+        {
+            "source":"Richard Baker",
+            "target":"A29737",
+            "weight":1
+        },
+        {
+            "source":"Richard Baker",
+            "target":"A29731",
+            "weight":1
+        },
+        {
+            "source":"A91306",
+            "target":"William Balfore",
+            "weight":1
+        },
+        {
+            "source":"A91306",
+            "target":"Philip Stapleton",
+            "weight":1
+        },
+        {
+            "source":"A91306",
+            "target":"John Lord Roberts",
+            "weight":1
+        },
+        {
+            "source":"A67073",
+            "target":"John Lord Roberts",
+            "weight":1
+        },
+        {
+            "source":"A67073",
+            "target":"Robert Earl",
+            "weight":1
+        },
+        {
+            "source":"John Venn",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"John Venn",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"Philip Sidney",
+            "target":"A52444",
+            "weight":1
+        },
+        {
+            "source":"Philip Sidney",
+            "target":"A38677",
+            "weight":1
+        },
+        {
+            "source":"A78965",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A78965",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"Tobias Massy",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Tobias Massy",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A41964",
+            "target":"Julius Pollux",
+            "weight":2
+        },
+        {
+            "source":"A41964",
+            "target":"John Selden",
+            "weight":1
+        },
+        {
+            "source":"Robert Earl",
+            "target":"A57529",
+            "weight":1
+        },
+        {
+            "source":"Robert Earl",
+            "target":"A07541",
+            "weight":1
+        },
+        {
+            "source":"A47618",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"A47618",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A77856",
+            "target":"Cornelius Burges",
+            "weight":1
+        },
+        {
+            "source":"A77856",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A02324",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"A39313",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"A65268",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"A93709",
+            "target":"John Saltmarsh",
+            "weight":1
+        },
+        {
+            "source":"A93709",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"N. N.",
+            "target":"A34548",
+            "weight":1
+        },
+        {
+            "source":"A56211",
+            "target":"William Waller",
+            "weight":1
+        },
+        {
+            "source":"A56211",
+            "target":"William Prynne",
+            "weight":2
+        },
+        {
+            "source":"Sir Francis Bacon",
+            "target":"A29737",
+            "weight":1
+        },
+        {
+            "source":"Sir Francis Bacon",
+            "target":"A47629",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A60972",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A61155",
+            "weight":4
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A71053",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A93655",
+            "weight":1
+        },
+        {
+            "source":"Edward Dering",
+            "target":"A66596",
+            "weight":1
+        },
+        {
+            "source":"A56199",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A47629",
+            "target":"Queen Elizabeth",
+            "weight":3
+        },
+        {
+            "source":"A47629",
+            "target":"Peter Lumbard",
+            "weight":2
+        },
+        {
+            "source":"A92764",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"A41009",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"Viscount Mandeville",
+            "target":"A17286",
+            "weight":1
+        },
+        {
+            "source":"Viscount Mandeville",
+            "target":"A12182",
+            "weight":1
+        },
+        {
+            "source":"A27638",
+            "target":"Robert Devereux",
+            "weight":2
+        },
+        {
+            "source":"A27638",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"A70130",
+            "target":"Thomas Atkin",
+            "weight":1
+        },
+        {
+            "source":"A70130",
+            "target":"Thomas Middleton",
+            "weight":1
+        },
+        {
+            "source":"A70130",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"Bishop Fox",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"A56191",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A60972",
+            "target":"Philip Stapleton",
+            "weight":1
+        },
+        {
+            "source":"A60972",
+            "target":"William Strickland",
+            "weight":1
+        },
+        {
+            "source":"James Bunce",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"James Bunce",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"Rowland Wilson",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Rowland Wilson",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"D. D. D.",
+            "target":"A31221",
+            "weight":1
+        },
+        {
+            "source":"T. H.",
+            "target":"A43598",
+            "weight":1
+        },
+        {
+            "source":"A27361",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A27361",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A70654",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A04909",
+            "target":"Thomas Soame",
+            "weight":1
+        },
+        {
+            "source":"Pedro Mexia",
+            "target":"A14722",
+            "weight":2
+        },
+        {
+            "source":"Master Prynne",
+            "target":"A93655",
+            "weight":1
+        },
+        {
+            "source":"Master Prynne",
+            "target":"A61155",
+            "weight":1
+        },
+        {
+            "source":"John Bradley",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"John Bradley",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A05161",
+            "target":"D. White",
+            "weight":2
+        },
+        {
+            "source":"A05161",
+            "target":"St. Augustine",
+            "weight":2
+        },
+        {
+            "source":"A05161",
+            "target":"A. C.",
+            "weight":2
+        },
+        {
+            "source":"A05161",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A94733",
+            "target":"John Tombes",
+            "weight":1
+        },
+        {
+            "source":"A43825",
+            "target":"Bishop Morton",
+            "weight":1
+        },
+        {
+            "source":"A91298",
+            "target":"William Waller",
+            "weight":1
+        },
+        {
+            "source":"A91298",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A94728",
+            "target":"John Tombes",
+            "weight":1
+        },
+        {
+            "source":"Master Dell",
+            "target":"A49256",
+            "weight":3
+        },
+        {
+            "source":"William Lord Archbishop of Canterbury",
+            "target":"A56144",
+            "weight":2
+        },
+        {
+            "source":"A12184",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A43598",
+            "target":"T. B.",
+            "weight":1
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A30577",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A70828",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A07541",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A49473",
+            "weight":2
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A32047",
+            "weight":1
+        },
+        {
+            "source":"Thomas Barrington",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"A52050",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A96944",
+            "target":"S. Paul",
+            "weight":1
+        },
+        {
+            "source":"John Presbyter",
+            "target":"A91187",
+            "weight":2
+        },
+        {
+            "source":"A76316",
+            "target":"T. B.",
+            "weight":1
+        },
+        {
+            "source":"George Langham",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"George Langham",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A91187",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A30650",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A52043",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A46895",
+            "target":"St. Bernard",
+            "weight":1
+        },
+        {
+            "source":"A70828",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A28303",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A89583",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"K. John's",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"William Balfore",
+            "target":"A91224",
+            "weight":1
+        },
+        {
+            "source":"A56171",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A56171",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A35274",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"A43817",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"A94736",
+            "target":"John Tombes",
+            "weight":1
+        },
+        {
+            "source":"A96941",
+            "target":"S. Paul",
+            "weight":1
+        },
+        {
+            "source":"A96941",
+            "target":"St. Paul",
+            "weight":2
+        },
+        {
+            "source":"A34527",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"Gregory Nazianzen",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"Gregory Nazianzen",
+            "target":"A90603",
+            "weight":1
+        },
+        {
+            "source":"Gregory Nazianzen",
+            "target":"A78979",
+            "weight":1
+        },
+        {
+            "source":"Thomas Soame",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"Thomas Soame",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A52049",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A16536",
+            "target":"M. Zachary Boyd",
+            "weight":2
+        },
+        {
+            "source":"M. Zachary Boyd",
+            "target":"A27810",
+            "weight":2
+        },
+        {
+            "source":"M. Zachary Boyd",
+            "target":"A28926",
+            "weight":1
+        },
+        {
+            "source":"St. Bernard",
+            "target":"A56127",
+            "weight":2
+        },
+        {
+            "source":"A61155",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"Matthew Forster",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Matthew Forster",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A61475",
+            "target":"Ezekiel",
+            "weight":1
+        },
+        {
+            "source":"A61475",
+            "target":"Jesus Christ",
+            "weight":2
+        },
+        {
+            "source":"A61026",
+            "target":"William Strickland",
+            "weight":1
+        },
+        {
+            "source":"A89567",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A89578",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"Paul Pindar",
+            "target":"A86261",
+            "weight":1
+        },
+        {
+            "source":"Paul Pindar",
+            "target":"A90668",
+            "weight":1
+        },
+        {
+            "source":"A46836",
+            "target":"Henrie Jesse",
+            "weight":2
+        },
+        {
+            "source":"A46836",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"J. Taylor",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Aeneas Sylvius",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Bishop Morton",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"H. Church",
+            "weight":2
+        },
+        {
+            "source":"A93880",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A93880",
+            "target":"Jesus Christ",
+            "weight":5
+        },
+        {
+            "source":"Gilbert Gerard",
+            "target":"A95657",
+            "weight":1
+        },
+        {
+            "source":"Gilbert Gerard",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"W. P.",
+            "target":"A54605",
+            "weight":1
+        },
+        {
+            "source":"W. P.",
+            "target":"A13699",
+            "weight":1
+        },
+        {
+            "source":"A07541",
+            "target":"Humphrey Mill",
+            "weight":1
+        },
+        {
+            "source":"A25886",
+            "target":"John Arrowsmith",
+            "weight":1
+        },
+        {
+            "source":"A25886",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"Samuel Rutherford",
+            "target":"A57969",
+            "weight":1
+        },
+        {
+            "source":"A86261",
+            "target":"John Vicars",
+            "weight":2
+        },
+        {
+            "source":"Sir Martin Lumley",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"A93655",
+            "target":"Jesus Christ",
+            "weight":2
+        },
+        {
+            "source":"Martin Bond",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Martin Bond",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A96652",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A87152",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"Anne Sprignall",
+            "target":"A95888",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A85505",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A17286",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A27810",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A90668",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A13699",
+            "weight":4
+        },
+        {
+            "source":"St. Paul",
+            "target":"A27497",
+            "weight":2
+        },
+        {
+            "source":"St. Paul",
+            "target":"A56127",
+            "weight":1
+        },
+        {
+            "source":"John Wollaston",
+            "target":"A95888",
+            "weight":1
+        },
+        {
+            "source":"John Wollaston",
+            "target":"A26722",
+            "weight":1
+        },
+        {
+            "source":"John Wollaston",
+            "target":"A43818",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A43824",
+            "weight":2
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A41142",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A43818",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A86358",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A43821",
+            "weight":1
+        },
+        {
+            "source":"John Arrowsmith",
+            "target":"A86786",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Thomas Covell",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Edmund Forster",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Samuel Carlton",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Nicholas Beale",
+            "weight":1
+        },
+        {
+            "source":"A95888",
+            "target":"Richard Sprignall",
+            "weight":1
+        },
+        {
+            "source":"A95888",
+            "target":"John Vicars",
+            "weight":1
+        },
+        {
+            "source":"A95888",
+            "target":"J. V.",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A85728",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A32016",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A27499",
+            "weight":3
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A12166",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A57969",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A26722",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A13699",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A94735",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A79475",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A46823",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A69024",
+            "weight":3
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A87081",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A04155",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A41485",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A95657",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A17286",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A43821",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A85716",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A62099",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A78018",
+            "weight":1
+        },
+        {
+            "source":"Stephen Marshall",
+            "target":"A89585",
+            "weight":1
+        },
+        {
+            "source":"John Baptist",
+            "target":"A27499",
+            "weight":1
+        },
+        {
+            "source":"John Baptist",
+            "target":"A89564",
+            "weight":1
+        },
+        {
+            "source":"John Selden",
+            "target":"A27497",
+            "weight":1
+        },
+        {
+            "source":"Thomas Atkin",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Nicholas Beale",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Samuel Carlton",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Thomas Covell",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Edmund Forster",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"A04155",
+            "target":"Timothy Hutton",
+            "weight":2
+        },
+        {
+            "source":"William Prynne",
+            "target":"A91224",
+            "weight":4
+        },
+        {
+            "source":"William Prynne",
+            "target":"A56127",
+            "weight":1
+        },
+        {
+            "source":"William Prynne",
+            "target":"A56144",
+            "weight":1
+        },
+        {
+            "source":"William Prynne",
+            "target":"A70872",
+            "weight":1
+        },
+        {
+            "source":"A90603",
+            "target":"Ephraim Pagitt",
+            "weight":2
+        },
+        {
+            "source":"A79474",
+            "target":"Francis Cheynell",
+            "weight":1
+        },
+        {
+            "source":"Thomas Philipot",
+            "target":"A54678",
+            "weight":1
+        },
+        {
+            "source":"T. B.",
+            "target":"A38677",
+            "weight":1
+        },
+        {
+            "source":"Thomas Adams",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"Ezekiel",
+            "target":"A14722",
+            "weight":1
+        },
+        {
+            "source":"Charles Coote",
+            "target":"A56144",
+            "weight":2
+        },
+        {
+            "source":"A17286",
+            "target":"Daniel",
+            "weight":2
+        },
+        {
+            "source":"Nicholas Rainton",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"A56144",
+            "target":"William Laud",
+            "weight":4
+        },
+        {
+            "source":"Philip Carteret",
+            "target":"A70872",
+            "weight":1
+        },
+        {
+            "source":"Philip Carteret",
+            "target":"A91224",
+            "weight":1
+        },
+        {
+            "source":"A67068",
+            "target":"William Massam",
+            "weight":1
+        },
+        {
+            "source":"A79475",
+            "target":"Francis Cheynell",
+            "weight":1
+        },
+        {
+            "source":"A56127",
+            "target":"Henry Burton",
+            "weight":1
+        },
+        {
+            "source":"William Balfore Knight",
+            "target":"A91224",
+            "weight":1
+        },
+        {
+            "source":"A94735",
+            "target":"John Tombes",
+            "weight":1
+        },
+        {
+            "source":"A38677",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"Humphrey Mill",
+            "target":"A50854",
+            "weight":1
+        }
+    ],
+    "nodes":[
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A70863"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"William Gibbs"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Peter Sterry"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A92138"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A07542"
+        },
+        {
+            "bipartite":0,
+            "degree":10,
+            "id":"A43816"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A08829"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"George Eagles"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A95878"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Bellamie"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A56832"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A01234"
+        },
+        {
+            "bipartite":0,
+            "degree":9,
+            "id":"A60972"
+        },
+        {
+            "bipartite":1,
+            "degree":5,
+            "id":"S. John"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A35730"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A89591"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A54668"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A25370"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A37463"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Baron Ferrars"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Almighty God"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"J. P."
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A03196"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A47791"
+        },
+        {
+            "bipartite":0,
+            "degree":16,
+            "id":"A95892"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A86226"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"S. Austin"
+        },
+        {
+            "bipartite":1,
+            "degree":8,
+            "id":"Thomas Fairfax"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A88086"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A63067"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A43819"
+        },
+        {
+            "bipartite":0,
+            "degree":6,
+            "id":"A64897"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Nathaniel Fiennes"
+        },
+        {
+            "bipartite":0,
+            "degree":12,
+            "id":"A91309"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Edward Dichfield"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A95897"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"K. Allured"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A91314"
+        },
+        {
+            "bipartite":0,
+            "degree":9,
+            "id":"A34599"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"S. Peter"
+        },
+        {
+            "bipartite":0,
+            "degree":10,
+            "id":"A64057"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A30262"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Robert Lord Brook"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A67085"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Henry Sanders"
+        },
+        {
+            "bipartite":1,
+            "degree":7,
+            "id":"Queen Elizabeth"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A66445"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"George Walker"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A67551"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A25906"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"King James"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A67095"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A89563"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"Alderman Adams"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Richard Baker"
+        },
+        {
+            "bipartite":0,
+            "degree":7,
+            "id":"A91306"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A67073"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Venn"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A78965"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Tobias Massy"
+        },
+        {
+            "bipartite":0,
+            "degree":7,
+            "id":"A41964"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A28303"
+        },
+        {
+            "bipartite":0,
+            "degree":18,
+            "id":"A47618"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A77856"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A02324"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A39313"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A65268"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A93709"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"N. N."
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A89578"
+        },
+        {
+            "bipartite":0,
+            "degree":31,
+            "id":"A64135"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A56211"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Sir Francis Bacon"
+        },
+        {
+            "bipartite":1,
+            "degree":9,
+            "id":"John Saltmarsh"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"John Wollaston"
+        },
+        {
+            "bipartite":0,
+            "degree":7,
+            "id":"A95888"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"T. B."
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Cornelius Burges"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A92764"
+        },
+        {
+            "bipartite":0,
+            "degree":6,
+            "id":"A41009"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Viscount Mandeville"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A27638"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A70130"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Bishop Fox"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A56191"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"James Bunce"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Rowland Wilson"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"D. D. D."
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"T. H."
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Burtons Vindication"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Philip Stapleton"
+        },
+        {
+            "bipartite":0,
+            "degree":10,
+            "id":"A27361"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A70654"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A04909"
+        },
+        {
+            "bipartite":1,
+            "degree":10,
+            "id":"M. Fisher"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Pedro Mexia"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Bradley"
+        },
+        {
+            "bipartite":0,
+            "degree":36,
+            "id":"A05161"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A94733"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A43825"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A91298"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A94728"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Master Dell"
+        },
+        {
+            "bipartite":0,
+            "degree":12,
+            "id":"A79477"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"William Lord Archbishop of Canterbury"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A12184"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A43598"
+        },
+        {
+            "bipartite":1,
+            "degree":11,
+            "id":"Robert Devereux"
+        },
+        {
+            "bipartite":1,
+            "degree":8,
+            "id":"St. Augustine"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A54605"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Harbotle Grimstone"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Barrington"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A52050"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A49256"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A96944"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Middleton"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A69521"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Presbyter"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A76316"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"George Langham"
+        },
+        {
+            "bipartite":0,
+            "degree":10,
+            "id":"A91187"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A30650"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A52043"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A35274"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Philip Sidney"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A46895"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A29737"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"D. L. M."
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A70828"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"D. White"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A41142"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Robert Earl"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Richard Sprignall"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"K. John's"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"William Balfore"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A52444"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A56171"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Nicholas Rainton"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A43817"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A94736"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A96941"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A34527"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A57529"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Thomas Soame"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A52049"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A16536"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"John Tombes"
+        },
+        {
+            "bipartite":1,
+            "degree":5,
+            "id":"M. Zachary Boyd"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"St. Bernard"
+        },
+        {
+            "bipartite":0,
+            "degree":13,
+            "id":"A61155"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Matthew Forster"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A61475"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A61026"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A89567"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Paul Pindar"
+        },
+        {
+            "bipartite":0,
+            "degree":7,
+            "id":"A46836"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A56135"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Covell"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A40728"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A57248"
+        },
+        {
+            "bipartite":0,
+            "degree":7,
+            "id":"A93880"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Gilbert Gerard"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"W. P."
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Lord Roberts"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A07541"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A25886"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A34548"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Samuel Rutherford"
+        },
+        {
+            "bipartite":0,
+            "degree":15,
+            "id":"A86261"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Sir Martin Lumley"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A93655"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Martin Bond"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A96652"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Anne Sprignall"
+        },
+        {
+            "bipartite":1,
+            "degree":21,
+            "id":"St. Paul"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A56199"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"J. Taylor"
+        },
+        {
+            "bipartite":1,
+            "degree":9,
+            "id":"Thomas Hill"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A85505"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Arrowsmith"
+        },
+        {
+            "bipartite":0,
+            "degree":19,
+            "id":"A10822"
+        },
+        {
+            "bipartite":1,
+            "degree":5,
+            "id":"Thomas Adams"
+        },
+        {
+            "bipartite":1,
+            "degree":72,
+            "id":"Jesus Christ"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A32047"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"William Strickland"
+        },
+        {
+            "bipartite":1,
+            "degree":12,
+            "id":"Stephen Marshall"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Baptist"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Selden"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Atkin"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A90668"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A61119"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A89583"
+        },
+        {
+            "bipartite":0,
+            "degree":6,
+            "id":"A95657"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A86786"
+        },
+        {
+            "bipartite":0,
+            "degree":28,
+            "id":"A49473"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A66596"
+        },
+        {
+            "bipartite":0,
+            "degree":14,
+            "id":"A13699"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A85716"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Cotton"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A87152"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A89564"
+        },
+        {
+            "bipartite":0,
+            "degree":8,
+            "id":"A04155"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Edward Dering"
+        },
+        {
+            "bipartite":1,
+            "degree":19,
+            "id":"William Prynne"
+        },
+        {
+            "bipartite":0,
+            "degree":28,
+            "id":"A90603"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A79474"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A27499"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"J. V."
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Philipot"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A26722"
+        },
+        {
+            "bipartite":0,
+            "degree":21,
+            "id":"A47629"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Peter Lumbard"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A78018"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A69024"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"S. Paul"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Ezekiel"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Charles Coote"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A30577"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Thomas Edwards"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Edmund Forster"
+        },
+        {
+            "bipartite":0,
+            "degree":11,
+            "id":"A17286"
+        },
+        {
+            "bipartite":0,
+            "degree":31,
+            "id":"A43824"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Bishop Morton"
+        },
+        {
+            "bipartite":1,
+            "degree":9,
+            "id":"John Vicars"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"St. Jerome"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A32016"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A12166"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Samuel Carlton"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Timothy Hutton"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A87081"
+        },
+        {
+            "bipartite":0,
+            "degree":9,
+            "id":"A27497"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Daniel"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"A. C."
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A43821"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A27810"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A12182"
+        },
+        {
+            "bipartite":0,
+            "degree":18,
+            "id":"A56144"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A85728"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Philip Carteret"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A57969"
+        },
+        {
+            "bipartite":0,
+            "degree":5,
+            "id":"A67068"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"William Massam"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Aeneas Sylvius"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A79475"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A28926"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Goodwin"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Henrie Jesse"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A70872"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Gregory Nazianzen"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A78979"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"John Goodwins"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"H. Church"
+        },
+        {
+            "bipartite":0,
+            "degree":20,
+            "id":"A56127"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Julius Pollux"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Master Prynne"
+        },
+        {
+            "bipartite":1,
+            "degree":4,
+            "id":"William Laud"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"William Balfore Knight"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A94735"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A41427"
+        },
+        {
+            "bipartite":0,
+            "degree":9,
+            "id":"A38677"
+        },
+        {
+            "bipartite":0,
+            "degree":10,
+            "id":"A14722"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A31221"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Francis Cheynell"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A86358"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A43818"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Humphrey Mill"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"William Waller"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A29731"
+        },
+        {
+            "bipartite":0,
+            "degree":1,
+            "id":"A71053"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Henry Burton"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A89585"
+        },
+        {
+            "bipartite":0,
+            "degree":4,
+            "id":"A97067"
+        },
+        {
+            "bipartite":1,
+            "degree":2,
+            "id":"Nicholas Beale"
+        },
+        {
+            "bipartite":1,
+            "degree":3,
+            "id":"Ephraim Pagitt"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A54678"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A50854"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A41485"
+        },
+        {
+            "bipartite":0,
+            "degree":24,
+            "id":"A54528"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A46823"
+        },
+        {
+            "bipartite":0,
+            "degree":11,
+            "id":"A91224"
+        },
+        {
+            "bipartite":0,
+            "degree":2,
+            "id":"A95751"
+        },
+        {
+            "bipartite":0,
+            "degree":3,
+            "id":"A62099"
+        }
+    ]
+}
