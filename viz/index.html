@@ -4,7 +4,6 @@
 
 .links line {
   stroke: #999;
-  stroke-opacity: 0.6;
 }
 
 .nodes circle {
@@ -74,6 +73,152 @@ var toggle = 0;
 d3.json("1640s_dedications.json", function(error, graph) {
   if (error) throw error;
 
+  update(graph);
+
+	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
+	var pathDropdown = d3.select('div#tools')
+		.append('select')
+		.on('change', function() { 
+			var val = this.value;
+			if (val == "All Paths") {
+				var newNodes = graph.nodes;
+				var newLinks = graph.links;
+				sliderMain.attr('disabled', null);
+			};
+			if (val == "Only Direct Paths") {
+				var newNodes = [];
+				graph.nodes.forEach( function(d) {
+					if (d.connected_path == 1) {newNodes.push(d); };
+				});
+
+				var newLinks = [];
+				graph.links.forEach( function(l) {
+					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
+						newLinks.push(l);
+					};
+				});
+				sliderMain.attr('disabled', 'disabled');
+			};
+			if (val == "Only Shortest Direct Paths") {
+				var newNodes = [];
+				graph.nodes.forEach( function(d) {
+					if (d.shortest_path == 1) {newNodes.push(d); };
+				});
+
+				var newLinks = [];
+				graph.links.forEach( function(l) {
+					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
+						newLinks.push(l);
+					};
+				});
+				sliderMain.attr('disabled', 'disabled');
+			};
+
+			link = link.data(newLinks, function(d) {return d.source + ', ' + d.target;});
+			link.exit().remove();
+			var linkEnter = link.enter().append('line').attr('class', 'link');
+			link = linkEnter.merge(link);
+
+			node = node.data(newNodes, function(d) {return d.id;});
+			node.exit().remove();
+			var nodeEnter = node.enter().append('circle')
+				.attr('r', function(d, i) { if (d.name == 'Margaret Cavendish' || d.name == 'Joseph Glanvill') {return 30;} else if (d.shortest_path == 1) {return 20;} else {return 10;}; })
+				.attr('class', 'node')
+      				.attr('id', function(d) { return "n" + d.id.toString(); })
+				.attr("fill", function(d) { 
+					var val = document.getElementById('color').value;
+					if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
+					else if (val == "Color by Shared Distance") { return colorByShared(d); }
+					else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
+				})
+		        .on('click', function(d, i) { toggleClick(d); })
+		        .call(d3.drag()
+		            .on("start", dragstarted)
+		            .on("drag", dragged)
+		            .on("end", dragended))
+		  
+
+			node = nodeEnter.merge(node);
+
+		    node.append("title")
+		        .text(function(d) { return d.name+d.degree.toString()+d.betweenness; });
+
+			// Restart simulation with new node and link data.
+			simulation
+				.nodes(newNodes).on('tick', ticked)
+				.force("link").links(newLinks, function(d) {return d.source + ', ' + d.target;});
+
+			simulation.alphaTarget(0.1).restart();
+
+			sliderLabel.text('60');
+			document.getElementById("threshold").stepDown(40);
+			
+		});
+
+	pathDropdown.selectAll('option')
+		.data(['All Paths', 'Only Direct Paths', 'Only Shortest Direct Paths'])
+		.enter().append('option')
+		.attr('value', function(d) { return d; })
+		.text(function(d) { return d; });
+
+	// A second dropdown with three different color schemes for nodes
+	var colorDropdown = d3.select('div#tools')
+		.append('select')
+		.attr('id', 'color')
+		.on('change', function() { 
+	       		var val = this.value;
+			node.attr("fill", function(d) {
+				if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
+				else if (val == "Color by Shared Distance") { return colorByShared(d); }
+				else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
+			});
+		});
+
+	colorDropdown.selectAll('option')
+		.data(["Color by Degree", "Color by Shared Distance", "Color by Minimum Node Cut"])
+		.enter().append('option')
+		.attr('value', function(d) { return d; })
+		.text(function(d) {return d;});
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+// Zooming function translates the size of the svg container.
+function zoomed() {
+	  container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
+}
+
+// Search for nodes by making all unmatched nodes temporarily transparent.
+function searchNodes() {
+	var term = document.getElementById('searchTerm').value;
+	var selected = container.selectAll('.node').filter(function (d, i) {
+		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
+	});
+	selected.style('opacity', '0');
+	var link = container.selectAll('.link');
+	link.style('stroke-opacity', '0');
+	d3.selectAll('.node').transition()
+		.duration(5000)
+		.style('opacity', '1');
+	d3.selectAll('.link').transition().duration(5000).style('stroke-opacity', '0.6');
+}
+
+function update(graph) {
   // Make object of all neighboring nodes.
   var linkedByIndex = {};
   graph.links.forEach(function(d) {
@@ -155,7 +300,7 @@ d3.json("1640s_dedications.json", function(error, graph) {
 
   // Title text for mouseover.
   node.append("title")
-      .text(function(d) { return d.id; });
+      .text(function(d) { return d.id+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')'; });
 
   simulation
       .nodes(graph.nodes)
@@ -176,224 +321,6 @@ d3.json("1640s_dedications.json", function(error, graph) {
         .attr("cy", function(d) { return d.y; });
   }
 
-  	// A slider (using only d3 and HTML5) that removes nodes below the input threshold.
-	var slider = d3.select('div#tools').append('div').text('Confidence Estimate ("All Paths" only): ');
-
-	var sliderLabel = slider.append('label')
-		.attr('for', 'threshold')
-		.text('60');
-	var sliderMain = slider.append('input')
-		.attr('type', 'range')
-		.attr('min', d3.min(graph.links, function(d) {return d.weight; }))
-		.attr('max', d3.max(graph.links, function(d) {return d.weight; }) )
-		.attr('value', 60)
-		.attr('id', 'threshold')
-		.style('width', '50%')
-		.style('display', 'block')
-		.on('input', function () { 
-			var threshold = this.value;
-
-			d3.select('label').text(threshold);
-
-			// Find the links that are at or above the threshold.
-			var newLinks = [];
-			graph.links.forEach( function (d) {
-				if (d.weight >= threshold) {
-					newLinks.push(d); 
-				};
-			});
-
-			// Data join with only those new links and corresponding nodes.
-			link = link.data(newLinks, function(d) {return d.source + ', ' + d.target;});
-			link.exit().remove();
-			var linkEnter = link.enter().append('line').attr('class', 'link');
-			link = linkEnter.merge(link);
-
-			var newNodes = [];
-			graph.nodes.forEach( function(d) {
-				newLinks.forEach( function(l) {
-					if (l.source == d || l.target == d) { newNodes.push(d); };
-				});
-			});
-
-			newNodes = Array.from(new Set(newNodes));
-
-			// When adding and removing nodes, reassert attributes and behaviors.
-			node = node.data(newNodes, function(d) {return d.id;});
-			node.exit().remove();
-			var nodeEnter = node.enter().append('circle')
-				.attr('r', function(d, i) { if (d.name == 'Margaret Cavendish' || d.name == 'Joseph Glanvill') {return 30;} else if (d.shortest_path == 1) {return 20;} else {return 10;}; })
-				.attr('class', 'node')
-      				.attr('id', function(d) { return "n" + d.id.toString(); })
-				.attr("fill", function(d) { 
-					var val = document.getElementById('color').value;
-					if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
-					else if (val == "Color by Shared Distance") { return colorByShared(d); }
-					else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
-				})
-		        .on('click', function(d, i) { toggleClick(d); })
-		        .call(d3.drag()
-		            .on("start", dragstarted)
-		            .on("drag", dragged)
-		            .on("end", dragended));
-		  
-
-			node = nodeEnter.merge(node);
-
-		    node.append("title")
-		        .text(function(d) { return d.name; });
-
-			// Restart simulation with new node and link data.
-			simulation
-				.nodes(newNodes).on('tick', ticked)
-				.force("link").links(newLinks, function(d) {return d.source + ', ' + d.target;});
-
-			simulation.alphaTarget(0.1).restart();
-
-
-		});
-
-	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
-	var pathDropdown = d3.select('div#tools')
-		.append('select')
-		.on('change', function() { 
-			var val = this.value;
-			if (val == "All Paths") {
-				var newNodes = graph.nodes;
-				var newLinks = graph.links;
-				sliderMain.attr('disabled', null);
-			};
-			if (val == "Only Direct Paths") {
-				var newNodes = [];
-				graph.nodes.forEach( function(d) {
-					if (d.connected_path == 1) {newNodes.push(d); };
-				});
-
-				var newLinks = [];
-				graph.links.forEach( function(l) {
-					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
-						newLinks.push(l);
-					};
-				});
-				sliderMain.attr('disabled', 'disabled');
-			};
-			if (val == "Only Shortest Direct Paths") {
-				var newNodes = [];
-				graph.nodes.forEach( function(d) {
-					if (d.shortest_path == 1) {newNodes.push(d); };
-				});
-
-				var newLinks = [];
-				graph.links.forEach( function(l) {
-					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
-						newLinks.push(l);
-					};
-				});
-				sliderMain.attr('disabled', 'disabled');
-			};
-
-			link = link.data(newLinks, function(d) {return d.source + ', ' + d.target;});
-			link.exit().remove();
-			var linkEnter = link.enter().append('line').attr('class', 'link');
-			link = linkEnter.merge(link);
-
-			node = node.data(newNodes, function(d) {return d.id;});
-			node.exit().remove();
-			var nodeEnter = node.enter().append('circle')
-				.attr('r', function(d, i) { if (d.name == 'Margaret Cavendish' || d.name == 'Joseph Glanvill') {return 30;} else if (d.shortest_path == 1) {return 20;} else {return 10;}; })
-				.attr('class', 'node')
-      				.attr('id', function(d) { return "n" + d.id.toString(); })
-				.attr("fill", function(d) { 
-					var val = document.getElementById('color').value;
-					if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
-					else if (val == "Color by Shared Distance") { return colorByShared(d); }
-					else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
-				})
-		        .on('click', function(d, i) { toggleClick(d); })
-		        .call(d3.drag()
-		            .on("start", dragstarted)
-		            .on("drag", dragged)
-		            .on("end", dragended))
-		  
-
-			node = nodeEnter.merge(node);
-
-		    node.append("title")
-		        .text(function(d) { return d.name; });
-
-			// Restart simulation with new node and link data.
-			simulation
-				.nodes(newNodes).on('tick', ticked)
-				.force("link").links(newLinks, function(d) {return d.source + ', ' + d.target;});
-
-			simulation.alphaTarget(0.1).restart();
-
-			sliderLabel.text('60');
-			document.getElementById("threshold").stepDown(40);
-			
-		});
-
-	pathDropdown.selectAll('option')
-		.data(['All Paths', 'Only Direct Paths', 'Only Shortest Direct Paths'])
-		.enter().append('option')
-		.attr('value', function(d) { return d; })
-		.text(function(d) { return d; });
-
-	// A second dropdown with three different color schemes for nodes
-	var colorDropdown = d3.select('div#tools')
-		.append('select')
-		.attr('id', 'color')
-		.on('change', function() { 
-	       		var val = this.value;
-			node.attr("fill", function(d) {
-				if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
-				else if (val == "Color by Shared Distance") { return colorByShared(d); }
-				else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
-			});
-		});
-
-	colorDropdown.selectAll('option')
-		.data(["Color by Degree", "Color by Shared Distance", "Color by Minimum Node Cut"])
-		.enter().append('option')
-		.attr('value', function(d) { return d; })
-		.text(function(d) {return d;});
-});
-
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
-
-// Zooming function translates the size of the svg container.
-function zoomed() {
-	  container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
-}
-
-// Search for nodes by making all unmatched nodes temporarily transparent.
-function searchNodes() {
-	var term = document.getElementById('searchTerm').value;
-	var selected = container.selectAll('.node').filter(function (d, i) {
-		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
-	});
-	selected.style('opacity', '0');
-	var link = container.selectAll('.link');
-	link.style('stroke-opacity', '0');
-	d3.selectAll('.node').transition()
-		.duration(5000)
-		.style('opacity', '1');
-	d3.selectAll('.link').transition().duration(5000).style('stroke-opacity', '0.6');
 }
 
 

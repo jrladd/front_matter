@@ -2,6 +2,7 @@
 
 import csv, json
 from collections import Counter
+from operator import itemgetter
 import networkx as nx
 from networkx.algorithms import bipartite
 
@@ -52,6 +53,17 @@ B.add_weighted_edges_from(weighted_edges)
 #print(nx.is_connected(B))
 text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
 deg_people,deg_texts=bipartite.degrees(B,text_nodes,'weight')
+betw=bipartite.betweenness_centrality(B,text_nodes)
+close=bipartite.closeness_centrality(B,text_nodes,normalized=True)
+
+def get_rank(dictionary):
+    sorted_dict = sorted(dictionary.items(), key=itemgetter(1), reverse=True)
+    rank = {s[0]:sorted_dict.index(s)+1 for s in sorted_dict}
+    return rank
+
+degree_rank = get_rank(dict(list(deg_people.items())+list(deg_texts.items())))
+betw_rank = get_rank(betw)
+close_rank = get_rank(close)
 components = nx.connected_components(B)
 largest_component = max(components, key=len)
 
@@ -62,6 +74,11 @@ largest_component = max(components, key=len)
 SB = B.subgraph(largest_component)
 SB.remove_nodes_from(node for node, degree in deg_people.items() if degree <= 1)
 nx.set_node_attributes(B, 'degree', dict(list(deg_people.items())+list(deg_texts.items())))
+nx.set_node_attributes(B, 'betweenness', betw)
+nx.set_node_attributes(B, 'closeness', close)
+nx.set_node_attributes(B, 'deg_rank', degree_rank)
+nx.set_node_attributes(B, 'betw_rank', betw_rank)
+nx.set_node_attributes(B, 'close_rank', close_rank)
 #SB.remove_node('Jesus Christ')
 
 # Create a dictionary for the JSON needed by D3.
@@ -69,6 +86,11 @@ new_data = dict(
     nodes=[dict(
         id=n,
         degree=SB.node[n]['degree'],
+        betweenness=SB.node[n]['betweenness'],
+        closeness=SB.node[n]['closeness'],
+        deg_rank=SB.node[n]['deg_rank'],
+        betw_rank=SB.node[n]['betw_rank'],
+        close_rank=SB.node[n]['close_rank'],
         bipartite=SB.node[n]['bipartite']) for n in SB.nodes()],
     links=[dict(source=e[0], target=e[1], weight=e[2]) for e in SB.edges(data='weight')])
 

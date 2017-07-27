@@ -1,89 +1,119 @@
 {
     "links":[
         {
-            "source":"A70863",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A70863",
-            "target":"William Balfore Knight",
-            "weight":1
-        },
-        {
-            "source":"William Gibbs",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"William Gibbs",
-            "target":"A90603",
-            "weight":1
-        },
-        {
-            "source":"Peter Sterry",
-            "target":"A61475",
-            "weight":1
-        },
-        {
-            "source":"Peter Sterry",
-            "target":"A93880",
-            "weight":1
-        },
-        {
-            "source":"A92138",
+            "source":"A26722",
             "target":"Jesus Christ",
-            "weight":4
-        },
-        {
-            "source":"A07542",
-            "target":"Humphrey Mill",
             "weight":1
         },
         {
-            "source":"A43816",
-            "target":"D. D. D.",
+            "source":"A26722",
+            "target":"John Wollaston",
             "weight":1
         },
         {
-            "source":"A43816",
+            "source":"A34599",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"A34599",
+            "target":"John Cotton",
+            "weight":2
+        },
+        {
+            "source":"A34599",
+            "target":"William Lord Archbishop of Canterbury",
+            "weight":1
+        },
+        {
+            "source":"A43817",
             "target":"Thomas Hill",
             "weight":1
         },
         {
-            "source":"A43816",
+            "source":"A12184",
             "target":"Jesus Christ",
             "weight":1
         },
         {
-            "source":"A08829",
-            "target":"Ephraim Pagitt",
+            "source":"John Bradley",
+            "target":"A10822",
             "weight":1
         },
         {
-            "source":"M. Fisher",
-            "target":"A05161",
-            "weight":10
-        },
-        {
-            "source":"George Eagles",
-            "target":"A47618",
-            "weight":3
-        },
-        {
-            "source":"A95878",
-            "target":"John Vicars",
+            "source":"John Bradley",
+            "target":"A49473",
             "weight":1
         },
         {
-            "source":"A95878",
-            "target":"Anne Sprignall",
+            "source":"A41485",
+            "target":"Jesus Christ",
             "weight":1
         },
         {
-            "source":"John Bellamie",
-            "target":"A27361",
+            "source":"Thomas Covell",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Thomas Covell",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"Thomas Soame",
+            "target":"A54528",
+            "weight":1
+        },
+        {
+            "source":"Thomas Soame",
+            "target":"A04909",
+            "weight":1
+        },
+        {
+            "source":"Thomas Soame",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A30262",
+            "target":"Cornelius Burges",
+            "weight":1
+        },
+        {
+            "source":"A30262",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"Daniel",
+            "target":"A25906",
+            "weight":1
+        },
+        {
+            "source":"Daniel",
+            "target":"A17286",
             "weight":2
+        },
+        {
+            "source":"A70872",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A70872",
+            "target":"Philip Carteret",
+            "weight":1
+        },
+        {
+            "source":"K. John's",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"K. John's",
+            "target":"A64057",
+            "weight":1
         },
         {
             "source":"A56832",
@@ -91,183 +121,83 @@
             "weight":2
         },
         {
-            "source":"A01234",
-            "target":"Nicholas Rainton",
-            "weight":1
-        },
-        {
-            "source":"S. John",
-            "target":"A17286",
-            "weight":2
-        },
-        {
-            "source":"S. John",
-            "target":"A67085",
-            "weight":1
-        },
-        {
-            "source":"S. John",
-            "target":"A69521",
-            "weight":1
-        },
-        {
-            "source":"S. John",
-            "target":"A13699",
-            "weight":1
-        },
-        {
-            "source":"A79477",
-            "target":"Jesus Christ",
-            "weight":3
-        },
-        {
-            "source":"A89591",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A54668",
-            "target":"Robert Devereux",
-            "weight":1
-        },
-        {
-            "source":"A54668",
-            "target":"Thomas Philipot",
-            "weight":1
-        },
-        {
-            "source":"A25370",
-            "target":"N. N.",
-            "weight":1
-        },
-        {
-            "source":"A25370",
-            "target":"Philip Sidney",
-            "weight":1
-        },
-        {
-            "source":"A37463",
-            "target":"D. L. M.",
-            "weight":2
-        },
-        {
-            "source":"A37463",
-            "target":"Henry Burton",
-            "weight":1
-        },
-        {
-            "source":"Baron Ferrars",
-            "target":"A30577",
-            "weight":1
-        },
-        {
-            "source":"Baron Ferrars",
-            "target":"A27638",
-            "weight":1
-        },
-        {
-            "source":"Almighty God",
-            "target":"A13699",
-            "weight":1
-        },
-        {
-            "source":"Almighty God",
-            "target":"A95751",
-            "weight":1
-        },
-        {
-            "source":"J. P.",
-            "target":"A27361",
-            "weight":2
-        },
-        {
-            "source":"A03196",
-            "target":"T. H.",
-            "weight":1
-        },
-        {
-            "source":"A47791",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"A95892",
-            "target":"Thomas Fairfax",
-            "weight":1
-        },
-        {
-            "source":"A95892",
+            "source":"A95888",
             "target":"John Vicars",
-            "weight":2
+            "weight":1
         },
         {
-            "source":"A95892",
+            "source":"A95888",
             "target":"John Wollaston",
             "weight":1
         },
         {
-            "source":"A95892",
-            "target":"Thomas Adams",
-            "weight":1
-        },
-        {
-            "source":"A95892",
+            "source":"A95888",
             "target":"Richard Sprignall",
             "weight":1
         },
         {
-            "source":"A95892",
-            "target":"William Waller",
+            "source":"A95888",
+            "target":"Anne Sprignall",
             "weight":1
         },
         {
-            "source":"A95892",
-            "target":"Harbotle Grimstone",
-            "weight":2
+            "source":"A95888",
+            "target":"Alderman Adams",
+            "weight":1
         },
         {
-            "source":"A86226",
+            "source":"A95888",
+            "target":"J. V.",
+            "weight":1
+        },
+        {
+            "source":"Richard Baker",
+            "target":"A29731",
+            "weight":1
+        },
+        {
+            "source":"Richard Baker",
+            "target":"A29737",
+            "weight":1
+        },
+        {
+            "source":"A46836",
             "target":"Jesus Christ",
             "weight":1
         },
         {
-            "source":"S. Austin",
-            "target":"A64135",
-            "weight":3
-        },
-        {
-            "source":"S. Austin",
-            "target":"A13699",
-            "weight":1
-        },
-        {
-            "source":"Thomas Fairfax",
-            "target":"A41427",
-            "weight":1
-        },
-        {
-            "source":"Thomas Fairfax",
-            "target":"A57248",
-            "weight":1
-        },
-        {
-            "source":"Thomas Fairfax",
-            "target":"A49256",
-            "weight":1
-        },
-        {
-            "source":"Thomas Fairfax",
-            "target":"A61155",
+            "source":"A46836",
+            "target":"Henrie Jesse",
             "weight":2
         },
         {
-            "source":"Thomas Fairfax",
-            "target":"A93655",
+            "source":"A30650",
+            "target":"William Prynne",
             "weight":1
         },
         {
-            "source":"Thomas Fairfax",
-            "target":"A91187",
+            "source":"A56191",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"Edward Dering",
+            "target":"A67551",
+            "weight":1
+        },
+        {
+            "source":"Edward Dering",
+            "target":"A35730",
+            "weight":1
+        },
+        {
+            "source":"Edward Dering",
+            "target":"A66596",
+            "weight":1
+        },
+        {
+            "source":"A52049",
+            "target":"Stephen Marshall",
             "weight":1
         },
         {
@@ -276,93 +206,78 @@
             "weight":1
         },
         {
-            "source":"A63067",
-            "target":"Queen Elizabeth",
+            "source":"A90603",
+            "target":"Gregory Nazianzen",
             "weight":1
         },
         {
-            "source":"A43819",
-            "target":"Thomas Hill",
+            "source":"A90603",
+            "target":"William Gibbs",
             "weight":1
         },
         {
-            "source":"A64897",
-            "target":"Richard Sprignall",
-            "weight":1
-        },
-        {
-            "source":"A64897",
-            "target":"John Vicars",
+            "source":"A90603",
+            "target":"Ephraim Pagitt",
             "weight":2
         },
         {
-            "source":"A64897",
-            "target":"J. V.",
-            "weight":1
-        },
-        {
-            "source":"A61119",
-            "target":"John Saltmarsh",
-            "weight":1
-        },
-        {
-            "source":"Nathaniel Fiennes",
-            "target":"A91306",
-            "weight":1
-        },
-        {
-            "source":"Nathaniel Fiennes",
-            "target":"A94736",
-            "weight":1
-        },
-        {
-            "source":"A91309",
-            "target":"Samuel Rutherford",
-            "weight":1
-        },
-        {
-            "source":"A91309",
-            "target":"Thomas Edwards",
-            "weight":2
-        },
-        {
-            "source":"A91309",
-            "target":"Burtons Vindication",
-            "weight":2
-        },
-        {
-            "source":"A91309",
-            "target":"John Goodwin",
-            "weight":2
-        },
-        {
-            "source":"A91309",
+            "source":"A91224",
             "target":"William Prynne",
+            "weight":4
+        },
+        {
+            "source":"A91224",
+            "target":"William Balfore",
             "weight":1
         },
         {
-            "source":"A91309",
-            "target":"John Goodwins",
+            "source":"A91224",
+            "target":"William Balfore Knight",
             "weight":1
         },
         {
-            "source":"Edward Dichfield",
-            "target":"A10822",
+            "source":"A91224",
+            "target":"Philip Carteret",
             "weight":1
         },
         {
-            "source":"Edward Dichfield",
-            "target":"A49473",
+            "source":"A34527",
+            "target":"St. Paul",
             "weight":1
         },
         {
-            "source":"A95897",
-            "target":"Thomas Adams",
+            "source":"A52043",
+            "target":"Stephen Marshall",
             "weight":1
         },
         {
-            "source":"A95897",
-            "target":"John Vicars",
+            "source":"A93880",
+            "target":"Jesus Christ",
+            "weight":5
+        },
+        {
+            "source":"A93880",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A93880",
+            "target":"Peter Sterry",
+            "weight":1
+        },
+        {
+            "source":"A04155",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A04155",
+            "target":"Timothy Hutton",
+            "weight":2
+        },
+        {
+            "source":"A54678",
+            "target":"Thomas Philipot",
             "weight":1
         },
         {
@@ -376,193 +291,38 @@
             "weight":1
         },
         {
-            "source":"A91314",
-            "target":"William Prynne",
+            "source":"Baron Ferrars",
+            "target":"A30577",
             "weight":1
         },
         {
-            "source":"A34599",
-            "target":"John Cotton",
+            "source":"Baron Ferrars",
+            "target":"A27638",
+            "weight":1
+        },
+        {
+            "source":"John Presbyter",
+            "target":"A91187",
             "weight":2
         },
         {
-            "source":"A34599",
-            "target":"William Lord Archbishop of Canterbury",
-            "weight":1
-        },
-        {
-            "source":"A34599",
-            "target":"Jesus Christ",
-            "weight":3
-        },
-        {
-            "source":"S. Peter",
-            "target":"A40728",
-            "weight":1
-        },
-        {
-            "source":"S. Peter",
-            "target":"A85505",
-            "weight":1
-        },
-        {
-            "source":"S. Peter",
-            "target":"A05161",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"Bishop Fox",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"St. Augustine",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"K. John's",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"Aeneas Sylvius",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"Bishop Morton",
-            "weight":1
-        },
-        {
-            "source":"A64057",
-            "target":"H. Church",
-            "weight":2
-        },
-        {
-            "source":"A64057",
-            "target":"J. Taylor",
-            "weight":1
-        },
-        {
-            "source":"A56135",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A30262",
-            "target":"Cornelius Burges",
-            "weight":1
-        },
-        {
-            "source":"A30262",
+            "source":"A89583",
             "target":"Stephen Marshall",
             "weight":1
         },
         {
-            "source":"Robert Lord Brook",
-            "target":"A67073",
-            "weight":1
+            "source":"Julius Pollux",
+            "target":"A41964",
+            "weight":2
         },
         {
-            "source":"Robert Lord Brook",
-            "target":"A97067",
-            "weight":1
-        },
-        {
-            "source":"Henry Sanders",
+            "source":"Martin Bond",
             "target":"A10822",
             "weight":1
         },
         {
-            "source":"Henry Sanders",
+            "source":"Martin Bond",
             "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A66445",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"George Walker",
-            "target":"A67095",
-            "weight":1
-        },
-        {
-            "source":"George Walker",
-            "target":"A67068",
-            "weight":1
-        },
-        {
-            "source":"A35730",
-            "target":"Edward Dering",
-            "weight":1
-        },
-        {
-            "source":"A67551",
-            "target":"Sir Martin Lumley",
-            "weight":1
-        },
-        {
-            "source":"A67551",
-            "target":"Edward Dering",
-            "weight":1
-        },
-        {
-            "source":"A67551",
-            "target":"William Massam",
-            "weight":1
-        },
-        {
-            "source":"A67551",
-            "target":"Thomas Barrington",
-            "weight":1
-        },
-        {
-            "source":"A25906",
-            "target":"Daniel",
-            "weight":1
-        },
-        {
-            "source":"King James",
-            "target":"A64135",
-            "weight":1
-        },
-        {
-            "source":"King James",
-            "target":"A52444",
-            "weight":1
-        },
-        {
-            "source":"King James",
-            "target":"A38677",
-            "weight":1
-        },
-        {
-            "source":"A67095",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A89563",
-            "target":"John Goodwins",
-            "weight":1
-        },
-        {
-            "source":"A89563",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"Alderman Adams",
-            "target":"A86261",
-            "weight":1
-        },
-        {
-            "source":"Alderman Adams",
-            "target":"A95888",
             "weight":1
         },
         {
@@ -571,13 +331,133 @@
             "weight":2
         },
         {
-            "source":"Richard Baker",
+            "source":"Alderman Adams",
+            "target":"A86261",
+            "weight":1
+        },
+        {
+            "source":"A92138",
+            "target":"Jesus Christ",
+            "weight":4
+        },
+        {
+            "source":"A89585",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A70654",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"Peter Lumbard",
+            "target":"A47629",
+            "weight":2
+        },
+        {
+            "source":"A95878",
+            "target":"John Vicars",
+            "weight":1
+        },
+        {
+            "source":"A95878",
+            "target":"Anne Sprignall",
+            "weight":1
+        },
+        {
+            "source":"A85716",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"Matthew Forster",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Matthew Forster",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A14722",
+            "target":"Ezekiel",
+            "weight":1
+        },
+        {
+            "source":"A14722",
+            "target":"Pedro Mexia",
+            "weight":2
+        },
+        {
+            "source":"Sir Francis Bacon",
+            "target":"A47629",
+            "weight":1
+        },
+        {
+            "source":"Sir Francis Bacon",
             "target":"A29737",
             "weight":1
         },
         {
-            "source":"Richard Baker",
-            "target":"A29731",
+            "source":"A52050",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A. C.",
+            "target":"A05161",
+            "weight":10
+        },
+        {
+            "source":"A78979",
+            "target":"Gregory Nazianzen",
+            "weight":1
+        },
+        {
+            "source":"A12166",
+            "target":"Jesus Christ",
+            "weight":2
+        },
+        {
+            "source":"A79475",
+            "target":"Jesus Christ",
+            "weight":5
+        },
+        {
+            "source":"A79475",
+            "target":"Francis Cheynell",
+            "weight":1
+        },
+        {
+            "source":"A52444",
+            "target":"Philip Sidney",
+            "weight":1
+        },
+        {
+            "source":"A52444",
+            "target":"King James",
+            "weight":1
+        },
+        {
+            "source":"William Balfore Knight",
+            "target":"A70863",
+            "weight":1
+        },
+        {
+            "source":"John Venn",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"John Venn",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A91306",
+            "target":"Philip Stapleton",
             "weight":1
         },
         {
@@ -587,107 +467,32 @@
         },
         {
             "source":"A91306",
-            "target":"Philip Stapleton",
+            "target":"John Lord Roberts",
             "weight":1
         },
         {
             "source":"A91306",
-            "target":"John Lord Roberts",
+            "target":"Nathaniel Fiennes",
             "weight":1
         },
         {
-            "source":"A67073",
-            "target":"John Lord Roberts",
+            "source":"A85505",
+            "target":"S. Peter",
             "weight":1
         },
         {
-            "source":"A67073",
-            "target":"Robert Earl",
-            "weight":1
-        },
-        {
-            "source":"John Venn",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"John Venn",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"Philip Sidney",
-            "target":"A52444",
-            "weight":1
-        },
-        {
-            "source":"Philip Sidney",
-            "target":"A38677",
-            "weight":1
-        },
-        {
-            "source":"A78965",
-            "target":"Thomas Adams",
-            "weight":1
-        },
-        {
-            "source":"A78965",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"Tobias Massy",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"Tobias Massy",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A41964",
-            "target":"Julius Pollux",
-            "weight":2
-        },
-        {
-            "source":"A41964",
-            "target":"John Selden",
-            "weight":1
-        },
-        {
-            "source":"Robert Earl",
-            "target":"A57529",
-            "weight":1
-        },
-        {
-            "source":"Robert Earl",
-            "target":"A07541",
-            "weight":1
-        },
-        {
-            "source":"A47618",
-            "target":"Queen Elizabeth",
-            "weight":1
-        },
-        {
-            "source":"A47618",
+            "source":"A85505",
             "target":"St. Paul",
             "weight":1
         },
         {
-            "source":"A77856",
-            "target":"Cornelius Burges",
+            "source":"Bishop Fox",
+            "target":"A64135",
             "weight":1
         },
         {
-            "source":"A77856",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A02324",
-            "target":"St. Jerome",
+            "source":"Bishop Fox",
+            "target":"A64057",
             "weight":1
         },
         {
@@ -696,113 +501,23 @@
             "weight":3
         },
         {
-            "source":"A65268",
-            "target":"St. Augustine",
+            "source":"Almighty God",
+            "target":"A95751",
             "weight":1
         },
         {
-            "source":"A93709",
-            "target":"John Saltmarsh",
+            "source":"Almighty God",
+            "target":"A13699",
             "weight":1
         },
         {
-            "source":"A93709",
+            "source":"A78965",
             "target":"Jesus Christ",
             "weight":1
         },
         {
-            "source":"N. N.",
-            "target":"A34548",
-            "weight":1
-        },
-        {
-            "source":"A56211",
-            "target":"William Waller",
-            "weight":1
-        },
-        {
-            "source":"A56211",
-            "target":"William Prynne",
-            "weight":2
-        },
-        {
-            "source":"Sir Francis Bacon",
-            "target":"A29737",
-            "weight":1
-        },
-        {
-            "source":"Sir Francis Bacon",
-            "target":"A47629",
-            "weight":1
-        },
-        {
-            "source":"John Saltmarsh",
-            "target":"A60972",
-            "weight":1
-        },
-        {
-            "source":"John Saltmarsh",
-            "target":"A61155",
-            "weight":4
-        },
-        {
-            "source":"John Saltmarsh",
-            "target":"A71053",
-            "weight":1
-        },
-        {
-            "source":"John Saltmarsh",
-            "target":"A93655",
-            "weight":1
-        },
-        {
-            "source":"Edward Dering",
-            "target":"A66596",
-            "weight":1
-        },
-        {
-            "source":"A56199",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A47629",
-            "target":"Queen Elizabeth",
-            "weight":3
-        },
-        {
-            "source":"A47629",
-            "target":"Peter Lumbard",
-            "weight":2
-        },
-        {
-            "source":"A92764",
-            "target":"St. Augustine",
-            "weight":1
-        },
-        {
-            "source":"A41009",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"Viscount Mandeville",
-            "target":"A17286",
-            "weight":1
-        },
-        {
-            "source":"Viscount Mandeville",
-            "target":"A12182",
-            "weight":1
-        },
-        {
-            "source":"A27638",
-            "target":"Robert Devereux",
-            "weight":2
-        },
-        {
-            "source":"A27638",
-            "target":"St. Augustine",
+            "source":"A78965",
+            "target":"Thomas Adams",
             "weight":1
         },
         {
@@ -812,672 +527,297 @@
         },
         {
             "source":"A70130",
-            "target":"Thomas Middleton",
-            "weight":1
-        },
-        {
-            "source":"A70130",
             "target":"Queen Elizabeth",
             "weight":1
         },
         {
-            "source":"Bishop Fox",
-            "target":"A64135",
+            "source":"A70130",
+            "target":"Thomas Middleton",
             "weight":1
         },
         {
-            "source":"A56191",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A60972",
-            "target":"Philip Stapleton",
-            "weight":1
-        },
-        {
-            "source":"A60972",
-            "target":"William Strickland",
-            "weight":1
-        },
-        {
-            "source":"James Bunce",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"James Bunce",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"Rowland Wilson",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"Rowland Wilson",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"D. D. D.",
-            "target":"A31221",
-            "weight":1
-        },
-        {
-            "source":"T. H.",
-            "target":"A43598",
-            "weight":1
-        },
-        {
-            "source":"A27361",
-            "target":"Thomas Adams",
-            "weight":1
-        },
-        {
-            "source":"A27361",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A70654",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A04909",
-            "target":"Thomas Soame",
-            "weight":1
-        },
-        {
-            "source":"Pedro Mexia",
-            "target":"A14722",
+            "source":"John Bellamie",
+            "target":"A27361",
             "weight":2
         },
         {
-            "source":"Master Prynne",
-            "target":"A93655",
-            "weight":1
-        },
-        {
-            "source":"Master Prynne",
-            "target":"A61155",
-            "weight":1
-        },
-        {
-            "source":"John Bradley",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"John Bradley",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A05161",
-            "target":"D. White",
-            "weight":2
-        },
-        {
-            "source":"A05161",
-            "target":"St. Augustine",
-            "weight":2
-        },
-        {
-            "source":"A05161",
-            "target":"A. C.",
-            "weight":2
-        },
-        {
-            "source":"A05161",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"A94733",
-            "target":"John Tombes",
-            "weight":1
-        },
-        {
-            "source":"A43825",
-            "target":"Bishop Morton",
-            "weight":1
-        },
-        {
-            "source":"A91298",
-            "target":"William Waller",
-            "weight":1
-        },
-        {
-            "source":"A91298",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A94728",
-            "target":"John Tombes",
-            "weight":1
-        },
-        {
-            "source":"Master Dell",
-            "target":"A49256",
-            "weight":3
-        },
-        {
-            "source":"William Lord Archbishop of Canterbury",
-            "target":"A56144",
-            "weight":2
-        },
-        {
-            "source":"A12184",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A43598",
-            "target":"T. B.",
-            "weight":1
-        },
-        {
-            "source":"Robert Devereux",
-            "target":"A30577",
-            "weight":2
-        },
-        {
-            "source":"Robert Devereux",
-            "target":"A70828",
-            "weight":2
-        },
-        {
-            "source":"Robert Devereux",
-            "target":"A07541",
-            "weight":2
-        },
-        {
-            "source":"Robert Devereux",
-            "target":"A49473",
-            "weight":2
-        },
-        {
-            "source":"St. Augustine",
-            "target":"A64135",
-            "weight":1
-        },
-        {
-            "source":"St. Augustine",
-            "target":"A32047",
-            "weight":1
-        },
-        {
-            "source":"Thomas Barrington",
-            "target":"A67068",
-            "weight":1
-        },
-        {
-            "source":"A52050",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A96944",
-            "target":"S. Paul",
-            "weight":1
-        },
-        {
-            "source":"John Presbyter",
-            "target":"A91187",
-            "weight":2
-        },
-        {
-            "source":"A76316",
-            "target":"T. B.",
-            "weight":1
-        },
-        {
-            "source":"George Langham",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"George Langham",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A91187",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A30650",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A52043",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A46895",
-            "target":"St. Bernard",
-            "weight":1
-        },
-        {
-            "source":"A70828",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A28303",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A89583",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"K. John's",
-            "target":"A64135",
-            "weight":1
-        },
-        {
-            "source":"William Balfore",
-            "target":"A91224",
-            "weight":1
-        },
-        {
-            "source":"A56171",
-            "target":"William Prynne",
-            "weight":1
-        },
-        {
-            "source":"A56171",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A35274",
-            "target":"Jesus Christ",
-            "weight":3
-        },
-        {
-            "source":"A43817",
+            "source":"A41142",
             "target":"Thomas Hill",
             "weight":1
         },
         {
-            "source":"A94736",
-            "target":"John Tombes",
+            "source":"John Selden",
+            "target":"A41964",
             "weight":1
         },
         {
-            "source":"A96941",
-            "target":"S. Paul",
+            "source":"John Selden",
+            "target":"A27497",
             "weight":1
         },
         {
-            "source":"A96941",
-            "target":"St. Paul",
-            "weight":2
-        },
-        {
-            "source":"A34527",
+            "source":"A27810",
             "target":"St. Paul",
             "weight":1
         },
         {
-            "source":"Gregory Nazianzen",
-            "target":"A64135",
-            "weight":1
-        },
-        {
-            "source":"Gregory Nazianzen",
-            "target":"A90603",
-            "weight":1
-        },
-        {
-            "source":"Gregory Nazianzen",
-            "target":"A78979",
-            "weight":1
-        },
-        {
-            "source":"Thomas Soame",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"Thomas Soame",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A52049",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A16536",
+            "source":"A27810",
             "target":"M. Zachary Boyd",
             "weight":2
         },
         {
-            "source":"M. Zachary Boyd",
-            "target":"A27810",
+            "source":"H. Church",
+            "target":"A64135",
             "weight":2
         },
         {
-            "source":"M. Zachary Boyd",
-            "target":"A28926",
-            "weight":1
-        },
-        {
-            "source":"St. Bernard",
-            "target":"A56127",
+            "source":"H. Church",
+            "target":"A64057",
             "weight":2
         },
         {
-            "source":"A61155",
-            "target":"Jesus Christ",
-            "weight":3
-        },
-        {
-            "source":"Matthew Forster",
-            "target":"A10822",
+            "source":"John Goodwins",
+            "target":"A91309",
             "weight":1
         },
         {
-            "source":"Matthew Forster",
-            "target":"A49473",
+            "source":"John Goodwins",
+            "target":"A89563",
             "weight":1
         },
         {
-            "source":"A61475",
-            "target":"Ezekiel",
+            "source":"A95892",
+            "target":"William Waller",
             "weight":1
         },
         {
-            "source":"A61475",
-            "target":"Jesus Christ",
-            "weight":2
-        },
-        {
-            "source":"A61026",
-            "target":"William Strickland",
+            "source":"A95892",
+            "target":"John Wollaston",
             "weight":1
         },
         {
-            "source":"A89567",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"A89578",
-            "target":"Stephen Marshall",
-            "weight":1
-        },
-        {
-            "source":"Paul Pindar",
-            "target":"A86261",
-            "weight":1
-        },
-        {
-            "source":"Paul Pindar",
-            "target":"A90668",
-            "weight":1
-        },
-        {
-            "source":"A46836",
-            "target":"Henrie Jesse",
-            "weight":2
-        },
-        {
-            "source":"A46836",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"St. Jerome",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"J. Taylor",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"Aeneas Sylvius",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"Bishop Morton",
-            "weight":1
-        },
-        {
-            "source":"A64135",
-            "target":"H. Church",
-            "weight":2
-        },
-        {
-            "source":"A93880",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"A93880",
-            "target":"Jesus Christ",
-            "weight":5
-        },
-        {
-            "source":"Gilbert Gerard",
-            "target":"A95657",
-            "weight":1
-        },
-        {
-            "source":"Gilbert Gerard",
-            "target":"A67068",
-            "weight":1
-        },
-        {
-            "source":"W. P.",
-            "target":"A54605",
-            "weight":1
-        },
-        {
-            "source":"W. P.",
-            "target":"A13699",
-            "weight":1
-        },
-        {
-            "source":"A07541",
-            "target":"Humphrey Mill",
-            "weight":1
-        },
-        {
-            "source":"A25886",
-            "target":"John Arrowsmith",
-            "weight":1
-        },
-        {
-            "source":"A25886",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"Samuel Rutherford",
-            "target":"A57969",
-            "weight":1
-        },
-        {
-            "source":"A86261",
+            "source":"A95892",
             "target":"John Vicars",
             "weight":2
         },
         {
-            "source":"Sir Martin Lumley",
-            "target":"A67068",
-            "weight":1
-        },
-        {
-            "source":"A93655",
-            "target":"Jesus Christ",
+            "source":"A95892",
+            "target":"Harbotle Grimstone",
             "weight":2
         },
         {
-            "source":"Martin Bond",
-            "target":"A10822",
-            "weight":1
-        },
-        {
-            "source":"Martin Bond",
-            "target":"A49473",
-            "weight":1
-        },
-        {
-            "source":"A96652",
-            "target":"St. Paul",
-            "weight":1
-        },
-        {
-            "source":"A87152",
-            "target":"Jesus Christ",
-            "weight":1
-        },
-        {
-            "source":"Anne Sprignall",
-            "target":"A95888",
-            "weight":1
-        },
-        {
-            "source":"St. Paul",
-            "target":"A85505",
-            "weight":1
-        },
-        {
-            "source":"St. Paul",
-            "target":"A17286",
-            "weight":1
-        },
-        {
-            "source":"St. Paul",
-            "target":"A27810",
-            "weight":1
-        },
-        {
-            "source":"St. Paul",
-            "target":"A90668",
-            "weight":1
-        },
-        {
-            "source":"St. Paul",
-            "target":"A13699",
-            "weight":4
-        },
-        {
-            "source":"St. Paul",
-            "target":"A27497",
-            "weight":2
-        },
-        {
-            "source":"St. Paul",
-            "target":"A56127",
-            "weight":1
-        },
-        {
-            "source":"John Wollaston",
-            "target":"A95888",
-            "weight":1
-        },
-        {
-            "source":"John Wollaston",
-            "target":"A26722",
-            "weight":1
-        },
-        {
-            "source":"John Wollaston",
-            "target":"A43818",
-            "weight":1
-        },
-        {
-            "source":"Thomas Hill",
-            "target":"A43824",
-            "weight":2
-        },
-        {
-            "source":"Thomas Hill",
-            "target":"A41142",
-            "weight":1
-        },
-        {
-            "source":"Thomas Hill",
-            "target":"A43818",
-            "weight":1
-        },
-        {
-            "source":"Thomas Hill",
-            "target":"A86358",
-            "weight":1
-        },
-        {
-            "source":"Thomas Hill",
-            "target":"A43821",
-            "weight":1
-        },
-        {
-            "source":"John Arrowsmith",
-            "target":"A86786",
-            "weight":1
-        },
-        {
-            "source":"A10822",
-            "target":"Thomas Covell",
-            "weight":1
-        },
-        {
-            "source":"A10822",
-            "target":"Edmund Forster",
-            "weight":1
-        },
-        {
-            "source":"A10822",
-            "target":"Samuel Carlton",
-            "weight":1
-        },
-        {
-            "source":"A10822",
-            "target":"Nicholas Beale",
-            "weight":1
-        },
-        {
-            "source":"A95888",
+            "source":"A95892",
             "target":"Richard Sprignall",
             "weight":1
         },
         {
-            "source":"A95888",
-            "target":"John Vicars",
+            "source":"A95892",
+            "target":"Thomas Fairfax",
             "weight":1
         },
         {
-            "source":"A95888",
-            "target":"J. V.",
+            "source":"A95892",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A43819",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"Charles Coote",
+            "target":"A56144",
+            "weight":2
+        },
+        {
+            "source":"Francis Cheynell",
+            "target":"A79474",
+            "weight":1
+        },
+        {
+            "source":"A54528",
+            "target":"William Gibbs",
+            "weight":1
+        },
+        {
+            "source":"A54528",
+            "target":"Thomas Atkin",
+            "weight":1
+        },
+        {
+            "source":"A54528",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A54528",
+            "target":"Nicholas Rainton",
+            "weight":1
+        },
+        {
+            "source":"A54528",
+            "target":"James Bunce",
+            "weight":1
+        },
+        {
+            "source":"A95657",
+            "target":"Gilbert Gerard",
+            "weight":1
+        },
+        {
+            "source":"A95657",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"T. B.",
+            "target":"A43598",
+            "weight":1
+        },
+        {
+            "source":"T. B.",
+            "target":"A38677",
+            "weight":1
+        },
+        {
+            "source":"T. B.",
+            "target":"A76316",
+            "weight":1
+        },
+        {
+            "source":"John Wollaston",
+            "target":"A43818",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"Jesus Christ",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"S. Austin",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"W. P.",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A13699",
+            "target":"S. John",
+            "weight":1
+        },
+        {
+            "source":"Nathaniel Fiennes",
+            "target":"A94736",
+            "weight":1
+        },
+        {
+            "source":"George Langham",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"George Langham",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"J. P.",
+            "target":"A27361",
+            "weight":2
+        },
+        {
+            "source":"A57248",
+            "target":"Thomas Fairfax",
+            "weight":1
+        },
+        {
+            "source":"A69024",
+            "target":"Jesus Christ",
+            "weight":3
+        },
+        {
+            "source":"Richard Sprignall",
+            "target":"A64897",
+            "weight":1
+        },
+        {
+            "source":"William Laud",
+            "target":"A56144",
+            "weight":2
+        },
+        {
+            "source":"A70863",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A38677",
+            "target":"Philip Sidney",
+            "weight":1
+        },
+        {
+            "source":"A38677",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"A38677",
+            "target":"King James",
+            "weight":1
+        },
+        {
+            "source":"John Baptist",
+            "target":"A27499",
+            "weight":1
+        },
+        {
+            "source":"John Baptist",
+            "target":"A89564",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A27361",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A79477",
+            "weight":3
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A93655",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A64135",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A43816",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A67095",
             "weight":1
         },
         {
@@ -1492,47 +832,7 @@
         },
         {
             "source":"Jesus Christ",
-            "target":"A27499",
-            "weight":3
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A12166",
-            "weight":2
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A57969",
-            "weight":1
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A26722",
-            "weight":1
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A13699",
-            "weight":1
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A94735",
-            "weight":1
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A79475",
-            "weight":2
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A46823",
-            "weight":2
-        },
-        {
-            "source":"Jesus Christ",
-            "target":"A69024",
+            "target":"A35274",
             "weight":3
         },
         {
@@ -1542,17 +842,22 @@
         },
         {
             "source":"Jesus Christ",
-            "target":"A04155",
+            "target":"A56171",
             "weight":1
         },
         {
             "source":"Jesus Christ",
-            "target":"A41485",
+            "target":"A61155",
             "weight":1
         },
         {
             "source":"Jesus Christ",
-            "target":"A95657",
+            "target":"A94735",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A93709",
             "weight":1
         },
         {
@@ -1562,12 +867,47 @@
         },
         {
             "source":"Jesus Christ",
-            "target":"A43821",
+            "target":"A61475",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A78018",
             "weight":1
         },
         {
             "source":"Jesus Christ",
-            "target":"A85716",
+            "target":"A57969",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A27499",
+            "weight":3
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A46823",
+            "weight":2
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A25886",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A66445",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A28303",
+            "weight":1
+        },
+        {
+            "source":"Jesus Christ",
+            "target":"A70828",
             "weight":1
         },
         {
@@ -1577,162 +917,22 @@
         },
         {
             "source":"Jesus Christ",
-            "target":"A78018",
+            "target":"A87152",
             "weight":1
         },
         {
-            "source":"Stephen Marshall",
-            "target":"A89585",
+            "source":"Jesus Christ",
+            "target":"A86226",
             "weight":1
         },
         {
-            "source":"John Baptist",
-            "target":"A27499",
+            "source":"Jesus Christ",
+            "target":"A43821",
             "weight":1
         },
         {
-            "source":"John Baptist",
-            "target":"A89564",
-            "weight":1
-        },
-        {
-            "source":"John Selden",
-            "target":"A27497",
-            "weight":1
-        },
-        {
-            "source":"Thomas Atkin",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"A49473",
-            "target":"Nicholas Beale",
-            "weight":1
-        },
-        {
-            "source":"A49473",
-            "target":"Samuel Carlton",
-            "weight":1
-        },
-        {
-            "source":"A49473",
-            "target":"Thomas Covell",
-            "weight":1
-        },
-        {
-            "source":"A49473",
-            "target":"Edmund Forster",
-            "weight":1
-        },
-        {
-            "source":"A13699",
-            "target":"St. Jerome",
-            "weight":1
-        },
-        {
-            "source":"A04155",
-            "target":"Timothy Hutton",
-            "weight":2
-        },
-        {
-            "source":"William Prynne",
-            "target":"A91224",
-            "weight":4
-        },
-        {
-            "source":"William Prynne",
-            "target":"A56127",
-            "weight":1
-        },
-        {
-            "source":"William Prynne",
-            "target":"A56144",
-            "weight":1
-        },
-        {
-            "source":"William Prynne",
-            "target":"A70872",
-            "weight":1
-        },
-        {
-            "source":"A90603",
-            "target":"Ephraim Pagitt",
-            "weight":2
-        },
-        {
-            "source":"A79474",
-            "target":"Francis Cheynell",
-            "weight":1
-        },
-        {
-            "source":"Thomas Philipot",
-            "target":"A54678",
-            "weight":1
-        },
-        {
-            "source":"T. B.",
-            "target":"A38677",
-            "weight":1
-        },
-        {
-            "source":"Thomas Adams",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"Ezekiel",
-            "target":"A14722",
-            "weight":1
-        },
-        {
-            "source":"Charles Coote",
-            "target":"A56144",
-            "weight":2
-        },
-        {
-            "source":"A17286",
-            "target":"Daniel",
-            "weight":2
-        },
-        {
-            "source":"Nicholas Rainton",
-            "target":"A54528",
-            "weight":1
-        },
-        {
-            "source":"A56144",
-            "target":"William Laud",
-            "weight":4
-        },
-        {
-            "source":"Philip Carteret",
-            "target":"A70872",
-            "weight":1
-        },
-        {
-            "source":"Philip Carteret",
-            "target":"A91224",
-            "weight":1
-        },
-        {
-            "source":"A67068",
-            "target":"William Massam",
-            "weight":1
-        },
-        {
-            "source":"A79475",
-            "target":"Francis Cheynell",
-            "weight":1
-        },
-        {
-            "source":"A56127",
-            "target":"Henry Burton",
-            "weight":1
-        },
-        {
-            "source":"William Balfore Knight",
-            "target":"A91224",
+            "source":"A12182",
+            "target":"Viscount Mandeville",
             "weight":1
         },
         {
@@ -1741,1426 +941,3621 @@
             "weight":1
         },
         {
-            "source":"A38677",
+            "source":"A90668",
+            "target":"Paul Pindar",
+            "weight":1
+        },
+        {
+            "source":"A90668",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"James Bunce",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A86261",
+            "target":"Paul Pindar",
+            "weight":1
+        },
+        {
+            "source":"A86261",
+            "target":"John Vicars",
+            "weight":2
+        },
+        {
+            "source":"Thomas Edwards",
+            "target":"A91309",
+            "weight":2
+        },
+        {
+            "source":"Henry Burton",
+            "target":"A37463",
+            "weight":1
+        },
+        {
+            "source":"Henry Burton",
+            "target":"A56127",
+            "weight":1
+        },
+        {
+            "source":"A27497",
+            "target":"St. Paul",
+            "weight":2
+        },
+        {
+            "source":"A56135",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A89578",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"S. Austin",
+            "target":"A64135",
+            "weight":3
+        },
+        {
+            "source":"Rowland Wilson",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Rowland Wilson",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A37463",
+            "target":"D. L. M.",
+            "weight":2
+        },
+        {
+            "source":"Cornelius Burges",
+            "target":"A77856",
+            "weight":1
+        },
+        {
+            "source":"John Arrowsmith",
+            "target":"A25886",
+            "weight":1
+        },
+        {
+            "source":"John Arrowsmith",
+            "target":"A86786",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Bishop Morton",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Gregory Nazianzen",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"King James",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"Aeneas Sylvius",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"J. Taylor",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"A64135",
+            "target":"St. Paul",
+            "weight":1
+        },
+        {
+            "source":"A28926",
+            "target":"M. Zachary Boyd",
+            "weight":1
+        },
+        {
+            "source":"A97067",
+            "target":"Robert Lord Brook",
+            "weight":1
+        },
+        {
+            "source":"A47629",
             "target":"Queen Elizabeth",
+            "weight":3
+        },
+        {
+            "source":"J. Taylor",
+            "target":"A64057",
+            "weight":1
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A70828",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A30577",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A54668",
+            "weight":1
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A49473",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A07541",
+            "weight":2
+        },
+        {
+            "source":"Robert Devereux",
+            "target":"A27638",
+            "weight":2
+        },
+        {
+            "source":"St. Paul",
+            "target":"A47618",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A96941",
+            "weight":2
+        },
+        {
+            "source":"St. Paul",
+            "target":"A56127",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A05161",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A96652",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A41009",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A47791",
+            "weight":1
+        },
+        {
+            "source":"St. Paul",
+            "target":"A17286",
+            "weight":1
+        },
+        {
+            "source":"Nicholas Rainton",
+            "target":"A01234",
+            "weight":1
+        },
+        {
+            "source":"A47618",
+            "target":"Queen Elizabeth",
+            "weight":1
+        },
+        {
+            "source":"A47618",
+            "target":"George Eagles",
+            "weight":3
+        },
+        {
+            "source":"N. N.",
+            "target":"A25370",
+            "weight":1
+        },
+        {
+            "source":"N. N.",
+            "target":"A34548",
+            "weight":1
+        },
+        {
+            "source":"A02324",
+            "target":"St. Jerome",
+            "weight":1
+        },
+        {
+            "source":"J. V.",
+            "target":"A64897",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A49256",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A93655",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A61155",
+            "weight":2
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A91187",
+            "weight":1
+        },
+        {
+            "source":"Thomas Fairfax",
+            "target":"A41427",
+            "weight":1
+        },
+        {
+            "source":"St. Bernard",
+            "target":"A46895",
+            "weight":1
+        },
+        {
+            "source":"St. Bernard",
+            "target":"A56127",
+            "weight":2
+        },
+        {
+            "source":"A43821",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"A89563",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A67095",
+            "target":"George Walker",
+            "weight":1
+        },
+        {
+            "source":"Bishop Morton",
+            "target":"A43825",
+            "weight":1
+        },
+        {
+            "source":"Bishop Morton",
+            "target":"A64057",
+            "weight":1
+        },
+        {
+            "source":"A91298",
+            "target":"William Waller",
+            "weight":1
+        },
+        {
+            "source":"A91298",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"D. D. D.",
+            "target":"A31221",
+            "weight":1
+        },
+        {
+            "source":"D. D. D.",
+            "target":"A43816",
+            "weight":1
+        },
+        {
+            "source":"Robert Lord Brook",
+            "target":"A67073",
+            "weight":1
+        },
+        {
+            "source":"A61155",
+            "target":"Master Prynne",
+            "weight":1
+        },
+        {
+            "source":"A61155",
+            "target":"John Saltmarsh",
+            "weight":2
+        },
+        {
+            "source":"William Massam",
+            "target":"A67551",
+            "weight":1
+        },
+        {
+            "source":"William Massam",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A60972",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A71053",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A93709",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A93655",
+            "weight":1
+        },
+        {
+            "source":"John Saltmarsh",
+            "target":"A61119",
+            "weight":1
+        },
+        {
+            "source":"Robert Earl",
+            "target":"A67073",
+            "weight":1
+        },
+        {
+            "source":"Robert Earl",
+            "target":"A57529",
+            "weight":1
+        },
+        {
+            "source":"Robert Earl",
+            "target":"A07541",
+            "weight":1
+        },
+        {
+            "source":"A43818",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"Ezekiel",
+            "target":"A61475",
+            "weight":1
+        },
+        {
+            "source":"A56211",
+            "target":"William Waller",
+            "weight":1
+        },
+        {
+            "source":"A56211",
+            "target":"William Prynne",
+            "weight":2
+        },
+        {
+            "source":"A05161",
+            "target":"D. White",
+            "weight":2
+        },
+        {
+            "source":"A05161",
+            "target":"S. Peter",
+            "weight":1
+        },
+        {
+            "source":"A05161",
+            "target":"St. Augustine",
+            "weight":2
+        },
+        {
+            "source":"A65268",
+            "target":"St. Augustine",
+            "weight":1
+        },
+        {
+            "source":"Philip Sidney",
+            "target":"A25370",
+            "weight":1
+        },
+        {
+            "source":"Tobias Massy",
+            "target":"A10822",
+            "weight":1
+        },
+        {
+            "source":"Tobias Massy",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A56171",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"Queen Elizabeth",
+            "target":"A63067",
+            "weight":1
+        },
+        {
+            "source":"Viscount Mandeville",
+            "target":"A17286",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Nicholas Beale",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Edward Dichfield",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Henry Sanders",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Samuel Carlton",
+            "weight":1
+        },
+        {
+            "source":"A10822",
+            "target":"Edmund Forster",
+            "weight":1
+        },
+        {
+            "source":"Samuel Rutherford",
+            "target":"A57969",
+            "weight":1
+        },
+        {
+            "source":"Samuel Rutherford",
+            "target":"A91309",
+            "weight":1
+        },
+        {
+            "source":"A49256",
+            "target":"Master Dell",
+            "weight":3
+        },
+        {
+            "source":"A91309",
+            "target":"Burtons Vindication",
+            "weight":2
+        },
+        {
+            "source":"A91309",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A91309",
+            "target":"John Goodwin",
+            "weight":2
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A92764",
+            "weight":1
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A32047",
+            "weight":1
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A27638",
+            "weight":1
+        },
+        {
+            "source":"St. Augustine",
+            "target":"A64057",
+            "weight":1
+        },
+        {
+            "source":"A60972",
+            "target":"William Strickland",
+            "weight":1
+        },
+        {
+            "source":"A60972",
+            "target":"Philip Stapleton",
+            "weight":1
+        },
+        {
+            "source":"A43598",
+            "target":"T. H.",
+            "weight":1
+        },
+        {
+            "source":"T. H.",
+            "target":"A03196",
+            "weight":1
+        },
+        {
+            "source":"A54605",
+            "target":"W. P.",
+            "weight":1
+        },
+        {
+            "source":"A64057",
+            "target":"Aeneas Sylvius",
+            "weight":1
+        },
+        {
+            "source":"A91314",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"A94733",
+            "target":"John Tombes",
+            "weight":1
+        },
+        {
+            "source":"A07541",
+            "target":"Humphrey Mill",
+            "weight":1
+        },
+        {
+            "source":"A43816",
+            "target":"Thomas Hill",
+            "weight":1
+        },
+        {
+            "source":"Edward Dichfield",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A95897",
+            "target":"John Vicars",
+            "weight":1
+        },
+        {
+            "source":"A95897",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A17286",
+            "target":"S. John",
+            "weight":2
+        },
+        {
+            "source":"Nicholas Beale",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"Samuel Carlton",
+            "target":"A49473",
+            "weight":1
+        },
+        {
+            "source":"A67085",
+            "target":"S. John",
+            "weight":1
+        },
+        {
+            "source":"A56127",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"Gilbert Gerard",
+            "target":"A67068",
+            "weight":1
+        },
+        {
+            "source":"A56144",
+            "target":"William Lord Archbishop of Canterbury",
+            "weight":2
+        },
+        {
+            "source":"A56144",
+            "target":"William Prynne",
+            "weight":1
+        },
+        {
+            "source":"John Tombes",
+            "target":"A94728",
+            "weight":1
+        },
+        {
+            "source":"John Tombes",
+            "target":"A94736",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Edmund Forster",
+            "weight":1
+        },
+        {
+            "source":"A49473",
+            "target":"Henry Sanders",
+            "weight":1
+        },
+        {
+            "source":"M. Zachary Boyd",
+            "target":"A16536",
+            "weight":2
+        },
+        {
+            "source":"A67068",
+            "target":"Thomas Barrington",
+            "weight":1
+        },
+        {
+            "source":"A67068",
+            "target":"George Walker",
+            "weight":1
+        },
+        {
+            "source":"A67068",
+            "target":"Sir Martin Lumley",
+            "weight":1
+        },
+        {
+            "source":"A64897",
+            "target":"John Vicars",
+            "weight":2
+        },
+        {
+            "source":"A40728",
+            "target":"S. Peter",
+            "weight":1
+        },
+        {
+            "source":"A27361",
+            "target":"Thomas Adams",
+            "weight":1
+        },
+        {
+            "source":"A08829",
+            "target":"Ephraim Pagitt",
+            "weight":1
+        },
+        {
+            "source":"Thomas Philipot",
+            "target":"A54668",
+            "weight":1
+        },
+        {
+            "source":"William Prynne",
+            "target":"A56199",
+            "weight":1
+        },
+        {
+            "source":"William Prynne",
+            "target":"A91187",
+            "weight":1
+        },
+        {
+            "source":"S. John",
+            "target":"A69521",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A86358",
+            "weight":1
+        },
+        {
+            "source":"Thomas Hill",
+            "target":"A43824",
+            "weight":2
+        },
+        {
+            "source":"Humphrey Mill",
+            "target":"A07542",
             "weight":1
         },
         {
             "source":"Humphrey Mill",
             "target":"A50854",
             "weight":1
+        },
+        {
+            "source":"A89567",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"A93655",
+            "target":"Master Prynne",
+            "weight":1
+        },
+        {
+            "source":"Sir Martin Lumley",
+            "target":"A67551",
+            "weight":1
+        },
+        {
+            "source":"A61026",
+            "target":"William Strickland",
+            "weight":1
+        },
+        {
+            "source":"A67551",
+            "target":"Thomas Barrington",
+            "weight":1
+        },
+        {
+            "source":"A89591",
+            "target":"Stephen Marshall",
+            "weight":1
+        },
+        {
+            "source":"S. Paul",
+            "target":"A96941",
+            "weight":1
+        },
+        {
+            "source":"S. Paul",
+            "target":"A96944",
+            "weight":1
+        },
+        {
+            "source":"Peter Sterry",
+            "target":"A61475",
+            "weight":1
+        },
+        {
+            "source":"John Lord Roberts",
+            "target":"A67073",
+            "weight":1
+        },
+        {
+            "source":"Stephen Marshall",
+            "target":"A77856",
+            "weight":1
         }
     ],
     "nodes":[
         {
-            "bipartite":0,
-            "degree":2,
-            "id":"A70863"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"William Gibbs"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Peter Sterry"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A92138"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A07542"
-        },
-        {
-            "bipartite":0,
-            "degree":10,
-            "id":"A43816"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A08829"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"George Eagles"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A95878"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Bellamie"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A56832"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A01234"
-        },
-        {
-            "bipartite":0,
-            "degree":9,
-            "id":"A60972"
-        },
-        {
-            "bipartite":1,
-            "degree":5,
-            "id":"S. John"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A35730"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A89591"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A54668"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A25370"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A37463"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Baron Ferrars"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Almighty God"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"J. P."
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A03196"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A47791"
-        },
-        {
-            "bipartite":0,
-            "degree":16,
-            "id":"A95892"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A86226"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"S. Austin"
-        },
-        {
-            "bipartite":1,
-            "degree":8,
-            "id":"Thomas Fairfax"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A88086"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A63067"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A43819"
-        },
-        {
-            "bipartite":0,
-            "degree":6,
-            "id":"A64897"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Nathaniel Fiennes"
-        },
-        {
-            "bipartite":0,
-            "degree":12,
-            "id":"A91309"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Edward Dichfield"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A95897"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"K. Allured"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A91314"
-        },
-        {
-            "bipartite":0,
-            "degree":9,
-            "id":"A34599"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"S. Peter"
-        },
-        {
-            "bipartite":0,
-            "degree":10,
-            "id":"A64057"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A30262"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Robert Lord Brook"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A67085"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Henry Sanders"
-        },
-        {
-            "bipartite":1,
-            "degree":7,
-            "id":"Queen Elizabeth"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A66445"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"George Walker"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A67551"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A25906"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"King James"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A67095"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A89563"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"Alderman Adams"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Richard Baker"
-        },
-        {
-            "bipartite":0,
-            "degree":7,
-            "id":"A91306"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A67073"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Venn"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A78965"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Tobias Massy"
-        },
-        {
-            "bipartite":0,
-            "degree":7,
-            "id":"A41964"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A28303"
-        },
-        {
-            "bipartite":0,
-            "degree":18,
-            "id":"A47618"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A77856"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A02324"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A39313"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A65268"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A93709"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"N. N."
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A89578"
-        },
-        {
-            "bipartite":0,
-            "degree":31,
-            "id":"A64135"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A56211"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Sir Francis Bacon"
-        },
-        {
-            "bipartite":1,
-            "degree":9,
-            "id":"John Saltmarsh"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"John Wollaston"
-        },
-        {
-            "bipartite":0,
-            "degree":7,
-            "id":"A95888"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"T. B."
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Cornelius Burges"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A92764"
-        },
-        {
-            "bipartite":0,
-            "degree":6,
-            "id":"A41009"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Viscount Mandeville"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A27638"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A70130"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Bishop Fox"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A56191"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"James Bunce"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Rowland Wilson"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"D. D. D."
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"T. H."
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Burtons Vindication"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Philip Stapleton"
-        },
-        {
-            "bipartite":0,
-            "degree":10,
-            "id":"A27361"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A70654"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A04909"
-        },
-        {
-            "bipartite":1,
-            "degree":10,
-            "id":"M. Fisher"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Pedro Mexia"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Bradley"
-        },
-        {
-            "bipartite":0,
-            "degree":36,
-            "id":"A05161"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A94733"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A43825"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A91298"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A94728"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Master Dell"
-        },
-        {
-            "bipartite":0,
-            "degree":12,
-            "id":"A79477"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"William Lord Archbishop of Canterbury"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A12184"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A43598"
-        },
-        {
-            "bipartite":1,
-            "degree":11,
-            "id":"Robert Devereux"
-        },
-        {
-            "bipartite":1,
-            "degree":8,
-            "id":"St. Augustine"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A54605"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Harbotle Grimstone"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Barrington"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A52050"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A49256"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A96944"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Middleton"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A69521"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Presbyter"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A76316"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"George Langham"
-        },
-        {
-            "bipartite":0,
-            "degree":10,
-            "id":"A91187"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A30650"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A52043"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A35274"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Philip Sidney"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A46895"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A29737"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"D. L. M."
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A70828"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"D. White"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A41142"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Robert Earl"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Richard Sprignall"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"K. John's"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"William Balfore"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A52444"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A56171"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Nicholas Rainton"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A43817"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A94736"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A96941"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A34527"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A57529"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Thomas Soame"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A52049"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A16536"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"John Tombes"
-        },
-        {
-            "bipartite":1,
-            "degree":5,
-            "id":"M. Zachary Boyd"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"St. Bernard"
-        },
-        {
-            "bipartite":0,
-            "degree":13,
-            "id":"A61155"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Matthew Forster"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A61475"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A61026"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A89567"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Paul Pindar"
-        },
-        {
-            "bipartite":0,
-            "degree":7,
-            "id":"A46836"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A56135"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Covell"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A40728"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A57248"
-        },
-        {
-            "bipartite":0,
-            "degree":7,
-            "id":"A93880"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Gilbert Gerard"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"W. P."
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Lord Roberts"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A07541"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A25886"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A34548"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Samuel Rutherford"
-        },
-        {
-            "bipartite":0,
-            "degree":15,
-            "id":"A86261"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Sir Martin Lumley"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A93655"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Martin Bond"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A96652"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Anne Sprignall"
-        },
-        {
-            "bipartite":1,
-            "degree":21,
-            "id":"St. Paul"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A56199"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"J. Taylor"
-        },
-        {
-            "bipartite":1,
-            "degree":9,
-            "id":"Thomas Hill"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A85505"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Arrowsmith"
-        },
-        {
-            "bipartite":0,
-            "degree":19,
-            "id":"A10822"
-        },
-        {
-            "bipartite":1,
-            "degree":5,
-            "id":"Thomas Adams"
-        },
-        {
-            "bipartite":1,
-            "degree":72,
-            "id":"Jesus Christ"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A32047"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"William Strickland"
-        },
-        {
-            "bipartite":1,
-            "degree":12,
-            "id":"Stephen Marshall"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Baptist"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Selden"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Atkin"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A90668"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A61119"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A89583"
-        },
-        {
-            "bipartite":0,
-            "degree":6,
-            "id":"A95657"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A86786"
-        },
-        {
-            "bipartite":0,
-            "degree":28,
-            "id":"A49473"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A66596"
-        },
-        {
-            "bipartite":0,
-            "degree":14,
-            "id":"A13699"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A85716"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Cotton"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A87152"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A89564"
-        },
-        {
-            "bipartite":0,
-            "degree":8,
-            "id":"A04155"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Edward Dering"
-        },
-        {
-            "bipartite":1,
-            "degree":19,
-            "id":"William Prynne"
-        },
-        {
-            "bipartite":0,
-            "degree":28,
-            "id":"A90603"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A79474"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A27499"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"J. V."
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Philipot"
-        },
-        {
-            "bipartite":0,
+            "betw_rank":70,
+            "betweenness":0.003869836024412305,
+            "bipartite":0,
+            "close_rank":1037,
+            "closeness":0.2752029489728297,
+            "deg_rank":133,
             "degree":3,
             "id":"A26722"
         },
         {
+            "betw_rank":63,
+            "betweenness":0.0046716518369318534,
             "bipartite":0,
-            "degree":21,
-            "id":"A47629"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Peter Lumbard"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A78018"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A69024"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"S. Paul"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Ezekiel"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Charles Coote"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A30577"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Thomas Edwards"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Edmund Forster"
-        },
-        {
-            "bipartite":0,
-            "degree":11,
-            "id":"A17286"
-        },
-        {
-            "bipartite":0,
-            "degree":31,
-            "id":"A43824"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Bishop Morton"
-        },
-        {
-            "bipartite":1,
+            "close_rank":1055,
+            "closeness":0.2718053817015602,
+            "deg_rank":36,
             "degree":9,
-            "id":"John Vicars"
+            "id":"A34599"
         },
         {
-            "bipartite":1,
-            "degree":3,
-            "id":"St. Jerome"
-        },
-        {
+            "betw_rank":165,
+            "betweenness":0.0006013953427030259,
             "bipartite":0,
+            "close_rank":1410,
+            "closeness":0.20170623836762597,
+            "deg_rank":219,
             "degree":2,
-            "id":"A32016"
+            "id":"A43817"
         },
         {
+            "betw_rank":166,
+            "betweenness":0.0006013953427030259,
             "bipartite":0,
-            "degree":3,
-            "id":"A12166"
-        },
-        {
-            "bipartite":1,
+            "close_rank":1069,
+            "closeness":0.26914713835973564,
+            "deg_rank":220,
             "degree":2,
-            "id":"Samuel Carlton"
+            "id":"A12184"
         },
         {
+            "betw_rank":201,
+            "betweenness":0.0003157239678579203,
             "bipartite":1,
+            "close_rank":1189,
+            "closeness":0.2553059200257351,
+            "deg_rank":221,
             "degree":2,
-            "id":"Timothy Hutton"
+            "id":"John Bradley"
         },
         {
+            "betw_rank":167,
+            "betweenness":0.0006013953427030259,
             "bipartite":0,
-            "degree":2,
-            "id":"A87081"
-        },
-        {
-            "bipartite":0,
-            "degree":9,
-            "id":"A27497"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Daniel"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"A. C."
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A43821"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A27810"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A12182"
-        },
-        {
-            "bipartite":0,
-            "degree":18,
-            "id":"A56144"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A85728"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Philip Carteret"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A57969"
-        },
-        {
-            "bipartite":0,
-            "degree":5,
-            "id":"A67068"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"William Massam"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Aeneas Sylvius"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A79475"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A28926"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Goodwin"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Henrie Jesse"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A70872"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Gregory Nazianzen"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A78979"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"John Goodwins"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"H. Church"
-        },
-        {
-            "bipartite":0,
-            "degree":20,
-            "id":"A56127"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Julius Pollux"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Master Prynne"
-        },
-        {
-            "bipartite":1,
-            "degree":4,
-            "id":"William Laud"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"William Balfore Knight"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A94735"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A41427"
-        },
-        {
-            "bipartite":0,
-            "degree":9,
-            "id":"A38677"
-        },
-        {
-            "bipartite":0,
-            "degree":10,
-            "id":"A14722"
-        },
-        {
-            "bipartite":0,
-            "degree":3,
-            "id":"A31221"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Francis Cheynell"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A86358"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A43818"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Humphrey Mill"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"William Waller"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A29731"
-        },
-        {
-            "bipartite":0,
-            "degree":1,
-            "id":"A71053"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Henry Burton"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A89585"
-        },
-        {
-            "bipartite":0,
-            "degree":4,
-            "id":"A97067"
-        },
-        {
-            "bipartite":1,
-            "degree":2,
-            "id":"Nicholas Beale"
-        },
-        {
-            "bipartite":1,
-            "degree":3,
-            "id":"Ephraim Pagitt"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A54678"
-        },
-        {
-            "bipartite":0,
-            "degree":2,
-            "id":"A50854"
-        },
-        {
-            "bipartite":0,
+            "close_rank":1070,
+            "closeness":0.26914713835973564,
+            "deg_rank":222,
             "degree":2,
             "id":"A41485"
         },
         {
-            "bipartite":0,
-            "degree":24,
-            "id":"A54528"
-        },
-        {
-            "bipartite":0,
+            "betw_rank":202,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1190,
+            "closeness":0.2553059200257351,
+            "deg_rank":223,
             "degree":2,
-            "id":"A46823"
+            "id":"Thomas Covell"
         },
         {
+            "betw_rank":62,
+            "betweenness":0.004761556090891013,
+            "bipartite":1,
+            "close_rank":1026,
+            "closeness":0.27804278073859073,
+            "deg_rank":135,
+            "degree":3,
+            "id":"Thomas Soame"
+        },
+        {
+            "betw_rank":152,
+            "betweenness":0.0012010322194917155,
             "bipartite":0,
+            "close_rank":1067,
+            "closeness":0.2693117543465,
+            "deg_rank":58,
+            "degree":6,
+            "id":"A79475"
+        },
+        {
+            "betw_rank":112,
+            "betweenness":0.0018012925991173138,
+            "bipartite":1,
+            "close_rank":857,
+            "closeness":0.32590133822274575,
+            "deg_rank":172,
+            "degree":3,
+            "id":"Daniel"
+        },
+        {
+            "betw_rank":156,
+            "betweenness":0.0008830696100721729,
+            "bipartite":0,
+            "close_rank":1338,
+            "closeness":0.22546068528240018,
+            "deg_rank":144,
+            "degree":3,
+            "id":"A70872"
+        },
+        {
+            "betw_rank":222,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":835,
+            "closeness":0.3396691609601649,
+            "deg_rank":335,
+            "degree":2,
+            "id":"K. John's"
+        },
+        {
+            "betw_rank":431,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1080,
+            "closeness":0.2689827234920754,
+            "deg_rank":226,
+            "degree":2,
+            "id":"A56832"
+        },
+        {
+            "betw_rank":39,
+            "betweenness":0.007687400996567498,
+            "bipartite":0,
+            "close_rank":1400,
+            "closeness":0.20595169240249184,
+            "deg_rank":18,
+            "degree":15,
+            "id":"A86261"
+        },
+        {
+            "betw_rank":92,
+            "betweenness":0.0024686557151067036,
+            "bipartite":0,
+            "close_rank":1398,
+            "closeness":0.20721163216777766,
+            "deg_rank":48,
+            "degree":7,
+            "id":"A95888"
+        },
+        {
+            "betw_rank":162,
+            "betweenness":0.0006021916607019758,
+            "bipartite":1,
+            "close_rank":1456,
+            "closeness":0.18059948004282,
+            "deg_rank":337,
+            "degree":2,
+            "id":"Richard Baker"
+        },
+        {
+            "betw_rank":33,
+            "betweenness":0.00910204130087511,
+            "bipartite":1,
+            "close_rank":854,
+            "closeness":0.3381038652875375,
+            "deg_rank":45,
+            "degree":8,
+            "id":"Thomas Fairfax"
+        },
+        {
+            "betw_rank":82,
+            "betweenness":0.002998184383943448,
+            "bipartite":0,
+            "close_rank":1061,
+            "closeness":0.26980681271846046,
+            "deg_rank":51,
+            "degree":7,
+            "id":"A46836"
+        },
+        {
+            "betw_rank":978,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1342,
+            "closeness":0.2252300349649757,
+            "deg_rank":1020,
+            "degree":1,
+            "id":"A30650"
+        },
+        {
+            "betw_rank":451,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1508,
+            "closeness":0.1225848325046012,
+            "deg_rank":508,
+            "degree":1,
+            "id":"A29731"
+        },
+        {
+            "betw_rank":78,
+            "betweenness":0.003593781226586938,
+            "bipartite":1,
+            "close_rank":1462,
+            "closeness":0.17916615083613097,
+            "deg_rank":137,
+            "degree":3,
+            "id":"Edward Dering"
+        },
+        {
+            "betw_rank":982,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1501,
+            "closeness":0.13548452872508537,
+            "deg_rank":1024,
+            "degree":1,
+            "id":"A52049"
+        },
+        {
+            "betw_rank":138,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1485,
+            "closeness":0.15850421827088823,
+            "deg_rank":138,
+            "degree":3,
+            "id":"A88086"
+        },
+        {
+            "betw_rank":15,
+            "betweenness":0.016825036991433808,
+            "bipartite":0,
+            "close_rank":1300,
+            "closeness":0.23248401180386882,
+            "deg_rank":6,
+            "degree":28,
+            "id":"A90603"
+        },
+        {
+            "betw_rank":46,
+            "betweenness":0.0060857872473042,
+            "bipartite":0,
+            "close_rank":1310,
+            "closeness":0.22969468876188187,
+            "deg_rank":26,
             "degree":11,
             "id":"A91224"
         },
         {
+            "betw_rank":453,
+            "betweenness":0.0,
             "bipartite":0,
+            "close_rank":1229,
+            "closeness":0.24448901630012632,
+            "deg_rank":510,
+            "degree":1,
+            "id":"A34527"
+        },
+        {
+            "betw_rank":456,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1497,
+            "closeness":0.13548452872508537,
+            "deg_rank":513,
+            "degree":1,
+            "id":"A52043"
+        },
+        {
+            "betw_rank":35,
+            "betweenness":0.007847310563032993,
+            "bipartite":0,
+            "close_rank":924,
+            "closeness":0.2975167015922483,
+            "deg_rank":49,
+            "degree":7,
+            "id":"A93880"
+        },
+        {
+            "betw_rank":76,
+            "betweenness":0.0035951835618606327,
+            "bipartite":0,
+            "close_rank":1060,
+            "closeness":0.26997223688321736,
+            "deg_rank":46,
+            "degree":8,
+            "id":"A04155"
+        },
+        {
+            "betw_rank":168,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1486,
+            "closeness":0.1573150119173017,
+            "deg_rank":300,
+            "degree":2,
+            "id":"A54678"
+        },
+        {
+            "betw_rank":223,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":836,
+            "closeness":0.3396691609601649,
+            "deg_rank":341,
+            "degree":2,
+            "id":"K. Allured"
+        },
+        {
+            "betw_rank":230,
+            "betweenness":6.104877109084526e-05,
+            "bipartite":1,
+            "close_rank":1120,
+            "closeness":0.2642720892116907,
+            "deg_rank":342,
+            "degree":2,
+            "id":"Baron Ferrars"
+        },
+        {
+            "betw_rank":1003,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1090,
+            "closeness":0.26715899414618344,
+            "deg_rank":343,
+            "degree":2,
+            "id":"John Presbyter"
+        },
+        {
+            "betw_rank":9,
+            "betweenness":0.021692110172562416,
+            "bipartite":1,
+            "close_rank":895,
+            "closeness":0.3061806521331064,
+            "deg_rank":54,
+            "degree":7,
+            "id":"Queen Elizabeth"
+        },
+        {
+            "betw_rank":1007,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1502,
+            "closeness":0.13548452872508537,
+            "deg_rank":1048,
+            "degree":1,
+            "id":"A89583"
+        },
+        {
+            "betw_rank":1124,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1498,
+            "closeness":0.13548452872508537,
+            "deg_rank":531,
+            "degree":1,
+            "id":"A89578"
+        },
+        {
+            "betw_rank":1009,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1387,
+            "closeness":0.2094000392933161,
+            "deg_rank":344,
+            "degree":2,
+            "id":"Julius Pollux"
+        },
+        {
+            "betw_rank":205,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1191,
+            "closeness":0.2553059200257351,
+            "deg_rank":429,
+            "degree":2,
+            "id":"Martin Bond"
+        },
+        {
+            "betw_rank":128,
+            "betweenness":0.001294550876489745,
+            "bipartite":1,
+            "close_rank":1165,
+            "closeness":0.2590239674047507,
+            "deg_rank":91,
+            "degree":4,
+            "id":"Alderman Adams"
+        },
+        {
+            "betw_rank":169,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1071,
+            "closeness":0.26914713835973564,
+            "deg_rank":69,
+            "degree":5,
+            "id":"A92138"
+        },
+        {
+            "betw_rank":184,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1495,
+            "closeness":0.135526229103271,
+            "deg_rank":329,
+            "degree":2,
+            "id":"A89585"
+        },
+        {
+            "betw_rank":492,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1499,
+            "closeness":0.13548452872508537,
+            "deg_rank":547,
+            "degree":1,
+            "id":"A70654"
+        },
+        {
+            "betw_rank":1032,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1323,
+            "closeness":0.22767583791278706,
+            "deg_rank":348,
+            "degree":2,
+            "id":"Peter Lumbard"
+        },
+        {
+            "betw_rank":139,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1064,
+            "closeness":0.2693117543465,
+            "deg_rank":148,
+            "degree":3,
+            "id":"A85716"
+        },
+        {
+            "betw_rank":204,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1193,
+            "closeness":0.2553059200257351,
+            "deg_rank":302,
+            "degree":2,
+            "id":"Matthew Forster"
+        },
+        {
+            "betw_rank":60,
+            "betweenness":0.004786544218823499,
+            "bipartite":0,
+            "close_rank":1439,
+            "closeness":0.1920299687555724,
+            "deg_rank":33,
+            "degree":10,
+            "id":"A14722"
+        },
+        {
+            "betw_rank":79,
+            "betweenness":0.003586738049268786,
+            "bipartite":1,
+            "close_rank":1313,
+            "closeness":0.22820696350667383,
+            "deg_rank":349,
+            "degree":2,
+            "id":"Sir Francis Bacon"
+        },
+        {
+            "betw_rank":512,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1500,
+            "closeness":0.13548452872508537,
+            "deg_rank":564,
+            "degree":1,
+            "id":"A52050"
+        },
+        {
+            "betw_rank":516,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":995,
+            "closeness":0.2867358623054055,
+            "deg_rank":29,
+            "degree":10,
+            "id":"A. C."
+        },
+        {
+            "betw_rank":145,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1363,
+            "closeness":0.2192852183050436,
+            "deg_rank":176,
+            "degree":3,
+            "id":"A78979"
+        },
+        {
+            "betw_rank":172,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1072,
+            "closeness":0.26914713835973564,
+            "deg_rank":141,
+            "degree":3,
+            "id":"A12166"
+        },
+        {
+            "betw_rank":174,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1510,
+            "closeness":0.1217375500018047,
+            "deg_rank":357,
+            "degree":2,
+            "id":"A66596"
+        },
+        {
+            "betw_rank":155,
+            "betweenness":0.0009236148459611016,
+            "bipartite":0,
+            "close_rank":1364,
+            "closeness":0.21874054563165798,
+            "deg_rank":238,
+            "degree":2,
+            "id":"A52444"
+        },
+        {
+            "betw_rank":251,
+            "betweenness":1.2556140516586029e-05,
+            "bipartite":1,
+            "close_rank":1155,
+            "closeness":0.2599416785381599,
+            "deg_rank":351,
+            "degree":2,
+            "id":"William Balfore Knight"
+        },
+        {
+            "betw_rank":208,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1196,
+            "closeness":0.2553059200257351,
+            "deg_rank":352,
+            "degree":2,
+            "id":"John Venn"
+        },
+        {
+            "betw_rank":122,
+            "betweenness":0.0016668133793345972,
+            "bipartite":0,
+            "close_rank":1225,
+            "closeness":0.24503323225182388,
+            "deg_rank":118,
+            "degree":4,
+            "id":"A85505"
+        },
+        {
+            "betw_rank":221,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":834,
+            "closeness":0.3396691609601649,
+            "deg_rank":241,
+            "degree":2,
+            "id":"Bishop Fox"
+        },
+        {
+            "betw_rank":526,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1081,
+            "closeness":0.2689827234920754,
+            "deg_rank":180,
+            "degree":3,
+            "id":"A39313"
+        },
+        {
+            "betw_rank":71,
+            "betweenness":0.003864943553335781,
+            "bipartite":1,
+            "close_rank":900,
+            "closeness":0.3014629225162635,
+            "deg_rank":420,
+            "degree":2,
+            "id":"Gilbert Gerard"
+        },
+        {
+            "betw_rank":51,
+            "betweenness":0.005849735219514359,
+            "bipartite":0,
+            "close_rank":1019,
+            "closeness":0.2808193356865609,
+            "deg_rank":355,
+            "degree":2,
+            "id":"A78965"
+        },
+        {
+            "betw_rank":88,
+            "betweenness":0.0027490753176226987,
+            "bipartite":1,
+            "close_rank":1119,
+            "closeness":0.2651076378225678,
+            "deg_rank":442,
+            "degree":2,
+            "id":"William Balfore"
+        },
+        {
+            "betw_rank":40,
+            "betweenness":0.007609881603640465,
+            "bipartite":0,
+            "close_rank":1383,
+            "closeness":0.20977833175632565,
+            "deg_rank":72,
+            "degree":5,
+            "id":"A70130"
+        },
+        {
+            "betw_rank":1440,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":879,
+            "closeness":0.30827117129157827,
+            "deg_rank":358,
+            "degree":2,
+            "id":"John Bellamie"
+        },
+        {
+            "betw_rank":538,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1412,
+            "closeness":0.20161388203137706,
+            "deg_rank":590,
+            "degree":1,
+            "id":"A41142"
+        },
+        {
+            "betw_rank":80,
+            "betweenness":0.003586738049268786,
+            "bipartite":1,
+            "close_rank":1029,
+            "closeness":0.2763410123065749,
+            "deg_rank":359,
+            "degree":2,
+            "id":"John Selden"
+        },
+        {
+            "betw_rank":86,
+            "betweenness":0.002989392054371766,
+            "bipartite":0,
+            "close_rank":1222,
+            "closeness":0.2451696650092024,
+            "deg_rank":142,
+            "degree":3,
+            "id":"A27810"
+        },
+        {
+            "betw_rank":113,
+            "betweenness":0.0018012925991173138,
+            "bipartite":1,
+            "close_rank":1237,
+            "closeness":0.24074992212434987,
+            "deg_rank":360,
+            "degree":2,
+            "id":"Thomas Middleton"
+        },
+        {
+            "betw_rank":224,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":837,
+            "closeness":0.3396691609601649,
+            "deg_rank":117,
+            "degree":4,
+            "id":"H. Church"
+        },
+        {
+            "betw_rank":132,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":859,
+            "closeness":0.32590133822274575,
+            "deg_rank":364,
+            "degree":2,
+            "id":"Almighty God"
+        },
+        {
+            "betw_rank":22,
+            "betweenness":0.014196790212282323,
+            "bipartite":0,
+            "close_rank":1312,
+            "closeness":0.2283841900189458,
+            "deg_rank":21,
+            "degree":12,
+            "id":"A91309"
+        },
+        {
+            "betw_rank":171,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1411,
+            "closeness":0.20170623836762597,
+            "deg_rank":232,
+            "degree":2,
+            "id":"A43819"
+        },
+        {
+            "betw_rank":1075,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1180,
+            "closeness":0.2574334693592829,
+            "deg_rank":334,
+            "degree":2,
+            "id":"Charles Coote"
+        },
+        {
+            "betw_rank":68,
+            "betweenness":0.004047630228756978,
+            "bipartite":0,
+            "close_rank":1461,
+            "closeness":0.1792123395834463,
+            "deg_rank":50,
+            "degree":7,
+            "id":"A91306"
+        },
+        {
+            "betw_rank":7,
+            "betweenness":0.023335719364259086,
+            "bipartite":0,
+            "close_rank":1267,
+            "closeness":0.23534191253689338,
+            "deg_rank":8,
+            "degree":24,
+            "id":"A54528"
+        },
+        {
+            "betw_rank":44,
+            "betweenness":0.006785919963423909,
+            "bipartite":0,
+            "close_rank":1054,
+            "closeness":0.27197326643392683,
+            "deg_rank":59,
+            "degree":6,
+            "id":"A95657"
+        },
+        {
+            "betw_rank":77,
+            "betweenness":0.003593781226586938,
+            "bipartite":1,
+            "close_rank":1152,
+            "closeness":0.260172123288637,
+            "deg_rank":178,
+            "degree":3,
+            "id":"T. B."
+        },
+        {
+            "betw_rank":65,
+            "betweenness":0.004273402717162886,
+            "bipartite":1,
+            "close_rank":869,
+            "closeness":0.3242808343310304,
+            "deg_rank":119,
+            "degree":4,
+            "id":"John Wollaston"
+        },
+        {
+            "betw_rank":18,
+            "betweenness":0.01563067330237244,
+            "bipartite":0,
+            "close_rank":901,
+            "closeness":0.3013858441865349,
+            "deg_rank":28,
+            "degree":11,
+            "id":"A13699"
+        },
+        {
+            "betw_rank":209,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1197,
+            "closeness":0.2553059200257351,
+            "deg_rank":368,
+            "degree":2,
+            "id":"George Langham"
+        },
+        {
+            "betw_rank":45,
+            "betweenness":0.006134478300633562,
+            "bipartite":0,
+            "close_rank":1058,
+            "closeness":0.27080240981336257,
+            "deg_rank":131,
+            "degree":4,
+            "id":"A61475"
+        },
+        {
+            "betw_rank":1099,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":880,
+            "closeness":0.30827117129157827,
+            "deg_rank":369,
+            "degree":2,
+            "id":"J. P."
+        },
+        {
+            "betw_rank":572,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":910,
+            "closeness":0.2991581601117049,
+            "deg_rank":248,
+            "degree":2,
+            "id":"John Cotton"
+        },
+        {
+            "betw_rank":105,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1509,
+            "closeness":0.12180490134343776,
+            "deg_rank":96,
+            "degree":4,
+            "id":"A35730"
+        },
+        {
+            "betw_rank":575,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1375,
+            "closeness":0.2118983245219093,
+            "deg_rank":626,
+            "degree":1,
+            "id":"A57248"
+        },
+        {
+            "betw_rank":175,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1073,
+            "closeness":0.26914713835973564,
+            "deg_rank":129,
+            "degree":4,
+            "id":"A69024"
+        },
+        {
+            "betw_rank":157,
+            "betweenness":0.0008438721942516453,
+            "bipartite":1,
+            "close_rank":1084,
+            "closeness":0.26764628825315323,
+            "deg_rank":146,
+            "degree":3,
+            "id":"Richard Sprignall"
+        },
+        {
+            "betw_rank":578,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1176,
+            "closeness":0.2574334693592829,
+            "deg_rank":250,
+            "degree":2,
+            "id":"William Laud"
+        },
+        {
+            "betw_rank":216,
+            "betweenness":0.0002819673450215366,
+            "bipartite":0,
+            "close_rank":1340,
+            "closeness":0.22534530110364764,
+            "deg_rank":251,
+            "degree":2,
+            "id":"A70863"
+        },
+        {
+            "betw_rank":26,
+            "betweenness":0.010940899663823778,
+            "bipartite":0,
+            "close_rank":1311,
+            "closeness":0.22933579081069144,
+            "deg_rank":40,
+            "degree":9,
+            "id":"A38677"
+        },
+        {
+            "betw_rank":161,
+            "betweenness":0.0006021916607019758,
+            "bipartite":1,
+            "close_rank":938,
+            "closeness":0.2971890177919823,
+            "deg_rank":371,
+            "degree":2,
+            "id":"John Baptist"
+        },
+        {
+            "betw_rank":93,
+            "betweenness":0.0024008430683249826,
+            "bipartite":1,
+            "close_rank":1038,
+            "closeness":0.27504606848133323,
+            "deg_rank":76,
+            "degree":5,
+            "id":"M. Zachary Boyd"
+        },
+        {
+            "betw_rank":1,
+            "betweenness":0.12274358289428626,
+            "bipartite":1,
+            "close_rank":817,
+            "closeness":0.4532419383314016,
+            "deg_rank":1,
+            "degree":73,
+            "id":"Jesus Christ"
+        },
+        {
+            "betw_rank":56,
+            "betweenness":0.005174257762044795,
+            "bipartite":0,
+            "close_rank":1057,
+            "closeness":0.2713029687963817,
+            "deg_rank":203,
+            "degree":3,
+            "id":"A94735"
+        },
+        {
+            "betw_rank":57,
+            "betweenness":0.005086417683659871,
+            "bipartite":0,
+            "close_rank":1219,
+            "closeness":0.24961718727694304,
+            "deg_rank":134,
+            "degree":3,
+            "id":"A90668"
+        },
+        {
+            "betw_rank":87,
+            "betweenness":0.0029602634917737006,
+            "bipartite":1,
+            "close_rank":1028,
+            "closeness":0.27764820725599104,
+            "deg_rank":252,
+            "degree":2,
+            "id":"James Bunce"
+        },
+        {
+            "betw_rank":1120,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1171,
+            "closeness":0.2585675375062401,
+            "deg_rank":373,
+            "degree":2,
+            "id":"Thomas Edwards"
+        },
+        {
+            "betw_rank":133,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":962,
+            "closeness":0.2917238121964041,
+            "deg_rank":374,
+            "degree":2,
+            "id":"Henry Burton"
+        },
+        {
+            "betw_rank":877,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1170,
+            "closeness":0.2585675375062401,
+            "deg_rank":320,
+            "degree":2,
+            "id":"John Goodwin"
+        },
+        {
+            "betw_rank":38,
+            "betweenness":0.007731095392379688,
+            "bipartite":0,
+            "close_rank":1220,
+            "closeness":0.2462666210047693,
+            "deg_rank":37,
+            "degree":9,
+            "id":"A27497"
+        },
+        {
+            "betw_rank":1122,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1343,
+            "closeness":0.2252300349649757,
+            "deg_rank":1155,
+            "degree":1,
+            "id":"A56135"
+        },
+        {
+            "betw_rank":217,
+            "betweenness":0.0002699203315393291,
+            "bipartite":1,
+            "close_rank":831,
+            "closeness":0.34264349687049916,
+            "deg_rank":97,
+            "degree":4,
+            "id":"S. Austin"
+        },
+        {
+            "betw_rank":203,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1192,
+            "closeness":0.2553059200257351,
+            "deg_rank":254,
+            "degree":2,
+            "id":"Rowland Wilson"
+        },
+        {
+            "betw_rank":170,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1450,
+            "closeness":0.18713332696835,
+            "deg_rank":140,
+            "degree":3,
+            "id":"A37463"
+        },
+        {
+            "betw_rank":173,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1074,
+            "closeness":0.26914713835973564,
+            "deg_rank":237,
+            "degree":2,
+            "id":"A28303"
+        },
+        {
+            "betw_rank":398,
+            "betweenness":4.401985823844853e-07,
+            "bipartite":1,
+            "close_rank":1476,
+            "closeness":0.163495351013695,
+            "deg_rank":256,
+            "degree":2,
+            "id":"Cornelius Burges"
+        },
+        {
+            "betw_rank":228,
+            "betweenness":7.659466005398508e-05,
+            "bipartite":1,
+            "close_rank":1247,
+            "closeness":0.2381129047217708,
+            "deg_rank":379,
+            "degree":2,
+            "id":"Anne Sprignall"
+        },
+        {
+            "betw_rank":130,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":930,
+            "closeness":0.29749027376541565,
+            "deg_rank":257,
+            "degree":2,
+            "id":"John Arrowsmith"
+        },
+        {
+            "betw_rank":3,
+            "betweenness":0.05190283361613613,
+            "bipartite":0,
+            "close_rank":872,
+            "closeness":0.3172368287871236,
+            "deg_rank":4,
+            "degree":31,
+            "id":"A64135"
+        },
+        {
+            "betw_rank":106,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1507,
+            "closeness":0.1338373004123184,
+            "deg_rank":98,
+            "degree":4,
+            "id":"A97067"
+        },
+        {
+            "betw_rank":23,
+            "betweenness":0.013591183051905518,
+            "bipartite":0,
+            "close_rank":1432,
+            "closeness":0.19692518710041482,
+            "deg_rank":10,
+            "degree":21,
+            "id":"A47629"
+        },
+        {
+            "betw_rank":211,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1199,
+            "closeness":0.2553059200257351,
+            "deg_rank":381,
+            "degree":2,
+            "id":"Henry Sanders"
+        },
+        {
+            "betw_rank":186,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1076,
+            "closeness":0.26914713835973564,
+            "deg_rank":372,
+            "degree":2,
+            "id":"A87081"
+        },
+        {
+            "betw_rank":225,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":838,
+            "closeness":0.3396691609601649,
+            "deg_rank":382,
+            "degree":2,
+            "id":"J. Taylor"
+        },
+        {
+            "betw_rank":5,
+            "betweenness":0.026903283248310254,
+            "bipartite":1,
+            "close_rank":855,
+            "closeness":0.32993159648069986,
+            "deg_rank":24,
+            "degree":11,
+            "id":"Robert Devereux"
+        },
+        {
+            "betw_rank":2,
+            "betweenness":0.06662779638419992,
+            "bipartite":1,
+            "close_rank":823,
+            "closeness":0.4022949349822927,
+            "deg_rank":14,
+            "degree":18,
+            "id":"St. Paul"
+        },
+        {
+            "betw_rank":95,
+            "betweenness":0.0023982018768306758,
+            "bipartite":1,
+            "close_rank":1100,
+            "closeness":0.2657077003798846,
+            "deg_rank":260,
+            "degree":2,
+            "id":"Nicholas Rainton"
+        },
+        {
+            "betw_rank":8,
+            "betweenness":0.022991280663152727,
+            "bipartite":0,
+            "close_rank":1172,
+            "closeness":0.25840652485711707,
+            "deg_rank":15,
+            "degree":18,
+            "id":"A47618"
+        },
+        {
+            "betw_rank":72,
+            "betweenness":0.0038510844347302655,
+            "bipartite":1,
+            "close_rank":873,
+            "closeness":0.3169267333364822,
+            "deg_rank":383,
+            "degree":2,
+            "id":"Samuel Rutherford"
+        },
+        {
+            "betw_rank":176,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1373,
+            "closeness":0.21200034586255537,
+            "deg_rank":104,
+            "degree":4,
+            "id":"A49256"
+        },
+        {
+            "betw_rank":58,
+            "betweenness":0.004841467944821522,
+            "bipartite":0,
+            "close_rank":1052,
+            "closeness":0.27349361388604193,
+            "deg_rank":183,
+            "degree":3,
+            "id":"A57969"
+        },
+        {
+            "betw_rank":160,
+            "betweenness":0.0006021916607019758,
+            "bipartite":1,
+            "close_rank":1420,
+            "closeness":0.19971021100345865,
+            "deg_rank":265,
+            "degree":2,
+            "id":"N. N."
+        },
+        {
+            "betw_rank":177,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1371,
+            "closeness":0.21458319608017912,
+            "deg_rank":267,
+            "degree":2,
+            "id":"A02324"
+        },
+        {
+            "betw_rank":229,
+            "betweenness":7.212440493014103e-05,
+            "bipartite":1,
+            "close_rank":1243,
+            "closeness":0.23820954145258325,
+            "deg_rank":268,
+            "degree":2,
+            "id":"J. V."
+        },
+        {
+            "betw_rank":220,
+            "betweenness":0.00013322606606237306,
+            "bipartite":0,
+            "close_rank":1396,
+            "closeness":0.20770033884741865,
+            "deg_rank":150,
+            "degree":3,
+            "id":"A30577"
+        },
+        {
+            "betw_rank":97,
+            "betweenness":0.0023982018768306758,
+            "bipartite":1,
+            "close_rank":961,
+            "closeness":0.29201408464635076,
+            "deg_rank":185,
+            "degree":3,
+            "id":"St. Bernard"
+        },
+        {
+            "betw_rank":27,
+            "betweenness":0.010427675236939476,
+            "bipartite":0,
+            "close_rank":1027,
+            "closeness":0.2778073932848754,
+            "deg_rank":186,
+            "degree":3,
+            "id":"A43821"
+        },
+        {
+            "betw_rank":31,
+            "betweenness":0.00943680732928593,
+            "bipartite":0,
+            "close_rank":1470,
+            "closeness":0.1707346717163736,
+            "deg_rank":100,
+            "degree":4,
+            "id":"A89563"
+        },
+        {
+            "betw_rank":64,
+            "betweenness":0.0043873724562691506,
+            "bipartite":0,
+            "close_rank":1056,
+            "closeness":0.2713029687963817,
+            "deg_rank":386,
+            "degree":2,
+            "id":"A67095"
+        },
+        {
+            "betw_rank":85,
+            "betweenness":0.0029973051509862795,
+            "bipartite":0,
+            "close_rank":1488,
+            "closeness":0.1513663521335605,
+            "deg_rank":77,
+            "degree":5,
+            "id":"A29737"
+        },
+        {
+            "betw_rank":108,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1449,
+            "closeness":0.18745198738038635,
+            "deg_rank":122,
+            "degree":4,
+            "id":"A46895"
+        },
+        {
+            "betw_rank":135,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":1039,
+            "closeness":0.27465994859109266,
+            "deg_rank":448,
+            "degree":2,
+            "id":"S. Paul"
+        },
+        {
+            "betw_rank":114,
+            "betweenness":0.0018012925991173138,
+            "bipartite":1,
+            "close_rank":888,
+            "closeness":0.3066605591113715,
+            "deg_rank":388,
+            "degree":2,
+            "id":"D. D. D."
+        },
+        {
+            "betw_rank":96,
+            "betweenness":0.0023982018768306758,
+            "bipartite":1,
+            "close_rank":1421,
+            "closeness":0.19889810577403083,
+            "deg_rank":272,
+            "degree":2,
+            "id":"Robert Lord Brook"
+        },
+        {
+            "betw_rank":67,
+            "betweenness":0.004092925093863061,
+            "bipartite":1,
+            "close_rank":960,
+            "closeness":0.2940622796288402,
+            "deg_rank":389,
+            "degree":2,
+            "id":"Paul Pindar"
+        },
+        {
+            "betw_rank":36,
+            "betweenness":0.007761399158259988,
+            "bipartite":0,
+            "close_rank":1021,
+            "closeness":0.2802830797940977,
+            "deg_rank":38,
+            "degree":9,
+            "id":"A61155"
+        },
+        {
+            "betw_rank":50,
+            "betweenness":0.005877535217421247,
+            "bipartite":1,
+            "close_rank":1020,
+            "closeness":0.2803000525975,
+            "deg_rank":39,
+            "degree":9,
+            "id":"John Vicars"
+        },
+        {
+            "betw_rank":29,
+            "betweenness":0.00999779020311643,
+            "bipartite":1,
+            "close_rank":1151,
+            "closeness":0.26051855754068576,
+            "deg_rank":397,
+            "degree":2,
+            "id":"John Goodwins"
+        },
+        {
+            "betw_rank":1198,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1082,
+            "closeness":0.2689827234920754,
+            "deg_rank":917,
+            "degree":1,
+            "id":"A78018"
+        },
+        {
+            "betw_rank":140,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1226,
+            "closeness":0.24476082176571845,
+            "deg_rank":154,
+            "degree":3,
+            "id":"A96652"
+        },
+        {
+            "betw_rank":153,
+            "betweenness":0.0012010322194917155,
+            "bipartite":0,
+            "close_rank":1473,
+            "closeness":0.16948603477926386,
+            "deg_rank":309,
+            "degree":2,
+            "id":"A25370"
+        },
+        {
+            "betw_rank":34,
+            "betweenness":0.00817701655454178,
+            "bipartite":1,
+            "close_rank":876,
+            "closeness":0.3117091397446442,
+            "deg_rank":53,
+            "degree":7,
+            "id":"John Saltmarsh"
+        },
+        {
+            "betw_rank":54,
+            "betweenness":0.00534354076883484,
+            "bipartite":1,
+            "close_rank":1228,
+            "closeness":0.24456179589131874,
+            "deg_rank":191,
+            "degree":3,
+            "id":"Robert Earl"
+        },
+        {
+            "betw_rank":146,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1227,
+            "closeness":0.24476082176571845,
+            "deg_rank":192,
+            "degree":3,
+            "id":"A47791"
+        },
+        {
+            "betw_rank":101,
+            "betweenness":0.0023167671545488333,
+            "bipartite":0,
+            "close_rank":1379,
+            "closeness":0.2111869152789101,
+            "deg_rank":123,
+            "degree":4,
+            "id":"A43818"
+        },
+        {
+            "betw_rank":53,
+            "betweenness":0.005356336350454417,
+            "bipartite":1,
+            "close_rank":905,
+            "closeness":0.29961628899395865,
+            "deg_rank":262,
+            "degree":2,
+            "id":"Ezekiel"
+        },
+        {
+            "betw_rank":121,
+            "betweenness":0.0017450063083982053,
+            "bipartite":0,
+            "close_rank":1299,
+            "closeness":0.23359401504325067,
+            "deg_rank":102,
+            "degree":4,
+            "id":"A56211"
+        },
+        {
+            "betw_rank":21,
+            "betweenness":0.014648895051576518,
+            "bipartite":0,
+            "close_rank":1173,
+            "closeness":0.258254966778022,
+            "deg_rank":2,
+            "degree":35,
+            "id":"A05161"
+        },
+        {
+            "betw_rank":109,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1372,
+            "closeness":0.21343902974140935,
+            "deg_rank":124,
+            "degree":4,
+            "id":"A43825"
+        },
+        {
+            "betw_rank":1205,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1442,
+            "closeness":0.19004087973954575,
+            "deg_rank":1234,
+            "degree":1,
+            "id":"A89564"
+        },
+        {
+            "betw_rank":1206,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1466,
+            "closeness":0.17783712373042307,
+            "deg_rank":551,
+            "degree":1,
+            "id":"A28926"
+        },
+        {
+            "betw_rank":187,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1352,
+            "closeness":0.223062167353864,
+            "deg_rank":391,
+            "degree":2,
+            "id":"A65268"
+        },
+        {
+            "betw_rank":188,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1441,
+            "closeness":0.19028725944534466,
+            "deg_rank":392,
+            "degree":2,
+            "id":"A86786"
+        },
+        {
+            "betw_rank":99,
+            "betweenness":0.00239766827419759,
+            "bipartite":0,
+            "close_rank":1062,
+            "closeness":0.26964159115525266,
+            "deg_rank":174,
+            "degree":3,
+            "id":"A25886"
+        },
+        {
+            "betw_rank":104,
+            "betweenness":0.0018325592755689655,
+            "bipartite":1,
+            "close_rank":1154,
+            "closeness":0.2599416785381599,
+            "deg_rank":155,
+            "degree":3,
+            "id":"Philip Sidney"
+        },
+        {
+            "betw_rank":141,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1065,
+            "closeness":0.2693117543465,
+            "deg_rank":73,
+            "degree":5,
+            "id":"A35274"
+        },
+        {
+            "betw_rank":210,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1198,
+            "closeness":0.2553059200257351,
+            "deg_rank":395,
+            "degree":2,
+            "id":"Tobias Massy"
+        },
+        {
+            "betw_rank":20,
+            "betweenness":0.014673836901959907,
+            "bipartite":0,
+            "close_rank":1015,
+            "closeness":0.28666973851336425,
+            "deg_rank":157,
+            "degree":3,
+            "id":"A56171"
+        },
+        {
+            "betw_rank":693,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1368,
+            "closeness":0.21779158075664753,
+            "deg_rank":279,
+            "degree":2,
+            "id":"D. L. M."
+        },
+        {
+            "betw_rank":55,
+            "betweenness":0.005293423199181756,
+            "bipartite":1,
+            "close_rank":1017,
+            "closeness":0.2861766504822843,
+            "deg_rank":318,
+            "degree":2,
+            "id":"Thomas Atkin"
+        },
+        {
+            "betw_rank":189,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1482,
+            "closeness":0.1606438228225201,
+            "deg_rank":396,
+            "degree":2,
+            "id":"A57529"
+        },
+        {
+            "betw_rank":111,
+            "betweenness":0.0018012925991173138,
+            "bipartite":1,
+            "close_rank":858,
+            "closeness":0.32590133822274575,
+            "deg_rank":280,
+            "degree":2,
+            "id":"Viscount Mandeville"
+        },
+        {
+            "betw_rank":75,
+            "betweenness":0.0036294736471901914,
+            "bipartite":0,
+            "close_rank":1475,
+            "closeness":0.16787065129871426,
+            "deg_rank":12,
+            "degree":19,
+            "id":"A10822"
+        },
+        {
+            "betw_rank":24,
+            "betweenness":0.013100576218633864,
+            "bipartite":0,
+            "close_rank":1250,
+            "closeness":0.23686106420469472,
+            "deg_rank":17,
+            "degree":16,
+            "id":"A95892"
+        },
+        {
+            "betw_rank":25,
+            "betweenness":0.011108079788104267,
+            "bipartite":1,
+            "close_rank":827,
+            "closeness":0.3594294611997336,
+            "deg_rank":47,
+            "degree":8,
+            "id":"St. Augustine"
+        },
+        {
+            "betw_rank":42,
+            "betweenness":0.006813538040995259,
+            "bipartite":0,
+            "close_rank":1414,
+            "closeness":0.2013373197789335,
+            "deg_rank":42,
+            "degree":9,
+            "id":"A60972"
+        },
+        {
+            "betw_rank":179,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1351,
+            "closeness":0.223062167353864,
+            "deg_rank":285,
+            "degree":2,
+            "id":"A32047"
+        },
+        {
+            "betw_rank":117,
+            "betweenness":0.0017989106303660687,
+            "bipartite":0,
+            "close_rank":1471,
+            "closeness":0.16968197239172544,
+            "deg_rank":401,
+            "degree":2,
+            "id":"A43598"
+        },
+        {
+            "betw_rank":52,
+            "betweenness":0.005380905697869179,
+            "bipartite":0,
+            "close_rank":1059,
+            "closeness":0.27046972872022573,
+            "deg_rank":22,
+            "degree":12,
+            "id":"A79477"
+        },
+        {
+            "betw_rank":137,
+            "betweenness":0.0012019114524488839,
+            "bipartite":0,
+            "close_rank":1460,
+            "closeness":0.1796510478810802,
+            "deg_rank":184,
+            "degree":3,
+            "id":"A04909"
+        },
+        {
+            "betw_rank":191,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1374,
+            "closeness":0.21200034586255537,
+            "deg_rank":403,
+            "degree":2,
+            "id":"A41427"
+        },
+        {
+            "betw_rank":131,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":1418,
+            "closeness":0.1999823884630886,
+            "deg_rank":319,
+            "degree":2,
+            "id":"T. H."
+        },
+        {
+            "betw_rank":192,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1353,
+            "closeness":0.223062167353864,
+            "deg_rank":406,
+            "degree":2,
+            "id":"A92764"
+        },
+        {
+            "betw_rank":1253,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1344,
+            "closeness":0.2252300349649757,
+            "deg_rank":1287,
+            "degree":1,
+            "id":"A56191"
+        },
+        {
+            "betw_rank":163,
+            "betweenness":0.0006021916607019758,
+            "bipartite":1,
+            "close_rank":940,
+            "closeness":0.2970386184914803,
+            "deg_rank":407,
+            "degree":2,
+            "id":"Francis Cheynell"
+        },
+        {
+            "betw_rank":735,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1404,
+            "closeness":0.20537533505435052,
+            "deg_rank":780,
+            "degree":1,
+            "id":"A54605"
+        },
+        {
+            "betw_rank":737,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1430,
+            "closeness":0.19789874982315842,
+            "deg_rank":1309,
+            "degree":1,
+            "id":"A71053"
+        },
+        {
+            "betw_rank":154,
+            "betweenness":0.0009356113282328049,
+            "bipartite":0,
+            "close_rank":1348,
+            "closeness":0.22431213365080363,
+            "deg_rank":35,
+            "degree":10,
+            "id":"A64057"
+        },
+        {
+            "betw_rank":1317,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1083,
+            "closeness":0.2689827234920754,
+            "deg_rank":414,
+            "degree":2,
+            "id":"A46823"
+        },
+        {
+            "betw_rank":147,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1339,
+            "closeness":0.22546068528240018,
+            "deg_rank":197,
+            "degree":3,
+            "id":"A91314"
+        },
+        {
+            "betw_rank":1282,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1438,
+            "closeness":0.19270228374465098,
+            "deg_rank":1307,
+            "degree":1,
+            "id":"A94733"
+        },
+        {
+            "betw_rank":745,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1431,
+            "closeness":0.19789874982315842,
+            "deg_rank":790,
+            "degree":1,
+            "id":"A61119"
+        },
+        {
+            "betw_rank":1284,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":986,
+            "closeness":0.28687600691063786,
+            "deg_rank":159,
+            "degree":3,
+            "id":"George Eagles"
+        },
+        {
+            "betw_rank":32,
+            "betweenness":0.009185789840999267,
+            "bipartite":0,
+            "close_rank":1382,
+            "closeness":0.21007858700216006,
+            "deg_rank":106,
+            "degree":4,
+            "id":"A07541"
+        },
+        {
+            "betw_rank":180,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1403,
+            "closeness":0.20556709540454132,
+            "deg_rank":293,
             "degree":2,
             "id":"A95751"
         },
         {
+            "betw_rank":16,
+            "betweenness":0.016387995453582455,
             "bipartite":0,
+            "close_rank":1024,
+            "closeness":0.2795712497501762,
+            "deg_rank":30,
+            "degree":10,
+            "id":"A43816"
+        },
+        {
+            "betw_rank":206,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1194,
+            "closeness":0.2553059200257351,
+            "deg_rank":434,
+            "degree":2,
+            "id":"Edward Dichfield"
+        },
+        {
+            "betw_rank":69,
+            "betweenness":0.003921697477573075,
+            "bipartite":1,
+            "close_rank":1016,
+            "closeness":0.2865958545601392,
+            "deg_rank":411,
+            "degree":2,
+            "id":"William Gibbs"
+        },
+        {
+            "betw_rank":125,
+            "betweenness":0.00139786844602925,
+            "bipartite":0,
+            "close_rank":1370,
+            "closeness":0.2163757829761806,
+            "deg_rank":296,
+            "degree":2,
+            "id":"A95897"
+        },
+        {
+            "betw_rank":17,
+            "betweenness":0.0162692777838228,
+            "bipartite":0,
+            "close_rank":902,
+            "closeness":0.3011796979182815,
+            "deg_rank":25,
+            "degree":11,
+            "id":"A17286"
+        },
+        {
+            "betw_rank":766,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1167,
+            "closeness":0.2585675375062401,
+            "deg_rank":298,
+            "degree":2,
+            "id":"Burtons Vindication"
+        },
+        {
+            "betw_rank":212,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1200,
+            "closeness":0.2553059200257351,
+            "deg_rank":412,
+            "degree":2,
+            "id":"Nicholas Beale"
+        },
+        {
+            "betw_rank":19,
+            "betweenness":0.015366052861908291,
+            "bipartite":1,
+            "close_rank":828,
+            "closeness":0.3518874761026169,
+            "deg_rank":198,
+            "degree":3,
+            "id":"Gregory Nazianzen"
+        },
+        {
+            "betw_rank":115,
+            "betweenness":0.001800669096280405,
+            "bipartite":0,
+            "close_rank":1063,
+            "closeness":0.26947657182162027,
+            "deg_rank":75,
+            "degree":5,
+            "id":"A27499"
+        },
+        {
+            "betw_rank":214,
+            "betweenness":0.00030025805487292887,
+            "bipartite":0,
+            "close_rank":1496,
+            "closeness":0.135526229103271,
+            "deg_rank":415,
+            "degree":2,
+            "id":"A30262"
+        },
+        {
+            "betw_rank":148,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1068,
+            "closeness":0.2693117543465,
+            "deg_rank":199,
+            "degree":3,
+            "id":"A87152"
+        },
+        {
+            "betw_rank":1322,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1235,
+            "closeness":0.24264088885455354,
+            "deg_rank":200,
+            "degree":3,
+            "id":"Master Dell"
+        },
+        {
+            "betw_rank":213,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1201,
+            "closeness":0.2553059200257351,
+            "deg_rank":417,
+            "degree":2,
+            "id":"Samuel Carlton"
+        },
+        {
+            "betw_rank":1328,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1399,
+            "closeness":0.20711416667757646,
+            "deg_rank":1345,
+            "degree":1,
+            "id":"A67085"
+        },
+        {
+            "betw_rank":238,
+            "betweenness":2.5112281033172058e-05,
+            "bipartite":1,
+            "close_rank":1153,
+            "closeness":0.2600568498622796,
+            "deg_rank":301,
+            "degree":2,
+            "id":"Philip Carteret"
+        },
+        {
+            "betw_rank":158,
+            "betweenness":0.000677525834886554,
+            "bipartite":0,
+            "close_rank":1455,
+            "closeness":0.1809058004751551,
+            "deg_rank":201,
+            "degree":3,
+            "id":"A95878"
+        },
+        {
+            "betw_rank":6,
+            "betweenness":0.025291246649653636,
+            "bipartite":0,
+            "close_rank":1125,
+            "closeness":0.26335210428021977,
+            "deg_rank":11,
+            "degree":20,
+            "id":"A56127"
+        },
+        {
+            "betw_rank":193,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1077,
+            "closeness":0.26914713835973564,
+            "deg_rank":418,
+            "degree":2,
+            "id":"A66445"
+        },
+        {
+            "betw_rank":83,
+            "betweenness":0.002998184383943448,
+            "bipartite":0,
+            "close_rank":1223,
+            "closeness":0.2451696650092024,
+            "deg_rank":63,
+            "degree":6,
+            "id":"A41009"
+        },
+        {
+            "betw_rank":43,
+            "betweenness":0.006800033618924826,
+            "bipartite":0,
+            "close_rank":1330,
+            "closeness":0.22720573702607197,
+            "deg_rank":16,
+            "degree":16,
+            "id":"A56144"
+        },
+        {
+            "betw_rank":66,
+            "betweenness":0.004103649689631058,
+            "bipartite":1,
+            "close_rank":899,
+            "closeness":0.3020835358410525,
+            "deg_rank":128,
+            "degree":4,
+            "id":"John Tombes"
+        },
+        {
+            "betw_rank":11,
+            "betweenness":0.020485854941622493,
+            "bipartite":0,
+            "close_rank":1349,
+            "closeness":0.22419792177012604,
+            "deg_rank":7,
+            "degree":28,
+            "id":"A49473"
+        },
+        {
+            "betw_rank":100,
+            "betweenness":0.0023455224181440602,
+            "bipartite":0,
+            "close_rank":1298,
+            "closeness":0.23371800337395304,
+            "deg_rank":101,
+            "degree":4,
+            "id":"A91298"
+        },
+        {
+            "betw_rank":41,
+            "betweenness":0.0071055211433545375,
+            "bipartite":0,
+            "close_rank":1436,
+            "closeness":0.19354932675012199,
+            "deg_rank":86,
+            "degree":5,
+            "id":"A67068"
+        },
+        {
+            "betw_rank":127,
+            "betweenness":0.0013107701002171832,
+            "bipartite":0,
+            "close_rank":1454,
+            "closeness":0.18105457169265113,
+            "deg_rank":60,
+            "degree":6,
+            "id":"A64897"
+        },
+        {
+            "betw_rank":819,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1359,
+            "closeness":0.22275078183649527,
+            "deg_rank":308,
+            "degree":2,
+            "id":"Pedro Mexia"
+        },
+        {
+            "betw_rank":142,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1401,
+            "closeness":0.20566310992831738,
+            "deg_rank":163,
+            "degree":3,
+            "id":"A25906"
+        },
+        {
+            "betw_rank":1366,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1506,
+            "closeness":0.13420442497913063,
+            "deg_rank":1383,
+            "degree":1,
+            "id":"A34548"
+        },
+        {
+            "betw_rank":1367,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":935,
+            "closeness":0.297339569472728,
+            "deg_rank":422,
+            "degree":2,
+            "id":"Henrie Jesse"
+        },
+        {
+            "betw_rank":143,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1066,
+            "closeness":0.2693117543465,
+            "deg_rank":152,
             "degree":3,
             "id":"A62099"
+        },
+        {
+            "betw_rank":118,
+            "betweenness":0.0017801630671628581,
+            "bipartite":1,
+            "close_rank":1345,
+            "closeness":0.22505686738464917,
+            "deg_rank":424,
+            "degree":2,
+            "id":"William Massam"
+        },
+        {
+            "betw_rank":1371,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1452,
+            "closeness":0.1846225234199277,
+            "deg_rank":1387,
+            "degree":1,
+            "id":"A40728"
+        },
+        {
+            "betw_rank":103,
+            "betweenness":0.001968794208448966,
+            "bipartite":0,
+            "close_rank":1433,
+            "closeness":0.19596115636694592,
+            "deg_rank":110,
+            "degree":4,
+            "id":"A94736"
+        },
+        {
+            "betw_rank":30,
+            "betweenness":0.009444918781375015,
+            "bipartite":0,
+            "close_rank":1018,
+            "closeness":0.281898027116855,
+            "deg_rank":31,
+            "degree":10,
+            "id":"A27361"
+        },
+        {
+            "betw_rank":178,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1469,
+            "closeness":0.1709998906238942,
+            "deg_rank":426,
+            "degree":2,
+            "id":"A08829"
+        },
+        {
+            "betw_rank":126,
+            "betweenness":0.001311308017811508,
+            "bipartite":1,
+            "close_rank":1233,
+            "closeness":0.2433450705386256,
+            "deg_rank":288,
+            "degree":2,
+            "id":"Philip Stapleton"
+        },
+        {
+            "betw_rank":134,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":1241,
+            "closeness":0.23879101307533157,
+            "deg_rank":427,
+            "degree":2,
+            "id":"Thomas Philipot"
+        },
+        {
+            "betw_rank":116,
+            "betweenness":0.0017989106303660687,
+            "bipartite":0,
+            "close_rank":1395,
+            "closeness":0.20789646759042849,
+            "deg_rank":313,
+            "degree":2,
+            "id":"A54668"
+        },
+        {
+            "betw_rank":4,
+            "betweenness":0.03409062568009774,
+            "bipartite":1,
+            "close_rank":826,
+            "closeness":0.3638861191191352,
+            "deg_rank":13,
+            "degree":19,
+            "id":"William Prynne"
+        },
+        {
+            "betw_rank":182,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1505,
+            "closeness":0.13440925468758472,
+            "deg_rank":314,
+            "degree":2,
+            "id":"A03196"
+        },
+        {
+            "betw_rank":74,
+            "betweenness":0.003638446709412883,
+            "bipartite":1,
+            "close_rank":856,
+            "closeness":0.32900690030222257,
+            "deg_rank":83,
+            "degree":5,
+            "id":"S. John"
+        },
+        {
+            "betw_rank":10,
+            "betweenness":0.021605194328008746,
+            "bipartite":1,
+            "close_rank":871,
+            "closeness":0.3186472910636075,
+            "deg_rank":44,
+            "degree":9,
+            "id":"Thomas Hill"
+        },
+        {
+            "betw_rank":91,
+            "betweenness":0.002503333232849994,
+            "bipartite":0,
+            "close_rank":1053,
+            "closeness":0.27214135868759426,
+            "deg_rank":433,
+            "degree":2,
+            "id":"A93709"
+        },
+        {
+            "betw_rank":81,
+            "betweenness":0.002998632743203114,
+            "bipartite":1,
+            "close_rank":1236,
+            "closeness":0.24124468152041306,
+            "deg_rank":204,
+            "degree":3,
+            "id":"Humphrey Mill"
+        },
+        {
+            "betw_rank":47,
+            "betweenness":0.006071719292857893,
+            "bipartite":0,
+            "close_rank":1249,
+            "closeness":0.2373718158256213,
+            "deg_rank":32,
+            "degree":10,
+            "id":"A91187"
+        },
+        {
+            "betw_rank":1395,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1443,
+            "closeness":0.18995889489065035,
+            "deg_rank":627,
+            "degree":1,
+            "id":"A79474"
+        },
+        {
+            "betw_rank":28,
+            "betweenness":0.010284005393893667,
+            "bipartite":1,
+            "close_rank":829,
+            "closeness":0.35041690157562094,
+            "deg_rank":207,
+            "degree":3,
+            "id":"King James"
+        },
+        {
+            "betw_rank":151,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1483,
+            "closeness":0.15879001743834387,
+            "deg_rank":216,
+            "degree":3,
+            "id":"A07542"
+        },
+        {
+            "betw_rank":164,
+            "betweenness":0.0006021916607019758,
+            "bipartite":1,
+            "close_rank":860,
+            "closeness":0.3257204828741204,
+            "deg_rank":435,
+            "degree":2,
+            "id":"W. P."
+        },
+        {
+            "betw_rank":183,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1075,
+            "closeness":0.26914713835973564,
+            "deg_rank":317,
+            "degree":2,
+            "id":"A86226"
+        },
+        {
+            "betw_rank":89,
+            "betweenness":0.002597778608828289,
+            "bipartite":1,
+            "close_rank":978,
+            "closeness":0.29114499510871283,
+            "deg_rank":167,
+            "degree":3,
+            "id":"William Waller"
+        },
+        {
+            "betw_rank":1402,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1504,
+            "closeness":0.13548452872508537,
+            "deg_rank":1411,
+            "degree":1,
+            "id":"A89567"
+        },
+        {
+            "betw_rank":149,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1434,
+            "closeness":0.19535258134717282,
+            "deg_rank":209,
+            "degree":3,
+            "id":"A31221"
+        },
+        {
+            "betw_rank":49,
+            "betweenness":0.005903699513357805,
+            "bipartite":0,
+            "close_rank":1297,
+            "closeness":0.2342152757215572,
+            "deg_rank":79,
+            "degree":5,
+            "id":"A27638"
+        },
+        {
+            "betw_rank":194,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1078,
+            "closeness":0.26914713835973564,
+            "deg_rank":437,
+            "degree":2,
+            "id":"A85728"
+        },
+        {
+            "betw_rank":195,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1079,
+            "closeness":0.26914713835973564,
+            "deg_rank":438,
+            "degree":2,
+            "id":"A32016"
+        },
+        {
+            "betw_rank":931,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1098,
+            "closeness":0.26667347121270557,
+            "deg_rank":332,
+            "degree":2,
+            "id":"Harbotle Grimstone"
+        },
+        {
+            "betw_rank":48,
+            "betweenness":0.005959850829022424,
+            "bipartite":0,
+            "close_rank":1023,
+            "closeness":0.2797488680791153,
+            "deg_rank":80,
+            "degree":5,
+            "id":"A93655"
+        },
+        {
+            "betw_rank":338,
+            "betweenness":8.803971647689706e-07,
+            "bipartite":1,
+            "close_rank":883,
+            "closeness":0.3069813337547934,
+            "deg_rank":439,
+            "degree":2,
+            "id":"Master Prynne"
+        },
+        {
+            "betw_rank":84,
+            "betweenness":0.002998184383943448,
+            "bipartite":0,
+            "close_rank":1463,
+            "closeness":0.17892105581329848,
+            "deg_rank":55,
+            "degree":7,
+            "id":"A41964"
+        },
+        {
+            "betw_rank":13,
+            "betweenness":0.01815194890924586,
+            "bipartite":1,
+            "close_rank":832,
+            "closeness":0.34144753353063706,
+            "deg_rank":88,
+            "degree":5,
+            "id":"Thomas Adams"
+        },
+        {
+            "betw_rank":119,
+            "betweenness":0.0017801630671628581,
+            "bipartite":1,
+            "close_rank":1347,
+            "closeness":0.22505686738464917,
+            "deg_rank":440,
+            "degree":2,
+            "id":"Sir Martin Lumley"
+        },
+        {
+            "betw_rank":185,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1437,
+            "closeness":0.19278665427168457,
+            "deg_rank":225,
+            "degree":2,
+            "id":"A94728"
+        },
+        {
+            "betw_rank":107,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1468,
+            "closeness":0.1728118988840375,
+            "deg_rank":108,
+            "degree":4,
+            "id":"A01234"
+        },
+        {
+            "betw_rank":196,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1487,
+            "closeness":0.1535302365259859,
+            "deg_rank":444,
+            "degree":2,
+            "id":"A61026"
+        },
+        {
+            "betw_rank":159,
+            "betweenness":0.0006622569422257262,
+            "bipartite":1,
+            "close_rank":979,
+            "closeness":0.28729726389582233,
+            "deg_rank":211,
+            "degree":3,
+            "id":"S. Peter"
+        },
+        {
+            "betw_rank":150,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1402,
+            "closeness":0.20566310992831738,
+            "deg_rank":212,
+            "degree":3,
+            "id":"A12182"
+        },
+        {
+            "betw_rank":226,
+            "betweenness":0.00012257290807334126,
+            "bipartite":1,
+            "close_rank":839,
+            "closeness":0.3396691609601649,
+            "deg_rank":445,
+            "degree":2,
+            "id":"Aeneas Sylvius"
+        },
+        {
+            "betw_rank":12,
+            "betweenness":0.02047606672721198,
+            "bipartite":0,
+            "close_rank":1022,
+            "closeness":0.2802830797940977,
+            "deg_rank":130,
+            "degree":4,
+            "id":"A70828"
+        },
+        {
+            "betw_rank":61,
+            "betweenness":0.004769399176158719,
+            "bipartite":0,
+            "close_rank":1489,
+            "closeness":0.1497703123661658,
+            "deg_rank":71,
+            "degree":5,
+            "id":"A67551"
+        },
+        {
+            "betw_rank":94,
+            "betweenness":0.0024003059730690946,
+            "bipartite":0,
+            "close_rank":1397,
+            "closeness":0.20750457980986217,
+            "deg_rank":85,
+            "degree":5,
+            "id":"A69521"
+        },
+        {
+            "betw_rank":181,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1484,
+            "closeness":0.15873277518259823,
+            "deg_rank":324,
+            "degree":2,
+            "id":"A50854"
+        },
+        {
+            "betw_rank":1016,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1503,
+            "closeness":0.13548452872508537,
+            "deg_rank":1054,
+            "degree":1,
+            "id":"A89591"
+        },
+        {
+            "betw_rank":215,
+            "betweenness":0.00030025805487292887,
+            "bipartite":0,
+            "close_rank":1494,
+            "closeness":0.135526229103271,
+            "deg_rank":331,
+            "degree":2,
+            "id":"A77856"
+        },
+        {
+            "betw_rank":90,
+            "betweenness":0.002520774784904013,
+            "bipartite":1,
+            "close_rank":833,
+            "closeness":0.3404572564612326,
+            "deg_rank":169,
+            "degree":3,
+            "id":"Bishop Morton"
+        },
+        {
+            "betw_rank":1209,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":1413,
+            "closeness":0.20161388203137706,
+            "deg_rank":1238,
+            "degree":1,
+            "id":"A86358"
+        },
+        {
+            "betw_rank":190,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1467,
+            "closeness":0.1776935909429086,
+            "deg_rank":399,
+            "degree":2,
+            "id":"A96944"
+        },
+        {
+            "betw_rank":73,
+            "betweenness":0.0038174021064382563,
+            "bipartite":1,
+            "close_rank":903,
+            "closeness":0.30084485399239624,
+            "deg_rank":327,
+            "degree":2,
+            "id":"George Walker"
+        },
+        {
+            "betw_rank":144,
+            "betweenness":0.0012019114524488836,
+            "bipartite":0,
+            "close_rank":1465,
+            "closeness":0.1779808885838834,
+            "deg_rank":111,
+            "degree":4,
+            "id":"A16536"
+        },
+        {
+            "betw_rank":120,
+            "betweenness":0.0017801630671628581,
+            "bipartite":1,
+            "close_rank":1346,
+            "closeness":0.22505686738464917,
+            "deg_rank":449,
+            "degree":2,
+            "id":"Thomas Barrington"
+        },
+        {
+            "betw_rank":129,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":1126,
+            "closeness":0.26273424804797,
+            "deg_rank":145,
+            "degree":3,
+            "id":"Ephraim Pagitt"
+        },
+        {
+            "betw_rank":136,
+            "betweenness":0.0012026225270744138,
+            "bipartite":1,
+            "close_rank":1303,
+            "closeness":0.2322707994219094,
+            "deg_rank":450,
+            "degree":2,
+            "id":"William Strickland"
+        },
+        {
+            "betw_rank":124,
+            "betweenness":0.0014725428586137405,
+            "bipartite":1,
+            "close_rank":830,
+            "closeness":0.34304401527712747,
+            "deg_rank":214,
+            "degree":3,
+            "id":"St. Jerome"
+        },
+        {
+            "betw_rank":218,
+            "betweenness":0.0002609406567255322,
+            "bipartite":1,
+            "close_rank":870,
+            "closeness":0.32410177257822476,
+            "deg_rank":451,
+            "degree":2,
+            "id":"Peter Sterry"
+        },
+        {
+            "betw_rank":207,
+            "betweenness":0.0003157239678579203,
+            "bipartite":1,
+            "close_rank":1195,
+            "closeness":0.2553059200257351,
+            "deg_rank":330,
+            "degree":2,
+            "id":"Edmund Forster"
+        },
+        {
+            "betw_rank":98,
+            "betweenness":0.00239766827419759,
+            "bipartite":0,
+            "close_rank":1224,
+            "closeness":0.24503323225182388,
+            "deg_rank":114,
+            "degree":4,
+            "id":"A96941"
+        },
+        {
+            "betw_rank":14,
+            "betweenness":0.017083496357777474,
+            "bipartite":0,
+            "close_rank":1405,
+            "closeness":0.20432701547866708,
+            "deg_rank":5,
+            "degree":31,
+            "id":"A43824"
+        },
+        {
+            "betw_rank":123,
+            "betweenness":0.0015207664979928577,
+            "bipartite":1,
+            "close_rank":1369,
+            "closeness":0.21754941072615458,
+            "deg_rank":432,
+            "degree":2,
+            "id":"John Lord Roberts"
+        },
+        {
+            "betw_rank":102,
+            "betweenness":0.0019724231537814997,
+            "bipartite":1,
+            "close_rank":874,
+            "closeness":0.3152246563583056,
+            "deg_rank":215,
+            "degree":3,
+            "id":"William Lord Archbishop of Canterbury"
+        },
+        {
+            "betw_rank":37,
+            "betweenness":0.0077567392201970155,
+            "bipartite":1,
+            "close_rank":1409,
+            "closeness":0.20183917129957532,
+            "deg_rank":23,
+            "degree":12,
+            "id":"Stephen Marshall"
+        },
+        {
+            "betw_rank":1501,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":931,
+            "closeness":0.29749027376541565,
+            "deg_rank":453,
+            "degree":2,
+            "id":"Timothy Hutton"
+        },
+        {
+            "betw_rank":1505,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1014,
+            "closeness":0.2867358623054055,
+            "deg_rank":455,
+            "degree":2,
+            "id":"D. White"
+        },
+        {
+            "betw_rank":59,
+            "betweenness":0.004788727371272978,
+            "bipartite":0,
+            "close_rank":1474,
+            "closeness":0.1685130954292107,
+            "deg_rank":81,
+            "degree":5,
+            "id":"A67073"
+        },
+        {
+            "betw_rank":197,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1341,
+            "closeness":0.22534530110364764,
+            "deg_rank":456,
+            "degree":2,
+            "id":"A56199"
+        },
+        {
+            "betw_rank":110,
+            "betweenness":0.0018015483292375732,
+            "bipartite":0,
+            "close_rank":1435,
+            "closeness":0.195179396434631,
+            "deg_rank":132,
+            "degree":4,
+            "id":"A63067"
+        },
+        {
+            "betw_rank":198,
+            "betweenness":0.0006013953427030259,
+            "bipartite":0,
+            "close_rank":1472,
+            "closeness":0.16955129701830093,
+            "deg_rank":454,
+            "degree":2,
+            "id":"A76316"
+        },
+        {
+            "betw_rank":199,
+            "betweenness":0.0005153106177426607,
+            "bipartite":1,
+            "close_rank":1240,
+            "closeness":0.2388882011148413,
+            "deg_rank":333,
+            "degree":2,
+            "id":"Nathaniel Fiennes"
         }
     ]
 }
