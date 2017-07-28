@@ -46,7 +46,9 @@ svg.append('rect')
 // Call zoom for svg container.
 svg.call(d3.zoom().on('zoom', zoomed));
 
-var color = d3.scaleOrdinal(d3.schemeCategory20);
+var color = d3.scaleLinear()
+	.domain([1639,1649])
+	.range([0.1,1]);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
@@ -56,9 +58,6 @@ var simulation = d3.forceSimulation()
 var container = svg.append('g');
 var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
-
-// Toggle for ego networks on click (below).
-var toggle = 0;
 
 
 d3.json("1640s_dedications.json", function(error, graph) {
@@ -176,28 +175,6 @@ function update(graph) {
 	  return linkedByIndex[a.id + ',' + b.id];
   }
 
-  // A function to handle click toggling based on neighboring nodes.
-  function toggleClick(d, node) {
-	      if (toggle == 0) {
-		      // Ternary operator restyles links and nodes if they are adjacent.
-		      d3.selectAll('.link').style('stroke-opacity', function (l) {
-			      return l.target.id == d.id || l.source.id == d.id ? 1 : 0.1;
-		      });
-		      d3.selectAll('.node').style('opacity', function (n) {
-			      return neighboring(d, n) ? 1 : 0.1;
-		      });
-		      //d.style('opacity', 1);
-
-		      toggle = 1;
-	      }
-	      else {
-		      // Restore nodes and links to normal opacity.
-		      d3.selectAll('.link').style('stroke-opacity', '0.6');
-		      d3.selectAll('.node').style('opacity', '1');
-		      d3.selectAll('span').remove();
-		      toggle = 0;
-	      }
-  }
   // Linear scale for degree centrality.
   var degreeSize= d3.scaleLog()
   	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
@@ -232,11 +209,9 @@ function update(graph) {
     // Size nodes, making Cavendish and Glanvill largest.
     .attr('r', function(d, i) {if (d.bipartite === 1) {return degreeSize(d.degree);} else {return 8;} })
     // Color by degree centrality calculation in NetworkX.
-	    .attr("fill", function(d) {if (d.bipartite === 0) {return 'blue';} else {return 'red';} }) 
+	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} else {return 'red';} }) 
       .attr('class', 'node')
       .attr('id', function(d) { return "n" + d.id.toString(); })
-      // On click, toggle ego networks for the selected node. (See function above.)
-      .on('click', function(d) { toggleClick(d,this); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -246,7 +221,14 @@ function update(graph) {
 
   // Title text for mouseover.
   node.append("title")
-      .text(function(d) { return d.id+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')'; });
+      .text(function(d) { 
+	 if (d.bipartite === 1) {
+	      return d.id+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
+	 } 
+	 else {
+	      return 'Author: '+d.author+'\nTitle: '+d.title+'\nDate: '+d.date+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
+	}
+	});
 
   simulation
       .nodes(graph.nodes)
@@ -255,7 +237,7 @@ function update(graph) {
   simulation.force("link")
       .links(graph.links);
 
-  simulation.alphaTarget(0.3).restart();
+  simulation.alphaTarget(0.1).restart();
 
   function ticked() {
     link
