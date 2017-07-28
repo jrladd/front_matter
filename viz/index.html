@@ -2,11 +2,11 @@
 <meta charset="utf-8">
 <style>
 
-.links line {
+line {
   stroke: #999;
 }
 
-.nodes circle {
+circle {
   stroke: #fff;
   stroke-width: 1.5px;
 }
@@ -26,7 +26,9 @@ form, select {
 
 </style>
 <body>
-<div id='tools'></div>
+<div id='tools'>
+	<input type='checkbox' id='jesusCheckbox'>Jesus?</input>
+</div>
 <svg width="1000" height="1000"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -52,19 +54,8 @@ var simulation = d3.forceSimulation()
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 var container = svg.append('g');
-
-// Create form for search (see function below).
-var search = d3.select("div#tools").append('form').attr('onsubmit', 'return false;');
-
-var box = search.append('input')
-	.attr('type', 'text')
-	.attr('id', 'searchTerm')
-	.attr('placeholder', 'Type to search...');
-
-var button = search.append('input')
-	.attr('type', 'button')
-	.attr('value', 'Search')
-	.on('click', function () { searchNodes(); });
+var link = container.append('g').selectAll('.link');
+var node = container.append('g').selectAll('.node');
 
 // Toggle for ego networks on click (below).
 var toggle = 0;
@@ -75,110 +66,44 @@ d3.json("1640s_dedications.json", function(error, graph) {
 
   update(graph);
 
+  	var jesusToggle = d3.select('#jesusCheckbox')
+		.on('change', function() {
+			if (this.checked) {
+				var newLinks = graph.links.filter(function(l) {return l.source.id != 'Jesus Christ' && l.target.id != 'Jesus Christ';});
+				var newNodes = graph.nodes.filter(function(d) {return d.id != 'Jesus Christ';});
+				var newGraph = {nodes:newNodes, links:newLinks};
+				update(newGraph);
+			}
+			else {
+				update(graph);
+			}
+		});
+
 	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
 	var pathDropdown = d3.select('div#tools')
 		.append('select')
 		.on('change', function() { 
 			var val = this.value;
-			if (val == "All Paths") {
-				var newNodes = graph.nodes;
-				var newLinks = graph.links;
-				sliderMain.attr('disabled', null);
+			if (val == "Bipartite (Texts and People)") {
+				update(graph);
 			};
-			if (val == "Only Direct Paths") {
-				var newNodes = [];
-				graph.nodes.forEach( function(d) {
-					if (d.connected_path == 1) {newNodes.push(d); };
-				});
-
-				var newLinks = [];
-				graph.links.forEach( function(l) {
-					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
-						newLinks.push(l);
-					};
-				});
-				sliderMain.attr('disabled', 'disabled');
+			if (val == "People Only") {
+				var projectedPeopleGraph = project(graph, 1);
+				update(projectedPeopleGraph);
 			};
-			if (val == "Only Shortest Direct Paths") {
-				var newNodes = [];
-				graph.nodes.forEach( function(d) {
-					if (d.shortest_path == 1) {newNodes.push(d); };
-				});
-
-				var newLinks = [];
-				graph.links.forEach( function(l) {
-					if (newNodes.includes(l.source) && newNodes.includes(l.target)) {
-						newLinks.push(l);
-					};
-				});
-				sliderMain.attr('disabled', 'disabled');
+			if (val == "Texts Only") {
+				var projectedTextGraph = project(graph, 0);
+				update(projectedTextGraph);
 			};
 
-			link = link.data(newLinks, function(d) {return d.source + ', ' + d.target;});
-			link.exit().remove();
-			var linkEnter = link.enter().append('line').attr('class', 'link');
-			link = linkEnter.merge(link);
-
-			node = node.data(newNodes, function(d) {return d.id;});
-			node.exit().remove();
-			var nodeEnter = node.enter().append('circle')
-				.attr('r', function(d, i) { if (d.name == 'Margaret Cavendish' || d.name == 'Joseph Glanvill') {return 30;} else if (d.shortest_path == 1) {return 20;} else {return 10;}; })
-				.attr('class', 'node')
-      				.attr('id', function(d) { return "n" + d.id.toString(); })
-				.attr("fill", function(d) { 
-					var val = document.getElementById('color').value;
-					if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
-					else if (val == "Color by Shared Distance") { return colorByShared(d); }
-					else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
-				})
-		        .on('click', function(d, i) { toggleClick(d); })
-		        .call(d3.drag()
-		            .on("start", dragstarted)
-		            .on("drag", dragged)
-		            .on("end", dragended))
-		  
-
-			node = nodeEnter.merge(node);
-
-		    node.append("title")
-		        .text(function(d) { return d.name+d.degree.toString()+d.betweenness; });
-
-			// Restart simulation with new node and link data.
-			simulation
-				.nodes(newNodes).on('tick', ticked)
-				.force("link").links(newLinks, function(d) {return d.source + ', ' + d.target;});
-
-			simulation.alphaTarget(0.1).restart();
-
-			sliderLabel.text('60');
-			document.getElementById("threshold").stepDown(40);
-			
 		});
 
 	pathDropdown.selectAll('option')
-		.data(['All Paths', 'Only Direct Paths', 'Only Shortest Direct Paths'])
+		.data(['Bipartite (Texts and People)', 'People Only', 'Texts Only'])
 		.enter().append('option')
 		.attr('value', function(d) { return d; })
 		.text(function(d) { return d; });
 
-	// A second dropdown with three different color schemes for nodes
-	var colorDropdown = d3.select('div#tools')
-		.append('select')
-		.attr('id', 'color')
-		.on('change', function() { 
-	       		var val = this.value;
-			node.attr("fill", function(d) {
-				if (val == "Color by Degree") { return d3.interpolateRdYlBu(degreeColor(d.degree)); }
-				else if (val == "Color by Shared Distance") { return colorByShared(d); }
-				else if (val == "Color by Minimum Node Cut") { if (d.min_node_cut == 1) { return "#BCED91"; } else { return "silver"; }; }
-			});
-		});
-
-	colorDropdown.selectAll('option')
-		.data(["Color by Degree", "Color by Shared Distance", "Color by Minimum Node Cut"])
-		.enter().append('option')
-		.attr('value', function(d) { return d; })
-		.text(function(d) {return d;});
 });
 
 function dragstarted(d) {
@@ -203,27 +128,44 @@ function zoomed() {
 	  container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
 }
 
-// Search for nodes by making all unmatched nodes temporarily transparent.
-function searchNodes() {
-	var term = document.getElementById('searchTerm').value;
-	var selected = container.selectAll('.node').filter(function (d, i) {
-		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
+function project(graph, bipartite) {
+	var projectedNodes = graph.nodes.filter( function(d) {return d.bipartite === bipartite;});
+	var nodeObject = {}
+	projectedNodes.forEach( function(d) { nodeObject[d.id] = 1; });
+	var projectedLinks = [];
+	graph.links.forEach(function(l){
+		if (l.source.id in nodeObject) {
+			graph.links.forEach(function(m) {
+				if (m.source.id == l.target.id) {
+					projectedLinks.push({source:l.source, target:m.target, weight:1});
+				}
+				else if (m.target.id == l.target.id) {
+					projectedLinks.push({source:l.source, target:m.source, weight:1});
+				}
+			});
+		}
+		if (l.target.id in nodeObject) {
+			graph.links.forEach(function(m) {
+				if (m.source.id == l.source.id) {
+					projectedLinks.push({source:l.target, target:m.target, weight:1});
+				}
+				else if (m.target.id == l.target.id) {
+					projectedLinks.push({source:l.target, target:m.source, weight:1});
+				}
+			});
+		}
 	});
-	selected.style('opacity', '0');
-	var link = container.selectAll('.link');
-	link.style('stroke-opacity', '0');
-	d3.selectAll('.node').transition()
-		.duration(5000)
-		.style('opacity', '1');
-	d3.selectAll('.link').transition().duration(5000).style('stroke-opacity', '0.6');
+	return {nodes:projectedNodes, links:projectedLinks};
 }
+
+
 
 function update(graph) {
   // Make object of all neighboring nodes.
   var linkedByIndex = {};
   graph.links.forEach(function(d) {
-	  linkedByIndex[d.source + ',' + d.target] = 1;
-	  linkedByIndex[d.target + ',' + d.source] = 1;
+	  linkedByIndex[d.source.id + ',' + d.target.id] = 1;
+	  linkedByIndex[d.target.id + ',' + d.source.id] = 1;
   });
 
   // A function to test if two nodes are neighboring.
@@ -232,19 +174,17 @@ function update(graph) {
   }
 
   // A function to handle click toggling based on neighboring nodes.
-  function toggleClick(d) {
+  function toggleClick(d, node) {
 	      if (toggle == 0) {
 		      // Ternary operator restyles links and nodes if they are adjacent.
 		      d3.selectAll('.link').style('stroke-opacity', function (l) {
-			      return l.target == d || l.source == d ? 1 : 0.1;
+			      return l.target.id == d.id || l.source.id == d.id ? 1 : 0.1;
 		      });
 		      d3.selectAll('.node').style('opacity', function (n) {
 			      return neighboring(d, n) ? 1 : 0.1;
 		      });
-		      d3.select('#n'+d.id.toString()).style('opacity', 1);
+		      //d.style('opacity', 1);
 
-			// Show information when node is clicked
-			d3.select('div#tools').append('span').text("Name: " + d.name + "  |  Historical Significance: " + d.historical_significance + "  |  Lived: " + d.birth_year + "-" + d.death_year);
 		      toggle = 1;
 	      }
 	      else {
@@ -260,29 +200,30 @@ function update(graph) {
   	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
   	.range([5,20]);
 
-  // A function for the coloring to show how two graphs are joined.
-  function colorByShared(d) {
-	if (d.glanvill_two_degree == 1 && d.cavendish_two_degree == 1) { return '#7D26CD'; }
-	else if (d.glanvill_two_degree == 1) { return '#FF6663'; }
-	else if (d.cavendish_two_degree == 1) { return '#49B2FF'; };
-  }
-
   // Collision detection based on node radius.
   simulation.force("collide", d3.forceCollide().radius( 20 ) );//function(d) { return d.degree * 2; } ) );
 
-  var link = container.append("g")
-      .attr("class", "links")
-    .selectAll("line")
-    .data(graph.links, function(d) { return d.source + ", " + d.target;})
-    .enter().append("line")
-      .attr('class', 'link')
-      .attr('stroke-width', function(l) {return l.weight;});
+  //var link = container.append("g")
+      //.attr("class", "links")
+    //.selectAll("line")
+  link = link.data(graph.links, function(d) { return d.source.id + ", " + d.target.id;});
 
-  var node = container.append("g")
-      .attr("class", "nodes")
-    .selectAll("circle")
-    .data(graph.nodes)
-    .enter().append("circle")
+  link.exit().remove();
+
+  link = link.enter().append("line")
+      .attr('class', 'link')
+      .attr('stroke-width', function(l) {return l.weight;})
+      .merge(link);
+
+  //var node = container.append("g")
+      //.attr("class", "nodes")
+    //.selectAll("circle")
+    //.data(graph.nodes);
+
+  node = node.data(graph.nodes, function(d) {return d.id;});
+  node.exit().remove();
+
+  node = node.enter().append("circle")
     // Calculate degree centrality within JavaScript.
     //.attr("r", function(d, i) { count = 0; graph.links.forEach(function(l) { if (l.source == i || l.target == i) { count += 1;}; }); return size(count);})
     // Size nodes, making Cavendish and Glanvill largest.
@@ -292,11 +233,13 @@ function update(graph) {
       .attr('class', 'node')
       .attr('id', function(d) { return "n" + d.id.toString(); })
       // On click, toggle ego networks for the selected node. (See function above.)
-      .on('click', function(d) { toggleClick(d); })
+      .on('click', function(d) { toggleClick(d,this); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
-          .on("end", dragended));
+          .on("end", dragended))
+      .merge(node);
+  
 
   // Title text for mouseover.
   node.append("title")
@@ -308,6 +251,8 @@ function update(graph) {
 
   simulation.force("link")
       .links(graph.links);
+
+  simulation.alphaTarget(0.3).restart();
 
   function ticked() {
     link
