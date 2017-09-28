@@ -15,13 +15,13 @@ circle {
   pointer-events: none;
   font: 10px sans-serif;
 }
-#tools div { 
+#tools div {
   display: inline;
 }
 
-form, select { 
+form, select {
   float: right;
-  display: inline; 
+  display: inline;
 }
 
 </style>
@@ -29,14 +29,18 @@ form, select {
 <div id='tools'>
 	<input type='checkbox' id='jesusCheckbox'>Jesus?</input>
 </div>
-<svg width="1000" height="1000"></svg>
+<svg></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script>
 
-var svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height");
+var svg = d3.select("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 1400 1000")
+    .classed("svg-content-responsive", true);
+
+var width = +svg.attr("width")+1400,
+    height = +svg.attr("height")+1000;
 
 svg.append('rect')
     .attr('width', '100%')
@@ -72,30 +76,35 @@ d3.json("1640s_dedications.json", function(error, graph) {
 				var newNodes = graph.nodes.filter(function(d) {return d.id != 'Jesus Christ';});
 				var newGraph = {nodes:newNodes, links:newLinks};
 				update(newGraph);
+        simulation.alphaTarget(0.1);
 			}
 			else {
 				update(graph);
+        simulation.alphaTarget(0.1);
 			}
 		});
 
 	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
 	var pathDropdown = d3.select('div#tools')
 		.append('select')
-		.on('change', function() { 
+		.on('change', function() {
 			var val = this.value;
 			if (val == "Bipartite (Texts and People)") {
-				d3.select('#jesusCheckbox').attr('disabled', 'false');
+				d3.select('#jesusCheckbox').attr('disabled', null);
 				update(graph);
+        simulation.alphaTarget(0.1);
 			};
 			if (val == "People Only") {
 				d3.select('#jesusCheckbox').attr('disabled', 'true');
 				var projectedPeopleGraph = project(graph, 1);
 				update(projectedPeopleGraph);
+        simulation.alphaTarget(0.1);
 			};
 			if (val == "Texts Only") {
 				d3.select('#jesusCheckbox').attr('disabled', 'true');
 				var projectedTextGraph = project(graph, 0);
 				update(projectedTextGraph);
+        simulation.alphaTarget(0.1);
 			};
 
 		});
@@ -121,8 +130,6 @@ function dragged(d) {
 
 function dragended(d) {
   if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
 }
 
 // Zooming function translates the size of the svg container.
@@ -209,22 +216,27 @@ function update(graph) {
     // Size nodes, making Cavendish and Glanvill largest.
     .attr('r', function(d, i) {if (d.bipartite === 1) {return degreeSize(d.degree);} else {return 8;} })
     // Color by degree centrality calculation in NetworkX.
-	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} else {return 'red';} }) 
+	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} else {return 'red';} })
       .attr('class', 'node')
       .attr('id', function(d) { return "n" + d.id.toString(); })
+      .on('click', function(d) { // On click, "unstick" nodes
+        simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended))
       .merge(node);
-  
+
 
   // Title text for mouseover.
   node.append("title")
-      .text(function(d) { 
+      .text(function(d) {
 	 if (d.bipartite === 1) {
 	      return d.id+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
-	 } 
+	 }
 	 else {
 	      return 'Author: '+d.author+'\nTitle: '+d.title+'\nDate: '+d.date+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
 	}
@@ -237,7 +249,7 @@ function update(graph) {
   simulation.force("link")
       .links(graph.links);
 
-  simulation.alphaTarget(0.1).restart();
+  simulation.alphaTarget(0).restart();
 
   function ticked() {
     link
