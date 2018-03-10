@@ -40,7 +40,7 @@ def preprocess(text):
     clean_text = text.replace('\u017f', 's')
     clean_text = re.sub(r"\bI(?=[AEIOUaeiou])", "J", clean_text)
     clean_text = re.sub(r"VV|Vv|UU|Uu", "W", clean_text)
-    clean_text = re.sub('vv|uu', 'w', clean_text)
+    clean_text = re.sub(r'vv|uu', 'w', clean_text)
     # clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
     clean_text = re.sub(r"\b[A-Z]+\b", titlerepl, clean_text)
     return clean_text
