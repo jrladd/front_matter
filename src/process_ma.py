@@ -6,7 +6,7 @@ from operator import itemgetter
 
 csvfiles = glob.glob('data/ma_outputs/*')
 
-for c in csvfiles[:10]:
+for c in csvfiles[:100]:
     with open(c, 'r') as csvfile:
         reader = csv.reader(csvfile, delimiter='\t')
         reader = [r for r in reader]
