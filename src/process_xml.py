@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import glob, re, spacy
 from spacy import displacy
 
-def check_tags(dedication):
+def check_tags(dedication, tokens):
     """
     Given an xml dedication, run NER on relevant parts of the text,
     and return extracted and categorized names.
@@ -13,18 +13,18 @@ def check_tags(dedication):
     author = dedication.select('signed')
     for a in author:
         # print("Text:", a.text)
-        signees = ner(a.text)
+        signees = ner(a.text, tokens)
         signee_names.extend(signees)
         a.extract()
     dedicatee_names = []
     dedicatee = dedication.select('head')
     for d in dedicatee:
         # print("Text:", d.text)
-        dedicatees = ner(d.text)
+        dedicatees = ner(d.text, tokens)
         dedicatee_names.extend(dedicatees)
         d.extract()
     # print("Other names:")
-    other_names = ner(dedication.text)
+    other_names = ner(dedication.text, tokens)
     all_names = dict(
         signees = signee_names,
         dedicatees = dedicatee_names,
@@ -32,11 +32,16 @@ def check_tags(dedication):
     )
     return all_names
 
-def preprocess(text):
+def preprocess(text, *unique_tokens):
     """
     Clean EM texts using basic regex functions. Handles uppercase words,
     long s, v to u, and vv to w.
     """
+    if unique_tokens:
+        doc = nlp(text)
+        for token in doc:
+            if token.lower_ in unique_tokens:
+                text = text.replace(token.text, token.lower_)
     clean_text = text.replace('\u017f', 's')
     clean_text = re.sub(r"\bI(?=[AEIOUaeiou])", "J", clean_text)
     clean_text = re.sub(r"VV|Vv|UU|Uu", "W", clean_text)
@@ -60,20 +65,20 @@ def replV(matchobj):
     else:
         return 'U'
 
-def ner(text):
+def ner(text, tokens):
     """
     Runs NER using Spacy, returns list of any multi-word matches for a person
     """
-    clean_text = preprocess(text)
+    clean_text = preprocess(text, tokens)
     doc = nlp(clean_text)
     names = [ent.orth_.strip() for ent in doc.ents if ent.label_ == "PERSON" and " " in ent.orth_]
     return names
 
-def display_names(text):
+def display_names(text, tokens):
     """
     Takes any text and extracts persons for display in browser, via displacy.
     """
-    clean_text = preprocess(text)
+    clean_text = preprocess(text, tokens)
     doc = nlp(clean_text)
     displacy.serve(doc,style='ent',options={'ents':['PERSON']})
 
@@ -85,18 +90,29 @@ def extract_authors(soup):
     authors = list(set(a.text for a in author))
     return authors
 
-nlp = spacy.load('en', parser=False)
-xmlfiles = glob.glob("data/1640s_xml/*.xml")
+def get_unique_tokens(text):
+    clean_text = preprocess(text)
+    doc = nlp(clean_text)
+    tokens = [token.lower_ for token in doc if token.is_stop == False and token.is_punct == False and token.is_digit == False and token.is_space == False and token.pos_ != 'PROPN']
+    uniques = list(set(tokens))
+    return uniques
 
-for x in xmlfiles:
-    with open(x, "r") as xmlfile:
-        soup = BeautifulSoup(xmlfile.read(), "xml")
-        dedications = soup.select("[type='dedication']")
-    if len(dedications) > 0:
-        # authors = extract_authors(soup)
-        # for a in authors:
-        #     print("Author:", a)
-        for d in dedications:
-            all_names = check_tags(d)
-            print(all_names)
-        print()
+if __name__ == "__main__":
+    nlp = spacy.load('en', parser=False)
+    xmlfiles = glob.glob("data/1640s_xml/*.xml")
+
+    for x in xmlfiles:
+        with open(x, "r") as xmlfile:
+            soup = BeautifulSoup(xmlfile.read(), "xml")
+            dedications = soup.select("[type='dedication']")
+
+        if len(dedications) > 0:
+            tokens = get_unique_tokens(soup.body.text)
+            # authors = extract_authors(soup)
+            # for a in authors:
+            #     print("Author:", a)
+            for d in dedications:
+                display_names(d.text, tokens)
+                all_names = check_tags(d, tokens)
+                print(all_names)
+            print()
