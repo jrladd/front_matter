@@ -35,11 +35,16 @@ def replV(matchobj):
 if __name__ == "__main__":
     csvfiles = glob.glob('data/ma_split_outputs/*')
 
-    for c in csvfiles[:300]:
+    all_names = {}
+    for c in csvfiles:
         filename = c.split('/')[-1]
         filekey = filename.split('_')[0]
         filetype = filename.split('_')[-1].split('.')[0]
-        print(filekey, filetype)
+        # print(filekey, filetype)
+        if filekey not in all_names:
+            all_names[filekey] = {}
+        if filetype not in all_names[filekey]:
+            all_names[filekey][filetype] = []
         with open(c, 'r') as csvfile:
             reader = csv.reader(csvfile, delimiter='\t')
             reader = [r for r in reader]
@@ -48,4 +53,8 @@ if __name__ == "__main__":
                 if 'np' in k and len(group) > 1:
                     name = ' '.join([x[3] for x in group])
                     clean_name = clean(name)
-                    print(clean_name)
+                    all_names[filekey][filetype].append(clean_name)
+
+    for a,v in all_names.items():
+        print(a,v)
+        print()
