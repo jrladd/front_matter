@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Ward	Ward	n1	Ward	ward	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+moſt	moſt	av-ds	moſt	moſt	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servaent	Servaent	n1	Servaent	servaent	0
+in	in	p-acp	in	in	0
+Ieſus	Ieſus	np1	Ieſus	Ieſus	0
+Chriſt	Chriſt	np1	Chriſt	Chriſt	0
+our	our	po12	our	our	0
+common	common	j	common	common	0
+Maſter	Maſter	n1	Maſter	maſter	0
+:	:	:	:	:	0
+JOHN	JOHN	np1	JOHN	John	0
+OVVEN	OVVEN	np1	OVVEN	OVVEN	0
+.	.	.	.	.	1

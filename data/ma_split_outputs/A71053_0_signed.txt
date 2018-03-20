@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Chriſt	Chriſt	np1	Chriſt	Chriſt	0
+Jeſus	Jeſus	np1	Jeſus	Jeſus	0
+JOHN	JOHN	np1	JOHN	John	0
+SALTMARSH	SALTMARSH	np1	SALTMARSH	Saltmarsh	0
+.	.	.	.	.	1

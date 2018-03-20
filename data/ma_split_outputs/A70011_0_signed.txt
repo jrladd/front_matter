@@ -1,0 +1,15 @@
+So	So	np1	So	So	0
+prayes	prayes	vvz	prays	pray	0
+Your	Your	po22	Your	your	0
+meaneſt	meaneſt	js	meaneſt	meaneſt	0
+ſervant	ſervant	n1	ſervant	ſervant	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+work	work	vvb	work	work	0
+.	.	.	.	.	1
+John	John	np1	John	John	0
+Ellis	Ellis	np1	Ellis	Ellis	0
+,	,	,	,	,	0
+Junior	Junior	np1	Junior	Junior	0
+.	.	.	.	.	1

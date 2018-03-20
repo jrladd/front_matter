@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Majeſties	Majeſties	ng1	Majeſties	majeſties	0
+poore	poore	j	poor	poor	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+unfortunate	unfortunate	j	unfortunate	unfortunate	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+moſt	moſt	av-ds	moſt	moſt	0
+true	true	j	true	true	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+loyall	loyall	j	loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+.	.	.	.	.	1
+G.	G.	np1	G.	G.	0
+A.	A.	np1	A.	A.	1

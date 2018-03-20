@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+FAVOVRABLE	FAVOVRABLE	j	FAVOURABLE	favourable	0
+ACCEPTANCE	ACCEPTANCE	n1	ACCEPTANCE	acceptance	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Pembrooke	Pembrooke	np1	Pembrooke	Pembroke	0
+and	and	cc	and	and	0
+Mountgomery	Mountgomery	np1	Mountgomery	Mountgomery	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

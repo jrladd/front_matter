@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+addicted	addicted	vvn	addicted	addict	0
+W.	W.	np1	W.	W.	0
+Ames	Ames	np1	Ames	Ames	0
+.	.	.	.	.	1

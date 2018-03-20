@@ -1,0 +1,9 @@
+EN	EN	fw-fr	EN	en	0
+EAS	EAS	fw-la	EAS	eas	0
+SYLVIVS	SYLVIVS	np1	SYLVIVS	SYLVIVS	0
+To	To	p-acp	To	to	0
+Marianu's	Marianu's	npg1	Marianu's	marianu	0
+Sozinus	Sozinus	np1	Sozinus	Sozinus	0
+,	,	,	,	,	0
+Health	Health	n1	Health	health	0
+.	.	.	.	.	1

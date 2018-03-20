@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+obliged	obliged	j-vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+at	at	p-acp	at	at	0
+all	all	d	all	all	0
+respective	respective	j	respective	respective	0
+obedience	obedience	n1	obedience	obedience	0
+in	in	p-acp	in	in	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+RUTHERFURD	RUTHERFURD	np1	RUTHERFURD	RUTHERFURD	0
+.	.	.	.	.	1

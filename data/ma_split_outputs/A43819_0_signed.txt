@@ -1,0 +1,17 @@
+Though	Though	cs	Though	though	0
+most	most	ds	most	most	0
+unworthy	unworthy	j-u	unworthy	worthy	0
+,	,	,	,	,	0
+desires	desires	vvz	desires	desire	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+advancing	advancing	vvg	advancing	advance	0
+Temple-work	Temple-work	n1	Temple-work	temple-work	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HILL	HILL	n1	HILL	hill	0
+.	.	.	.	.	1

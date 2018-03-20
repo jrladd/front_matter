@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+JOHN	JOHN	np1	JOHN	John	0
+BOND	BOND	n1	BOND	bond	0
+,	,	,	,	,	0
+Governour	Governour	n1	Governor	governor	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Captaine	Captaine	n1	Captain	captain	0
+Generall	Generall	n1	General	general	0
+of	of	pp-f	of	of	0
+MADAGASCAR	MADAGASCAR	np1	MADAGASCAR	Madagascar	0
+.	.	.	.	.	1

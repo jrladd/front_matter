@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+AND	AND	cc	AND	and	0
+MUCH	MUCH	d	MUCH	much	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+JOHN	JOHN	np1	JOHN	John	0
+PYMME	PYMME	j	PYMME	pymme	0
+Eſquire	Eſquire	n1	Eſquire	eſquire	0
+,	,	,	,	,	1

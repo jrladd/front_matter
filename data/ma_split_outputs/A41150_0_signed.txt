@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Fenwick	Fenwick	np1	Fenwick	Fenwick	0
+.	.	.	.	.	1

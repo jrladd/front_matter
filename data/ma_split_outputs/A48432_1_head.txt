@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+DEARE	DEARE	n1	DEARE	deer	0
+and	and	cc	and	and	0
+DEARLY	DEARLY	av-jn	DEARLY	dear	0
+Honored	Honored	vvn	Honoured	honour	0
+and	and	cc	and	and	0
+beloved	beloved	vvn	beloved	belove	0
+native	native	j-jn	native	native	0
+Country	Country	n1	Country	country	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+STAFFORD	STAFFORD	np1	STAFFORD	Stafford	0
+.	.	.	.	.	1

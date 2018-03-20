@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+Nevill	Nevill	np1	Nevill	Nevil	0
+Brooke	Brooke	vvi	Brook	brook	0
+.	.	.	.	.	1

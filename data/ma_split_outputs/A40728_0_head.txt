@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthy	worthy	j	worthy	worthy	0
+Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Pariſh	Pariſh	n1	Pariſh	pariſh	0
+of	of	pp-f	of	of	0
+St.	St.	n1	St.	saint	0
+Andrews	Andrews	np1	Andrews	Andrews	0
+HOLBORNE	HOLBORNE	np1	HOLBORNE	Holborn	0
+.	.	.	.	.	1

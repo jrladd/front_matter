@@ -1,0 +1,7 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+my	my	po11	my	my	0
+Sonne	Sonne	n1	Son	son	0
+G.	G.	np1	G.	G.	0
+Grimstone	Grimstone	np1	Grimstone	Grimstone	0
+.	.	.	.	.	1

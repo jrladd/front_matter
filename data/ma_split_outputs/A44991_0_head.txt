@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+DOROTHY	DOROTHY	np1	DOROTHY	Dorothy	0
+STANLEY	STANLEY	np1	STANLEY	Stanley	0
+.	.	.	.	.	1

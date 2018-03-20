@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+worthy	worthy	j	worthy	worthy	0
+as	as	c-acp	as	as	0
+well	well	av	well	well	0
+by	by	p-acp	by	by	0
+Vertue	Vertue	n1	Virtue	virtue	0
+as	as	p-acp	as	as	0
+Birth	Birth	n1	Birth	birth	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Anne	Anne	np1	Anne	Anne	0
+Glover	Glover	np1	Glover	Glover	0
+.	.	.	.	.	1

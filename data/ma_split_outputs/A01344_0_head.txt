@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+IANE	IANE	np1	IANE	Jane	0
+COVERT	COVERT	n1	COVERT	covert	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Peper	Peper	n1	Peper	pepper	0
+Harrow	Harrow	vvb	Harrow	harrow	0
+in	in	p-acp	in	in	0
+Surry	Surry	np1	Surry	Surry	0
+.	.	.	.	.	1

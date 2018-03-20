@@ -1,0 +1,6 @@
+Thy	Thy	po21	Thy	thy	0
+most	most	av-ds	most	most	0
+afflicted	afflicted	j-vvn	afflicted	afflict	0
+Mother	Mother	n1	Mother	mother	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

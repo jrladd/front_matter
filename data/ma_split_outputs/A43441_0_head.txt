@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+ILLVSTRIOVS	ILLVSTRIOVS	j	ILLUSTRIOUS	illustrious	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+Most	Most	av-ds	Most	most	0
+Hopefull	Hopefull	j	Hopeful	hopeful	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+,	,	,	,	,	0
+Prince	Prince	n1	Prince	prince	0
+of	of	pp-f	of	of	0
+Wales	Wales	np1	Wales	Wales	0
+.	.	.	.	.	1

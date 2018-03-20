@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	j-jn	right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+faithfull	faithfull	j	faithful	faithful	0
+Ministers	Ministers	n2	Ministers	minister	0
+of	of	pp-f	of	of	0
+GODS	GODS	npg1	GODS	God	0
+Word	Word	n1	Word	word	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+Scotland	Scotland	np1	Scotland	Scotland	0
+.	.	.	.	.	1

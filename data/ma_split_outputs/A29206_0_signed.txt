@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+Most	Most	av-ds	Most	most	0
+Assured	Assured	j-vvn	Assured	assure	0
+And	And	cc	And	and	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOH	JOH	np1	JOH	Joh	0
+:	:	:	:	:	0
+DERENSIS	DERENSIS	np1	DERENSIS	DERENSIS	0
+.	.	.	.	.	1

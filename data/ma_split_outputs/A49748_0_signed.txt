@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Majeſties	Majeſties	ng1	Majeſties	majeſties	0
+moſt	moſt	av-ds	moſt	moſt	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+moſt	moſt	av-ds	moſt	moſt	0
+loyally	loyally	av-j	loyally	loyal	0
+devoted	devoted	vvn	devoted	devote	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+LAWES	LAWES	n2	LAWES	law	0
+.	.	.	.	.	1

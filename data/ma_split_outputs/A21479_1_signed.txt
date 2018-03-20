@@ -1,0 +1,3 @@
+of	of	pp-f	of	of	0
+L.	L.	n1	L.	lord	0
+L.	L.	np1	L.	L.	1

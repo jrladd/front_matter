@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Most	Most	av-ds	Most	most	0
+Loyall	Loyall	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Replyer	Replyer	n1	Replier	replier	0
+.	.	.	.	.	1

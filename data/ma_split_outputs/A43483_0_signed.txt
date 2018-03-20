@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Lo	Lo	uh	Lo	lo	0
+:	:	:	:	:	0
+servant	servant	n1	servant	servant	0
+ever	ever	av	ever	ever	0
+to	to	pc-acp	to	to	0
+Commaund	Commaund	vvi	Command	command	0
+HENRY	HENRY	np1	HENRY	Henry	0
+HEXHAM	HEXHAM	np1	HEXHAM	Hexham	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+faithfull	faithfull	j	faithful	faithful	0
+ſervant	ſervant	n1	ſervant	ſervant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+FRAN.	FRAN.	np1	FRAN.	FRAN.	0
+ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
+.	.	.	.	.	1

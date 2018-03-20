@@ -1,0 +1,12 @@
+Whose	Whose	rg-crq	Whose	who	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+service	service	n1	service	service	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+truly	truly	av-j	truly	true	0
+,	,	,	,	,	0
+Hen	Hen	n1	Hen	hen	0
+.	.	.	.	.	1
+Peacham	Peacham	np1	Peacham	Peacham	0
+.	.	.	.	.	1

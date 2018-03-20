@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+MEMBERS	MEMBERS	n2	MEMBERS	member	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+COMMONS	COMMONS	ng2	COMMONS	commons	0
+House	House	n1	House	house	0
+assembled	assembled	vvn	assembled	assemble	0
+at	at	p-acp	at	at	0
+OXFORD	OXFORD	np1	OXFORD	Oxford	0
+.	.	.	.	.	1

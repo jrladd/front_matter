@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+VVILLIAM	VVILLIAM	np1	VVILLIAM	VVILLIAM	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Hertford	Hertford	np1	Hertford	Hertford	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

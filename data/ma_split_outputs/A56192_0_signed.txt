@@ -1,0 +1,9 @@
+Of	Of	pp-f	Of	of	0
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	ng1	Excellencies	excellency	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+PRYNNE	PRYNNE	np1	PRYNNE	Prynne	0
+.	.	.	.	.	1

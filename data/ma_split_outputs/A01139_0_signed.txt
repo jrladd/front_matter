@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+fellow-Souldier	fellow-Souldier	n1	fellow-Souldier	fellow-souldier	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+love	love	n1	love	love	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+FOXLE	FOXLE	n1	FOXLE	foxle	0
+.	.	.	.	.	1

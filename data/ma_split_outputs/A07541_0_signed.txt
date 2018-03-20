@@ -1,0 +1,13 @@
+I	I	pns11	I	i	0
+shall	shall	vmb	shall	shall	0
+rest	rest	vvi	rest	rest	0
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+engaged	engaged	vvn	engaged	engage	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+HUMPHRY	HUMPHRY	np1	HUMPHRY	Humphrey	0
+MILL	MILL	n1	MILL	mill	0
+.	.	.	.	.	1

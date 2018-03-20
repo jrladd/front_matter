@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+fervent	fervent	j	fervent	fervent	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+Minister	Minister	n1	Minister	minister	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+utmost	utmost	j	utmost	utmost	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BARTON	BARTON	np1	BARTON	Barton	0
+.	.	.	.	.	1

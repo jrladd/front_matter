@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worſhips	Worſhips	ng1	Worſhips	worſhips	0
+affectionate	affectionate	j	affectionate	affectionate	0
+ſervant	ſervant	n1	ſervant	ſervant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Johnſon	Johnſon	np1	Johnſon	Johnſon	0
+.	.	.	.	.	1

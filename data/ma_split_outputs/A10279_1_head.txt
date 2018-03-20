@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Students	Students	n2	Students	student	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+Innes	Innes	n2	Inns	inn	0
+of	of	pp-f	of	of	0
+Court	Court	n1	Court	court	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Fowles	Fowles	n2	Fowls	fowl	0
+of	of	pp-f	of	of	0
+Night	Night	n1	Night	night	0
+.	.	.	.	.	1

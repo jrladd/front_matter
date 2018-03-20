@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Scudamore	Scudamore	np1	Scudamore	Scudamour	0
+,	,	,	,	,	0
+Ʋiſcount	Ʋiſcount	n1	Ʋiſcount	ʋiſcount	0
+Sligo	Sligo	np1	Sligo	Sligo	0
+.	.	.	.	.	1

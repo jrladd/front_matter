@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Fuller	Fuller	np1	Fuller	Fuller	0
+.	.	.	.	.	1

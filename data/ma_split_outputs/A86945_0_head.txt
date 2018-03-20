@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+excellently	excellently	av-j	excellently	excellent	0
+well	well	av	well	well	0
+accompliſh	accompliſh	vvi	accompliſh	accompliſh	0
+Sir	Sir	n1	Sir	sir	0
+Iohn	Iohn	np1	Iohn	John	0
+Clotworthy	Clotworthy	np1	Clotworthy	Clotworthy	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Collonel	Collonel	n1	Colonel	colonel	0
+.	.	.	.	.	1

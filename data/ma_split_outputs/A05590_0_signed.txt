@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+and	and	cc	and	and	0
+most	most	ds	most	most	0
+obser	obser	n1	obser	obser	0
+vant	vant	vvi	vant	vaunt	0
+Oratour	Oratour	n1	Orator	orator	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LITHGOVV	LITHGOVV	np1	LITHGOVV	LITHGOVV	0
+.	.	.	.	.	1

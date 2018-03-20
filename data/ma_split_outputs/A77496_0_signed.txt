@@ -1,0 +1,7 @@
+Onely	Onely	j	Only	only	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+John	John	np1	John	John	0
+Brinſley	Brinſley	np1	Brinſley	Brinſley	0
+.	.	.	.	.	1

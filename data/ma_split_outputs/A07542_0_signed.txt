@@ -1,0 +1,11 @@
+And	And	cc	And	and	0
+remaine	remaine	vvb	remain	remain	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+:	:	:	:	:	0
+HUMPHRY	HUMPHRY	np1	HUMPHRY	Humphrey	0
+MILL	MILL	n1	MILL	mill	0
+.	.	.	.	.	1

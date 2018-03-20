@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+Ladiſhips	Ladiſhips	ng1	Ladyships	ladyships	0
+humble	humble	j	humble	humble	0
+ſervant	ſervant	n1	ſervant	ſervant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Anthony	Anthony	np1	Anthony	Anthony	0
+Burgeſs	Burgeſs	np1	Burgeſs	Burgeſs	0
+.	.	.	.	.	1

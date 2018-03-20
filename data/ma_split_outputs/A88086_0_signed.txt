@@ -1,0 +1,3 @@
+JOHN	JOHN	np1	JOHN	John	0
+LEWIS	LEWIS	np1	LEWIS	Lewis	0
+.	.	.	.	.	1

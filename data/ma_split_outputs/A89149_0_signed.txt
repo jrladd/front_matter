@@ -1,0 +1,7 @@
+Thine	Thine	png21	Thine	thou	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+HUMPH	HUMPH	np1	HUMPH	Humph	0
+.	.	.	.	.	1
+MOSELEY	MOSELEY	np1	MOSELEY	Moseley	0
+.	.	.	.	.	1

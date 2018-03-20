@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordſhips	Lordſhips	n1|vbz	Lordship's	lordship|have	0
+ever	ever	av	ever	ever	0
+bounden	bounden	vvn	bounden	bind	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+TOOKE	TOOKE	vvd	TOOK	take	0
+.	.	.	.	.	1
