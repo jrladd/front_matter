@@ -1,6 +1,6 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
-import csv, glob, re, sqlite3, json
+import csv, glob, re, sqlite3, json, pycorpora
 from itertools import groupby
 from operator import itemgetter
 from collections import Counter
@@ -42,6 +42,7 @@ def retrieve_names(ma_outputs):
     multi-word proper nouns in a dictionary that keeps track of
     what *kind* of file (head, signed, body) the noun appeared in.
     """
+    stoplist = ["God", "Gods", "India", "Britain", "Britains", "Britaine", "Brittain", "Brittaine", "England", "Englands", "London", "Londons", "Westminster", "Christian", "Christs", "Puritan", "Erastian", "Arminian"]
     all_names = {}
     for c in csvfiles:
         filename = c.split('/')[-1]
@@ -58,7 +59,7 @@ def retrieve_names(ma_outputs):
             for k,g in groupby(reader, key=itemgetter(2)): # Change key function to deal with all np's?
                 group = [x for x in g]
                 if 'np' in k:
-                    if len(group) == 1 and '.' not in group[0][0]:# and len(group) > 1:
+                    if len(group) == 1 and '.' not in group[0][0] and group[0][0].title() not in stoplist:# and len(group) > 1:
                         # name = ' '.join([x[0] for x in group])
                         index = reader.index(group[0])
                         name = get_fullname(index, reader)
@@ -80,21 +81,30 @@ def get_fullname(name_index, reader):
     Given a name index and a list of morphadorner outputs, return a full name token
     from the words around it.
     """
+    prefixes = pycorpora.humans.prefixes["prefixes"]
+    prefixes.extend(["Mris", "Mris.", "Sr", "Prophet", "Honorable", "Honourable", "Master", "Alderman"])
+    stopwords = pycorpora.words.stopwords.en["stopWords"]
     try:
-        before = reader[name_index-1][0]
+        if reader[name_index-1][0].title() not in prefixes and reader[name_index-1][0].lower() not in stopwords:
+            before = reader[name_index-1][0]
+        else:
+            before = None
     except IndexError:
         before = None
     try:
-        after = reader[name_index+1][0]
+        if reader[name_index+1][0].lower() not in stopwords:
+            after = reader[name_index+1][0]
+        else:
+            after = None
     except IndexError:
         after = None
     if before and (before.istitle() or before.isupper()):
         if after and (after.istitle() or after.isupper()):
-            name = ' '.join([r[0] for r in reader[name_index-1:name_index+2]])
+            name = ' '.join([r[3] for r in reader[name_index-1:name_index+2]])
         else:
-            name = ' '.join([r[0] for r in reader[name_index-1:name_index+1]])
+            name = ' '.join([r[3] for r in reader[name_index-1:name_index+1]])
     elif after and (after.istitle() or after.isupper()):
-        name = ' '.join([r[0] for r in reader[name_index:name_index+2]])
+        name = ' '.join([r[3] for r in reader[name_index:name_index+2]])
     else:
         name = None
 
@@ -205,11 +215,9 @@ if __name__ == "__main__":
     csvfiles = glob.glob('data/ma_split_outputs/*')
 
     edgelist = create_edgelist(csvfiles)
+    # print(edgelist)
+    print(len(edgelist))
 
     B = create_graph(edgelist)
     add_attributes_to_graph(B)
     write_json(B, '1640s_ma.json')
-
-
-    # print(edgelist)
-    print(len(edgelist))
