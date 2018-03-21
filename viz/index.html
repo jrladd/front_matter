@@ -64,7 +64,7 @@ var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("1640s_dedications.json", function(error, graph) {
+d3.json("1640s_ma.json", function(error, graph) {
   if (error) throw error;
 
   update(graph);
