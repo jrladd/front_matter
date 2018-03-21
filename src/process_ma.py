@@ -57,14 +57,48 @@ def retrieve_names(ma_outputs):
             reader = [r for r in reader]
             for k,g in groupby(reader, key=itemgetter(2)): # Change key function to deal with all np's?
                 group = [x for x in g]
-                if 'np' in k and len(group) > 1:
-                    name = ' '.join([x[3] for x in group])
-                    clean_name = clean(name)
-                    if clean_name == 'Christ Jesus': #Special rule to deal with this common name variation
-                        all_names[filekey][filetype].append('Jesus Christ')
-                    else:
-                        all_names[filekey][filetype].append(clean_name)
+                if 'np' in k:
+                    if len(group) == 1 and '.' not in group[0][0]:# and len(group) > 1:
+                        # name = ' '.join([x[0] for x in group])
+                        index = reader.index(group[0])
+                        name = get_fullname(index, reader)
+                        if name != None:
+                            clean_name = clean(name)
+                            print(clean_name)
+                            all_names[filekey][filetype].append(clean_name)
+                    elif len(group) > 1:
+                        name = ' '.join([x[0] for x in group])
+                        clean_name = clean(name)
+                        if clean_name == 'Christ Jesus': #Special rule to deal with this common name variation
+                            all_names[filekey][filetype].append('Jesus Christ')
+                        else:
+                            all_names[filekey][filetype].append(clean_name)
     return all_names
+
+def get_fullname(name_index, reader):
+    """
+    Given a name index and a list of morphadorner outputs, return a full name token
+    from the words around it.
+    """
+    try:
+        before = reader[name_index-1][0]
+    except IndexError:
+        before = None
+    try:
+        after = reader[name_index+1][0]
+    except IndexError:
+        after = None
+    if before and (before.istitle() or before.isupper()):
+        if after and (after.istitle() or after.isupper()):
+            name = ' '.join([r[0] for r in reader[name_index-1:name_index+2]])
+        else:
+            name = ' '.join([r[0] for r in reader[name_index-1:name_index+1]])
+    elif after and (after.istitle() or after.isupper()):
+        name = ' '.join([r[0] for r in reader[name_index:name_index+2]])
+    else:
+        name = None
+
+    return name
 
 def create_edgelist(csvfiles):
     """
@@ -177,5 +211,5 @@ if __name__ == "__main__":
     write_json(B, '1640s_ma.json')
 
 
-    print(edgelist)
+    # print(edgelist)
     print(len(edgelist))
