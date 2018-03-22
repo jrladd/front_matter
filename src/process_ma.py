@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora
 from itertools import groupby
@@ -19,6 +19,10 @@ def clean(text):
     clean_text = re.sub(r'vv|uu', 'w', clean_text)
     clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
     clean_text = re.sub(r"\b[A-Z]+\b", titlerepl, clean_text)
+    clean_text = re.sub(r"S\.|\bSaint\b", "St.", clean_text) #Normalize Saint abbreviations
+    abbreviations = {"K.":"King", "Tho.": "Thomas"}
+    for abbr, expand in abbreviations.items():
+        clean_text = clean_text.replace(abbr, expand)
     return clean_text
 
 def titlerepl(matchobj):
@@ -68,10 +72,19 @@ def retrieve_names(ma_outputs):
                             print(clean_name)
                             all_names[filekey][filetype].append(clean_name)
                     elif len(group) > 1:
-                        name = ' '.join([x[0] for x in group])
+                        first_index = reader.index(group[0])
+                        last_index = reader.index(group[0])+len(group)
+                        name = ' '.join([x[3] for x in group])
                         clean_name = clean(name)
                         if clean_name == 'Christ Jesus': #Special rule to deal with this common name variation
                             all_names[filekey][filetype].append('Jesus Christ')
+                        elif clean_name.endswith("Lord") or clean_name.endswith("Earl") or clean_name.endswith("Duke"):
+                            if reader[last_index][3] == "of":
+                                name = ' '.join([x[3] for x in reader[first_index:last_index+2]])
+                            else:
+                                name = ' '.join([x[3] for x in reader[first_index:last_index+1]])
+                            clean_name = clean(name)
+                            all_names[filekey][filetype].append(clean_name)
                         else:
                             all_names[filekey][filetype].append(clean_name)
     return all_names
@@ -82,7 +95,7 @@ def get_fullname(name_index, reader):
     from the words around it.
     """
     prefixes = pycorpora.humans.prefixes["prefixes"]
-    prefixes.extend(["Mris", "Mris.", "Sr", "Prophet", "Honorable", "Honourable", "Master", "Alderman"])
+    prefixes.extend(["Mris", "Mris.", "Sr", "Prophet", "Honorable", "Honourable", "Master", "Alderman", "Servant"])
     stopwords = pycorpora.words.stopwords.en["stopWords"]
     try:
         if reader[name_index-1][0].title() not in prefixes and reader[name_index-1][0].lower() not in stopwords:
@@ -101,10 +114,28 @@ def get_fullname(name_index, reader):
     if before and (before.istitle() or before.isupper()):
         if after and (after.istitle() or after.isupper()):
             name = ' '.join([r[3] for r in reader[name_index-1:name_index+2]])
+            if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"): 
+                #print("Found:", name, reader[name_index+3][3])
+                if reader[name_index+2][3].lower() == "of":
+                    name = ' '.join([r[3] for r in reader[name_index-1:name_index+4]])
+                else:
+                    name = ' '.join([r[3] for r in reader[name_index-1:name_index+3]])
         else:
             name = ' '.join([r[3] for r in reader[name_index-1:name_index+1]])
+            if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"): 
+                #print("Found:", name, reader[name_index+3][3])
+                if reader[name_index+1][3].lower() == 'of':
+                    name = ' '.join([r[3] for r in reader[name_index-1:name_index+3]])
+                else:
+                    name = ' '.join([r[3] for r in reader[name_index-1:name_index+2]])
     elif after and (after.istitle() or after.isupper()):
         name = ' '.join([r[3] for r in reader[name_index:name_index+2]])
+        if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"):
+            #print("Found:", name, reader[name_index+3][3])
+            if reader[name_index+2][3].lower() == "of":
+                name = ' '.join([r[3] for r in reader[name_index:name_index+4]])
+            else:
+                name = ' '.join([r[3] for r in reader[name_index:name_index+3]])
     else:
         name = None
 
