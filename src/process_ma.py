@@ -63,7 +63,7 @@ def retrieve_names(ma_outputs):
             for k,g in groupby(reader, key=itemgetter(2)): # Change key function to deal with all np's?
                 group = [x for x in g]
                 if 'np' in k:
-                    if len(group) == 1 and '.' not in group[0][0] and group[0][0].title() not in stoplist:# and len(group) > 1:
+                    if len(group) == 1 and '.' not in group[0][0] and group[0][0].title() not in stoplist and (k != 'npg1' and k != 'npg2'):# and len(group) > 1:
                         # name = ' '.join([x[0] for x in group])
                         index = reader.index(group[0])
                         name = get_fullname(index, reader)
