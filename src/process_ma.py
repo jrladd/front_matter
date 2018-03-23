@@ -1,7 +1,7 @@
 #! /usr/bin/env python3.6
 
-import csv, glob, re, sqlite3, json, pycorpora
-from itertools import groupby
+import csv, glob, re, sqlite3, json, pycorpora, editdistance
+from itertools import groupby, product
 from operator import itemgetter
 from collections import Counter
 import networkx as nx
@@ -19,12 +19,22 @@ def clean(text):
     clean_text = re.sub(r'vv|uu', 'w', clean_text)
     clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
     clean_text = re.sub(r"\b[A-Z]+\b", titlerepl, clean_text)
-    clean_text = re.sub(r"S\.|\bSaint\b", "St.", clean_text) #Normalize Saint abbreviations
-    clean_text = clean_text.strip(".")
-    abbreviations = {"K.":"King", "Tho.": "Thomas"}
+    clean_text = re.sub(r"^S\.|\bSaint\b", saintrepl, clean_text) #Normalize Saint abbreviations
+    clean_text = clean_text.strip()
+    abbreviations = {"K.":"King", "Tho.": "Thomas", "Apostle": "St.", "Monarch": "King"}
     for abbr, expand in abbreviations.items():
         clean_text = clean_text.replace(abbr, expand)
     return clean_text
+
+def saintrepl(matchobj):
+    """
+    Function to deal with various saint abbreviations.
+    """
+    if matchobj.group(0) == 'S.':
+        if len(matchobj.string.split()) <= 2:
+            return "St."
+    else:
+        return "St."
 
 def titlerepl(matchobj):
     """
@@ -70,7 +80,7 @@ def retrieve_names(ma_outputs):
                         name = get_fullname(index, reader)
                         if name != None:
                             clean_name = clean(name)
-                            print(clean_name)
+                            # print(clean_name)
                             all_names[filekey][filetype].append(clean_name)
                     elif len(group) > 1:
                         first_index = reader.index(group[0])
@@ -138,6 +148,7 @@ def create_edgelist(csvfiles):
     count them, and put them into a manageable edgelist form.
     """
     all_names = retrieve_names(csvfiles)
+    standardize(all_names)
     all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
     edgelist = []
     for source,v in all_names_counted.items():
@@ -145,6 +156,28 @@ def create_edgelist(csvfiles):
             for target,weight in y.items():
                 edgelist.append((source,target,{'type':type,'weight':weight}))
     return edgelist
+
+def standardize(all_names):
+    all_names_list = []
+    for k,v in all_names.items():
+        for type,l in v.items():
+            all_names_list.extend(l)
+    unique_names_list = list(set(all_names_list))
+    # print(unique_names_list)
+    for x in product(unique_names_list, repeat=2):
+        if len(x[0]) > 5 and len(x[1]) > 5:
+            if len(x[0].split()) > 2 or len(x[1].split()) > 2:
+                wd = editdistance.eval(x[0].split(), x[1].split())
+                if wd == 1:
+                    print(x[0], x[1])
+            else:
+                ed = editdistance.eval(x[0],x[1])
+                if 0 < ed < 3 and x[0][0] == x[1][0]:
+                    surname1 = x[0].split()[-1]
+                    surname2 = x[1].split()[-1]
+                    sd = editdistance.eval(surname1, surname2)
+                    if sd != 2:
+                        print(x[0], x[1])
 
 def create_graph(edgelist):
     """
@@ -240,6 +273,6 @@ if __name__ == "__main__":
     # print(edgelist)
     print(len(edgelist))
 
-    B = create_graph(edgelist)
-    add_attributes_to_graph(B)
-    write_json(B, '1640s_ma.json')
+    # B = create_graph(edgelist)
+    # add_attributes_to_graph(B)
+    # write_json(B, '1640s_ma.json')
