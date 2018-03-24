@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance
 from itertools import groupby, product
@@ -148,7 +148,8 @@ def create_edgelist(csvfiles):
     count them, and put them into a manageable edgelist form.
     """
     all_names = retrieve_names(csvfiles)
-    standardize(all_names)
+    all_names = standardize(all_names)
+    print(all_names)
     all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
     edgelist = []
     for source,v in all_names_counted.items():
@@ -158,7 +159,11 @@ def create_edgelist(csvfiles):
     return edgelist
 
 def standardize(all_names):
+    """
+    Given a dictionary of discovered names, standardize names into unique lists.
+    """
     all_names_list = []
+    standards_list = []
     for k,v in all_names.items():
         for type,l in v.items():
             all_names_list.extend(l)
@@ -169,7 +174,11 @@ def standardize(all_names):
             if len(x[0].split()) > 2 or len(x[1].split()) > 2:
                 wd = editdistance.eval(x[0].split(), x[1].split())
                 if wd == 1:
-                    print(x[0], x[1])
+                    ld = editdistance.eval(x[0].split()[-1], x[1].split()[-1])
+                    if ld <= 2 and (x[0].split()[-1] != x[1].split()[-2] or x[1].split()[-1] != x[0].split()[-2]):
+                        print(x[0], x[1])
+                        add_to_standards(x, standards_list)
+                        
             else:
                 ed = editdistance.eval(x[0],x[1])
                 if 0 < ed < 3 and x[0][0] == x[1][0]:
@@ -178,6 +187,32 @@ def standardize(all_names):
                     sd = editdistance.eval(surname1, surname2)
                     if sd != 2:
                         print(x[0], x[1])
+                        add_to_standards(x, standards_list)
+    new_all_names = {}
+    for k,v in all_names.items():
+        new_all_names[k] = {} 
+        for text_type, names in v.items():
+            new_all_names[k][text_type] = []
+            for name in names:
+                if all(name not in namelist for namelist in standards_list) and name != '':
+                    new_all_names[k][text_type].append(name)
+                else:
+                    for namelist in standards_list:
+                        if name in namelist:
+                            new_all_names[k][text_type].append(str(namelist))
+    return new_all_names
+        
+
+def add_to_standards(x, standards_list):
+    """Rules for adding uniques to standards_list"""
+    if all(x[0] not in s for s in standards_list) and all(x[1] not in s for s in standards_list):
+        standards_list.append([x[0], x[1]])
+    else: 
+        for s in standards_list:
+            if x[0] in s and x[1] not in s:
+                s.append(x[1])
+            elif x[1] in s and x[0] not in s:
+                s.append(x[0])
 
 def create_graph(edgelist):
     """
@@ -273,6 +308,6 @@ if __name__ == "__main__":
     # print(edgelist)
     print(len(edgelist))
 
-    # B = create_graph(edgelist)
-    # add_attributes_to_graph(B)
-    # write_json(B, '1640s_ma.json')
+    B = create_graph(edgelist)
+    add_attributes_to_graph(B)
+    write_json(B, '1640s_ma.json')
