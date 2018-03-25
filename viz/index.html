@@ -43,10 +43,12 @@ form, select {
 $(function() {
 	$.scrollify({
 		section : ".scroll",
-		sectionName : "section-name"
+		sectionName : "section-name",
+		after : function(index, sections) {if (index == 1) { update(graph); } } 
 	});
 });
 
+var graph;
 var svg = d3.select("svg")
     .attr("preserveAspectRatio", "xMinYMin meet")
     .attr("viewBox", "0 0 1400 1000")
@@ -68,19 +70,21 @@ var color = d3.scaleLinear()
 	.range([0.1,1]);
 
 var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).iterations(2))
     .force("charge", d3.forceManyBody().strength([-120]).distanceMax([500]))
-    .force("center", d3.forceCenter(width / 2, height / 2));
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("collide", d3.forceCollide().iterations(0));
 
 var container = svg.append('g');
 var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("1640s_ma.json", function(error, graph) {
+d3.json("1640s_ma.json", function(error, newgraph) {
   if (error) throw error;
 
-  update(graph);
+  //update(graph);
+  graph = newgraph;
 
   	var jesusToggle = d3.select('#jesusCheckbox')
 		.on('change', function() {
@@ -200,8 +204,6 @@ function update(graph) {
   	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
   	.range([5,20]);
 
-  // Collision detection based on node radius.
-  simulation.force("collide", d3.forceCollide().radius( 20 ) );//function(d) { return d.degree * 2; } ) );
 
   //var link = container.append("g")
       //.attr("class", "links")
@@ -262,7 +264,10 @@ function update(graph) {
   simulation.force("link")
       .links(graph.links);
 
-  simulation.alphaTarget(0).restart();
+  //simulation.alphaTarget(0.1).restart();
+      simulation.alpha(1);
+      simulation.alphaDecay(0.05);
+      simulation.restart();
 
   function ticked() {
     link
@@ -274,10 +279,15 @@ function update(graph) {
     node
         .attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
+
+    if (simulation.alpha() < 0.005 && simulation.force("collide").iterations() == 0) {
+	// Collision detection based on node radius.
+	simulation.force("collide", d3.forceCollide().radius( 20 ) );//function(d) { return d.degree * 2; } ) );
+    }
+
   }
 
 }
-
 
 </script>
 </body>
