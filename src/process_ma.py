@@ -149,7 +149,6 @@ def create_edgelist(csvfiles):
     """
     all_names = retrieve_names(csvfiles)
     all_names = standardize(all_names)
-    print(all_names)
     all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
     edgelist = []
     for source,v in all_names_counted.items():
@@ -239,12 +238,24 @@ def get_rank(dictionary, text_nodes):
     rank1 = {s[0]:sorted_dict1.index(s)+1 for s in sorted_dict1}
     return dict(list(rank0.items())+list(rank1.items()))
 
+def filter_one_degree(one_degree_people, all_people):
+    tokenized_names = [a.split() for a in all_people if "[" not in a]
+    tokenized_names = sum(tokenized_names, [])
+    common_names = [k for k,v in Counter(tokenized_names).items() if v > 1]
+    print(common_names)
+    for p in one_degree_people:
+        if all(n not in common_names for n in p.split()):
+            print(p)
+
 def add_attributes_to_graph(B):
     """
     Add appropriate attributes to graph created from edgelist.
     """
     text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
+    people_nodes = set(B) - text_nodes
     deg_people,deg_texts=bipartite.degrees(B,text_nodes,'weight')
+    one_degree_people = [k for k,v in dict(deg_people).items() if v == 1]
+    filter_one_degree(one_degree_people, people_nodes)
     betw=bipartite.betweenness_centrality(B,text_nodes)
     close=bipartite.closeness_centrality(B,text_nodes,normalized=True)
 
@@ -280,9 +291,9 @@ def add_attributes_to_graph(B):
     # largest_component = max(components, key=len)
     # SB = B.subgraph(largest_component)
     # SB.remove_nodes_from(node for node, degree in deg_people.items() if degree <= 1)
-
+    degree = dict(list(dict(deg_people).items())+list(dict(deg_texts).items()))
     # Add all attributes
-    nx.set_node_attributes(B, dict(list(dict(deg_people).items())+list(dict(deg_texts).items())), 'degree')
+    nx.set_node_attributes(B, degree , 'degree')
     nx.set_node_attributes(B, betw, 'betweenness')
     nx.set_node_attributes(B, close, 'closeness')
     nx.set_node_attributes(B, degree_rank, 'deg_rank')
@@ -310,4 +321,4 @@ if __name__ == "__main__":
 
     B = create_graph(edgelist)
     add_attributes_to_graph(B)
-    write_json(B, '1640s_ma.json')
+    #write_json(B, '1640s_ma.json')
