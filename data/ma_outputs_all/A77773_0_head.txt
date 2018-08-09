@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Well-Beloved	Well-Beloved	j	Well-Beloved	well-beloved	0
+the	the	dt	the	the	0
+Parishioners	Parishioners	n2	Parishioners	parishioner	0
+and	and	cc	and	and	0
+In	In	p-acp	In	in	0
+∣	∣	sy	∣	∣	0
+habitants	habitants	n2	habitants	habitant	0
+of	of	pp-f	of	of	0
+Mallow	Mallow	n1	Mallow	mallow	0
+.	.	.	.	.	1

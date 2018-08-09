@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+seruice	seruice	n1	service	service	0
+and	and	cc	and	and	0
+affection	affection	n1	affection	affection	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+A.	A.	np1	A.	A.	1

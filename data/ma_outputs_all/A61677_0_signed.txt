@@ -1,0 +1,3 @@
+JOHN	JOHN	np1	JOHN	John	0
+COTTON	COTTON	np1	COTTON	Cotton	0
+.	.	.	.	.	1

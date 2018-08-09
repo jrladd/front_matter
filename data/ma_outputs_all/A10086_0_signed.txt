@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+bound	bound	n1	bound	bound	0
+alwaies	alwaies	av	always	always	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Anthonie	Anthonie	np1	Anthonie	Anthony	0
+Gilbie	Gilbie	np1	Gilbie	Gilbie	0
+.	.	.	.	.	1

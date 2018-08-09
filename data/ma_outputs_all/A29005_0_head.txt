@@ -1,0 +1,12 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Honest	Honest	j	Honest	honest	0
+CITIZENS	CITIZENS	n2	CITIZENS	citizen	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

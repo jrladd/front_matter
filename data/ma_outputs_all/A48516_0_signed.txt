@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Man	Man	n1	Man	man	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Moon	Moon	n1	Moon	moon	0
+.	.	.	.	.	1

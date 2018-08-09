@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Gentlewomen	Gentlewomen	n2	Gentlewomen	gentlewoman	0
+and	and	cc	and	and	0
+others	others	n2-jn	others	other	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

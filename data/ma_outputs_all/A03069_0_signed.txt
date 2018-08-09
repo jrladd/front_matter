@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+louing	louing	vvg	loving	love	0
+freend	freend	n1	friend	friend	0
+,	,	,	,	,	0
+Barnabe	Barnabe	np1	Barnabe	Barnaby	0
+Googe	Googe	np1	Googe	Googe	0
+.	.	.	.	.	1

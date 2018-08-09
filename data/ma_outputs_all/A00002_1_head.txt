@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+Reuerend	Reuerend	j-jn	Reverend	reverend	0
+Diuines	Diuines	n2-jn	Divines	divine	0
+.	.	.	.	.	1

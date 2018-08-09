@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+PETER	PETER	np1	PETER	Peter	0
+BULKELEY	BULKELEY	np1	BULKELEY	Bulkeley	0
+.	.	.	.	.	1

@@ -11,18 +11,20 @@ if __name__ == "__main__":
         filename = x.split('/')[-1]
         filekey = filename.split('.')[0]
         with open(x, "r") as xmlfile:
+            print("Reading file...")
             soup = BeautifulSoup(xmlfile.read(), "xml")
-            dedications = soup.select("[type='dedication']")
+            dedications = soup.select("[TYPE='dedication']")
             if len(dedications) > 0:
+                print("Found dedications...")
                 for i,dedication in enumerate(dedications):
-                    signed = dedication.select('signed')
+                    signed = dedication.select('SIGNED')
                     for s in signed:
                         signed_fn = filekey + '_' + str(i) + '_signed.txt'
                         with open(output_dir+signed_fn, 'w') as signedfile:
                             signedfile.write(s.text)
                         s.extract()
                     dedicatee_names = []
-                    head = dedication.select('head')
+                    head = dedication.select('HEAD')
                     for h in head:
                         head_fn = filekey + '_' + str(i) + '_head.txt'
                         with open(output_dir+head_fn, 'w') as headfile:
