@@ -1,0 +1,9 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+worships	worships	n2	worships	worship	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Bourne	Bourne	np1	Bourne	Bourne	0
+.	.	.	.	.	1

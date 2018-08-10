@@ -1,0 +1,10 @@
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+those	those	d	those	those	0
+whom	whom	r-crq	whom	who	0
+it	it	pn31	it	it	0
+may	may	vmb	may	may	0
+concern	concern	vvi	concern	concern	0
+.	.	.	.	.	1

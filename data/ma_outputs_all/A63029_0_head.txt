@@ -1,0 +1,9 @@
+The	The	dt	The	the	0
+AUTHOR	AUTHOR	n1	AUTHOR	author	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+Present	Present	j	Present	present	0
+and	and	cc	and	and	0
+Future	Future	j-jn	Future	future	0
+Happyness	Happyness	n1	Happiness	happiness	0
+.	.	.	.	.	1

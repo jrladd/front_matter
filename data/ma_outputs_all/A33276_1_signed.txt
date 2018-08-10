@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+Couutreyman	Couutreyman	n1	Couutreyman	couutreyman	0
+JOHN	JOHN	np1	JOHN	John	0
+CLARK	CLARK	np1	CLARK	Clark	0
+.	.	.	.	.	1

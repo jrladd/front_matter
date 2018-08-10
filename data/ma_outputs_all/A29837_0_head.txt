@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+ever	ever	av	ever	ever	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Uncle	Uncle	n1	Uncle	uncle	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+CROP	CROP	n1	CROP	crop	0
+,	,	,	,	,	0
+Chief	Chief	j-jn	Chief	chief	0
+Chirurgion	Chirurgion	n1	Chirurgeon	chirurgeon	0
+in	in	p-acp	in	in	0
+Norfolk	Norfolk	np1	Norfolk	Norfolk	0
+.	.	.	.	.	1

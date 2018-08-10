@@ -1,0 +1,16 @@
+He	He	pns31	He	he	0
+whose	whose	rg-crq	whose	who	0
+sinfull	sinfull	j	sinful	sinful	0
+sors	sors	n2	sors	sor	0
+bumbl	bumbl	vvb	bumbl	bumbl	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+mry	mry	n1	mry	mry	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+washing	washing	j-vvg	washing	wash	0
+Bote	Bote	n1	Boat	boat	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+Ta	Ta	uh	Ta	ta	0
+.	.	.	.	.	1

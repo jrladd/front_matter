@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+VVorshipfull	VVorshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+WORTLEY	WORTLEY	np1	WORTLEY	Wortley	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+Religious	Religious	j	Religious	religious	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+honoured	honoured	j-vvn	honoured	honour	0
+Friends	Friends	n2	Friends	friend	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Sigillatim	Sigillatim	av	Sigillatim	sigillatim	0
+tuus	tuus	fw-la	tuus	tuus	0
+,	,	,	,	,	0
+Antonius	Antonius	fw-la	Antonius	antonius	0
+Fawkner	Fawkner	n1	Fawkner	falconer	0
+.	.	.	.	.	1

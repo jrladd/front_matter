@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+wife	wife	n1	wife	wife	0
+and	and	cc	and	and	0
+Children	Children	n2	Children	child	0
+.	.	.	.	.	1

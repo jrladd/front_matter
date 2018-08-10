@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+High	High	j	High	high	0
+and	and	cc	and	and	0
+Mighty	Mighty	j	Mighty	mighty	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+,	,	,	,	,	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+of	of	pp-f	of	of	0
+WALES	WALES	np1	WALES	Wales	0
+.	.	.	.	.	1

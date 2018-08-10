@@ -1,0 +1,12 @@
+A	A	dt	A	a	0
+most	most	av-ds	most	most	0
+dutiful	dutiful	j	dutiful	dutiful	0
+declarer	declarer	n1	declarer	declarer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Honour-worthy	Honour-worthy	j	Honour-worthy	honour-worthy	0
+Vertues	Vertues	n2	Virtues	virtue	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Penkethman	Penkethman	np1	Penkethman	Penkethman	0
+.	.	.	.	.	1

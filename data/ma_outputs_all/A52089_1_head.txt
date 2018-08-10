@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Ingenious	Ingenious	j	Ingenious	ingenious	0
+and	and	cc	and	and	0
+enamour'd	enamour'd	j-vvn	enamoured	enamour	0
+Collonel	Collonel	n1	Colonel	colonel	0
+,	,	,	,	,	0
+Collonel	Collonel	n1	Colonel	colonel	0
+HENRY	HENRY	np1	HENRY	Henry	0
+MARTEN	MARTEN	np1	MARTEN	Marten	0
+.	.	.	.	.	1

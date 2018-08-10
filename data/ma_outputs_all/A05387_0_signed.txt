@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duetie	duetie	n1	duty	duty	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+Christopher	Christopher	np1	Christopher	Christopher	0
+Leuer	Leuer	np1	Leuer	Leuer	0
+.	.	.	.	.	1

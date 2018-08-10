@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+MIGHTY	MIGHTY	j	MIGHTY	mighty	0
+and	and	cc	and	and	0
+Manifold	Manifold	j	Manifold	manifold	0
+Numberlesse	Numberlesse	j	Numberless	numberless	0
+Multitude	Multitude	n1	Multitude	multitude	0
+of	of	pp-f	of	of	0
+Naturall	Naturall	j	Natural	natural	0
+and	and	cc	and	and	0
+Artificiall	Artificiall	j	Artificial	artificial	0
+Fooles	Fooles	n2	Fools	fool	0
+and	and	cc	and	and	0
+Asses	Asses	n2	Asses	ass	0
+.	.	.	.	.	1

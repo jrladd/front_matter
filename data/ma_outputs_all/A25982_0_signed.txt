@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+willing	willing	j	willing	willing	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+P.	P.	np1	P.	P.	1

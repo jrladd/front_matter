@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+sincere	sincere	j	sincere	sincere	0
+affection	affection	n1	affection	affection	0
+and	and	cc	and	and	0
+fidelitie	fidelitie	n1	fidelity	fidelity	0
+,	,	,	,	,	0
+assured	assured	vvn	assured	assure	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Lynche	Lynche	n1	Lynche	lynche	0
+.	.	.	.	.	1

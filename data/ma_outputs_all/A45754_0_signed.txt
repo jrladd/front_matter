@@ -1,0 +1,9 @@
+Ladies	Ladies	ng1	Ladies	lady	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+H.	H.	np1	H.	H.	1

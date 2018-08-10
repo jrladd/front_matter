@@ -1,0 +1,9 @@
+Of	Of	pp-f	Of	of	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+command	command	n1	command	command	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+service	service	n1	service	service	0
+G.	G.	np1	G.	G.	0
+R.	R.	np1	R.	R.	1

@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+ANCHITELL	ANCHITELL	j	ANCHITELL	anchitell	0
+GRAY	GRAY	j-jn	GREY	grey	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

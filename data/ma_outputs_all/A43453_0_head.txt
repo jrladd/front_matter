@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Sir	Sir	n1	Sir	sir	0
+John	John	np1	John	John	0
+Law	Law	zz	Law	law	0
+∣	∣	sy	∣	∣	0
+rence	rence	vvi	rence	rinse	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+and	and	cc	and	and	0
+Alderman	Alderman	n1	Alderman	alderman	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

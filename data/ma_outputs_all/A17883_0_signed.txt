@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+humblest	humblest	js	humblest	humble	0
+and	and	cc	and	and	0
+lowest	lowest	js	lowest	low	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+your	your	po22	your	your	0
+Majesties	Majesties	n2	Majesties	majesty	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+servants	servants	n2	servants	servant	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+Du	Du	np1	Du	Du	0
+VERER	VERER	n1	VERER	verer	0
+.	.	.	.	.	1

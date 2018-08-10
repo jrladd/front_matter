@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+:	:	:	:	:	0
+Edward	Edward	np1	Edward	Edward	0
+Hellowes	Hellowes	n2	Hellowes	hellowe	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Most	Most	ds	Most	most	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+,	,	,	,	,	0
+YOUR	YOUR	po22	YOUR	your	0
+GRACES	GRACES	n2	GRACES	grace	0
+,	,	,	,	,	0
+Unfeigned	Unfeigned	j-vvn-u	Unfeigned	feign	0
+Votary	Votary	n1	Votary	votary	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+MOSSOM	MOSSOM	np1-n	MOSSOM	mossom	0
+.	.	.	.	.	1

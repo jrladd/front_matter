@@ -1,0 +1,2 @@
+Gulielmus	Gulielmus	np1	Gulielmus	Gulielmus	0
+Hall	Hall	n1	Hall	hall	1

@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+LADY	LADY	n1	LADY	lady	0
+ALICE	ALICE	np1	ALICE	Alice	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+CARBERY	CARBERY	np1	CARBERY	CARBERY	0
+.	.	.	.	.	1

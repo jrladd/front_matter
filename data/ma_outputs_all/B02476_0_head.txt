@@ -1,0 +1,4 @@
+A	A	dt	A	a	0
+short	short	j	short	short	0
+Epistle	Epistle	n1	Epistle	epistle	0
+.	.	.	.	.	1

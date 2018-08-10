@@ -1,0 +1,9 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+CARDELL	CARDELL	np1	CARDELL	Cardell	0
+GOODMAN	GOODMAN	n1	GOODMAN	goodman	0
+.	.	.	.	.	1

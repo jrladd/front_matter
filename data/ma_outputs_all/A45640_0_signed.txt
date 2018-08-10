@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+well-wishing	well-wishing	j	wellwishing	wellwishing	0
+Honorer	Honorer	n1	Honorer	honourer	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+H.	H.	np1	H.	H.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+and	and	cc	and	and	0
+Maister	Maister	n1	Master	master	0
+Peter	Peter	np1	Peter	Peter	0
+Man	Man	n1	Man	man	0
+∣	∣	sy	∣	∣	0
+wood	wood	n1	wood	wood	0
+auile	auile	n1	avile	avile	0
+.	.	.	.	.	1

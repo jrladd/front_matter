@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoura	Honoura	np1	Honoura	Honoura	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+and	and	cc	and	and	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friends	Friends	n2	Friends	friend	0
+in	in	p-acp	in	in	0
+Par	Par	fw-fr	Par	par	0
+∣	∣	sy	∣	∣	0
+liament	liament	n1	liament	liament	0
+.	.	.	.	.	1

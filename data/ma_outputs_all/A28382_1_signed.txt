@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+quondam	quondam	j	quondam	quondam	0
+brother	brother	n1	brother	brother	0
+,	,	,	,	,	0
+fellow	fellow	n1	fellow	fellow	0
+Souldier	Souldier	n1	Soldier	soldier	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+very	very	j	very	very	0
+Servant	Servant	n1	Servant	servant	0
+Walter	Walter	np1	Walter	Walter	0
+Blith	Blith	j	Blithe	blithe	0
+.	.	.	.	.	1

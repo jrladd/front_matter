@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+seruant	seruant	n1	servant	servant	0
+and	and	cc	and	and	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+Iuan	Iuan	np1	Iuan	Juan	0
+,	,	,	,	,	0
+de	de	fw-fr	de	de	0
+Sancta	Sancta	fw-la	Sancta	sancta	0
+Maria	Maria	fw-la	Maria	maria	0
+.	.	.	.	.	1

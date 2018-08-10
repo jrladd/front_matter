@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+honouring	honouring	vvg	honouring	honour	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+sincerely	sincerely	av-j	sincerely	sincere	0
+addicted	addicted	vvn	addicted	addict	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Hamon	Hamon	np1	Hamon	Hamon	0
+L'estrange	L'estrange	np1	L'estrange	L'estrange	0
+.	.	.	.	.	1

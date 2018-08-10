@@ -1,0 +1,17 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+being	being	vbg	being	be	0
+made	made	vvn	made	make	0
+for	for	p-acp	for	for	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+directed	directed	vvd	directed	direct	0
+onely	onely	av-j	only	only	0
+to	to	p-acp	to	to	0
+those	those	d	those	those	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Feminine	Feminine	j	Feminine	feminine	0
+Gender	Gender	n1	Gender	gender	0
+.	.	.	.	.	1

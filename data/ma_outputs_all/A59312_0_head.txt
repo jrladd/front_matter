@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Shaftsbury	Shaftsbury	np1	Shaftsbury	Shaftsbury	0
+.	.	.	.	.	1

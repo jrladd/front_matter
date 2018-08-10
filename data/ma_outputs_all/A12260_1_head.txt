@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+chiefe	chiefe	j-jn	chief	chief	0
+Musitian	Musitian	n1	Musician	musician	0
+,	,	,	,	,	0
+or	or	cc	or	or	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+him	him	pno31	him	he	0
+that	that	cst	that	that	0
+excelleth	excelleth	vvz	excels	excel	0
+on	on	p-acp	on	on	0
+Neginoth	Neginoth	np1	Neginoth	Neginoth	0
+.	.	.	.	.	1

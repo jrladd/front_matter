@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Godwyn	Godwyn	np1	Godwyn	Godwyn	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Devotion	Devotion	n1	Devotion	devotion	0
+,	,	,	,	,	0
+lineally	lineally	av-j	lineally	lineal	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+R	R	zz	R	r	0
+I	I	zz	I	i	0
+:	:	:	:	:	0
+BRATHWAIT	BRATHWAIT	np1	BRATHWAIT	BRATHWAIT	0
+.	.	.	.	.	1

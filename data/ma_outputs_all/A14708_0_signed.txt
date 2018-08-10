@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+Christe	Christe	np1	Christe	Christe	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+VVALKER	VVALKER	np1	VVALKER	VVALKER	0
+.	.	.	.	.	1

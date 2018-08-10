@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Walter	Walter	np1	Walter	Walter	0
+Cope	Cope	vvi	Cope	cope	0
+.	.	.	.	.	1

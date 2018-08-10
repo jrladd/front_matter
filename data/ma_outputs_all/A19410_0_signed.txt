@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+louing	louing	vvg	loving	love	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Andrewe	Andrewe	np1	Andrewe	Andrew	0
+.	.	.	.	.	1

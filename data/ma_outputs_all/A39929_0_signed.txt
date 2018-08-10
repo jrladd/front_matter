@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Cordial	Cordial	j	Cordial	cordial	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+F.	F.	np1	F.	F.	1

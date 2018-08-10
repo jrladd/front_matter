@@ -1,0 +1,7 @@
+A	A	dt	A	a	0
+MADAME	MADAME	fw-fr	MADAME	madame	0
+LA	LA	fw-fr	LA	la	0
+DUCHESSE	DUCHESSE	np1	DUCHESSE	Duchesse	0
+DE	DE	fw-fr	DE	de	0
+PORTSMOƲTH	PORTSMOƲTH	n1	PORTSMOƲTH	portsmoʋth	0
+.	.	.	.	.	1

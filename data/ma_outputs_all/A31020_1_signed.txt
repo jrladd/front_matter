@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Altar	Altar	n1	Altar	altar	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+BARON	BARON	n1	BARON	baron	0
+.	.	.	.	.	1

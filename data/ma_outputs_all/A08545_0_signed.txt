@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	ng1	VVorships	worship	0
+most	most	av-ds	most	most	0
+assured	assured	vvn	assured	assure	0
+:	:	:	:	:	0
+T.	T.	np1	T.	T.	0
+E.	E.	np1	E.	E.	1

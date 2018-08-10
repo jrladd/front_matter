@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+NEVILE	NEVILE	np1	NEVILE	NEVILE	0
+,	,	,	,	,	0
+Kt.	Kt.	np1	Kt.	Kt.	0
+High-Sheriff	High-Sheriff	n1	High-Sheriff	high-sheriff	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+Lincoln	Lincoln	np1	Lincoln	Lincoln	0
+.	.	.	.	.	1

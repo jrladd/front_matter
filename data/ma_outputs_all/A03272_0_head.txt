@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+VERIE	VERIE	av	VERY	very	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+good	good	j	good	good	0
+friend	friend	n1	friend	friend	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+CHVDLEIGH	CHVDLEIGH	np1	CHVDLEIGH	CHVDLEIGH	0
+of	of	pp-f	of	of	0
+Strachley	Strachley	np1	Strachley	Strachley	0
+in	in	p-acp	in	in	0
+Deuon	Deuon	np1	Deuon	Devon	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

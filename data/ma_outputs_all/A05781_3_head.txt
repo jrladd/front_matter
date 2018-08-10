@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+La.	La.	n1	La.	lady	0
+Kalandra	Kalandra	np1	Kalandra	Kalandra	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+noble	noble	j	noble	noble	0
+D.	D.	np1	D.	D.	0
+Hastings	Hastings	np1	Hastings	Hastings	0
+.	.	.	.	.	1

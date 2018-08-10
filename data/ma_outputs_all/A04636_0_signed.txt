@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+La	La	uh	La	la	0
+:	:	:	:	:	0
+true	true	j	true	true	0
+honorer	honorer	n1	honorer	honourer	0
+.	.	.	.	.	1
+Ben.	Ben.	np1	Ben.	Ben.	0
+Ionson	Ionson	np1	Ionson	Jonson	0
+.	.	.	.	.	1

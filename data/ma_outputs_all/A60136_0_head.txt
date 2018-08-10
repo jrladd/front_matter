@@ -1,0 +1,10 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+OF	OF	pp-f	OF	of	0
+HIGHGATE	HIGHGATE	np1	HIGHGATE	Highgate	0
+.	.	.	.	.	1

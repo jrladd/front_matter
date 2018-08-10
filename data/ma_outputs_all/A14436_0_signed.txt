@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+highnesse	highnesse	n1	highness	highness	0
+true	true	j	true	true	0
+and	and	cc	and	and	0
+faiethfull	faiethfull	j	faiethfull	faiethfull	0
+oratour	oratour	n1	orator	orator	0
+Iohn	Iohn	np1	Iohn	John	0
+Proctor	Proctor	np1	Proctor	Proctor	0
+.	.	.	.	.	1

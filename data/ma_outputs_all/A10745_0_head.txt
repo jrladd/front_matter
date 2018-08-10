@@ -1,0 +1,17 @@
+A	A	dt	A	a	0
+BRIEFE	BRIEFE	j	BRIEF	brief	0
+EX	EX	fw-la	EX	ex	0
+∣	∣	sy	∣	∣	0
+TRACT	TRACT	n1	TRACT	tract	0
+OVT	OVT	av	OUT	out	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+AVTHORS	AVTHORS	ng1	AVTHORS	avthors	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Queene	Queene	n1	Queen	queen	0
+of	of	pp-f	of	of	0
+FRANCE	FRANCE	np1	FRANCE	France	0
+.	.	.	.	.	1

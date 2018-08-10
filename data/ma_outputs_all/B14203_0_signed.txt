@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+IAMES	IAMES	np1	IAMES	Iames	0
+.	.	.	.	.	1

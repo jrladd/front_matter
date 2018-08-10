@@ -1,0 +1,15 @@
+Sic	Sic	fw-la	Sic	sic	0
+vovet	vovet	vvb	vovet	vovet	0
+,	,	,	,	,	0
+Serenissimae	Serenissimae	fw-la	Serenissimae	serenissimae	0
+Majestatis	Majestatis	fw-la	Majestatis	majestatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+Servus	Servus	np1	Servus	Servus	0
+,	,	,	,	,	0
+et	et	fw-la	et	et	0
+Subditus	Subditus	fw-la	Subditus	subditus	0
+.	.	.	.	.	1
+Tho.	Tho.	np1	Tho.	Tho.	0
+Malpas	Malpas	np1	Malpas	Malpas	0
+.	.	.	.	.	1

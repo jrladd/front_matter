@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Worthy	Worthy	j	Worthy	worthy	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+KENELME	KENELME	np1	KENELME	KENELME	0
+DIGBIE	DIGBIE	np1	DIGBIE	DIGBIE	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

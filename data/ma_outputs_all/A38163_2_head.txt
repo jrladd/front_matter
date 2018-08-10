@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+beloved	beloved	j-vvn	beloved	belove	0
+People	People	n1	People	people	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Parish	Parish	n1	Parish	parish	0
+of	of	pp-f	of	of	0
+Beckford	Beckford	np1	Beckford	Beckford	0
+.	.	.	.	.	1

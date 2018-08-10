@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+ever-thankfull	ever-thankfull	j	ever-thankfull	ever-thankfull	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+NABBES	NABBES	np1	NABBES	NABBES	0
+.	.	.	.	.	1

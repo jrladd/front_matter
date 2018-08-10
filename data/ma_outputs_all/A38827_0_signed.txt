@@ -1,0 +1,9 @@
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+eternally	eternally	av-j	eternally	eternal	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+John	John	np1	John	John	0
+Everard	Everard	np1	Everard	Everard	0
+.	.	.	.	.	1

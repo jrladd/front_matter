@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+,	,	,	,	,	0
+SIMON	SIMON	np1	SIMON	Simon	0
+HARWARD	HARWARD	np1	HARWARD	HARWARD	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+,	,	,	,	,	0
+observant	observant	j	observant	observant	0
+and	and	cc	and	and	0
+respective	respective	j	respective	respective	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Allwyn	Allwyn	np1	Allwyn	Allwyn	0
+.	.	.	.	.	1

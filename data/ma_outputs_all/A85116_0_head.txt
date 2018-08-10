@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+THE	THE	dt	THE	the	0
+rincess	rincess	n1	rincess	rincess	0
+Ann	Ann	np1	Ann	Ann	0
+of	of	pp-f	of	of	0
+Denmark	Denmark	np1	Denmark	Denmark	0
+.	.	.	.	.	1
+Humbly	Humbly	av-j	Humbly	humble	0
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+.	.	.	.	.	1

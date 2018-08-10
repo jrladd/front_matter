@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Serjeant	Serjeant	n1	Sergeant	sergeant	0
+Glyn	Glyn	np1	Glyn	Glyn	0
+,	,	,	,	,	0
+Now	Now	av	Now	now	0
+Judge	Judge	n1	Judge	judge	0
+of	of	pp-f	of	of	0
+Assise	Assise	n1	Assize	assize	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+Circuit	Circuit	n1	Circuit	circuit	0
+.	.	.	.	.	1

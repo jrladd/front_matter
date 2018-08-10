@@ -1,0 +1,11 @@
+Pietatis	Pietatis	fw-la	Pietatis	pietatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+&	&	cc	&	and	0
+Eru	Eru	n2	Erum	erum	0
+∣	∣	sy	∣	∣	0
+ditionis	ditionis	fw-la	ditionis	ditionis	0
+cultorem	cultorem	fw-la	cultorem	cultorem	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+BRIDE-OAKE	BRIDE-OAKE	n1	BRIDE-OAKE	bride-oake	0
+.	.	.	.	.	1

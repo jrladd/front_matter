@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Phinch	Phinch	vvb	Phinch	phinch	0
+.	.	.	.	.	1

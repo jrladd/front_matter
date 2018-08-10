@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+Son	Son	n1	Son	son	0
+Altesse	Altesse	n1	Altesse	altesse	0
+Monseigneur	Monseigneur	np1	Monseigneur	Monseigneur	0
+le	le	fw-fr	le	le	0
+Prince	Prince	n1	Prince	prince	0
+D'ORANGE	D'ORANGE	j	D'ORANGE	d'orange	0
+.	.	.	.	.	1

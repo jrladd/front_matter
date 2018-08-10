@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+M.	M.	n1	M.	m.	1
+IO	IO	uh	IO	io	0
+.	.	.	.	.	1
+IVELL	IVELL	n1	IVELL	ivell	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HESKINS	HESKINS	np1	HESKINS	HESKINS	0
+VVISHETH	VVISHETH	vvz	WISHETH	wish	0
+GRACE	GRACE	n1	GRACE	grace	0
+AND	AND	cc	AND	and	0
+RESTITV	RESTITV	n1	RESTITV	restitv	0
+∣	∣	sy	∣	∣	0
+cion	cion	n1	cion	cion	0
+of	of	pp-f	of	of	0
+faith	faith	n1	faith	faith	0
+.	.	.	.	.	1

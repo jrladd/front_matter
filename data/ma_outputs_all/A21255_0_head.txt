@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+vvorshipful	vvorshipful	j	worshipful	worshipful	0
+sir	sir	n1	sir	sir	0
+Francis	Francis	np1	Francis	Francis	0
+Castillion	Castillion	np1	Castillion	Castillion	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+Pentioner	Pentioner	n1	Pensioner	pensioner	0
+vnto	vnto	p-acp	unto	unto	0
+his	his	po31	his	his	0
+Maiesty	Maiesty	n1	Majesty	majesty	0
+.	.	.	.	.	1

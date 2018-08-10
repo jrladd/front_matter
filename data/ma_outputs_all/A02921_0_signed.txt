@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+humbly	humbly	av-j	humbly	humble	0
+at	at	p-acp	at	at	0
+commaun	commaun	n1	command	command	0
+∣	∣	sy	∣	∣	0
+dement	dement	n1	dement	dement	0
+,	,	,	,	,	0
+VV.	VV.	np1	VV.	VV.	0
+Gace	Gace	n1	Gace	gace	0
+.	.	.	.	.	1

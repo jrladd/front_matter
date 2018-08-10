@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THF	THF	j-jn	THF	thf	0
+NOBILITIE	NOBILITIE	n1	NOBILITIE	nobility	0
+OF	OF	pp-f	OF	of	0
+FRANCE	FRANCE	np1	FRANCE	France	0
+.	.	.	.	.	1

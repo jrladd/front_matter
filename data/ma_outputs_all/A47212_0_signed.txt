@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+JOSEPH	JOSEPH	np1	JOSEPH	Joseph	0
+KELSEY	KELSEY	np1	KELSEY	Kelsey	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+al	al	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+du	du	fw-fr	du	du	0
+∣	∣	sy	∣	∣	0
+tie	tie	vvb	tie	tie	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+.	.	.	.	.	1
+THO	THO	np1	THO	Tho	0
+:	:	:	:	:	0
+IAMES	IAMES	np1	IAMES	Iames	0
+.	.	.	.	.	1

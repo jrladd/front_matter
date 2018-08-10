@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+and	and	cc	and	and	0
+Worships	Worships	n2	Worships	worship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lorde	Lorde	n1	Lord	lord	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1
+Nath.	Nath.	np1	Nath.	Nath.	0
+Baxterus	Baxterus	np1	Baxterus	Baxterus	0
+.	.	.	.	.	1

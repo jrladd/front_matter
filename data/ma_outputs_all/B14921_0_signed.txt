@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+NEADE	NEADE	n1	NEADE	need	0
+,	,	,	,	,	0
+Archer	Archer	n1	Archer	archer	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+the	the	dt	the	the	0
+Bishops	Bishops	n2	Bishops	bishop	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

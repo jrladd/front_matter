@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Supream	Supream	j	Supreme	supreme	0
+Authority	Authority	n1	Authority	authority	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Nation	Nation	n1	Nation	nation	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Parliament	Parliament	n1	Parliament	parliament	0
+now	now	av	now	now	0
+sitting	sitting	vvg	sitting	sit	0
+in	in	p-acp	in	in	0
+Westminster	Westminster	np1	Westminster	Westminster	0
+.	.	.	.	.	1

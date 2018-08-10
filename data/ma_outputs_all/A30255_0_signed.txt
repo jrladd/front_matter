@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+C.	C.	np1	C.	C.	0
+Burges	Burges	np1	Burges	Burges	0
+.	.	.	.	.	1

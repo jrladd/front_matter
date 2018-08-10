@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+Roger	Roger	np1	Roger	Roger	0
+Hacket	Hacket	np1	Hacket	Hacket	0
+.	.	.	.	.	1

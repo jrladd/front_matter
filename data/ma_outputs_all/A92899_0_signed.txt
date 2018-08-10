@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+Honourer	Honourer	n1	Honourer	honourer	0
+Though	Though	cs	Though	though	0
+undeserving	undeserving	j	undeserving	undeserving	0
+Servant	Servant	n1	Servant	servant	0
+G.	G.	np1	G.	G.	0
+S.	S.	np1	S.	S.	1

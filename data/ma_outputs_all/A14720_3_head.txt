@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+Maister	Maister	n1	Master	master	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Fanshawe	Fanshawe	np1	Fanshawe	Fanshawe	0
+,	,	,	,	,	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Thy	Thy	po21	Thy	thy	0
+Eternall	Eternall	j	Eternal	eternal	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+lowest	lowest	js	lowest	low	0
+and	and	cc	and	and	0
+least	least	ds	least	least	0
+of	of	pp-f	of	of	0
+thy	thy	po21	thy	thy	0
+vngracious	vngracious	j	ungracious	ungracious	0
+seruants	seruants	n2	servants	servant	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

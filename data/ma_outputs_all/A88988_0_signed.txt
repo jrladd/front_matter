@@ -1,0 +1,3 @@
+Joannes	Joannes	np1	Joannes	Joannes	0
+Mayer	Mayer	np1	Mayer	Mayer	0
+.	.	.	.	.	1

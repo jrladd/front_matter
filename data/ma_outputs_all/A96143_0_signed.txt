@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+bonds	bonds	n2	bonds	bond	0
+of	of	pp-f	of	of	0
+Love	Love	n1	Love	love	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Jo.	Jo.	np1	Jo.	Jo.	0
+WEBSTER	WEBSTER	np1	WEBSTER	Webster	0
+.	.	.	.	.	1

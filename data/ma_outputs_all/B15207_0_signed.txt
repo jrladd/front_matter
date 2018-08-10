@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+truly	truly	av-j	truly	true	0
+.	.	.	.	.	1
+HENRIE	HENRIE	np1	HENRIE	Henry	0
+PEACHAM	PEACHAM	np1	PEACHAM	Peacham	0
+.	.	.	.	.	1

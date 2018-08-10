@@ -1,0 +1,17 @@
+He	He	pns31	He	he	0
+that	that	cst	that	that	0
+is	is	vbz	is	be	0
+most	most	av-ds	most	most	0
+un	un	j	un	unacustomated	0
+∣	∣	sy	∣	∣	0
+worthy	worthy	j	worthy	worthy	0
+the	the	dt	the	the	0
+name	name	n1	name	name	0
+of	of	pp-f	of	of	0
+a	a	dt	a	a	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+DINNE	DINNE	n1	DINNE	din	0
+.	.	.	.	.	1

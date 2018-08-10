@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+and	and	cc	and	and	0
+Right	Right	j-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+ANNA-MARIA	ANNA-MARIA	j	ANNA-MARIA	anna-maria	0
+,	,	,	,	,	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Shrewsbury	Shrewsbury	np1	Shrewsbury	Shrewsbury	0
+.	.	.	.	.	1

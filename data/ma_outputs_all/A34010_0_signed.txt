@@ -1,0 +1,10 @@
+YOƲR	YOƲR	np1	YOƲR	YOƲR	0
+MOST	MOST	av-ds	MOST	most	0
+DƲTIFƲL	DƲTIFƲL	j	DƲTIFƲL	dʋtifʋl	0
+AND	AND	cc	AND	and	0
+OBLIGED	OBLIGED	vvn	OBLIGED	oblige	0
+SƲBJECT	SƲBJECT	j-jn	SƲBJECT	sʋbject	0
+,	,	,	,	,	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+COLLINS	COLLINS	np1	COLLINS	Collins	0
+.	.	.	.	.	1

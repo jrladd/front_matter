@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HEAVENLY	HEAVENLY	j	HEAVENLY	heavenly	0
+LOVER	LOVER	n1	LOVER	lover	0
+OF	OF	pp-f	OF	of	0
+DIVINE	DIVINE	j-jn	DIVINE	divine	0
+POEMS	POEMS	n2	POEMS	poem	0
+.	.	.	.	.	1

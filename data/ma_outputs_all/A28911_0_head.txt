@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+John	John	np1	John	John	0
+Fleet	Fleet	n1	Fleet	fleet	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

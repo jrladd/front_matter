@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Mariners	Mariners	n2	Mariners	mariner	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+others	others	n2-jn	others	other	0
+that	that	cst	that	that	0
+use	use	vvb	use	use	0
+the	the	dt	the	the	0
+Seas	Seas	n2	Seas	sea	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+sincere	sincere	j	sincere	sincere	0
+Well-wisher	Well-wisher	j	Wellwisher	wellwish	0
+in	in	p-acp	in	in	0
+both	both	d	both	both	0
+this	this	d	this	this	0
+World	World	n1	World	world	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+in	in	p-acp	in	in	0
+that	that	d	that	that	0
+to	to	pc-acp	to	to	0
+come	come	vvi	come	come	0
+,	,	,	,	,	0
+Christopher	Christopher	np1	Christopher	Christopher	0
+Ness	Ness	np1	Ness	Ness	0
+.	.	.	.	.	1

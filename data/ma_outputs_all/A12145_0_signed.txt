@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+SHIRLEY	SHIRLEY	np1	SHIRLEY	Shirley	0
+.	.	.	.	.	1

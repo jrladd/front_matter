@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+DRYDEN	DRYDEN	np1	DRYDEN	Dryden	0
+,	,	,	,	,	0
+NAT	NAT	n1	NAT	nat	0
+.	.	.	.	.	1
+LEE	LEE	np1	LEE	Lee	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+AV	AV	j	AV	av	0
+ROY	ROY	fw-fr	ROY	roy	0
+TRES-CHRESTIEN	TRES-CHRESTIEN	j	TRES-CHRESTIEN	tres-chrestien	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+RR.	RR.	np1	RR.	RR.	0
+ƲƲ	ƲƲ	np1	ƲƲ	ƲƲ	0
+.	.	.	.	.	1
+DD.	DD.	np1	DD.	DD.	0
+Studiosiss	Studiosiss	n1	Studiosiss	studiosiss	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+G.	G.	np1	G.	G.	0
+D.	D.	np1	D.	D.	1

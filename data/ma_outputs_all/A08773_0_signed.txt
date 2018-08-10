@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+willing	willing	j	willing	willing	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+weake	weake	j	weak	weak	0
+fellow-laborer	fellow-laborer	n1	fellow-laborer	fellow-laborer	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ministerie	Ministerie	n1	Ministry	ministry	0
+,	,	,	,	,	0
+C.	C.	np1	C.	C.	0
+P.	P.	np1	P.	P.	1

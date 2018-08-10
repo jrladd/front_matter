@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+SOCIETIES	SOCIETIES	n2	SOCIETIES	society	0
+,	,	,	,	,	0
+FOR	FOR	p-acp	FOR	for	0
+Reformation	Reformation	n1	Reformation	reformation	0
+of	of	pp-f	of	of	0
+MANNERS	MANNERS	n2	MANNERS	manner	0
+,	,	,	,	,	0
+IN	IN	p-acp	IN	in	0
+THE	THE	dt	THE	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+and	and	cc	and	and	0
+Westminster	Westminster	np1	Westminster	Westminster	0
+.	.	.	.	.	1

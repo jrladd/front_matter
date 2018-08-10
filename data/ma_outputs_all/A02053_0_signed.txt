@@ -1,0 +1,9 @@
+Deuoted	Deuoted	vvn	Devoted	devote	0
+to	to	p-acp	to	to	0
+none	none	pix	none	none	0
+but	but	cc-acp	but	but	0
+thy	thy	po21	thy	thy	0
+selfe	selfe	n1	self	self	0
+,	,	,	,	,	0
+Some-body	Some-body	pi	Somebody	somebody	0
+.	.	.	.	.	1

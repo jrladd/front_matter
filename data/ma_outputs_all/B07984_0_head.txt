@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+M.	M.	n1	M.	m.	1
+Bavv-vvavv	Bavv-vvavv	j	Bavv-vvavv	bavv-vvavv	0
+Health	Health	n1	Health	health	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+increase	increase	n1	increase	increase	0
+of	of	pp-f	of	of	0
+mirth	mirth	n1	mirth	mirth	0
+and	and	cc	and	and	0
+merrie	merrie	j	merry	merry	0
+conceites	conceites	n2	conceits	conceit	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Anagramma	Anagramma	n1	Anagramma	anagramma	0
+,	,	,	,	,	0
+Christ	Christ	np1	Christ	Christ	0
+is	is	vbz	is	be	0
+our	our	po12	our	our	0
+helper	helper	n1	helper	helper	0
+.	.	.	.	.	1

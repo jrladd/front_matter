@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+fellow	fellow	n1	fellow	fellow	0
+soldiour	soldiour	n1	soldier	soldier	0
+against	against	p-acp	against	against	0
+the	the	dt	the	the	0
+flesh	flesh	n1	flesh	flesh	0
+and	and	cc	and	and	0
+world	world	n1	world	world	0
+,	,	,	,	,	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

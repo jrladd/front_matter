@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+worshipful	worshipful	j	worshipful	worshipful	0
+Master	Master	n1	Master	master	0
+Fran	Fran	np1	Fran	Fran	0
+∣	∣	sy	∣	∣	0
+cis	cis	fw-la	cis	cis	0
+Hastinges	Hastinges	np1	Hastinges	Hastinges	0
+,	,	,	,	,	0
+Sheriffe	Sheriffe	n1	Sheriff	sheriff	0
+of	of	pp-f	of	of	0
+Leicestershire	Leicestershire	np1	Leicestershire	Leicestershire	0
+.	.	.	.	.	1

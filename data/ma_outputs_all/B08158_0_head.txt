@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+ANNA	ANNA	np1	ANNA	Anna	0
+Queene	Queene	n1	Queen	queen	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+Bri	Bri	np1	Bri	Bri	0
+∣	∣	sy	∣	∣	0
+taine	taine	zz	taine	taine	0
+.	.	.	.	.	1

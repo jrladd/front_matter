@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+honoured	honoured	j-vvn	honoured	honour	0
+good	good	j	good	good	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+Lord	Lord	n1	Lord	lord	0
+DINGWALL	DINGWALL	np1	DINGWALL	Dingwall	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+MONSIVER	MONSIVER	n1	MONSIVER	monsiver	0
+NICHO	NICHO	n1	NICHO	nicho	0
+∣	∣	sy	∣	∣	0
+LAS	LAS	uh	LAS	alas	0
+MALAYR	MALAYR	j	MALAYR	malayr	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+OF	OF	pp-f	OF	of	0
+TVT	TVT	np1	TVT	TVT	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	1

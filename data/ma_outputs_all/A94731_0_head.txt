@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Excellency	Excellency	n1	Excellency	excellency	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Generall	Generall	n1	General	general	0
+CROMWELL	CROMWELL	np1	CROMWELL	Cromwell	0
+,	,	,	,	,	0
+Chancellor	Chancellor	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ʋniversity	Ʋniversity	n1	Ʋniversity	ʋniversity	0
+of	of	pp-f	of	of	0
+OXFORD	OXFORD	np1	OXFORD	Oxford	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Cartwright	Cartwright	np1	Cartwright	Cartwright	0
+.	.	.	.	.	1

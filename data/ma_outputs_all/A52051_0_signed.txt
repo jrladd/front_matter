@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Brother	Brother	n1	Brother	brother	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+Work	Work	vvb	Work	work	0
+,	,	,	,	,	0
+STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
+MARSHALL	MARSHALL	np1	MARSHALL	Marshall	0
+.	.	.	.	.	1

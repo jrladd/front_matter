@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+service	service	n1	service	service	0
+:	:	:	:	:	0
+R.	R.	np1	R.	R.	0
+SIBBS	SIBBS	np1	SIBBS	SIBBS	0
+.	.	.	.	.	1

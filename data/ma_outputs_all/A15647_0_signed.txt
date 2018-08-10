@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
+most	most	av-ds	most	most	0
+Loyall	Loyall	j	Loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+WITHER	WITHER	vvb	WITHER	wither	0
+.	.	.	.	.	1

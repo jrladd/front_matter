@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+Frances	Frances	np1	Frances	Frances	0
+Reynolds	Reynolds	np1	Reynolds	Reynolds	0
+,	,	,	,	,	0
+Relict	Relict	n1	Relict	relict	0
+of	of	pp-f	of	of	0
+Dr.	Dr.	n1	Dr.	dr.	0
+REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
+.	.	.	.	.	1

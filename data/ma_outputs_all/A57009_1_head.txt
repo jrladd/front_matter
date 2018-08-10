@@ -1,0 +1,14 @@
+Francis	Francis	np1	Francis	Francis	0
+Rabelais	Rabelais	np1	Rabelais	Rabelais	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Soul	Soul	n1	Soul	soul	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+deceased	deceased	j-vvn	deceased	decease	0
+Queen	Queen	n1	Queen	queen	0
+of	of	pp-f	of	of	0
+Na	Na	fw-mi	Na	na	0
+∣	∣	sy	∣	∣	0
+varre	varre	n1	varre	varre	0
+.	.	.	.	.	1

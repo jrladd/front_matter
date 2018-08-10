@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+Loyall	Loyall	j	Loyal	loyal	0
+hearted	hearted	j-vvn	hearted	heart	0
+,	,	,	,	,	0
+learned	learned	j	learned	learned	0
+,	,	,	,	,	0
+well	well	av	well	well	0
+∣	∣	sy	∣	∣	0
+accomplished	accomplished	vvd	accomplished	accomplish	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Archibald	Archibald	np1	Archibald	Archibald	0
+Rankin	Rankin	np1	Rankin	Rankin	0
+.	.	.	.	.	1

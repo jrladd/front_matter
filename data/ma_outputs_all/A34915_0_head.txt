@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+King	King	n1	King	king	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+both	both	d	both	both	0
+Houses	Houses	n2	Houses	house	0
+of	of	pp-f	of	of	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+,	,	,	,	,	0
+Thus	Thus	av	Thus	thus	0
+saith	saith	vvz	says	say	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	1

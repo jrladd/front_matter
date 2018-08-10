@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Ienkyn	Ienkyn	np1	Ienkyn	Ienkyn	0
+.	.	.	.	.	1

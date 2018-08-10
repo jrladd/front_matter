@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+well	well	n1	well	well	0
+willer	willer	n1	willer	willer	0
+.	.	.	.	.	1
+Robert	Robert	np1	Robert	Robert	0
+Crovvley	Crovvley	np1	Crovvley	Crovvley	0
+.	.	.	.	.	1

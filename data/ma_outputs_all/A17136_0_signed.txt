@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+right	right	j-jn	right	right	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+.	.	.	.	.	1
+GEORGE	GEORGE	np1	GEORGE	George	0
+BVDDLE	BVDDLE	n1	BVDDLE	bvddle	0
+.	.	.	.	.	1

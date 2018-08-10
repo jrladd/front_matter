@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+worshippes	worshippes	ng1	worships	worship	0
+humble	humble	j	humble	humble	0
+alwayes	alwayes	av	always	always	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+H.	H.	np1	H.	H.	1

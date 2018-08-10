@@ -1,0 +1,3 @@
+H.	H.	np1	H.	H.	0
+VINCENT	VINCENT	np1	VINCENT	Vincent	0
+.	.	.	.	.	1

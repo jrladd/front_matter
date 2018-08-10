@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Colonel	Colonel	n1	Colonel	colonel	0
+Henry	Henry	np1	Henry	Henry	0
+Wallop	Wallop	n1	Wallop	wallop	0
+OF	OF	pp-f	OF	of	0
+Farly-wallop	Farly-wallop	j	Farly-wallop	farly-wallop	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+Southampton	Southampton	np1	Southampton	Southampton	0
+.	.	.	.	.	1

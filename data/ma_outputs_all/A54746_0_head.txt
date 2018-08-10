@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+IMPARTIAL	IMPARTIAL	j	IMPARTIAL	impartial	0
+SISTERS	SISTERS	n2	SISTERS	sister	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+TWO	TWO	crd	TWO	two	0
+UNIVERSITIES	UNIVERSITIES	n2	UNIVERSITIES	university	0
+.	.	.	.	.	1

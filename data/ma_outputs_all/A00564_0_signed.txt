@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honourable	Honourable	j	Honourable	honourable	0
+command	command	n1	command	command	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Tho	Tho	av	Though	tho	0
+:	:	:	:	:	0
+Adams	Adams	np1	Adams	Adams	0
+.	.	.	.	.	1

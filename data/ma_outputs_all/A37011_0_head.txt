@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+esteem'd	esteem'd	vvn	esteemed	esteem	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+NICHOLAS	NICHOLAS	np1	NICHOLAS	Nicholas	0
+GARRARD	GARRARD	np1	GARRARD	Garrard	0
+,	,	,	,	,	0
+Bar.	Bar.	np1	Bar.	Bar.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+daily	daily	j	daily	daily	0
+Votary	Votary	n1	Votary	votary	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Hamnet	Hamnet	n1	Hamnet	hamnet	0
+Ward	Ward	n1	Ward	ward	0
+.	.	.	.	.	1

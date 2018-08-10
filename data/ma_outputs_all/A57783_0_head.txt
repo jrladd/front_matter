@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+OF	OF	pp-f	OF	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

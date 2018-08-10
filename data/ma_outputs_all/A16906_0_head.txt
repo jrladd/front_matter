@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIHGT	RIHGT	vvd	RIHGT	rihgt	0
+Honorable	Honorable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+La.	La.	n1	La.	lady	0
+Cicely	Cicely	np1	Cicely	Cicely	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+DORSET	DORSET	np1	DORSET	Dorset	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVL	WORSHIPFVL	j	WORSHIPFUL	worshipful	0
+Sr	Sr	n1	Sir	sir	0
+CONIER	CONIER	np1	CONIER	CONIER	0
+CLIFFORD	CLIFFORD	np1	CLIFFORD	Clifford	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	0
+health	health	n1	health	health	0
+and	and	cc	and	and	0
+felicitie	felicitie	n1	felicity	felicity	0
+.	.	.	.	.	1

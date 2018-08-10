@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+much	much	d	much	much	0
+respected	respected	j-vvn	respected	respect	0
+Friend	Friend	n1	Friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Iohn	Iohn	np1	Iohn	John	0
+Iackeson	Iackeson	np1	Iackeson	Iackeson	0
+.	.	.	.	.	1

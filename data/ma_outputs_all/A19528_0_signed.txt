@@ -1,0 +1,4 @@
+AL	AL	d	ALL	all	0
+.	.	.	.	.	1
+CRAIG	CRAIG	np1	CRAIG	Craig	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+.	.	.	.	.	1
+IAMES	IAMES	np1	IAMES	Iames	0
+ACHESONE	ACHESONE	n1	ACHESONE	achesone	0
+.	.	.	.	.	1

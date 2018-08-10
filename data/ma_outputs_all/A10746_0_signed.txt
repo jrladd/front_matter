@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maties	Maties	n2	Maties	maty	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Beadesman	Beadesman	n1	Beadsman	beadsman	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+W.	W.	np1	W.	W.	1

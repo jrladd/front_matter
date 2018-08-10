@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Cope	Cope	np1	Cope	Cope	0
+.	.	.	.	.	1

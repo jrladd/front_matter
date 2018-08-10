@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+Lord	Lord	n1	Lord	lord	0
+Viscount	Viscount	np1	Viscount	Viscount	0
+WOODSTOCK	WOODSTOCK	np1	WOODSTOCK	Woodstock	0
+.	.	.	.	.	1

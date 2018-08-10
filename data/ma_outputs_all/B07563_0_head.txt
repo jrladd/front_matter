@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+WEL-RESPECTED	WEL-RESPECTED	j	WELL-RESPECTED	well-respected	0
+GOOD	GOOD	j	GOOD	good	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Cuthbert	Cuthbert	np1	Cuthbert	Cuthbert	0
+Thuresby	Thuresby	np1	Thuresby	Thuresby	0
+,	,	,	,	,	0
+Wa	Wa	np1	Wa	Wa	0
+∣	∣	sy	∣	∣	0
+ter-Bailiffe	ter-Bailiffe	n1	ter-Bailiffe	ter-bailiffe	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

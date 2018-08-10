@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+holy	holy	j	holy	holy	0
+services	services	n2	services	service	0
+,	,	,	,	,	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Grosse	Grosse	j	Gross	gross	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+The	The	dt	The	the	0
+Marquess	Marquess	n1	Marquis	marquis	0
+of	of	pp-f	of	of	0
+DORCHESTER	DORCHESTER	np1	DORCHESTER	Dorchester	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+Oliuer	Oliuer	np1	Oliuer	Oliver	0
+Carter	Carter	n1	Carter	carter	0
+.	.	.	.	.	1

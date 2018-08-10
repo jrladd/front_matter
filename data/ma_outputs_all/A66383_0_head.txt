@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+DISSENTERS	DISSENTERS	n2	DISSENTERS	dissenter	0
+FROM	FROM	p-acp	FROM	from	0
+THE	THE	dt	THE	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

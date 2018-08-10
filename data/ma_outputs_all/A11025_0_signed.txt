@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+&	&	cc	&	and	0
+duti	duti	fw-la	duti	duti	0
+∣	∣	sy	∣	∣	0
+full	full	j	full	full	0
+to	to	pc-acp	to	to	0
+commande	commande	vvi	command	command	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Florio	Florio	np1	Florio	Florio	0
+.	.	.	.	.	1

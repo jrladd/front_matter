@@ -1,0 +1,7 @@
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+wisheth	wisheth	vvz	wishes	wish	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+.	.	.	.	.	1

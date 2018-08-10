@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+and	and	cc	and	and	0
+Serene	Serene	np1	Serene	Serena	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+James	James	np1	James	James	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+York	York	np1	York	York	0
+AND	AND	cc	AND	and	0
+ALBANY	ALBANY	np1	ALBANY	Albany	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

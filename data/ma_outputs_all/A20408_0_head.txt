@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+deare	deare	j-jn	deer	dear	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Master	Master	n1	Master	master	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+White	White	j-jn	White	white	0
+of	of	pp-f	of	of	0
+Corffe	Corffe	n1	Corffe	corffe	0
+in	in	p-acp	in	in	0
+Dorsetshire	Dorsetshire	np1	Dorsetshire	Dorsetshire	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+VERY	VERY	j	VERY	very	0
+GOOD	GOOD	j	GOOD	good	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+COVN	COVN	n1	COVN	covn	0
+∣	∣	sy	∣	∣	0
+TESSE	TESSE	n1	TESSE	tesse	0
+OF	OF	pp-f	OF	of	0
+SAINT	SAINT	n1	SAINT	saint	0
+PAVL	PAVL	np1	PAVL	PAVL	0
+.	.	.	.	.	1

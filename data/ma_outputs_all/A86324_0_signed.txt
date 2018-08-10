@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Gaspar	Gaspar	np1	Gaspar	Gaspar	0
+Hicks	Hicks	np1	Hicks	Hicks	0
+.	.	.	.	.	1

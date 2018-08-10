@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+maister	maister	n1	master	master	0
+∣	∣	sy	∣	∣	0
+shippes	shippes	n2	ships	ship	0
+euer	euer	av	ever	ever	0
+.	.	.	.	.	1
+VVillyam	VVillyam	np1	VVillyam	VVillyam	0
+Bulleyn	Bulleyn	np1	Bulleyn	Bulleyn	0
+.	.	.	.	.	1

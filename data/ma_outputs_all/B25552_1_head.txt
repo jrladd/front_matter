@@ -1,0 +1,4 @@
+Auxilio	Auxilio	np1	Auxilio	Auxilio	0
+solius	solius	fw-la	solius	solius	0
+Dei	Dei	fw-la	Dei	dei	0
+.	.	.	.	.	1

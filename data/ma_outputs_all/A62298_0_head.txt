@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Misguided	Misguided	vvn	Misguided	misguide	0
+FLOCK	FLOCK	vvb	FLOCK	flock	0
+Commonly	Commonly	av-j	Commonly	common	0
+Termed	Termed	vvd	Termed	term	0
+QUAKERS	QUAKERS	np1	QUAKERS	Quakers	0
+,	,	,	,	,	0
+Especially	Especially	av-j	Especially	especial	0
+in	in	p-acp	in	in	0
+and	and	cc	and	and	0
+about	about	a-acp	about	about	0
+Samford	Samford	np1	Samford	Samford	0
+.	.	.	.	.	1

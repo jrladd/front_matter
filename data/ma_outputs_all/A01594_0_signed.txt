@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+moste	moste	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+to	to	p-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+Robert	Robert	np1	Robert	Robert	0
+Fills	Fills	vvz	Fills	fill	0
+.	.	.	.	.	1

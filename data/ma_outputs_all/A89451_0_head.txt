@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+truly	truly	av-j	truly	true	0
+honoured	honoured	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+David	David	np1	David	David	0
+Gwin	Gwin	np1	Gwin	Gwin	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

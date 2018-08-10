@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+alwayes	alwayes	av	always	always	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+Jos.	Jos.	np1	Jos.	Jos.	0
+Wybarne	Wybarne	vvi	Wybarne	wybarne	0
+.	.	.	.	.	1

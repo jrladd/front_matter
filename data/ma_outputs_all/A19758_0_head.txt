@@ -1,0 +1,6 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDI	DEDI	fw-la	DEDI	dedi	0
+∣	∣	sy	∣	∣	0
+CATORIE	CATORIE	j	CATORIE	catorie	0
+.	.	.	.	.	1

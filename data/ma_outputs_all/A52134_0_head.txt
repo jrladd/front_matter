@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+CAPTIOUS	CAPTIOUS	j	CAPTIOUS	captious	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

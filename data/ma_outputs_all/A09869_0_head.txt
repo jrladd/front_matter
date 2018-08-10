@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+OVR	OVR	po12	OUR	our	0
+MOST	MOST	av-ds	MOST	most	0
+GRATIOVS	GRATIOVS	j	GRACIOUS	gracious	0
+AND	AND	cc	AND	and	0
+MOST	MOST	av-ds	MOST	most	0
+Religious	Religious	j	Religious	religious	0
+Soveraigne	Soveraigne	n-jn	Sovereign	sovereign	0
+,	,	,	,	,	0
+King	King	n1	King	king	0
+Charles	Charles	np1	Charles	Charles	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

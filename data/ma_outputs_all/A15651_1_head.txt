@@ -1,0 +1,15 @@
+George	George	np1	George	George	0
+VVither	VVither	np1	VVither	VVither	0
+presents	presents	vvz	presents	present	0
+these	these	d	these	these	0
+Elegiak-sonnets	Elegiak-sonnets	n2	Elegiak-sonnets	elegiak-sonnet	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+wisheth	wisheth	vvz	wishes	wish	0
+double	double	j-jn	double	double	0
+Comfort	Comfort	n1	Comfort	comfort	0
+after	after	p-acp	after	after	0
+his	his	po31	his	his	0
+two-fold	two-fold	n1	twofold	twofold	0
+sorrow	sorrow	n1	sorrow	sorrow	0
+.	.	.	.	.	1

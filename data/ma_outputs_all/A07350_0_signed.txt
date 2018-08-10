@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+fellow-Seruant	fellow-Seruant	n1	fellow-Seruant	fellow-seruant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ministery	Ministery	n1	Ministry	ministry	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+MAYER	MAYER	np1	MAYER	Mayer	0
+.	.	.	.	.	1

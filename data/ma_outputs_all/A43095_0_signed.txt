@@ -1,0 +1,11 @@
+Ʋnworthy	Ʋnworthy	j	Ʋnworthy	ʋnworthy	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+observant	observant	j	observant	observant	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+MICH	MICH	np1	MICH	Mich	0
+.	.	.	.	.	1
+HAWKE	HAWKE	np1	HAWKE	Hawke	0
+.	.	.	.	.	1

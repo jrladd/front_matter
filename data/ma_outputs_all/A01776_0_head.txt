@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+IEROME	IEROME	np1	IEROME	IEROME	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+PORTLAND	PORTLAND	np1	PORTLAND	Portland	0
+.	.	.	.	.	1

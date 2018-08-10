@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+Anderson	Anderson	np1	Anderson	Anderson	0
+.	.	.	.	.	1

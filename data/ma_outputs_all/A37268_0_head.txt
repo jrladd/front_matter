@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+LOVER	LOVER	n1	LOVER	lover	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+CLERGY	CLERGY	n1	CLERGY	clergy	0
+Mr	Mr	n1	Mr	mr.	0
+JOHN	JOHN	np1	JOHN	John	0
+DAVY	DAVY	np1	DAVY	Davy	0
+OF	OF	pp-f	OF	of	0
+Taunton	Taunton	np1	Taunton	Taunton	0
+Magdalen	Magdalen	np1	Magdalen	Magdalen	0
+,	,	,	,	,	0
+Perseverance	Perseverance	n1	Perseverance	perseverance	0
+.	.	.	.	.	1

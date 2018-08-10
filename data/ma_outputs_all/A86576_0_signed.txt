@@ -1,0 +1,4 @@
+Very	Very	j	Very	very	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1

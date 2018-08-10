@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+alwayes	alwayes	av	always	always	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Iones	Iones	np1	Iones	Jones	0
+.	.	.	.	.	1

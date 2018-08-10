@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+NOVRABLE	NOVRABLE	j-u	NOVRABLE	novrable	0
+HIS	HIS	po31	HIS	his	0
+VERIE	VERIE	av	VERY	very	0
+GOOD	GOOD	j	GOOD	good	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+Lord	Lord	n1	Lord	lord	0
+of	of	pp-f	of	of	0
+WALDEN	WALDEN	np1	WALDEN	Walden	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+Friend	Friend	n1	Friend	friend	0
+H.	H.	np1	H.	H.	0
+H.	H.	np1	H.	H.	1

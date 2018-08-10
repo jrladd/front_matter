@@ -1,0 +1,3 @@
+Vox	Vox	fw-la	Vox	vox	0
+dei	dei	fw-la	dei	dei	0
+.	.	.	.	.	1

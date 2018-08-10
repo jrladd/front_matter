@@ -1,0 +1,7 @@
+Commands	Commands	vvz	Commands	command	0
+and	and	cc	and	and	0
+injunctions	injunctions	n2	injunctions	injunction	0
+,	,	,	,	,	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+HINDE	HINDE	n1	HINDE	hind	0
+.	.	.	.	.	1

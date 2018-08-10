@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+WOR	WOR	zz	WOR	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+,	,	,	,	,	0
+Syr	Syr	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Moun	Moun	fw-fr	Moun	moun	0
+∣	∣	sy	∣	∣	0
+son	son	fw-fr	son	son	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

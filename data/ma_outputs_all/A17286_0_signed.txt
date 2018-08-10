@@ -1,0 +1,6 @@
+Thy	Thy	po21	Thy	thy	0
+Christian	Christian	np1	Christian	Christian	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Gr.	Gr.	np1	Gr.	Gr.	1

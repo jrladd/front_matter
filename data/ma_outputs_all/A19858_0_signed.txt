@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+DAYRELL	DAYRELL	n1	DAYRELL	dayrell	0
+.	.	.	.	.	1

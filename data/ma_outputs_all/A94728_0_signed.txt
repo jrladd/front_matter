@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+TOMBES	TOMBES	n2	TOMBES	tomb	0
+.	.	.	.	.	1

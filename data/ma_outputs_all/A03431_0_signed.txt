@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+highnesse	highnesse	n1	highness	highness	0
+humble	humble	j	humble	humble	0
+seruaunt	seruaunt	n1	servant	servant	0
+Miles	Miles	n2	Miles	mile	0
+Hogarde	Hogarde	vvi	Hogarde	hogarde	0
+.	.	.	.	.	1

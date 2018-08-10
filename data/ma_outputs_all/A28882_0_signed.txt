@@ -1,0 +1,10 @@
+By	By	p-acp	By	by	0
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+And	And	cc	And	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+R.	R.	np1	R.	R.	0
+BOULTON	BOULTON	np1	BOULTON	Boulton	0
+.	.	.	.	.	1

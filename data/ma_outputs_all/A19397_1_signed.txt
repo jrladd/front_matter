@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+humblie	humblie	av-j	humbly	humble	0
+at	at	p-acp	at	at	0
+commandment	commandment	n1	commandment	commandment	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+Cosyn	Cosyn	n1	Cousin	cousin	0
+.	.	.	.	.	1

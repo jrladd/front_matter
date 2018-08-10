@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lordes	Lordes	n2	Lords	lord	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+honorable	honorable	j	honourable	honourable	0
+Privey	Privey	np1	Privey	Privey	0
+Counsell	Counsell	n1	Counsel	counsel	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+KINGS	KINGS	ng1	KINGS	king	0
+most	most	av-ds	most	most	0
+Excellent	Excellent	j	Excellent	excellent	0
+MAJESTIE	MAJESTIE	n1	MAJESTIE	majesty	0
+.	.	.	.	.	1

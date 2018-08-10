@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+SWAN	SWAN	n1	SWAN	swan	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+The	The	dt	The	the	0
+humble	humble	j	humble	humble	0
+Petition	Petition	vvb	Petition	petition	0
+of	of	pp-f	of	of	0
+George	George	np1	George	George	0
+Wither	Wither	vvi	Wither	wither	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	1

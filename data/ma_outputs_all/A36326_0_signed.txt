@@ -1,0 +1,10 @@
+Affectionately	Affectionately	av-j	Affectionately	affectionate	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Power	Power	n1	Power	power	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Doolittle	Doolittle	np1	Doolittle	Doolittle	0
+.	.	.	.	.	1

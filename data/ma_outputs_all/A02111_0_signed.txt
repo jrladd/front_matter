@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+humbly	humbly	av-j	humbly	humble	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+Rob.	Rob.	np1	Rob.	Rob.	0
+Greene	Greene	j-jn	Green	green	0
+.	.	.	.	.	1

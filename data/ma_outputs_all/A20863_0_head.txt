@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+O.	O.	np1	O.	O.	0
+C.	C.	np1	C.	C.	0
+K.	K.	n1	K.	king	1

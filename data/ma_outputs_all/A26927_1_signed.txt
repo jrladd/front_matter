@@ -1,0 +1,2 @@
+John	John	np1	John	John	0
+Wigorn.	Wigorn.	np1	Wigorn.	Wigorn.	1

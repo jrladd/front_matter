@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+most	most	av-ds	most	most	0
+Sacred	Sacred	j	Sacred	sacred	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+.	.	.	.	.	1

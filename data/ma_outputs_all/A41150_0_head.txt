@@ -1,0 +1,8 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+TO	TO	p-acp	TO	to	0
+NEWCASTLE	NEWCASTLE	np1	NEWCASTLE	Newcastle	0
+upon	upon	p-acp	upon	upon	0
+Tyne	Tyne	np1	Tyne	Tyne	0
+.	.	.	.	.	1

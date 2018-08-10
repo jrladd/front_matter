@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+HAKLVYT	HAKLVYT	np1	HAKLVYT	HAKLVYT	0
+,	,	,	,	,	0
+Preacher	Preacher	n1	Preacher	preacher	0
+.	.	.	.	.	1

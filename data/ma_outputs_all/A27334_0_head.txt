@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+Collonel	Collonel	n1	Colonel	colonel	0
+Codrington	Codrington	np1	Codrington	Codrington	0
+.	.	.	.	.	1

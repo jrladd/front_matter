@@ -1,0 +1,11 @@
+Lesse	Lesse	av-dc	Less	less	0
+then	then	cs	then	than	0
+the	the	dt	the	the	0
+least	least	ds	least	least	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+Saints	Saints	n2	Saints	saint	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+GAULE	GAULE	np1	GAULE	Gaul	0
+.	.	.	.	.	1

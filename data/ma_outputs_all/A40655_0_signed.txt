@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+ORATOVR	ORATOVR	n1	ORATOVR	oratovr	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+FULLER	FULLER	np1	FULLER	Fuller	0
+.	.	.	.	.	1

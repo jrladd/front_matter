@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+NICOLS	NICOLS	np1	NICOLS	NICOLS	0
+.	.	.	.	.	1

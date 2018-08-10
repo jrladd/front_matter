@@ -1,0 +1,7 @@
+Done	Done	vdn	Done	do	0
+from	from	p-acp	from	from	0
+Thuanus	Thuanus	np1	Thuanus	Thuanus	0
+himself	himself	px31	himself	himself	0
+in	in	p-acp	in	in	0
+Latin	Latin	jp	Latin	latin	0
+.	.	.	.	.	1

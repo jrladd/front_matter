@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVELY-ACCOMPLISHED	TRVELY-ACCOMPLISHED	j	TRULY-ACCOMPLISHED	truly-accomplished	0
+GENTLEMAN	GENTLEMAN	n1	GENTLEMAN	gentleman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+worthy	worthy	j	worthy	worthy	0
+Deseruer	Deseruer	n1	Deserver	deserver	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+Mens	Mens	ng2	Men's	man	0
+Loues	Loues	n2	Loves	love	0
+,	,	,	,	,	0
+Master	Master	n1	Master	master	0
+ENDYMION	ENDYMION	np1	ENDYMION	Endymion	0
+PORTER	PORTER	n1	PORTER	porter	0
+.	.	.	.	.	1

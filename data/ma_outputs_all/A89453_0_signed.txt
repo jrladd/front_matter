@@ -1,0 +1,4 @@
+Menasseh	Menasseh	np1	Menasseh	Menasseh	0
+Ben	Ben	fw-mi	Ben	ben	0
+Israel	Israel	np1	Israel	Israel	0
+.	.	.	.	.	1

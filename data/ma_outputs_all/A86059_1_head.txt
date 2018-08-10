@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honest	Honest	j	Honest	honest	0
+Astrologers	Astrologers	n2	Astrologers	astrologer	0
+of	of	pp-f	of	of	0
+this	this	d	this	this	0
+Nation	Nation	n1	Nation	nation	0
+.	.	.	.	.	1

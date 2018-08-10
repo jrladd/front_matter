@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+HANSERD	HANSERD	np1	HANSERD	HANSERD	0
+KNOLLYS	KNOLLYS	np1	KNOLLYS	Knollys	0
+.	.	.	.	.	1

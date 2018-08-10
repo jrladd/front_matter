@@ -1,0 +1,17 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+hyghe	hyghe	j	high	high	0
+and	and	cc	and	and	0
+mighty	mighty	j	mighty	mighty	0
+Prince	Prince	n1	Prince	prince	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Northumberlande	Northumberlande	np1	Northumberlande	Northumberlande	0
+,	,	,	,	,	0
+hys	hys	po31	his	his	0
+grace	grace	n1	grace	grace	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Noble	Noble	j	Noble	noble	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+COTTON	COTTON	np1	COTTON	Cotton	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Ad	Ad	fw-la	Ad	ad	0
+Inuictissimum	Inuictissimum	fw-la	Inuictissimum	inuictissimum	0
+,	,	,	,	,	0
+Serenissimumque	Serenissimumque	fw-la	Serenissimumque	serenissimumque	0
+IACOBVM	IACOBVM	fw-la	IACOBVM	iacobvm	0
+Magnae	Magnae	fw-la	Magnae	magnae	0
+Britanniae	Britanniae	fw-la	Britanniae	britanniae	0
+Regem	Regem	fw-la	Regem	regem	0
+.	.	.	.	.	1

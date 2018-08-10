@@ -1,0 +1,5 @@
+L.M.Q.	L.M.Q.	np1	L.M.Q.	L.M.Q.	0
+D.D.	D.D.	np1	D.D.	D.D.	0
+Iohannes	Iohannes	np1	Iohannes	Johannes	0
+Worthingtonus	Worthingtonus	np1	Worthingtonus	Worthingtonus	0
+.	.	.	.	.	1

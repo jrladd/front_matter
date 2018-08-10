@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+loued	loued	j-vvn	loved	love	0
+louing	louing	n1	loving	love	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+welbeloued	welbeloued	j	well-beloved	well-beloved	0
+,	,	,	,	,	0
+no	no	dx	no	no	0
+matter	matter	n1	matter	matter	0
+whom	whom	r-crq	whom	who	0
+.	.	.	.	.	1

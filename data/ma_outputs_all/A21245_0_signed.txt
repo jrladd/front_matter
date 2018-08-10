@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+I	I	pns11	I	i	0
+.	.	.	.	.	0
+D.	D.	np1	D.	D.	1

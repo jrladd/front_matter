@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+and	and	cc	and	and	0
+Honors	Honors	ng1	Honours	honour	0
+happinesse	happinesse	n1	happiness	happiness	0
+and	and	cc	and	and	0
+salvation	salvation	n1	salvation	salvation	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+HVMFREY	HVMFREY	np1	HVMFREY	HVMFREY	0
+.	.	.	.	.	1

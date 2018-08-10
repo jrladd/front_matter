@@ -1,0 +1,6 @@
+THE	THE	dt	THE	the	0
+Author's	Author's	ng1	Author's	author	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+AND	AND	cc	AND	and	0
+PRAYER	PRAYER	n1	PRAYER	prayer	0
+.	.	.	.	.	1

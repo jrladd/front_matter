@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+obseruance	obseruance	n1	observance	observance	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+:	:	:	:	:	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

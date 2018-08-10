@@ -1,0 +1,14 @@
+❧	❧	sy	❧	❧	0
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+LORD	LORD	n1	LORD	lord	0
+DE	DE	fw-fr	DE	de	0
+SVLLY	SVLLY	np1	SVLLY	SVLLY	0
+,	,	,	,	,	0
+Duke	Duke	n1	Duke	duke	0
+and	and	cc	and	and	0
+Peere	Peere	n1	Peer	peer	0
+of	of	pp-f	of	of	0
+FRANCE	FRANCE	np1	FRANCE	France	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

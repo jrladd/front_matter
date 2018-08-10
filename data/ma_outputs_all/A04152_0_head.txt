@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+such	such	d	such	such	0
+as	as	c-acp	as	as	0
+in	in	a-acp	in	in	0
+∣	∣	sy	∣	∣	0
+tend	tend	vvb	tend	tend	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+servants	servants	n2	servants	servant	0
+or	or	cc	or	or	0
+Apprentices	Apprentices	n2	Apprentices	apprentice	0
+.	.	.	.	.	1

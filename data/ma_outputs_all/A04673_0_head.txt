@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Excel	Excel	vvb	Excel	excel	0
+∣	∣	sy	∣	∣	0
+lent	lent	np1	lent	Lent	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+beautifull	beautifull	j	beautiful	beautiful	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+PENELOPE	PENELOPE	np1	PENELOPE	Penelope	0
+RITCH	RITCH	np1	RITCH	Ritch	0
+.	.	.	.	.	1

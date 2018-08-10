@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+Dr	Dr	zz	Dr	dr	0
+IOHN	IOHN	np1	IOHN	John	0
+FELL	FELL	vvd	FELL	fall	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+Dean	Dean	n1	Dean	dean	0
+of	of	pp-f	of	of	0
+Christ-Church	Christ-Church	n1	Christ-Church	christ-church	0
+.	.	.	.	.	1

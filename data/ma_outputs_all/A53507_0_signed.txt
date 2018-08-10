@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+earnest	earnest	n1	earnest	earnest	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Admirers	Admirers	n2	Admirers	admirer	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+OTWAY	OTWAY	np1	OTWAY	Otway	0
+.	.	.	.	.	1

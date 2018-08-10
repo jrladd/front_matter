@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+manded	manded	vvd	manded	mand	0
+during	during	p-acp	during	during	0
+life	life	n1	life	life	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+W.	W.	np1	W.	W.	0
+Chub	Chub	np1	Chub	Chubb	0
+.	.	.	.	.	1

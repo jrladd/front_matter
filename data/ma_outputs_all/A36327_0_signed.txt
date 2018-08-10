@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+for	for	p-acp	for	for	0
+your	your	po22	your	your	0
+Souls	Souls	n2	Souls	soul	0
+Welfare	Welfare	n1	Welfare	welfare	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Doolittle	Doolittle	np1	Doolittle	Doolittle	0
+.	.	.	.	.	1

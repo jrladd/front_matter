@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+most	most	av-ds	most	most	0
+affectionat	affectionat	j	affectionate	affectionate	0
+.	.	.	.	.	1
+Abraham	Abraham	np1	Abraham	Abraham	0
+Fraunce	Fraunce	np1	Fraunce	France	0
+.	.	.	.	.	1

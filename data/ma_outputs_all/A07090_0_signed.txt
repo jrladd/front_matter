@@ -1,0 +1,10 @@
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+MAY	MAY	vmb	MAY	may	0
+.	.	.	.	.	1

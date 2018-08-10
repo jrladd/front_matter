@@ -1,0 +1,11 @@
+Thine	Thine	png21	Thine	thou	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Chri	Chri	np1	Chri	Chri	0
+∣	∣	sy	∣	∣	0
+stian	stian	n1	stian	stian	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Watson	Watson	np1	Watson	Watson	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+Christs	Christs	npg1	Christs	Christ	0
+sake	sake	n1	sake	sake	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+NATH	NATH	np1	NATH	Nath	0
+:	:	:	:	:	0
+HARDY	HARDY	j	HARDY	hardy	0
+.	.	.	.	.	1

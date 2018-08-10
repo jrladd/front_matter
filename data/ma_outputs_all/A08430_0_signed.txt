@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Nun	Nun	n1	Nun	nun	0
+Minister	Minister	n1	Minister	minister	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+word	word	n1	word	word	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+Weston	Weston	np1	Weston	Weston	0
+.	.	.	.	.	1

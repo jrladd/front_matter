@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HAP	HAP	vvb	HAP	hap	0
+∣	∣	sy	∣	∣	0
+PIE	PIE	n1	PIE	pie	0
+SOCIETIE	SOCIETIE	n1	SOCIETIE	society	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+Beleevers	Beleevers	n2	Believers	believer	0
+.	.	.	.	.	1

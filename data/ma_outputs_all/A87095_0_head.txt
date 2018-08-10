@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+Christian	Christian	np1	Christian	Christian	0
+,	,	,	,	,	0
+Countesse	Countesse	n1	Countess	countess	0
+Dowa	Dowa	np1	Dowa	Dowa	0
+∣	∣	sy	∣	∣	0
+ger	ger	pno31	her	she	0
+of	of	pp-f	of	of	0
+Devonshire	Devonshire	np1	Devonshire	Devonshire	0
+.	.	.	.	.	1

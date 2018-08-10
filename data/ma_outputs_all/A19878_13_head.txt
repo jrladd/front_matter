@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+present	present	j	present	present	0
+,	,	,	,	,	0
+upon	upon	p-acp	upon	upon	0
+a	a	dt	a	a	0
+New-yeares	New-yeares	n2	Newyears	newyear	0
+day	day	n1	day	day	0
+.	.	.	.	.	1

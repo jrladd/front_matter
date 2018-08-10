@@ -1,0 +1,12 @@
+Tuus	Tuus	np1	Tuus	Tuus	0
+ex	ex	fw-la	ex	ex	0
+Asse	Asse	n1	Ass	ass	0
+.	.	.	.	.	1
+Frater	Frater	fw-la	Frater	frater	0
+FRANSCIS	FRANSCIS	fw-la	FRANSCIS	franscis	0
+cus	cus	n1	cus	cousin	0
+â	â	fw-la	â	â	0
+S.	S.	fw-la	S.	s.	0
+AUGUSTINO	AUGUSTINO	fw-la	AUGUSTINO	augustino	0
+MACEDO	MACEDO	np1	MACEDO	Macedo	0
+.	.	.	.	.	1

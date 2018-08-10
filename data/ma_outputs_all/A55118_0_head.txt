@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Council	Council	n1	Council	council	0
+of	of	pp-f	of	of	0
+State	State	n1	State	state	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Common-Wealth	Common-Wealth	n1	Common-Wealth	commonwealth	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+IOHNSON	IOHNSON	np1	IOHNSON	Johnson	0
+,	,	,	,	,	0
+Authour	Authour	n1	Author	author	0
+of	of	pp-f	of	of	0
+IVLIAN	IVLIAN	np1	IVLIAN	IVLIAN	0
+the	the	dt	the	the	0
+APOSTATE	APOSTATE	n1	APOSTATE	apostate	0
+.	.	.	.	.	1

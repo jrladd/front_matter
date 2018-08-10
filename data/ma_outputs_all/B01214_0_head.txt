@@ -1,0 +1,15 @@
+A	A	dt	A	a	0
+MESSIEVRS	MESSIEVRS	n2	MESSIEVRS	messievr	0
+,	,	,	,	,	0
+MESSIEVRS	MESSIEVRS	fw-fr	MESSIEVRS	messievrs	0
+LES	LES	fw-fr	LES	le	0
+PA	PA	wd	PA	pa	0
+∣	∣	sy	∣	∣	0
+STEVRS	STEVRS	fw-fr	STEVRS	stevrs	0
+DE	DE	fw-fr	DE	de	0
+L'EGLISE	L'EGLISE	fw-fr	L'EGLISE	l'eglise	0
+Françoise	Françoise	np1	Françoise	Françoise	0
+recueillie	recueillie	j	recueillie	recueillie	0
+à	à	fw-fr	à	à	0
+Londres	Londres	np1	Londres	Londres	0
+.	.	.	.	.	1

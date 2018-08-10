@@ -1,0 +1,16 @@
+PIETATE	PIETATE	vvi	PIETATE	pietate	0
+aequè	aequè	fw-fr	aequè	aequè	0
+ac	ac	fw-la	ac	ac	0
+DOCTRINA	DOCTRINA	np1	DOCTRINA	DOCTRINA	0
+Praecellenti	Praecellenti	fw-la	Praecellenti	praecellenti	0
+Viro	Viro	fw-la	Viro	viro	0
+HENRICO	HENRICO	np1	HENRICO	Henrico	0
+HENLEY	HENLEY	np1	HENLEY	HENLEY	0
+,	,	,	,	,	0
+DE	DE	fw-fr	DE	de	0
+COLEWAY	COLEWAY	np1	COLEWAY	COLEWAY	0
+IN	IN	p-acp	IN	in	0
+Comitatu	Comitatu	fw-la	Comitatu	comitatu	0
+Dorcestrensi	Dorcestrensi	fw-la	Dorcestrensi	dorcestrensi	0
+ARMIGERO	ARMIGERO	fw-la	ARMIGERO	armigero	0
+..	..	..	..	..	1

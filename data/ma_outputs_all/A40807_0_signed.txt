@@ -1,0 +1,12 @@
+Humbly	Humbly	av-j	Humbly	humble	0
+honoureth	honoureth	vvz	honoureth	honour	0
+your	your	po22	your	your	0
+Grace	Grace	n1	Grace	grace	0
+with	with	p-acp	with	with	0
+all	all	d	all	all	0
+due	due	j-jn	due	due	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Falkner	Falkner	np1	Falkner	Falkner	0
+.	.	.	.	.	1

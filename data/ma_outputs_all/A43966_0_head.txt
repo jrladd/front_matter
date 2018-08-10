@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+Mris.	Mris.	n1	Mris.	mrs.	0
+Bridget	Bridget	np1	Bridget	Bridget	0
+Usher	Usher	vvi	Usher	usher	0
+my	my	po11	my	my	0
+ever	ever	av	ever	ever	0
+honoured	honoured	j-vvn	honoured	honour	0
+Aunt	Aunt	n1	Aunt	aunt	0
+.	.	.	.	.	1

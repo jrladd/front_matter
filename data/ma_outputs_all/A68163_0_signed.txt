@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+humbly	humbly	av-j	humbly	humble	0
+affectionate	affectionate	j	affectionate	affectionate	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Ashley	Ashley	np1	Ashley	Ashley	0
+.	.	.	.	.	1

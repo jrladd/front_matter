@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+obseruance	obseruance	n1	observance	observance	0
+.	.	.	.	.	1
+N	N	sy	N	n	0
+:	:	:	:	:	0
+Kichener	Kichener	np1	Kichener	Kichener	0
+.	.	.	.	.	1

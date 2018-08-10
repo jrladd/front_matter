@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+SCHISME	SCHISME	n1	SCHISME	schism	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+gratefull	gratefull	j	grateful	grateful	0
+Servant	Servant	n1	Servant	servant	0
+E.	E.	np1	E.	E.	0
+G.	G.	np1	G.	G.	1

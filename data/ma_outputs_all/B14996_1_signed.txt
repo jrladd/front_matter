@@ -1,0 +1,12 @@
+Euer	Euer	av	Ever	ever	0
+well-wishing	well-wishing	j	wellwishing	wellwishing	0
+to	to	p-acp	to	to	0
+you	you	pn22	you	you	0
+and	and	cc	and	and	0
+your	your	po22	your	your	0
+noble	noble	j	noble	noble	0
+exercise	exercise	n1	exercise	exercise	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Nicolls	Nicolls	np1	Nicolls	Nicolls	0
+.	.	.	.	.	1

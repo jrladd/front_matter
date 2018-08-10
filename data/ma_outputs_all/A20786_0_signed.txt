@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+DRANT	DRANT	n1	DRANT	drant	0
+.	.	.	.	.	1

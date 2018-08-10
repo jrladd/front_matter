@@ -1,0 +1,13 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+and	and	cc	and	and	0
+true	true	j	true	true	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+Maister	Maister	n1	Master	master	0
+Iohn	Iohn	np1	Iohn	John	0
+Lucas	Lucas	np1	Lucas	Lucas	0
+,	,	,	,	,	0
+Eternitie	Eternitie	n1	Eternity	eternity	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+as	as	p-acp	as	as	0
+you	you	pn22	you	you	0
+are	are	vbr	are	be	0
+mine	mine	png11	mine	i	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Taylor	Taylor	np1	Taylor	Taylor	0
+.	.	.	.	.	1

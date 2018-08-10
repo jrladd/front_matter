@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+LORDS	LORDS	ng1	LORDS	lord	0
+and	and	cc	and	and	0
+COMMONS	COMMONS	n2	COMMONS	commons	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+in	in	p-acp	in	in	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+.	.	.	.	.	1

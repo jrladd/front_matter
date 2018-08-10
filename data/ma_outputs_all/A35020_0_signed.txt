@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Gerard	Gerard	np1	Gerard	Gerard	0
+Croese	Croese	njp	Croese	croese	0
+.	.	.	.	.	1

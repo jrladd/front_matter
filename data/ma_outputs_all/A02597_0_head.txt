@@ -1,0 +1,7 @@
+And	And	cc	And	and	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+Lord	Lord	n1	Lord	lord	0
+Chancelour	Chancelour	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+SCOTLAND	SCOTLAND	np1	SCOTLAND	Scotland	0
+.	.	.	.	.	1

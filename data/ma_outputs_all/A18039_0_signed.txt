@@ -1,0 +1,4 @@
+quod	quod	fw-la	quod	quod	0
+Ihon	Ihon	np1	Ihon	Ihon	0
+Carre	Carre	np1	Carre	Carre	0
+.	.	.	.	.	1

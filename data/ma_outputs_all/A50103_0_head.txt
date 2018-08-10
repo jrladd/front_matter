@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PILKINGTON	PILKINGTON	np1	PILKINGTON	Pilkington	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+MAYOR	MAYOR	n1	MAYOR	mayor	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

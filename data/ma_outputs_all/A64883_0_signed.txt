@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+unfainedly	unfainedly	av-j	unfeignedly	unfeigned	0
+NICH	NICH	np1	NICH	NICH	0
+.	.	.	.	.	1
+CULPEPER	CULPEPER	np1	CULPEPER	Culpeper	0
+.	.	.	.	.	1

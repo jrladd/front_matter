@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+J.	J.	np1	J.	J.	0
+GOOD	GOOD	j	GOOD	good	0
+MAN	MAN	n1	MAN	man	0
+.	.	.	.	.	1

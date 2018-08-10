@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+CHEVALIER	CHEVALIER	n1	CHEVALIER	chevalier	0
+.	.	.	.	.	1

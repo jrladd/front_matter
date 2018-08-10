@@ -1,0 +1,10 @@
+A	A	dt	A	a	0
+TRESNOBLE	TRESNOBLE	j	TRESNOBLE	tresnoble	0
+ET	ET	fw-la	ET	et	0
+TRES-VERTVEVSE	TRES-VERTVEVSE	j	TRES-VERTVEVSE	tres-vertvevse	0
+DAMOISELLE	DAMOISELLE	fw-fr	DAMOISELLE	damoiselle	0
+MADA	MADA	n1	MADA	mada	0
+∣	∣	sy	∣	∣	0
+moiselle	moiselle	n1	moiselle	moiselle	0
+TASBVRGH	TASBVRGH	np1	TASBVRGH	TASBVRGH	0
+.	.	.	.	.	1

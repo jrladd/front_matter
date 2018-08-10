@@ -1,0 +1,11 @@
+MOSLEIO	MOSLEIO	np1	MOSLEIO	MOSLEIO	0
+suo	suo	fw-la	suo	suo	0
+generoso	generoso	fw-la	generoso	generoso	0
+Pie	Pie	n1	Pie	pie	0
+∣	∣	sy	∣	∣	0
+tatis	tatis	fw-gr	tatis	tatis	0
+&	&	cc	&	and	0
+Philosophiae	Philosophiae	np1	Philosophiae	Philosophiae	0
+vindici	vindici	fw-la	vindici	vindici	0
+ἘΥΧΆΙΡΕΙΝ	ἘΥΧΆΙΡΕΙΝ	np1	ἘΥΧΆΙΡΕΙΝ	ἘΥΧΆΙΡΕΙΝ	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+M.	M.	n1	M.	m.	0
+B.	B.	np1	B.	B.	0
+Oxon.	Oxon.	np1	Oxon.	Oxon.	1

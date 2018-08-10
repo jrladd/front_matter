@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Queenes	Queenes	ng1	Queens	queen	0
+Maiesty	Maiesty	n1	Majesty	majesty	0
+.	.	.	.	.	1

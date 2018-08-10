@@ -1,0 +1,5 @@
+ANOTHER	ANOTHER	j-jn	ANOTHER	another	0
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+HIGHNESSE	HIGHNESSE	n1	HIGHNESSE	highness	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+VVorshipful	VVorshipful	j	Worshipful	worshipful	0
+the	the	dt	the	the	0
+Justices	Justices	n2	Justices	justice	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Peace	Peace	n1	Peace	peace	0
+adjacent	adjacent	j	adjacent	adjacent	0
+.	.	.	.	.	1

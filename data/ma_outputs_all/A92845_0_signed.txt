@@ -1,0 +1,11 @@
+Se	Se	fw-la	Se	se	0
+Suaque	Suaque	fw-la	Suaque	suaque	0
+L.	L.	np1	L.	L.	0
+M.	M.	n1	M.	m.	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+C.	C.	np1	C.	C.	0
+J.	J.	np1	J.	J.	0
+S.	S.	np1	S.	S.	0
+C.	C.	np1	C.	C.	0
+C.	C.	np1	C.	C.	1

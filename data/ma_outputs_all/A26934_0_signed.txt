@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Fellow-servant	Fellow-servant	n1	Fellow-servant	fellow-servant	0
+,	,	,	,	,	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+BAXTER	BAXTER	np1	BAXTER	Baxter	0
+.	.	.	.	.	1

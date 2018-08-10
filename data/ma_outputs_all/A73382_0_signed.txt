@@ -1,0 +1,8 @@
+IOHN	IOHN	np1	IOHN	John	0
+WEEMES	WEEMES	np1	WEEMES	WEEMES	0
+,	,	,	,	,	0
+Preacher	Preacher	n1	Preacher	preacher	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+.	.	.	.	.	1

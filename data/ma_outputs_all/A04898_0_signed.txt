@@ -1,0 +1,10 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+euer	euer	av	ever	ever	0
+yours	yours	png22	yours	you	0
+,	,	,	,	,	0
+vnfainedly	vnfainedly	av-j	unfeignedly	unfeigned	0
+.	.	.	.	.	1
+Ra.	Ra.	np1	Ra.	Ra.	0
+Kneuet	Kneuet	n1	Knevet	knevet	0
+.	.	.	.	.	1

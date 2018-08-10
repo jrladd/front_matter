@@ -1,0 +1,14 @@
+A	A	dt	A	a	0
+Petitioner	Petitioner	n1	Petitioner	petitioner	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+for	for	p-acp	for	for	0
+your	your	po22	your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+best	best	js	best	best	0
+welfare	welfare	n1	welfare	welfare	0
+,	,	,	,	,	0
+NEHEMIAH	NEHEMIAH	np1	NEHEMIAH	Nehemiah	0
+ROGERS	ROGERS	np1	ROGERS	Rogers	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+call	call	vvb	call	call	0
+upon	upon	p-acp	upon	upon	0
+the	the	dt	the	the	0
+name	name	n1	name	name	0
+of	of	pp-f	of	of	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Town	Town	n1	Town	town	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+Yarmouth	Yarmouth	np1	Yarmouth	Yarmouth	0
+.	.	.	.	.	1

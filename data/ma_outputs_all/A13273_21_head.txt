@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Reuerend	Reuerend	j-jn	Reverend	reverend	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Doctor	Doctor	n1	Doctor	doctor	0
+Hall	Hall	n1	Hall	hall	0
+.	.	.	.	.	1

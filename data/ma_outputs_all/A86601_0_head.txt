@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+ELLENOR	ELLENOR	np1	ELLENOR	ELLENOR	0
+,	,	,	,	,	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+VVarwick	VVarwick	np1	VVarwick	Warwick	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

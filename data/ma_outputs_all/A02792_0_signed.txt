@@ -1,0 +1,7 @@
+Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
+,	,	,	,	,	0
+Simon	Simon	np1	Simon	Simon	0
+Harwardus	Harwardus	np1	Harwardus	Harwardus	0
+.	.	.	.	.	1

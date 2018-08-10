@@ -1,0 +1,11 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+Duty	Duty	n1	Duty	duty	0
+to	to	pc-acp	to	to	0
+Command	Command	vvi	Command	command	0
+,	,	,	,	,	0
+SAM	SAM	np1	SAM	Sam	0
+.	.	.	.	.	1
+CLERKE	CLERKE	np1	CLERKE	Clerke	0
+.	.	.	.	.	1

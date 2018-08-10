@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Blessed	Blessed	j-vvn	Blessed	bless	0
+Saviour	Saviour	n1	Saviour	saviour	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LORD	LORD	n1	LORD	lord	0
+IESVS	IESVS	np1	IESVS	IESVS	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+L.	L.	np1	L.	L.	1

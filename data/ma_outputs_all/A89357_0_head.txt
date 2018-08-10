@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+BEAUTIES	BEAUTIES	n2	BEAUTIES	beauty	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+BRITAIN	BRITAIN	np1	BRITAIN	Britain	0
+.	.	.	.	.	1

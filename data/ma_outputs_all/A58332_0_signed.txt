@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Gabriel	Gabriel	np1	Gabriel	Gabriel	0
+Reeve	Reeve	np1	Reeve	Reeve	0
+.	.	.	.	.	1

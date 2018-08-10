@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+most	most	ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Minister	Minister	n1	Minister	minister	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+GOUGE	GOUGE	np1	GOUGE	Gouge	0
+.	.	.	.	.	1

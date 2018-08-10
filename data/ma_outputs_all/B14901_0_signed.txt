@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+for	for	p-acp	for	for	0
+a	a	dt	a	a	0
+whole	whole	j-jn	whole	whole	0
+last	last	n1	last	last	0
+of	of	pp-f	of	of	0
+redde	redde	j-jn	red	red	0
+Herrings	Herrings	n2	Herrings	herring	0
+.	.	.	.	.	1
+Th.	Th.	np1	Th.	Th.	0
+Nashe	Nashe	np1	Nashe	Nashe	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Walt.	Walt.	np1	Walt.	Walt.	0
+Cross	Cross	n1	Cross	cross	0
+.	.	.	.	.	1

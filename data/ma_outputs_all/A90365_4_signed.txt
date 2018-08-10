@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Service	Service	n1	Service	service	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+PELL	PELL	np1	PELL	Pell	0
+.	.	.	.	.	1

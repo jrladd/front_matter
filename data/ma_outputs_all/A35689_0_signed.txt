@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+deeply	deeply	av-jn	deeply	deep	0
+bound	bound	vvn	bound	bind	0
+,	,	,	,	,	0
+Ezekiel	Ezekiel	np1	Ezekiel	Ezekiel	0
+Culverwell	Culverwell	np1	Culverwell	Culverwell	0
+.	.	.	.	.	1

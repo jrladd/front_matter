@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+PETER	PETER	np1	PETER	Peter	0
+HAVSTED	HAVSTED	vvn	HAVSTED	havst	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Pto.	Pto.	np1	Pto.	Pto.	1

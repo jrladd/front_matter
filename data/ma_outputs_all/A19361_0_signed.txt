@@ -1,0 +1,6 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+celsitudini	celsitudini	fw-la	celsitudini	celsitudini	0
+deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
+Antonius	Antonius	fw-la	Antonius	antonius	0
+Corranus	Corranus	np1	Corranus	Corranus	0
+.	.	.	.	.	1

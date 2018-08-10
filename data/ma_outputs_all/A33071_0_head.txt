@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Comte	Comte	fw-fr	Comte	comte	0
+de	de	fw-fr	de	de	0
+SCHOMBERG	SCHOMBERG	np1	SCHOMBERG	Schomberg	0
+.	.	.	.	.	1

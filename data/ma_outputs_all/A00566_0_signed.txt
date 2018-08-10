@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+GYLES	GYLES	np1	GYLES	Gyles	0
+FARNABY	FARNABY	np1	FARNABY	FARNABY	0
+.	.	.	.	.	1

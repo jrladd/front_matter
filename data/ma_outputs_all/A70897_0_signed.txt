@@ -1,0 +1,9 @@
+Gentlemen	Gentlemen	np1	Gentlemen	Gentlemen	0
+your	your	po22	your	your	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+well	well	av	well	well	0
+wisher	wisher	n1	wisher	wisher	0
+John	John	np1	John	John	0
+Partridge	Partridge	n1	Partridge	partridge	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+Peeres	Peeres	n2	Peers	peer	0
+assembled	assembled	vvn	assembled	assemble	0
+in	in	p-acp	in	in	0
+Parliament	Parliament	n1	Parliament	parliament	0
+.	.	.	.	.	1

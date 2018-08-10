@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+MAJESTY's	MAJESTY's	ng1	MAJESTY's	majesty	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+Thankful	Thankful	j	Thankful	thankful	0
+,	,	,	,	,	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+JONES	JONES	np1	JONES	Jones	0
+▪	▪	▪	▪	▪	1

@@ -1,0 +1,16 @@
+King	King	n1	King	king	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+,	,	,	,	,	0
+Scot	Scot	np1	Scot	Scot	0
+∣	∣	sy	∣	∣	0
+land	land	n1	land	land	0
+,	,	,	,	,	0
+France	France	np1	France	France	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Ire	Ire	n1	Ire	ire	0
+∣	∣	sy	∣	∣	0
+land	land	n1	land	land	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

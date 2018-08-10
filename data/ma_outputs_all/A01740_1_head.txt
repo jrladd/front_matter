@@ -1,0 +1,17 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+John	John	np1	John	John	0
+Stafford	Stafford	np1	Stafford	Stafford	0
+of	of	pp-f	of	of	0
+Bletherwicke	Bletherwicke	np1	Bletherwicke	Bletherwicke	0
+Esquier	Esquier	n1	Esquire	esquire	0
+,	,	,	,	,	0
+Humfrey	Humfrey	np1	Humfrey	Humphrey	0
+Gifford	Gifford	np1	Gifford	Gifford	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+sendeth	sendeth	vvz	sends	send	0
+greeting	greeting	n1	greeting	greeting	0
+.	.	.	.	.	1

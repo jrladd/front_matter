@@ -1,0 +1,14 @@
+Le	Le	fw-fr	Le	le	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+,	,	,	,	,	0
+tres-affectionné	tres-affectionné	j	tres-affectionné	tres-affectionné	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+tres-fidelle	tres-fidelle	j	tres-fidelle	tres-fidelle	0
+sujet	sujet	fw-fr	sujet	sujet	0
+&	&	cc	&	and	0
+seruiteur	seruiteur	fw-fr	seruiteur	seruiteur	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+D.	D.	np1	D.	D.	0
+B.	B.	np1	B.	B.	1

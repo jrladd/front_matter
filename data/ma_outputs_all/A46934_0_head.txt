@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+William	William	np1	William	William	0
+Stone	Stone	n1	Stone	stone	0
+Knight	Knight	n1	Knight	knight	0
+Mercer	Mercer	n1	Mercer	mercer	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Queenes	Queenes	ng1	Queens	queen	0
+most	most	av-ds	most	most	0
+excellent	excellent	j	excellent	excellent	0
+Majestie	Majestie	n1	Majesty	majesty	0
+.	.	.	.	.	1

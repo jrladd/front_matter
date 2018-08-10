@@ -1,0 +1,9 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+VVorshippes	VVorshippes	ng1	VVorshippes	worship	0
+poore	poore	j	poor	poor	0
+beseecher	beseecher	n1	beseecher	beseecher	0
+.	.	.	.	.	1
+Richard	Richard	np1	Richard	Richard	0
+Robinson	Robinson	np1	Robinson	Robinson	0
+.	.	.	.	.	1

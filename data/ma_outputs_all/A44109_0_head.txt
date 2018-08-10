@@ -1,0 +1,10 @@
+A	A	sy	A	a	0
+D	D	sy	WORSER	d	0
+Nobilissimum	Nobilissimum	fw-la	Nobilissimum	nobilissimum	0
+Illustrissimumque	Illustrissimumque	fw-la	Illustrissimumque	illustrissimumque	0
+JOANNEM	JOANNEM	fw-la	JOANNEM	joannem	0
+Magni	Magni	fw-la	Magni	magni	0
+Sigilli	Sigilli	fw-la	Sigilli	sigilli	0
+custodem	custodem	fw-la	custodem	custodem	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

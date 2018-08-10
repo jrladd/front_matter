@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+approoued	approoued	j-vvn	approved	approve	0
+good	good	j	good	good	0
+friend	friend	n1	friend	friend	0
+Maister	Maister	n1	Master	master	0
+Iohn	Iohn	np1	Iohn	John	0
+Short	Short	j	Short	short	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+Turnar	Turnar	np1	Turnar	Turnar	0
+wisheth	wisheth	vvz	wishes	wish	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Ignatius	Ignatius	np1	Ignatius	Ignatius	0
+Walters	Walters	vvz	Walters	welter	0
+.	.	.	.	.	1

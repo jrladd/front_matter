@@ -1,0 +1,7 @@
+J.	J.	np1	J.	J.	0
+S.	S.	np1	S.	S.	1
+Socio-Commensalis	Socio-Commensalis	j	Socio-Commensalis	socio-commensalis	0
+è	è	fw-fr	è	è	0
+Coll.	Coll.	np1	Coll.	Coll.	0
+Jesu	Jesu	np1	Jesu	Jesus	0
+Oxon.	Oxon.	np1	Oxon.	Oxon.	1

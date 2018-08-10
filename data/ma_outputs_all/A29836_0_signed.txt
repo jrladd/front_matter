@@ -1,0 +1,13 @@
+YOUR	YOUR	po22	YOUR	your	0
+MAJESTIE'S	MAJESTIE'S	n1|vbz	MAJESTY'S	majesty|be	0
+Most	Most	av-ds	Most	most	0
+Loyall	Loyall	j	Loyal	loyal	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Brown	Brown	j-jn	Brown	brown	0
+.	.	.	.	.	1

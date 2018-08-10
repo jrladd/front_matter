@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+VVORSHIP	VVORSHIP	n1	VVORSHIP	vvorship	0
+∣	∣	sy	∣	∣	0
+FVLL	FVLL	j	FULL	full	0
+VVILLIAM	VVILLIAM	np1	VVILLIAM	VVILLIAM	0
+HEATHER	HEATHER	np1	HEATHER	Heather	0
+,	,	,	,	,	0
+Doctor	Doctor	n1	Doctor	doctor	0
+of	of	pp-f	of	of	0
+Musicke	Musicke	n1	Music	music	0
+.	.	.	.	.	1

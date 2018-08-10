@@ -1,0 +1,3 @@
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+GOUGHE	GOUGHE	n1	GOUGHE	goughe	0
+.	.	.	.	.	1

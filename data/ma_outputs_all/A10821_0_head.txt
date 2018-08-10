@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+VVOR	VVOR	n1	VVOR	vvor	0
+∣	∣	sy	∣	∣	0
+SHIPFVLL	SHIPFVLL	j	SHIPFVLL	shipfvll	0
+AND	AND	cc	AND	and	0
+VVOR	VVOR	fw-la	VVOR	vvor	0
+∣	∣	sy	∣	∣	0
+THILY	THILY	av-jn	THILY	thy	0
+EMINENT	EMINENT	j	EMINENT	eminent	0
+MERCHANTS	MERCHANTS	n2	MERCHANTS	merchant	0
+:	:	:	:	:	1

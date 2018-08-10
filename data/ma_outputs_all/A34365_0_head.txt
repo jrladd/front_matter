@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+His	His	po31	His	his	0
+Loving	Loving	j-vvg	Loving	love	0
+Father	Father	n1	Father	father	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Constable	Constable	n1	Constable	constable	0
+.	.	.	.	.	1

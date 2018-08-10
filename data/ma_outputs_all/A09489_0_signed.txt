@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+at	at	p-acp	at	at	0
+command'ment	command'ment	n1	commandment	commandment	0
+.	.	.	.	.	1
+IAMES	IAMES	np1	IAMES	Iames	0
+PERROT	PERROT	np1	PERROT	Perrot	0
+.	.	.	.	.	1

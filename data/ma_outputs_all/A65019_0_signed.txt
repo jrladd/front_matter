@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Humble	Humble	j	Humble	humble	0
+Respect	Respect	n1	Respect	respect	0
+and	and	cc	and	and	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+Havers	Havers	np1	Havers	Havers	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Highnes	Highnes	n1	Highness	highness	0
+loyallie	loyallie	av-j	loyally	loyal	0
+affected	affected	vvn	affected	affect	0
+Lambert	Lambert	np1	Lambert	Lambert	0
+Danaeus	Danaeus	np1	Danaeus	Danaeus	0
+.	.	.	.	.	1

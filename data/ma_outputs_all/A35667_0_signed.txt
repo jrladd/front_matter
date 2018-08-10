@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Brother	Brother	n1	Brother	brother	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Denne	Denne	n1	Den	den	0
+.	.	.	.	.	1

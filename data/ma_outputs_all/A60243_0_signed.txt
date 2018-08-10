@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+James	James	np1	James	James	0
+Salgado	Salgado	np1	Salgado	Salgado	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+Spaniard	Spaniard	np1	Spaniard	Spaniard	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+Converted	Converted	vvn	Converted	convert	0
+Priest	Priest	n1	Priest	priest	0
+.	.	.	.	.	1

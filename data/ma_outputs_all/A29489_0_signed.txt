@@ -1,0 +1,12 @@
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+your	your	po22	your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duety	duety	n1	duty	duty	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+B.	B.	np1	B.	B.	0
+G.	G.	np1	G.	G.	1

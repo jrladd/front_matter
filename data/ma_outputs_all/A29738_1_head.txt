@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+ALL	ALL	av-d	ALL	all	0
+INGENIOUS	INGENIOUS	j	INGENIOUS	ingenious	0
+AND	AND	cc	AND	and	0
+FAITHFUL	FAITHFUL	j	FAITHFUL	faithful	0
+Physicians	Physicians	n2	Physicians	physician	0
+.	.	.	.	.	1

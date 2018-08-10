@@ -1,0 +1,3 @@
+NINIAN	NINIAN	np1	NINIAN	Ninian	0
+PATERSON	PATERSON	np1	PATERSON	Paterson	0
+.	.	.	.	.	1

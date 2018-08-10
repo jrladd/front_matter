@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Loyal	Loyal	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+Faithfulness	Faithfulness	n1	Faithfulness	faithfulness	0
+,	,	,	,	,	0
+TOBIAS	TOBIAS	np1	TOBIAS	Tobias	0
+ELLYS	ELLYS	av	ELSE	else	0
+.	.	.	.	.	1

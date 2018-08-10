@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+ever	ever	av	ever	ever	0
+engaged	engaged	vvn	engaged	engage	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+You	You	pn22	You	you	0
+:	:	:	:	:	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+SHEFFEILD	SHEFFEILD	np1	SHEFFEILD	SHEFFEILD	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+ED	ED	wd	ED	ed	0
+.	.	.	.	.	1
+WIGORN	WIGORN	np1	WIGORN	WIGORN	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+My	My	po11	My	my	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Hinton	Hinton	np1	Hinton	Hinton	0
+.	.	.	.	.	1

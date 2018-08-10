@@ -1,0 +1,16 @@
+I	I	pns11	I	i	0
+subscribe	subscribe	vvb	subscribe	subscribe	0
+my	my	po11	my	my	0
+self	self	n1	self	self	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+.	.	.	.	.	1
+Joseph	Joseph	np1	Joseph	Joseph	0
+Moxon	Moxon	np1	Moxon	Moxon	0
+.	.	.	.	.	1

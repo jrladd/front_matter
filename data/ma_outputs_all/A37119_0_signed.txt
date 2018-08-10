@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+GRACES	GRACES	n2	GRACES	grace	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+And	And	cc	And	and	0
+Most	Most	av-ds	Most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+DAUNCY	DAUNCY	np1	DAUNCY	DAUNCY	0
+.	.	.	.	.	1

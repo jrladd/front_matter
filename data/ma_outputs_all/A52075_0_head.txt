@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthily	worthily	av-j	worthily	worthy	0
+famous	famous	j	famous	famous	0
+Professors	Professors	n2	Professors	professor	0
+of	of	pp-f	of	of	0
+Gresham	Gresham	np1	Gresham	Gresham	0
+Colledge	Colledge	n1	College	college	0
+in	in	p-acp	in	in	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

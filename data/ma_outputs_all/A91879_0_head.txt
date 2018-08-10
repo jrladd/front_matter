@@ -1,0 +1,14 @@
+EPIST	EPIST	vvn	EPIST	epist	0
+.	.	.	.	.	1
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+William	William	np1	William	William	0
+Fryn	Fryn	np1	Fryn	Fryn	0
+of	of	pp-f	of	of	0
+Lincolnes	Lincolnes	npg1	Lincolnes	Lincoln	0
+Inne	Inne	n1	Inn	inn	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

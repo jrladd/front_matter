@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+servantThomas	servantThomas	np1	servantThomas	servantThomas	0
+Edwards	Edwards	npg1	Edwards	Edward	0
+.	.	.	.	.	1

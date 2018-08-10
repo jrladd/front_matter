@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+CRASHAVVE	CRASHAVVE	n1	CRASHAVVE	crashavve	0
+.	.	.	.	.	1

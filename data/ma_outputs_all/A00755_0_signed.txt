@@ -1,0 +1,17 @@
+The	The	dt	The	the	0
+moste	moste	av-ds	most	most	0
+affectioned	affectioned	j-vvn	affectioned	affection	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+those	those	d	those	those	0
+,	,	,	,	,	0
+which	which	r-crq	which	which	0
+owe	owe	vvb	owe	owe	0
+your	your	po22	your	your	0
+L.	L.	n1	L.	lord	0
+dutifull	dutifull	j	dutiful	dutiful	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Hester	Hester	np1	Hester	Hester	0
+.	.	.	.	.	1

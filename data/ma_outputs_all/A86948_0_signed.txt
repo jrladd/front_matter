@@ -1,0 +1,17 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+him	him	pno31	him	he	0
+who	who	r-crq	who	who	0
+is	is	vbz	is	be	0
+the	the	dt	the	the	0
+truth	truth	n1	truth	truth	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+no	no	dx	no	no	0
+lye	lye	n1	lie	lie	0
+.	.	.	.	.	1
+Edw.	Edw.	np1	Edw.	Edw.	0
+Hide	Hide	vvb	Hide	hide	0
+.	.	.	.	.	1
+Junior	Junior	np1	Junior	Junior	0
+.	.	.	.	.	1

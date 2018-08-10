@@ -1,0 +1,15 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	pc-acp	to	to	0
+pray	pray	vvi	pray	pray	0
+for	for	p-acp	for	for	0
+your	your	po22	your	your	0
+good	good	j	good	good	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+M.	M.	n1	M.	m.	1

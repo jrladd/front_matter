@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+true	true	j	true	true	0
+honorer	honorer	n1	honorer	honourer	0
+George	George	np1	George	George	0
+Wyther	Wyther	av	Wyther	wyther	0
+.	.	.	.	.	1

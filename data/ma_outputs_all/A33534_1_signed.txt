@@ -1,0 +1,5 @@
+Addictissimo	Addictissimo	fw-la	Addictissimo	addictissimo	0
+Vestri	Vestri	fw-la	Vestri	vestri	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+C.	C.	np1	C.	C.	1

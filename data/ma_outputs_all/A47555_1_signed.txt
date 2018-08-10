@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+PAVL	PAVL	np1	PAVL	PAVL	0
+RICAVT	RICAVT	j	RICAUT	ricaut	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Margaret	Margaret	np1	Margaret	Margaret	0
+Coun	Coun	fw-mi	Coun	coun	0
+∣	∣	sy	∣	∣	0
+tesse	tesse	n1	tesse	tesse	0
+Dowager	Dowager	n1	Dowager	dowager	0
+of	of	pp-f	of	of	0
+Cumberland	Cumberland	np1	Cumberland	Cumberland	0
+.	.	.	.	.	1

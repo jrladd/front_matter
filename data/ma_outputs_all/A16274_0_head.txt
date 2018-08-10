@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+AND	AND	cc	AND	and	0
+Honourable	Honourable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+CARIE	CARIE	vvi	CARRY	carry	0
+.	.	.	.	.	1

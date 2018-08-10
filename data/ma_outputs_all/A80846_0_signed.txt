@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Orator	Orator	n1	Orator	orator	0
+expecting	expecting	vvg	expecting	expect	0
+your	your	po22	your	your	0
+piety	piety	n1	piety	piety	0
+and	and	cc	and	and	0
+justice	justice	n1	justice	justice	0
+,	,	,	,	,	0
+ZACH	ZACH	np1	ZACH	Zach	0
+.	.	.	.	.	1
+CROFTON	CROFTON	np1	CROFTON	Crofton	0
+.	.	.	.	.	1

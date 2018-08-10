@@ -1,0 +1,15 @@
+One	One	crd	One	one	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Justices	Justices	n2	Justices	justice	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+PEACE	PEACE	n1	PEACE	peace	0
+&	&	cc	&	and	0
+QUORUM	QUORUM	fw-la	QUORUM	quorum	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+KENT	KENT	np1	KENT	Kent	0
+.	.	.	.	.	1

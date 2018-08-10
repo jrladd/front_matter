@@ -1,0 +1,17 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Madam	Madam	n1	Madam	madam	0
+,	,	,	,	,	0
+YOVR	YOVR	po22	YOUR	your	0
+desires	desires	n2	desires	desire	0
+are	are	vbr	are	be	0
+Commands	Commands	vvz	Commands	command	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+have	have	vhb	have	have	0
+therefore	therefore	av	therefore	therefore	0
+the	the	dt	the	the	0
+Obedi	Obedi	n1	Obedi	obedi	0
+∣	∣	sy	∣	∣	0
+ence	ence	av	ence	ence	0
+of	of	pp-f	of	of	1

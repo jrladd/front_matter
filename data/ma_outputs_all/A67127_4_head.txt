@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+KING	KING	n1	KING	king	0
+,	,	,	,	,	0
+At	At	p-acp	At	at	0
+His	His	po31	His	his	0
+Return	Return	n1	Return	return	0
+from	from	p-acp	from	from	0
+SCOTLAND	SCOTLAND	np1	SCOTLAND	Scotland	0
+;	;	;	;	;	0
+Sir	Sir	n1	Sir	sir	0
+HENRY	HENRY	np1	HENRY	Henry	0
+WOTTON's	WOTTON's	ng1	WOTTON's	wotton	0
+Vows	Vows	n2	Vows	vow	0
+and	and	cc	and	and	0
+Acclamations	Acclamations	n2	Acclamations	acclamation	0
+.	.	.	.	.	1

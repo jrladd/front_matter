@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Highly	Highly	av-j	Highly	high	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+HENRY	HENRY	np1	HENRY	Henry	0
+SCOBEL	SCOBEL	np1	SCOBEL	SCOBEL	0
+Esq	Esq	np1	Esq	Esq	0
+Clerk	Clerk	n1	Clerk	clerk	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+COUNCIL	COUNCIL	n1	COUNCIL	council	0
+of	of	pp-f	of	of	0
+STATE	STATE	n1	STATE	state	0
+.	.	.	.	.	1

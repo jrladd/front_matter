@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Moses	Moses	np1	Moses	Moses	0
+Wilton	Wilton	np1	Wilton	Wilton	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Briefly	Briefly	av-j	Briefly	brief	0
+to	to	p-acp	to	to	0
+you	you	pn22	you	you	0
+that	that	cst	that	that	0
+will	will	vmb	will	will	0
+Read	Read	vvi	Read	read	0
+.	.	.	.	.	1

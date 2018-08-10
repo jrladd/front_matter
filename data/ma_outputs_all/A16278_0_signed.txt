@@ -1,0 +1,9 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+graces	graces	n2	graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruaunt	seruaunt	n1	servant	servant	0
+E.	E.	np1	E.	E.	0
+Crane	Crane	np1	Crane	Crane	0
+.	.	.	.	.	1

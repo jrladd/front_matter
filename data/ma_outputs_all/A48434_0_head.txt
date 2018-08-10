@@ -1,0 +1,13 @@
+SERENISSIMO	SERENISSIMO	n1	SERENISSIMO	serenissimo	0
+OLIVERO	OLIVERO	np1	OLIVERO	OLIVERO	0
+Reipub.	Reipub.	np1	Reipub.	Reipub.	0
+Angl.	Angl.	np1	Angl.	Angl.	0
+Scot	Scot	np1	Scot	Scot	0
+.	.	.	.	.	1
+&	&	cc	&	and	0
+Hybern	Hybern	np1	Hybern	Hybern	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	0
+Domino	Domino	fw-la	Domino	domino	0
+PROTECTORI	PROTECTORI	fw-la	PROTECTORI	protectori	0
+.	.	.	.	.	1

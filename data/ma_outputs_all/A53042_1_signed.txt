@@ -1,0 +1,4 @@
+MARGARETA	MARGARETA	np1	MARGARETA	MARGARETA	0
+N.	N.	np1	N.	N.	1
+C	C	sy	C	c	0
+:	:	:	:	:	1

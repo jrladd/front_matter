@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+Honour	Honour	n1	Honour	honour	0
+,	,	,	,	,	0
+Love	Love	n1	Love	love	0
+and	and	cc	and	and	0
+Serve	Serve	vvb	Serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Flavell	Flavell	np1	Flavell	Flavell	0
+.	.	.	.	.	1

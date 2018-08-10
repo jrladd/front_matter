@@ -1,0 +1,7 @@
+A	A	dt	A	a	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SAMPSON	SAMPSON	np1	SAMPSON	Samson	0
+.	.	.	.	.	1

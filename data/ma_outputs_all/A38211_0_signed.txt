@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+Ser	Ser	n1	Sir	sir	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+and	and	cc	and	and	0
+Eternal	Eternal	j	Eternal	eternal	0
+Honorer	Honorer	n1	Honorer	honourer	0
+FR.	FR.	np1	FR.	Fr.	0
+EGLESFIELD	EGLESFIELD	np1	EGLESFIELD	EGLESFIELD	0
+.	.	.	.	.	1

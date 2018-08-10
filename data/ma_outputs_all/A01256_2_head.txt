@@ -1,0 +1,8 @@
+Proreligiosiss	Proreligiosiss	n1	Proreligiosiss	proreligiosiss	0
+.	.	.	.	.	0
+ruditiss	ruditiss	vvb	ruditiss	ruditiss	0
+.	.	.	.	.	1
+Augustiss	Augustiss	np1	Augustiss	Augustiss	0
+.	.	.	.	.	1
+Rege	Rege	fw-la	Rege	rege	0
+.	.	.	.	.	1

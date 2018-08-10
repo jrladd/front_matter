@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+Sonne-in-law	Sonne-in-law	n1	Sonne-in-law	sonne-in-law	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+obseruancy	obseruancy	n1	observancy	observancy	0
+truly	truly	av-j	truly	true	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+CARPENTER	CARPENTER	np1	CARPENTER	Carpenter	0
+.	.	.	.	.	1

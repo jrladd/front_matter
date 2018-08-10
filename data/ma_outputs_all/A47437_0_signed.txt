@@ -1,0 +1,3 @@
+Benja	Benja	np1	Benja	Benja	0
+.	.	.	.	.	1
+Ke	Ke	wd	Ke	ke	1

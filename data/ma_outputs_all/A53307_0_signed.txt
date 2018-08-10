@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Giles	Giles	np1	Giles	Giles	0
+Oldisworth	Oldisworth	np1	Oldisworth	Oldisworth	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Service	Service	n1	Service	service	0
+and	and	cc	and	and	0
+Duty	Duty	n1	Duty	duty	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+LOVE	LOVE	n1	LOVE	love	0
+.	.	.	.	.	1

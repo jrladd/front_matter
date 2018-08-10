@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+GRACE	GRACE	n1	GRACE	grace	0
+JAMES	JAMES	np1	JAMES	James	0
+DUKE	DUKE	n1	DUKE	duke	0
+OF	OF	pp-f	OF	of	0
+ORMOND	ORMOND	np1	ORMOND	Ormond	0
+.	.	.	.	.	1

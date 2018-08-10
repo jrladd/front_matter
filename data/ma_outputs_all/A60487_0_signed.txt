@@ -1,0 +1,9 @@
+His	His	po31	His	his	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+WORTHINGTON	WORTHINGTON	np1	WORTHINGTON	Worthington	0
+.	.	.	.	.	1

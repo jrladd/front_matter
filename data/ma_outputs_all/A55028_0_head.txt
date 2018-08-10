@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+the	the	dt	the	the	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+Commons	Commons	n2	Commons	commons	0
+,	,	,	,	,	0
+now	now	av	now	now	0
+As	As	c-acp	As	as	0
+∣	∣	sy	∣	∣	0
+sembled	sembled	vvn	sembled	semble	0
+in	in	p-acp	in	in	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+.	.	.	.	.	1

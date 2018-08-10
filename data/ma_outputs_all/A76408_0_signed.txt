@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Pastour	Pastour	n1	Pastor	pastor	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+work	work	vvb	work	work	0
+,	,	,	,	,	0
+JOSEPH	JOSEPH	np1	JOSEPH	Joseph	0
+BENTHAM	BENTHAM	np1	BENTHAM	Bentham	0
+.	.	.	.	.	1

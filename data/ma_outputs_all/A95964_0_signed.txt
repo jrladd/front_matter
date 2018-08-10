@@ -1,0 +1,3 @@
+RICHARDVS	RICHARDVS	fw-la	RICHARDVS	richardvs	0
+VINES	VINES	np1	VINES	Vines	0
+.	.	.	.	.	1

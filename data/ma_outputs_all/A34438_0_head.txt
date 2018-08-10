@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+AND	AND	cc	AND	and	0
+Truly	Truly	av-j	Truly	true	0
+Noble	Noble	j	Noble	noble	0
+CONYERS	CONYERS	np1	CONYERS	Conyers	0
+DARCY	DARCY	np1	DARCY	Darcy	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Darcy	Darcy	np1	Darcy	Darcy	0
+,	,	,	,	,	0
+Meynell	Meynell	np1	Meynell	Meynell	0
+and	and	cc	and	and	0
+Conyers	Conyers	np1	Conyers	Conyers	0
+.	.	.	.	.	1

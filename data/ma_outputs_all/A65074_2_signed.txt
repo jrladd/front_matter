@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+Christ	Christ	np1	Christ	Christ	0
+Richard	Richard	np1	Richard	Richard	0
+Vines	Vines	n2	Vines	vine	0
+.	.	.	.	.	1

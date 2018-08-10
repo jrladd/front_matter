@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VVORSHIPFVLL	VVORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+Richard	Richard	np1	Richard	Richard	0
+Braithwaite	Braithwaite	np1	Braithwaite	Braithwaite	0
+ESQVIRE	ESQVIRE	n1	ESQVIRE	esqvire	0
+.	.	.	.	.	1

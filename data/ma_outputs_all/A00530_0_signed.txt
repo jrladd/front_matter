@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+suppliant	suppliant	j-jn	suppliant	suppliant	0
+Peter	Peter	np1	Peter	Peter	0
+Fairlambe	Fairlambe	vvd	Fairlambe	fairlambe	0
+.	.	.	.	.	1

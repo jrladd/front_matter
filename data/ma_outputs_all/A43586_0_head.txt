@@ -1,0 +1,14 @@
+AN	AN	dt	AND	a	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Dear	Dear	j-jn	Dear	dear	0
+Friends	Friends	n2	Friends	friend	0
+and	and	cc	and	and	0
+Beloved	Beloved	j-vvn	Beloved	belove	0
+Hearers	Hearers	n2	Hearers	hearer	0
+at	at	p-acp	at	at	0
+N.	N.	np1	N.	N.	0
+in	in	p-acp	in	in	0
+Yorkshire	Yorkshire	np1	Yorkshire	Yorkshire	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Olney	Olney	np1	Olney	Olney	0
+.	.	.	.	.	1

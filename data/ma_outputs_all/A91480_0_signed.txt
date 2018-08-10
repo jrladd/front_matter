@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+servant	servant	n1	servant	servant	0
+.	.	.	.	.	1
+BEN	BEN	np1	BEN	Ben	0
+.	.	.	.	.	1
+PARRY	PARRY	np1	PARRY	Parry	0
+.	.	.	.	.	1

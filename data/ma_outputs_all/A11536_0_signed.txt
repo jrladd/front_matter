@@ -1,0 +1,8 @@
+Now	Now	av	Now	now	0
+your	your	po22	your	your	0
+Lord-ships	Lord-ships	ng1	Lordships	lordship	0
+faithfull	faithfull	j	faithful	faithful	0
+seruant	seruant	n1	servant	servant	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Sauile	Sauile	np1	Sauile	Sauile	0
+.	.	.	.	.	1

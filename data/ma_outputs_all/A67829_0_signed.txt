@@ -1,0 +1,3 @@
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+YOUNG	YOUNG	j	YOUNG	young	0
+.	.	.	.	.	1

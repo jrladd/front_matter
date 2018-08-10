@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+WATSON	WATSON	np1	WATSON	Watson	0
+.	.	.	.	.	1

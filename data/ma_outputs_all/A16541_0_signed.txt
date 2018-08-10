@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Mr.	Mr.	n1	Mr.	mr.	0
+ZACHARI	ZACHARI	np1	ZACHARI	ZACHARI	0
+BOYD	BOYD	np1	BOYD	Boyd	0
+.	.	.	.	.	1

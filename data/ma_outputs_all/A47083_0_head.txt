@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+York	York	np1	York	York	0
+and	and	cc	and	and	0
+Albany	Albany	np1	Albany	Albany	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

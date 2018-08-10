@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+their	their	po32	their	their	0
+most	most	av-ds	most	most	0
+Excellent	Excellent	j	Excellent	excellent	0
+MAJESTIES	MAJESTIES	n2	MAJESTIES	majesty	0
+.	.	.	.	.	1

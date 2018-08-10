@@ -1,0 +1,7 @@
+The	The	dt	The	the	0
+fruition	fruition	n1	fruition	fruition	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+selectedst	selectedst	vvd2	selectedst	selectedst	0
+wishes	wishes	ng2	wishes	wish	0
+.	.	.	.	.	1

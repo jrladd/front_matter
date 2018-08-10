@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+ALL	ALL	av-d	ALL	all	0
+LADIES	LADIES	n2	LADIES	lady	0
+AND	AND	cc	AND	and	0
+GENTLEWOMEN	GENTLEWOMEN	n2	GENTLEWOMEN	gentlewoman	0
+,	,	,	,	,	0
+Especially	Especially	av-j	Especially	especial	0
+those	those	d	those	those	0
+that	that	cst	that	that	0
+are	are	vbr	are	be	0
+my	my	po11	my	my	0
+SCHOLARS	SCHOLARS	n2	SCHOLARS	scholar	0
+.	.	.	.	.	1

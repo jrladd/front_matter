@@ -1,0 +1,7 @@
+The	The	dt	The	the	0
+Character	Character	n1	Character	character	0
+of	of	pp-f	of	of	0
+King	King	n1	King	king	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

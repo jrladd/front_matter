@@ -1,0 +1,16 @@
+For	For	p-acp	For	for	0
+his	his	po31	his	his	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+and	and	cc	and	and	0
+wel	wel	av	well	well	0
+beloved	beloved	j-vvn	beloved	belove	0
+Brother	Brother	n1	Brother	brother	0
+Master	Master	n1	Master	master	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+BLAIRE	BLAIRE	np1	BLAIRE	BLAIRE	0
+,	,	,	,	,	0
+Minister	Minister	n1	Minister	minister	0
+of	of	pp-f	of	of	0
+St.	St.	n1	St.	saint	0
+Andrewes	Andrewes	npg1	Andrewes	Andrew	0
+.	.	.	.	.	1

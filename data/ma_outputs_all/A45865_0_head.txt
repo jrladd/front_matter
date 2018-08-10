@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+Richard	Richard	np1	Richard	Richard	0
+Newdigate	Newdigate	np1	Newdigate	Newdigate	0
+,	,	,	,	,	0
+Bar.	Bar.	np1	Bar.	Bar.	1

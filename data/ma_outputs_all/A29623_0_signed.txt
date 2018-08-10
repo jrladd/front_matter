@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+grateful	grateful	j	grateful	grateful	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+great	great	j	great	great	0
+Honourer	Honourer	n1	Honourer	honourer	0
+ALEX	ALEX	np1	ALEX	Alex	0
+.	.	.	.	.	1
+BROME	BROME	np1	BROME	Brome	0
+.	.	.	.	.	1

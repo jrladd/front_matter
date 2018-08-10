@@ -1,0 +1,16 @@
+SERENISSIMAE	SERENISSIMAE	fw-la	SERENISSIMAE	serenissimae	0
+DOMINAE	DOMINAE	fw-la	DOMINAE	dominae	0
+,	,	,	,	,	0
+DOMINAE	DOMINAE	fw-la	DOMINAE	dominae	0
+ANNAE	ANNAE	fw-la	ANNAE	annae	0
+Austriacae	Austriacae	np1	Austriacae	Austriacae	0
+,	,	,	,	,	0
+apud	apud	fw-la	apud	apud	0
+Franeos	Franeos	fw-la	Franeos	franeos	0
+Regi	Regi	fw-la	Regi	regi	0
+∣	∣	sy	∣	∣	0
+va	va	fw-fr	va	va	0
+Regenti	Regenti	fw-la	Regenti	regenti	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	1

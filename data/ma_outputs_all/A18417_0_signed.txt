@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+owne	owne	d	own	own	0
+most	most	av-ds	most	most	0
+worthily	worthily	av-j	worthily	worthy	0
+and	and	cc	and	and	0
+sincerely	sincerely	av-j	sincerely	sincere	0
+affected	affected	vvn	affected	affect	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Chapman	Chapman	n1	Chapman	chapman	0
+.	.	.	.	.	1

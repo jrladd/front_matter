@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+To	To	pc-acp	To	to	0
+serve	serve	vvi	serve	serve	0
+You	You	pn22	You	you	0
+,	,	,	,	,	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Godwin	Godwin	np1	Godwin	Godwin	0
+.	.	.	.	.	1

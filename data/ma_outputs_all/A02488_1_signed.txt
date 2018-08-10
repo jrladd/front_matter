@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+poor	poor	j	poor	poor	0
+member	member	n1	member	member	0
+thereof	thereof	av	thereof	thereof	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+HAKEVVIL	HAKEVVIL	n1	HAKEVVIL	hakevvil	0
+.	.	.	.	.	1

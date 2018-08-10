@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+poore	poore	j	poor	poor	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+Henoch	Henoch	np1	Henoch	Henoch	0
+Clapham	Clapham	np1	Clapham	Clapham	0
+.	.	.	.	.	1

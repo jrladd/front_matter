@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+at	at	p-acp	at	at	0
+commandment	commandment	n1	commandment	commandment	0
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+COOKE	COOKE	n1	COOKE	cook	0
+.	.	.	.	.	1

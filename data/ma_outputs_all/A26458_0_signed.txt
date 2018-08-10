@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+ever	ever	av	ever	ever	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+VINES	VINES	n2	VINES	vine	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+FRA	FRA	np1	FRA	Fra	0
+.	.	.	.	.	1
+QUARLES	QUARLES	np1	QUARLES	Quarles	1

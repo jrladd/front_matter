@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+endeared	endeared	vvn	endeared	endear	0
+Aunt	Aunt	n1	Aunt	aunt	0
+Mris.	Mris.	n1	Mris.	mrs.	1
+Dorothie	Dorothie	np1	Dorothie	Dorothy	0
+Marsh	Marsh	n1	Marsh	marsh	0
+,	,	,	,	,	0
+Widow	Widow	n1	Widow	widow	0
+,	,	,	,	,	0
+Living	Living	vvg	Living	live	0
+at	at	p-acp	at	at	0
+Dover	Dover	np1	Dover	Dover	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+OVR	OVR	po12	OUR	our	0
+DEARE	DEARE	j-jn	DEER	dear	0
+MOTHER	MOTHER	n1	MOTHER	mother	0
+THE	THE	dt	THE	the	0
+CHVRCH	CHVRCH	n1	CHVRCH	church	0
+OF	OF	pp-f	OF	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

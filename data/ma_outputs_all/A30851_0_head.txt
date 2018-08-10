@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
+PRINCESS	PRINCESS	n1	PRINCESS	princess	0
+,	,	,	,	,	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+,	,	,	,	,	0
+DUTCHESS	DUTCHESS	n1	DUTCHESS	duchess	0
+of	of	pp-f	of	of	0
+SOMERSET	SOMERSET	np1	SOMERSET	Somerset	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+Cuntry-man	Cuntry-man	n1	Countryman	countryman	0
+,	,	,	,	,	0
+desirous	desirous	j	desirous	desirous	0
+euer	euer	av	ever	ever	0
+t	t	pn31	tO	it	0
+shewe	shewe	vvb	show	show	0
+himselfe	himselfe	px31	himself	himself	0
+thankfull	thankfull	j	thankful	thankful	0
+vnto	vnto	p-acp	unto	unto	0
+GOD	GOD	np1	GOD	God	0
+for	for	p-acp	for	for	0
+you	you	pn22	you	you	0
+.	.	.	.	.	1
+H.	H.	np1	H.	H.	0
+Cl.	Cl.	np1	Cl.	Cl.	1

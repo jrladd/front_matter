@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+Philip	Philip	np1	Philip	Philip	0
+Skippon	Skippon	np1	Skippon	Skippon	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

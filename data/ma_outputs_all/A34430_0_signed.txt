@@ -1,0 +1,17 @@
+YOUR	YOUR	po22	YOUR	your	0
+LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+SHADRACH	SHADRACH	np1	SHADRACH	Shadrach	0
+COOKE	COOKE	n1	COOKE	cook	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRUELY	TRUELY	av-j	TRULY	true	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+And	And	cc	And	and	0
+Religious	Religious	j	Religious	religious	0
+Sir	Sir	n1	Sir	sir	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+EGERTON	EGERTON	np1	EGERTON	Egerton	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

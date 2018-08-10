@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WOR	WOR	zz	WOR	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+Mistris	Mistris	n1	Mistress	mistress	0
+Gertrude	Gertrude	np1	Gertrude	Gertrude	0
+Dantesie	Dantesie	n1	Dantesie	dantesie	0
+.	.	.	.	.	1

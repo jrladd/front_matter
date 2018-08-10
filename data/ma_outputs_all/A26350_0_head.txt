@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Turnor	Turnor	n1	Turnor	turnor	0
+,	,	,	,	,	0
+Kt.	Kt.	np1	Kt.	Kt.	1

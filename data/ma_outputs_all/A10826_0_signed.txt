@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+remem	remem	fw-la	remem	remem	0
+∣	∣	sy	∣	∣	0
+brancer	brancer	n1	brancer	brancer	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+B.	B.	np1	B.	B.	0
+R.	R.	np1	R.	R.	1

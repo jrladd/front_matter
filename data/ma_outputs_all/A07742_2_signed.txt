@@ -1,0 +1,3 @@
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+MORLEY	MORLEY	np1	MORLEY	Morley	0
+.	.	.	.	.	1

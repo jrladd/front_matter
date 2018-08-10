@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+honours	honours	ng1	honours	honour	0
+humble	humble	j	humble	humble	0
+&	&	cc	&	and	0
+obe	obe	np1-n	obe	obe	0
+∣	∣	sy	∣	∣	0
+dient	dient	j	dient	dient	0
+seruaunt	seruaunt	n1	servant	servant	0
+.	.	.	.	.	1
+George	George	np1	George	George	0
+Baker	Baker	n1	Baker	baker	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+truely	truely	av-j	truly	true	0
+Worthy	Worthy	j	Worthy	worthy	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+George	George	np1	George	George	0
+Newman	Newman	np1	Newman	Newman	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Worthy	Worthy	j	Worthy	worthy	0
+Dr.	Dr.	n1	Dr.	dr.	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+MORTON	MORTON	np1	MORTON	Morton	0
+,	,	,	,	,	0
+FELLOW	FELLOW	n1	FELLOW	fellow	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Colledge	Colledge	n1	College	college	0
+of	of	pp-f	of	of	0
+Physicians	Physicians	n2	Physicians	physician	0
+.	.	.	.	.	1

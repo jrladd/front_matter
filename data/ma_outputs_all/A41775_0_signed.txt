@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+for	for	p-acp	for	for	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+GRANTHAM	GRANTHAM	np1	GRANTHAM	Grantham	0
+.	.	.	.	.	1

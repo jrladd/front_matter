@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+devo	devo	n1	devo	devo	0
+∣	∣	sy	∣	∣	0
+ted	ted	j	ted	ted	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Kephale	Kephale	np1	Kephale	Kephale	0
+.	.	.	.	.	1

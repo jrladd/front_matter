@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+bly	bly	zz	bly	bly	0
+devoted	devoted	vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TRAPP	TRAPP	np1	TRAPP	Trapp	0
+.	.	.	.	.	1

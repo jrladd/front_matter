@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+HAYWARD	HAYWARD	np1	HAYWARD	Hayward	0
+.	.	.	.	.	1

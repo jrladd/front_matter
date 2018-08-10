@@ -1,0 +1,16 @@
+A	A	dt	A	a	0
+Dedication	Dedication	n1	Dedication	dedication	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Academicks	Academicks	n2-jn	Academics	academic	0
+in	in	p-acp	in	in	0
+Cam	Cam	np1	Cam	Cam	0
+∣	∣	sy	∣	∣	0
+bridg	bridg	n1	bridge	bridge	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Place	Place	n1	Place	place	0
+of	of	pp-f	of	of	0
+my	my	po11	my	my	0
+Nativity	Nativity	n1	Nativity	nativity	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+reverentiae	reverentiae	fw-la	reverentiae	reverentiae	0
+observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
+,	,	,	,	,	0
+Andreas	Andreas	np1	Andreas	Andreas	0
+Willet	Willet	np1	Willet	Willet	0
+.	.	.	.	.	1

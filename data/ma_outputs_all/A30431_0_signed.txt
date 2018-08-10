@@ -1,0 +1,9 @@
+Majestatis	Majestatis	fw-la	Majestatis	majestatis	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+Observantissimus	Observantissimus	fw-la	Observantissimus	observantissimus	0
+,	,	,	,	,	0
+GULIELMUS	GULIELMUS	fw-la	GULIELMUS	gulielmus	0
+BALLAEUS	BALLAEUS	np1	BALLAEUS	BALLAEUS	0
+,	,	,	,	,	0
+Anglus	Anglus	np1	Anglus	Anglus	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HON	HON	np1	HON	Hon	0
+.	.	.	.	.	1
+BLE	BLE	j	••••••BLE	••••••ble	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+BROVVNE	BROVVNE	j-jn	BROWN	brown	0
+VISCOVNT	VISCOVNT	n1	VISCOVNT	viscovnt	0
+MONTAGVE	MONTAGVE	n1	MONTAGVE	montagve	0
+OF	OF	pp-f	OF	of	0
+COWDREY	COWDREY	np1	COWDREY	Cowdrey	0
+.	.	.	.	.	1

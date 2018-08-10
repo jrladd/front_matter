@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+woshipful	woshipful	j	woshipful	woshipful	0
+Sir	Sir	n1	Sir	sir	0
+Arthur	Arthur	np1	Arthur	Arthur	0
+Champernon	Champernon	np1	Champernon	Champernon	0
+Knighte	Knighte	n1	Knight	knight	0
+,	,	,	,	,	0
+longe	longe	av-j	long	long	0
+healthe	healthe	n1	health	health	0
+with	with	p-acp	with	with	0
+encrease	encrease	n1	increase	increase	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+prosperity	prosperity	n1	prosperity	prosperity	0
+.	.	.	.	.	1

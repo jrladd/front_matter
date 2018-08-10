@@ -1,0 +1,7 @@
+AN	AN	dt	AND	a	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+H.	H.	np1	H.	H.	0
+N.	N.	np1	N.	N.	0
+Knight	Knight	n1	Knight	knight	1

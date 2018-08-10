@@ -1,0 +1,14 @@
+At	At	p-acp	At	at	0
+fy	fy	uh	fie	fie	0
+anwyl	anwyl	n1	anwyl	anwyl	0
+Frodyr	Frodyr	np1	Frodyr	Frodyr	0
+a'm	a'm	pns11|vbm	a'm	I|be	0
+Chwiorydd	Chwiorydd	uh	Chwiorydd	chwiorydd	0
+a'm	a'm	pns11|vbm	a'm	I|be	0
+Ceraint	Ceraint	n1	Ceraint	ceraint	0
+eraill	eraill	n1	eraill	eraill	0
+ffyddon	ffyddon	vvb	ffyddon	ffyddon	0
+yn-Gwent	yn-Gwent	j	yn-Gwent	yn-gwent	0
+a	a	dt	a	a	0
+Brecheinoc	Brecheinoc	np1	Brecheinoc	Brecheinoc	0
+.	.	.	.	.	1

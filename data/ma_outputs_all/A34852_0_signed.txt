@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+COX	COX	np1	COX	Cox	0
+.	.	.	.	.	1

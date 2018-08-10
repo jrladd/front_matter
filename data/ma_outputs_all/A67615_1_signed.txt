@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Will	Will	n1	Will	will	0
+.	.	.	.	.	1
+Griffith	Griffith	np1	Griffith	Griffith	0
+.	.	.	.	.	1

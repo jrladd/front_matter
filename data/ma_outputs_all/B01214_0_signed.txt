@@ -1,0 +1,12 @@
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+treshumble	treshumble	fw-fr	treshumble	treshumble	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+∣	∣	sy	∣	∣	0
+affectionné	affectionné	fw-fr	affectionné	affectionné	0
+seruiteur	seruiteur	fw-fr	seruiteur	seruiteur	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+de	de	fw-fr	de	de	0
+Grauelle	Grauelle	n1	Gravel	gravel	0
+.	.	.	.	.	1

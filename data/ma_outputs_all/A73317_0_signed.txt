@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Seruant	Seruant	n1	Servant	servant	0
+CYRIL	CYRIL	np1	CYRIL	Cyril	0
+TOVRNEVR	TOVRNEVR	np1	TOVRNEVR	TOVRNEVR	0
+.	.	.	.	.	1

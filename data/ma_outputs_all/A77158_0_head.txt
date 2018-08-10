@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ADAMS	ADAMS	np1	ADAMS	Adams	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+honourable	honourable	j	honourable	honourable	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

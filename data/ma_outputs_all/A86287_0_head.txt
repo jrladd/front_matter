@@ -1,0 +1,11 @@
+Peter	Peter	np1	Peter	Peter	0
+Heylyn	Heylyn	np1	Heylyn	Heylyn	0
+Dr.	Dr.	n1	Dr.	dr.	0
+in	in	p-acp	in	in	0
+Divinity	Divinity	n1	Divinity	divinity	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+Hamon	Hamon	np1	Hamon	Hamon	0
+L'Estrange	L'Estrange	np1	L'Estrange	L'Estrange	0
+,	,	,	,	,	0
+Esq.	Esq.	np1	Esq.	Esq.	1

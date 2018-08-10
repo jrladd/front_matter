@@ -1,0 +1,6 @@
+Pro	Pro	np1	Pro	Pro	0
+Illustrissima	Illustrissima	fw-la	Illustrissima	illustrissima	0
+&	&	cc	&	and	0
+Serenissima	Serenissima	fw-la	Serenissima	serenissimus	0
+Regina	Regina	fw-la	Regina	regina	0
+.	.	.	.	.	1

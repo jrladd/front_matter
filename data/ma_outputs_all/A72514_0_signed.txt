@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+euer	euer	av	ever	ever	0
+to	to	p-acp	to	to	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+mand	mand	vvn	manned	man	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+LARKE	LARKE	n1	LARKE	lark	0
+.	.	.	.	.	1

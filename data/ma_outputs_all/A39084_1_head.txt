@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Morgan	Morgan	np1	Morgan	Morgan	0
+,	,	,	,	,	0
+These	These	d	These	these	0
+few	few	d	few	few	0
+Lines	Lines	n2	Lines	line	0
+are	are	vbr	are	be	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Father	Father	n1	Father	father	0
+in	in	p-acp	in	in	0
+God	God	np1	God	God	0
+IOHN	IOHN	np1	IOHN	John	0
+LORD	LORD	n1	LORD	lord	0
+BISHOP	BISHOP	n1	BISHOP	bishop	0
+OF	OF	pp-f	OF	of	0
+EXCESTER	EXCESTER	np1	EXCESTER	EXCESTER	0
+.	.	.	.	.	1

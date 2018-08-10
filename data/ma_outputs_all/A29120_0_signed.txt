@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Highnesses	Highnesses	n2	Highnesses	highness	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Commonwealths	Commonwealths	n2	Commonwealths	commonwealth	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+good	good	j	good	good	0
+ways	ways	n2	ways	way	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Bradley	Bradley	np1	Bradley	Bradley	0
+.	.	.	.	.	1

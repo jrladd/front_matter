@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+faithfull	faithfull	j	faithful	faithful	0
+Monitor	Monitor	np1	Monitor	Monitor	0
+A.	A.	sy	A.	a	0
+B.	B.	sy	B.	b	0
+C.	C.	sy	C.	c	1

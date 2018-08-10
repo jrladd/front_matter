@@ -1,0 +1,9 @@
+Walter	Walter	np1	Walter	Walter	0
+Flude	Flude	vvb	Flude	flude	0
+,	,	,	,	,	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+V.S.	V.S.	np1	V.S.	V.S.	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+happinesse	happinesse	n1	happiness	happiness	0
+.	.	.	.	.	1

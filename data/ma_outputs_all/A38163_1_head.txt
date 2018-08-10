@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+indeered	indeered	vvn	endeared	endear	0
+Friends	Friends	n2	Friends	friend	0
+Mr.	Mr.	n1	Mr.	mr.	1
+JOSEPH	JOSEPH	np1	JOSEPH	Joseph	0
+,	,	,	,	,	0
+JONATHAN	JONATHAN	np1	JONATHAN	Jonathan	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+ISAAK	ISAAK	np1	ISAAK	ISAAK	0
+BLACKWELL	BLACKWELL	np1	BLACKWELL	Blackwell	0
+,	,	,	,	,	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+.	.	.	.	.	1

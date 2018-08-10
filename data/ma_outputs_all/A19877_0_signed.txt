@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+humble	humble	j	humble	humble	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+D'AVENANT	D'AVENANT	np1	D'AVENANT	D'AVENANT	0
+.	.	.	.	.	1

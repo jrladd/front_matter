@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+ser	ser	zz	ser	ser	0
+∣	∣	sy	∣	∣	0
+uant	uant	n1	uant	vaunt	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+GREENEWOOD	GREENEWOOD	n1	GREENEWOOD	green-wood	0
+.	.	.	.	.	1

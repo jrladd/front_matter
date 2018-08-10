@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Highnesse's	Highnesse's	ng1	Highness's	highness	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+STAPYLTON	STAPYLTON	np1	STAPYLTON	Stapylton	0
+.	.	.	.	.	1

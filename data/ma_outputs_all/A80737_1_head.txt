@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+INHABITANTS	INHABITANTS	n2	INHABITANTS	inhabitant	0
+OF	OF	pp-f	OF	of	0
+NORTH-CADBƲRY	NORTH-CADBƲRY	j	NORTH-CADBƲRY	north-cadbʋry	0
+in	in	p-acp	in	in	0
+SOMERSETSHIRE	SOMERSETSHIRE	np1	SOMERSETSHIRE	Somersetshire	0
+.	.	.	.	.	1

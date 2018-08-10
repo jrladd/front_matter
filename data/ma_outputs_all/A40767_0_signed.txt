@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+for	for	p-acp	for	for	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Paget	Paget	np1	Paget	Paget	0
+.	.	.	.	.	1

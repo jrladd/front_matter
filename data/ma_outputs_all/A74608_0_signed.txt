@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+Beadswoman	Beadswoman	n1	Beadswoman	beadswoman	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+Martha	Martha	np1	Martha	Martha	0
+Tucker	Tucker	np1	Tucker	Tucker	0
+.	.	.	.	.	1

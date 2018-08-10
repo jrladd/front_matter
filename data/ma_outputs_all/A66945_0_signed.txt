@@ -1,0 +1,4 @@
+THO	THO	np1	THO	Tho	0
+.	.	.	.	.	1
+WOOD	WOOD	n1	WOOD	wood	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+Vobis	Vobis	fw-la	Vobis	vobis	0
+addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
+Guilielmus	Guilielmus	fw-la	Guilielmus	guilielmus	0
+Fulbeckus	Fulbeckus	np1	Fulbeckus	Fulbeckus	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+humble	humble	j	humble	humble	0
+Oratour	Oratour	n1	Orator	orator	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Tymme	Tymme	j	Tymme	tymme	0
+.	.	.	.	.	1

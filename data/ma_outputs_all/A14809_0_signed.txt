@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Iames	Iames	np1	Iames	Iames	0
+Wattes	Wattes	np1	Wattes	Wattes	0
+.	.	.	.	.	1

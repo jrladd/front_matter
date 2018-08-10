@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+Methwold	Methwold	np1	Methwold	Methwold	0
+.	.	.	.	.	1

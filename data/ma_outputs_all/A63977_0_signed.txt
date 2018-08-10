@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Pastour	Pastour	n1	Pastor	pastor	0
+W.	W.	np1	W.	W.	0
+Tutty	Tutty	np1	Tutty	Tutty	0
+.	.	.	.	.	1

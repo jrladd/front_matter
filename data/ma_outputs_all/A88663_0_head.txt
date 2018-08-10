@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	png31	his	he	0
+Dearly	Dearly	av-jn	Dearly	dear	0
+Respected	Respected	j-vvn	Respected	respect	0
+Friend	Friend	n1	Friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	0
+William	William	np1	William	William	0
+Nicoll	Nicoll	np1	Nicoll	Nicoll	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+cousen	cousen	n1	cousin	cousin	0
+Reg.	Reg.	np1	Reg.	Reg.	0
+Scot	Scot	np1	Scot	Scot	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Hierome	Hierome	np1	Hierome	Hierome	0
+Counte	Counte	n1	Count	count	0
+of	of	pp-f	of	of	0
+Portia	Portia	np1	Portia	Portia	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+elder	elder	n-jn	elder	elder	0
+.	.	.	.	.	1

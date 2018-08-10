@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Christian	Christian	np1	Christian	Christian	0
+frend	frend	n1	friend	friend	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+grace	grace	n1	grace	grace	0
+&	&	cc	&	and	0
+peace	peace	n1	peace	peace	0
+.	.	.	.	.	1

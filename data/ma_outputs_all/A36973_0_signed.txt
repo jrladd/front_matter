@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Eternally	Eternally	av-j	Eternally	eternal	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Durfey	Durfey	np1	Durfey	Durfey	0
+.	.	.	.	.	1

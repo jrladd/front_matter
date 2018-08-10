@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+Fleetwood	Fleetwood	np1	Fleetwood	Fleetwood	0
+Sheppard	Sheppard	np1	Sheppard	Sheppard	0
+Esq	Esq	np1	Esq	Esq	0
+Gentleman-Usher	Gentleman-Usher	n1	Gentleman-Usher	gentleman-usher	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+KING	KING	n1	KING	king	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

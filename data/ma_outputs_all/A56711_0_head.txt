@@ -1,0 +1,6 @@
+Dominus	Dominus	fw-la	Dominus	dominus	0
+det	det	n1	debt	debt	0
+vobis	vobis	fw-la	vobis	vobis	0
+suam	suam	fw-la	suam	svam	0
+Pacem	Pacem	fw-la	Pacem	pacem	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+A	A	dt	A	a	0
+Quatorzaine	Quatorzaine	n1	Quatorzaine	quatorzaine	0
+.	.	.	.	.	1

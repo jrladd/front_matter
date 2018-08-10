@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+glorious	glorious	j	glorious	glorious	0
+object	object	n1	object	object	0
+of	of	pp-f	of	of	0
+our	our	po12	our	our	0
+expe	expe	n1	expe	expe	0
+∣	∣	sy	∣	∣	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+Prince	Prince	n1	Prince	prince	0
+of	of	pp-f	of	of	0
+WALES	WALES	np1	WALES	Wales	1

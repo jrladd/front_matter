@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+VERY	VERY	j	VERY	very	0
+GOOD	GOOD	j	GOOD	good	0
+FREND	FREND	n1	FREND	friend	0
+,	,	,	,	,	1

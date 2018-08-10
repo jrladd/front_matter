@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+much	much	av-d	much	much	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Allen	Allen	np1	Allen	Allen	0
+.	.	.	.	.	1

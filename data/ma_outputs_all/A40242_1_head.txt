@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Contrivers	Contrivers	n2	Contrivers	contriver	0
+and	and	cc	and	and	0
+Subscribers	Subscribers	np1	Subscribers	Subscribers	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Petition	Petition	vvb	Petition	petition	0
+.	.	.	.	.	1

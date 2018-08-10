@@ -1,0 +1,8 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honors	Honors	ng1	Honours	honour	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Ieremie	Ieremie	np1	Ieremie	Jeremy	0
+Corderoy	Corderoy	n1	Corderoy	corderoy	0
+.	.	.	.	.	1

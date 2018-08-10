@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+loving	loving	j-vvg	loving	love	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+ROGER	ROGER	np1	ROGER	Roger	0
+DRAKE	DRAKE	np1	DRAKE	Drake	0
+.	.	.	.	.	1

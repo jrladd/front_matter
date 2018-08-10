@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+Tho.	Tho.	np1	Tho.	Tho.	1
+Southerne	Southerne	j	Southern	southern	0
+.	.	.	.	.	1

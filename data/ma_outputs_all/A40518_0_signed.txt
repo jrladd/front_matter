@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+FROYSELL	FROYSELL	np1	FROYSELL	FROYSELL	0
+.	.	.	.	.	1

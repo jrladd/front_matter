@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+worthily	worthily	av-j	worthily	worthy	0
+honored	honored	vvn	honoured	honour	0
+Sir	Sir	n1	Sir	sir	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Bowier	Bowier	np1	Bowier	Bowyer	0
+.	.	.	.	.	1

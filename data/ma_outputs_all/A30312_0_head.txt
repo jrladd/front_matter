@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+JOHN	JOHN	np1	JOHN	John	0
+LORD	LORD	n1	LORD	lord	0
+LORN	LORN	np1	LORN	Lorn	0
+.	.	.	.	.	1

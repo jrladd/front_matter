@@ -1,0 +1,8 @@
+Thy	Thy	po21	Thy	thy	0
+faithful	faithful	j	faithful	faithful	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Subject	Subject	j-jn	Subject	subject	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+BARCLAY	BARCLAY	np1	BARCLAY	Barclay	0
+.	.	.	.	.	1

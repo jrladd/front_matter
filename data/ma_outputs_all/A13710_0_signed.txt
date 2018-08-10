@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+.	.	.	.	.	1

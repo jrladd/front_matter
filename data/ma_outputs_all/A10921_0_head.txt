@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+LOVING	LOVING	j-vvg	LOVING	love	0
+Neighbours	Neighbours	n2	Neighbours	neighbour	0
+of	of	pp-f	of	of	0
+Dedham	Dedham	np1	Dedham	Dedham	0
+.	.	.	.	.	1

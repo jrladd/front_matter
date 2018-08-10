@@ -1,0 +1,14 @@
+L.	L.	np1	L.	L.	0
+C.	C.	np1	C.	C.	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+Health	Health	n1	Health	health	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+long	long	j	long	long	0
+Life	Life	n1	Life	life	0
+and	and	cc	and	and	0
+Increase	Increase	n1	Increase	increase	0
+of	of	pp-f	of	of	0
+Honour	Honour	n1	Honour	honour	0
+.	.	.	.	.	1

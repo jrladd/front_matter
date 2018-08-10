@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Very	Very	av	Very	very	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+James	James	np1	James	James	0
+Cade	Cade	np1	Cade	Cade	0
+.	.	.	.	.	1

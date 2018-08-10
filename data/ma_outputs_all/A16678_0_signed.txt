@@ -1,0 +1,4 @@
+RICH	RICH	j	RICH	rich	0
+:	:	:	:	:	0
+BRAYHVVAIT	BRAYHVVAIT	vvb	BRAYHVVAIT	brayhvvait	0
+.	.	.	.	.	1

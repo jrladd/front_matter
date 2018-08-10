@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruan	seruan	n1	seruan	seruan	0
+Iean	Iean	np1	Iean	Iean	0
+vander	vander	vvb	vander	vander	0
+Noodt	Noodt	np1	Noodt	Noodt	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Yn	Yn	cs	Than	than	0
+ffrind	ffrind	vvb	ffrind	ffrind	0
+tra	tra	fw-la	tra	tra	0
+chariadus	chariadus	fw-la	chariadus	chariadus	0
+ac	ac	fw-la	ac	ac	0
+yn	yn	av	than	than	0
+Wasanaethwr	Wasanaethwr	np1	Wasanaethwr	Wasanaethwr	0
+gostyngedig	gostyngedig	fw-ge	gostyngedig	gostyngedig	0
+Robert	Robert	np1	Robert	Robert	0
+Boyle	Boyle	vvi	Boil	boil	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+euer	euer	av	ever	ever	0
+most	most	av-ds	most	most	0
+faith	faith	n1	faith	faith	0
+∣	∣	sy	∣	∣	0
+fullie	fullie	av-j	fully	full	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+ANTONY	ANTONY	np1	ANTONY	Antony	0
+HOLBORNE	HOLBORNE	np1	HOLBORNE	Holborn	0
+.	.	.	.	.	1

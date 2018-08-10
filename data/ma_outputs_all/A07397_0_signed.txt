@@ -1,0 +1,3 @@
+Joshua	Joshua	np1	Joshua	Joshua	0
+Meen	Meen	n1	Meen	mien	0
+.	.	.	.	.	1

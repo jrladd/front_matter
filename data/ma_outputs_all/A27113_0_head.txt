@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Dashwood	Dashwood	np1	Dashwood	Dashwood	0
+Esq	Esq	np1	Esq	Esq	1

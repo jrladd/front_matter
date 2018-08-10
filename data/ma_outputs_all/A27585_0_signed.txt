@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Kingdom	Kingdom	n1	Kingdom	kingdom	0
+.	.	.	.	.	1
+Tho.	Tho.	np1	Tho.	Tho.	0
+Beverley	Beverley	np1	Beverley	Beverley	0
+.	.	.	.	.	1

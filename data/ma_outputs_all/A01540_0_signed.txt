@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+fellow-labourer	fellow-labourer	n1	fellow-labourer	fellow-labourer	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+haruest	haruest	n1	harvest	harvest	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+FEATLY	FEATLY	av-j	FEATLY	feat	0
+▪	▪	▪	▪	▪	1

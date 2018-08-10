@@ -1,0 +1,12 @@
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+re	re	zz	re	re	0
+∣	∣	sy	∣	∣	0
+spectiue	spectiue	n1	spectiue	spectiue	0
+and	and	cc	and	and	0
+affectioned	affectioned	j-vvn	affectioned	affection	0
+duety	duety	n1	duty	duty	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+GUILD	GUILD	n1	GUILD	guild	0
+.	.	.	.	.	1

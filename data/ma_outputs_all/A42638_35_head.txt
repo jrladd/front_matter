@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+Sr.	Sr.	n1	Sr.	sir	0
+JOHN	JOHN	np1	JOHN	John	0
+BABER	BABER	np1	BABER	Baber	0
+Kt.	Kt.	np1	Kt.	Kt.	1

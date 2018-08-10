@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+no	no	zz	no	no	0
+lesse	lesse	av-dc	less	less	0
+faithfull	faithfull	j	faithful	faithful	0
+,	,	,	,	,	0
+then	then	av	then	then	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+HENRY	HENRY	np1	HENRY	Henry	0
+COGAN	COGAN	np1	COGAN	Cogan	0
+.	.	.	.	.	1

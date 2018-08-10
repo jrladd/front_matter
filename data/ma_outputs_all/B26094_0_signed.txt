@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+ROYAL	ROYAL	j	ROYAL	royal	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+L.	L.	np1	L.	L.	1

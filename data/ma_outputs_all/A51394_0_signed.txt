@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+MAJESTY'S	MAJESTY'S	ng1	MAJESTY'S	majesty	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+GEOR	GEOR	n1	GEOR	geor	0
+.	.	.	.	.	1
+WORCESTER	WORCESTER	np1	WORCESTER	Worcester	0
+.	.	.	.	.	1

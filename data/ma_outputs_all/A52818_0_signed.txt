@@ -1,0 +1,4 @@
+CHR	CHR	np1	CHR	Chr	0
+.	.	.	.	.	1
+NESS	NESS	np1	NESS	Ness	0
+.	.	.	.	.	1

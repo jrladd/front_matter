@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+constant	constant	j	constant	constant	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+M.	M.	n1	M.	m.	0
+WREN	WREN	n1	WREN	wren	0
+.	.	.	.	.	1

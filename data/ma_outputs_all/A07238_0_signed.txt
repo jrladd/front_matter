@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Faithfull	Faithfull	j	Faithful	faithful	0
+Honorer	Honorer	n1	Honorer	honourer	0
+;	;	;	;	;	0
+PHILIP	PHILIP	n1	PHILIP	fillip	0
+MASSINGER	MASSINGER	np1	MASSINGER	MASSINGER	0
+.	.	.	.	.	1

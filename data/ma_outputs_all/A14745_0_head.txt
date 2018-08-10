@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+Sr.	Sr.	n1	Sr.	sir	1
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+BACON	BACON	n1	BACON	bacon	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Chan	Chan	np1	Chan	Chan	0
+∣	∣	sy	∣	∣	0
+celor	celor	n1	celor	celor	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

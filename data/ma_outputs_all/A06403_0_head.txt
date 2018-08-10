@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+Lord	Lord	n1	Lord	lord	0
+DENNIE	DENNIE	np1	DENNIE	Dennie	0
+.	.	.	.	.	1

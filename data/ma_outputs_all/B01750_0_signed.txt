@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+La.	La.	n1	La.	lady	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+ser	ser	zz	ser	ser	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Zachary	Zachary	np1	Zachary	Zachary	0
+Boyd	Boyd	np1	Boyd	Boyd	0
+.	.	.	.	.	1

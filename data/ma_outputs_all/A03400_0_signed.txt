@@ -1,0 +1,4 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+H.	H.	np1	H.	H.	1

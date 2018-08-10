@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+lowest	lowest	js	lowest	low	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+.	.	.	.	.	1
+Thomas	Thomas	np1	Thomas	Thomas	0
+Sterry	Sterry	np1	Sterry	Sterry	0
+.	.	.	.	.	1

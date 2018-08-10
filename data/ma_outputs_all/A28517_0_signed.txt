@@ -1,0 +1,3 @@
+C.	C.	np1	C.	C.	0
+Irvin	Irvin	np1	Irvin	Irvin	0
+.	.	.	.	.	1

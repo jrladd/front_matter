@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+Bartholomew	Bartholomew	np1	Bartholomew	Bartholomew	0
+Chamberlaine	Chamberlaine	np1	Chamberlaine	Chamberlaine	0
+.	.	.	.	.	1

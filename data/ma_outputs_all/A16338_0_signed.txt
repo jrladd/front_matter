@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+truely	truely	av-j	truly	true	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+seruices	seruices	n2	services	service	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+saluation	saluation	n1	salvation	salvation	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Soule	Soule	n1	Soul	soul	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+BOLTON	BOLTON	np1	BOLTON	Bolton	0
+.	.	.	.	.	1

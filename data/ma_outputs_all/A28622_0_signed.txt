@@ -1,0 +1,16 @@
+Who	Who	q-crq	Who	who	0
+is	is	vbz	is	be	0
+not	not	xx	not	not	0
+unwilling	unwilling	j	unwilling	unwilling	0
+to	to	pc-acp	to	to	0
+spend	spend	vvi	spend	spend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+be	be	vbi	be	be	0
+spent	spent	vvn	spent	spend	0
+for	for	p-acp	for	for	0
+you	you	pn22	you	you	0
+:	:	:	:	:	0
+S.	S.	n1	S.	saint	0
+BOLTON	BOLTON	np1	BOLTON	Bolton	0
+.	.	.	.	.	1

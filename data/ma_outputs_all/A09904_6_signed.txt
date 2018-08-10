@@ -1,0 +1,10 @@
+Signa	Signa	np1	Signa	Signa	0
+virtutum	virtutum	fw-la	virtutum	virtutum	0
+tuarum	tuarum	fw-la	tuarum	tuarum	0
+longé	longé	n1	longé	longé	0
+,	,	,	,	,	0
+latéque	latéque	fw-la	latéque	latéque	0
+ferens	ferens	fw-la	ferens	ferens	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Powell	Powell	np1	Powell	Powell	0
+.	.	.	.	.	1

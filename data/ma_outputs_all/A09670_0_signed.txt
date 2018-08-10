@@ -1,0 +1,8 @@
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+R.	R.	np1	R.	R.	0
+G.	G.	np1	G.	G.	1

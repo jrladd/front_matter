@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+Lord	Lord	n1	Lord	lord	0
+Buckhurst	Buckhurst	np1	Buckhurst	Buckhurst	0
+,	,	,	,	,	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+of	of	pp-f	of	of	0
+His	His	po31	His	his	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+BED-CHAMBER	BED-CHAMBER	n1	BED-CHAMBER	bedchamber	0
+.	.	.	.	.	1

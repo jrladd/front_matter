@@ -1,0 +1,3 @@
+Io.	Io.	np1	Io.	Io.	0
+Makluireus	Makluireus	np1	Makluireus	Makluireus	0
+.	.	.	.	.	1

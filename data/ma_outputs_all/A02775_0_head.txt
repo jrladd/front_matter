@@ -1,0 +1,7 @@
+Haruey	Haruey	np1	Haruey	Haruey	0
+,	,	,	,	,	0
+or	or	cc	or	or	0
+the	the	dt	the	the	0
+sweet	sweet	j	sweet	sweet	0
+Doctour	Doctour	n1	Doctor	doctor	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+EVER-HONOVRED	EVER-HONOVRED	j	EVER-HONOURED	ever-honoured	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+MY	MY	po11	MY	my	0
+LADY	LADY	n1	LADY	lady	0
+COVN	COVN	vvn	COVN	covn	0
+∣	∣	sy	∣	∣	0
+tesse	tesse	n1	tesse	tesse	0
+of	of	pp-f	of	of	0
+Montrois	Montrois	np1	Montrois	Montrois	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humblenes	humblenes	n1	humbleness	humbleness	0
+at	at	p-acp	at	at	0
+cōmaundment	cōmaundment	n1	commandment	commandment	0
+:	:	:	:	:	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

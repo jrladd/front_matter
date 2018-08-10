@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+humble	humble	j	humble	humble	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+DOVE	DOVE	n1	DOVE	dove	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Generous	Generous	j	Generous	generous	0
+and	and	cc	and	and	0
+much	much	d	much	much	0
+Respected	Respected	j-vvn	Respected	respect	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Gabriel	Gabriel	np1	Gabriel	Gabriel	0
+Goldney	Goldney	np1	Goldney	Goldney	0
+of	of	pp-f	of	of	0
+Andover	Andover	np1	Andover	Andover	0
+.	.	.	.	.	1

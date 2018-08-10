@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+lowly	lowly	j	lowly	lowly	0
+Orato	Orato	np1	Orato	Orato	0
+SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
+PVRCHAS	PVRCHAS	vvi	PURCHASE	purchase	1

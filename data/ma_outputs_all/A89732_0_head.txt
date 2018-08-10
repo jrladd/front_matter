@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+GENERAL	GENERAL	n1	GENERAL	general	0
+COURT	COURT	n1	COURT	court	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+MASACHUSETS	MASACHUSETS	n2	MASACHUSETS	masachuset	0
+Colonie	Colonie	n1	Colony	colony	0
+Now	Now	av	Now	now	0
+sitting	sitting	vvg	sitting	sit	0
+at	at	p-acp	at	at	0
+Boston	Boston	np1	Boston	Boston	0
+in	in	p-acp	in	in	0
+New-England	New-England	np1	New-England	New-England	0
+.	.	.	.	.	1

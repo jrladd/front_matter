@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
+MAIESTY	MAIESTY	n1	MAIESTY	majesty	0
+OF	OF	pp-f	OF	of	0
+HENRIETTE	HENRIETTE	np1	HENRIETTE	Henriette	0
+MARIE	MARIE	uh	MARRY	marie	0
+,	,	,	,	,	0
+QUEEN	QUEEN	n1	QUEEN	queen	0
+OF	OF	pp-f	OF	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

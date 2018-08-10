@@ -1,0 +1,8 @@
+your	your	po22	your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+faithful	faithful	j	faithful	faithful	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+Elias	Elias	np1	Elias	Elias	0
+Palmer	Palmer	n1	Palmer	palmer	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Ed	Ed	wd	Ed	ed	0
+:	:	:	:	:	0
+de	de	fw-fr	de	de	0
+Claro	Claro	fw-la	Claro	claro	0
+vado	vado	fw-es	vado	vado	0
+.	.	.	.	.	1

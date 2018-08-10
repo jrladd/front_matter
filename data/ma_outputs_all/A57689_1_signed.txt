@@ -1,0 +1,17 @@
+That	That	cst	That	that	0
+is	is	vbz	is	be	0
+really	really	av-j	really	real	0
+Your	Your	po22	Your	your	0
+Highnesses	Highnesses	ng1	Highnesses	highness	0
+Wel-wisher	Wel-wisher	j	Wellwisher	wellwish	0
+And	And	cc	And	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+Whilst	Whilst	cs	While	while	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+William	William	np1	William	William	0
+Ramesey	Ramesey	n1	Ramesey	ramesey	0
+.	.	.	.	.	1

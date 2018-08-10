@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHIP	WORSHIP	n1	WORSHIP	worship	0
+∣	∣	sy	∣	∣	0
+FVLL	FVLL	av-j	FULL	full	0
+,	,	,	,	,	0
+MY	MY	po11	MY	my	0
+MOST	MOST	av-ds	MOST	most	0
+honoured	honoured	j-vvn	honoured	honour	0
+PATRONE	PATRONE	n1	PATRONE	patron	0
+WILL	WILL	vmb	WILL	will	0
+.	.	.	.	.	1
+STONOVR	STONOVR	n1	STONOVR	stonovr	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

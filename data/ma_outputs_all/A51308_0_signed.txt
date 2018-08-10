@@ -1,0 +1,9 @@
+A	A	dt	A	a	0
+Chip	Chip	n1	Chip	chip	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+same	same	d	same	same	0
+Block	Block	n1	Block	block	0
+Alazonomastix	Alazonomastix	np1	Alazonomastix	Alazonomastix	0
+Philalethes	Philalethes	np1	Philalethes	Philalethes	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+reall	reall	j	real	real	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Uncle	Uncle	n1	Uncle	uncle	0
+,	,	,	,	,	0
+ANTHO	ANTHO	np1	ANTHO	Antho	0
+.	.	.	.	.	1
+LOVEDAY	LOVEDAY	np1	LOVEDAY	Loveday	0
+.	.	.	.	.	1

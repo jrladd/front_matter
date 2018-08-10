@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worthily	Worthily	av-j	Worthily	worthy	0
+Honou	Honou	np1	Honou	Honou	0
+∣	∣	sy	∣	∣	0
+red	red	j-jn	read	red	0
+John	John	np1	John	John	0
+Clark	Clark	np1	Clark	Clark	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Bury	Bury	vvb	Bury	bury	0
+in	in	p-acp	in	in	0
+Suffolk	Suffolk	np1	Suffolk	Suffolk	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

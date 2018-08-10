@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+VERY	VERY	j	VERY	very	0
+AGED	AGED	j-vvn	AGED	age	0
+AND	AND	cc	AND	and	0
+MUCH	MUCH	d	MUCH	much	0
+HONOVRED	HONOVRED	j-vvn	HONOURED	honour	0
+Grand-father	Grand-father	n1	Grandfather	grandfather	0
+JOHN	JOHN	np1	JOHN	John	0
+MORLEY	MORLEY	np1	MORLEY	Morley	0
+.	.	.	.	.	1

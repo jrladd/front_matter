@@ -1,0 +1,6 @@
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+dearest	dearest	js-jn	dearest	dear	0
+Frend	Frend	n1	Friend	friend	0
+.	.	.	.	.	1

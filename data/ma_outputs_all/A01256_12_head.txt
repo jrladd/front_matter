@@ -1,0 +1,15 @@
+Virtus	Virtus	np1	Virtus	Virtus	0
+vera	vera	fw-la	vera	vera	0
+Nobilitas	Nobilitas	fw-la	Nobilitas	nobilitas	0
+,	,	,	,	,	0
+Symbolum	Symbolum	np1	Symbolum	Symbolum	0
+Domini	Domini	fw-la	Domini	domini	0
+,	,	,	,	,	0
+scripto	scripto	av-an	scripto	scripto	0
+a	a	av	a	a	0
+se	se	vvi	see	see	0
+nominl	nominl	av	nominl	nominl	0
+,	,	,	,	,	0
+vsitatissime	vsitatissime	fw-la	vsitatissime	vsitatissime	0
+subscriptum	subscriptum	fw-la	subscriptum	subscriptum	0
+.	.	.	.	.	1

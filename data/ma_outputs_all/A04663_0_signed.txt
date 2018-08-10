@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+Colleague	Colleague	n1	Colleague	colleague	0
+.	.	.	.	.	1
+Ed.	Ed.	np1	Ed.	Ed.	0
+Iorden	Iorden	n1	Iorden	jordan	0
+.	.	.	.	.	1

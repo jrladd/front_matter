@@ -1,0 +1,3 @@
+Chr.	Chr.	np1	Chr.	Chr.	0
+Pack	Pack	n1	Pack	pack	0
+.	.	.	.	.	1

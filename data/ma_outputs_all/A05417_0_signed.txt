@@ -1,0 +1,8 @@
+Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+cultor	cultor	fw-la	cultor	cultor	0
+amantissimus	amantissimus	fw-la	amantissimus	amantissimus	0
+,	,	,	,	,	0
+ROGERVS	ROGERVS	np1	ROGERVS	ROGERVS	0
+LEY	LEY	np1	LEY	Ley	0
+.	.	.	.	.	1

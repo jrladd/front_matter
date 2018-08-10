@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+Servant	Servant	n1	Servant	servant	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+Ed.	Ed.	np1	Ed.	Ed.	0
+Foord	Foord	np1	Foord	Ford	0
+.	.	.	.	.	1

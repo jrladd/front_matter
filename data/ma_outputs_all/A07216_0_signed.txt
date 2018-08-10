@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+MASON	MASON	np1	MASON	Mason	0
+.	.	.	.	.	1

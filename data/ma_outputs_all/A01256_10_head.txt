@@ -1,0 +1,5 @@
+Quare	Quare	fw-la	Quare	quare	0
+Rub	Rub	vvb	Rub	rub	0
+&	&	cc	&	and	0
+Run	Run	vvi	Run	run	0
+;	;	;	;	;	1

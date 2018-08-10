@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+MADAM	MADAM	n1	MADAM	madam	0
+ELLEN	ELLEN	np1	ELLEN	Ellen	0
+GƲYN	GƲYN	np1	GƲYN	GƲYN	0
+.	.	.	.	.	1

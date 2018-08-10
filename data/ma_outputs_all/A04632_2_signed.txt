@@ -1,0 +1,11 @@
+Thy	Thy	po21	Thy	thy	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+not	not	xx	not	not	0
+slaue	slaue	n1	slave	slave	0
+,	,	,	,	,	0
+BEN	BEN	zz	BEN	ben	0
+.	.	.	.	.	1
+IONSON	IONSON	np1	IONSON	Jonson	0
+.	.	.	.	.	1

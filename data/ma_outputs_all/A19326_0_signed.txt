@@ -1,0 +1,13 @@
+A	A	dt	A	a	0
+most	most	av-ds	most	most	0
+zealous	zealous	j	zealous	zealous	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+louer	louer	n1	lover	lover	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+soules	soules	n2	souls	soul	0
+:	:	:	:	:	0
+IOHN	IOHN	np1	IOHN	John	0
+COPLEY	COPLEY	np1	COPLEY	Copley	0
+.	.	.	.	.	1

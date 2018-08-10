@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+meanest	meanest	js	meanest	mean	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+work	work	vvb	work	work	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+MANTON	MANTON	np1	MANTON	Manton	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+endeared	endeared	vvn	endeared	endear	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+ARMAGH	ARMAGH	np1	ARMAGH	Armagh	0
+.	.	.	.	.	1

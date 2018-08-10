@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+.	.	.	.	.	1

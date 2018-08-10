@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+louing	louing	n1	loving	love	0
+and	and	cc	and	and	0
+carefull	carefull	j	careful	careful	0
+Minister	Minister	n1	Minister	minister	0
+and	and	cc	and	and	0
+Pastor	Pastor	np1	Pastor	Pastor	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+SYME	SYME	np1	SYME	Syme	0
+.	.	.	.	.	1

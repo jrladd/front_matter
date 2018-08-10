@@ -1,0 +1,11 @@
+Sectator	Sectator	np1	Sectator	Sectator	0
+vester	vester	fw-fr	vester	vester	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+in	in	p-acp	in	in	0
+altissima	altissima	fw-la	altissima	altissima	0
+scientia	scientia	fw-la	scientia	scientia	0
+,	,	,	,	,	0
+ROB	ROB	vvb	ROB	rob	0
+.	.	.	.	.	1
+SHELFORD	SHELFORD	np1	SHELFORD	Shelford	0
+.	.	.	.	.	1

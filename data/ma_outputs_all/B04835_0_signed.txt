@@ -1,0 +1,8 @@
+Eich	Eich	n1	Eich	eich	0
+hen	hen	n1	hen	hen	0
+Dad	Dad	n1	Dad	dad	0
+gofalus	gofalus	fw-la	gofalus	gofalus	0
+,	,	,	,	,	0
+Jo.	Jo.	np1	Jo.	Jo.	0
+Caerfangon	Caerfangon	np1	Caerfangon	Caerfangon	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+;	;	;	;	;	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Gee	Gee	zz	Gee	gee	0
+.	.	.	.	.	1

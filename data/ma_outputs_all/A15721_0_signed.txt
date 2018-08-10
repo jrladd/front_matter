@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+vnfayned	vnfayned	j	unfeigned	unfeigned	0
+Friend	Friend	n1	Friend	friend	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+WORSHIP	WORSHIP	n1	WORSHIP	worship	0
+.	.	.	.	.	1

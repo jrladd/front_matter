@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+friend	friend	n1	friend	friend	0
+to	to	p-acp	to	to	0
+truth	truth	n1	truth	truth	0
+,	,	,	,	,	0
+Sampson	Sampson	np1	Sampson	Samson	0
+Tounesend	Tounesend	np1	Tounesend	Tounesend	0
+.	.	.	.	.	1

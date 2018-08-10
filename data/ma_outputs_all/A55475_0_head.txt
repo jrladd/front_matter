@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
+and	and	cc	and	and	0
+HIGH-BORN	HIGH-BORN	j	HIGHBORN	high-born	0
+PRINCESS	PRINCESS	n1	PRINCESS	princess	0
+,	,	,	,	,	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+,	,	,	,	,	0
+DVTCHESS	DVTCHESS	n1	DVTCHESS	dvtchess	0
+OF	OF	pp-f	OF	of	0
+ALBEMARLE	ALBEMARLE	np1	ALBEMARLE	Albemarle	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	ng1	Graces	grace	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+much	much	d	much	much	0
+affection	affection	n1	affection	affection	0
+HVGH	HVGH	j	HUGH	hugh	0
+HOLLAND	HOLLAND	n1	HOLLAND	holland	0
+.	.	.	.	.	1

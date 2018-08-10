@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+best	best	js	best	best	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+euer	euer	av	ever	ever	0
+most	most	av-ds	most	most	0
+worthily	worthily	av-j	worthily	worthy	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+GEO	GEO	np1	GEO	Geo	0
+:	:	:	:	:	0
+CHAPMAN	CHAPMAN	n1	CHAPMAN	chapman	0
+.	.	.	.	.	1

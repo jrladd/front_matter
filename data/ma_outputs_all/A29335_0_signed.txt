@@ -1,0 +1,16 @@
+Le	Le	fw-fr	Le	le	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+,	,	,	,	,	0
+tres-obeïssant	tres-obeïssant	j	tres-obeïssant	tres-obeïssant	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+fi	fi	n2	fi	fi	0
+∣	∣	sy	∣	∣	0
+delle	delle	n1	delle	dell	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+&	&	cc	&	and	0
+Su	Su	n1	Sum	sum	0
+∣	∣	sy	∣	∣	0
+jet	jet	n1	jet	jet	0
+BREVAL	BREVAL	np1	BREVAL	BREVAL	0
+.	.	.	.	.	1

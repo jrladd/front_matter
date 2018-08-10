@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LOWTH	LOWTH	np1	LOWTH	LOWTH	0
+.	.	.	.	.	1

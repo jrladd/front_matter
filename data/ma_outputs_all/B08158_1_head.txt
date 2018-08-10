@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+,	,	,	,	,	0
+Prince	Prince	n1	Prince	prince	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+Britaine	Britaine	np1	Britaine	Britain	0
+.	.	.	.	.	1

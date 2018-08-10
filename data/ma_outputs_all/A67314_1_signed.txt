@@ -1,0 +1,9 @@
+EXCELLENTIAE	EXCELLENTIAE	fw-la	EXCELLENTIAE	excellentiae	0
+Vestre	Vestre	np1	Vestre	Vestre	0
+quàm	quàm	fw-la	quàm	quàm	0
+humillimè	humillimè	fw-la	humillimè	humillimè	0
+devotus	devotus	fw-la	devotus	devotus	0
+,	,	,	,	,	0
+Iohannes	Iohannes	np1	Iohannes	Johannes	0
+Wall	Wall	n1	Wall	wall	0
+.	.	.	.	.	1

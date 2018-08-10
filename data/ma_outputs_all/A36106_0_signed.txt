@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+,	,	,	,	,	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Dampier	Dampier	np1	Dampier	Dampier	0
+.	.	.	.	.	1

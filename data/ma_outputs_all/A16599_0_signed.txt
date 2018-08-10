@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honorable	Honorable	j	Honourable	honourable	0
+lordships	lordships	n2	lordship's	lordship	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+seruaunt	seruaunt	n1	servant	servant	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+:	:	:	:	:	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Bradshaw	Bradshaw	np1	Bradshaw	Bradshaw	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Amico	Amico	np1	Amico	Amico	0
+&	&	cc	&	and	0
+literarum	literarum	fw-la	literarum	literarum	0
+&	&	cc	&	and	0
+meo	meo	fw-la	meo	meo	0
+NI	NI	fw-fr	NI	ni	0
+∣	∣	sy	∣	∣	0
+CHOLAO	CHOLAO	np1	CHOLAO	CHOLAO	0
+MOSLEYO	MOSLEYO	n1	MOSLEYO	mosleyo	0
+Bene	Bene	fw-la	Bene	bene	0
+audire	audire	vvi	audire	audire	0
+Cum	Cum	fw-la	Cum	cum	0
+optime	optime	n1	optime	optime	0
+meruerit	meruerit	fw-la	meruerit	meruerit	0
+.	.	.	.	.	1

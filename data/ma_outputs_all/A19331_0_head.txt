@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+VVorshipfull	VVorshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+VER	VER	fw-la	VER	ver	0
+∣	∣	sy	∣	∣	0
+NON	NON	fw-fr	NON	non	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+health	health	n1	health	health	0
+and	and	cc	and	and	0
+prosperitie	prosperitie	n1	prosperity	prosperity	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MOST	MOST	av-ds	MOST	most	0
+LEARNED	LEARNED	j	LEARNED	learned	0
+AND	AND	cc	AND	and	0
+MUCH	MUCH	d	MUCH	much	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+den	den	n1	den	den	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

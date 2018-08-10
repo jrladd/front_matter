@@ -1,0 +1,9 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+dutie	dutie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+P.	P.	np1	P.	P.	0
+C.	C.	np1	C.	C.	1

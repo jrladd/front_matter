@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+honours	honours	ng1	honours	honour	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+O.	O.	uh	O.	oh	0
+B.	B.	np1	B.	B.	1

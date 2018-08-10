@@ -1,0 +1,4 @@
+COS	COS	np1	COS	Cos	0
+.	.	.	.	.	1
+MANUCHE	MANUCHE	n1	MANUCHE	manuche	0
+.	.	.	.	.	1

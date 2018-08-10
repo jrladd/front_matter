@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+ROYAL	ROYAL	j	ROYAL	royal	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+PRINCESS	PRINCESS	n1	PRINCESS	princess	0
+of	of	pp-f	of	of	0
+ORANGE	ORANGE	np1	ORANGE	Orange	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+loving	loving	n-vvg	loving	love	0
+and	and	cc	and	and	0
+poore	poore	j	poor	poor	0
+kinsman	kinsman	n1	kinsman	kinsman	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+TILLINGHAST	TILLINGHAST	np1	TILLINGHAST	Tillinghast	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+his	his	po31	his	his	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+friend	friend	n1	friend	friend	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PARKS	PARKS	np1	PARKS	Parks	0
+,	,	,	,	,	0
+Esquier	Esquier	n1	Esquire	esquire	0
+.	.	.	.	.	1

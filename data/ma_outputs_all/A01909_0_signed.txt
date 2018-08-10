@@ -1,0 +1,6 @@
+¶	¶	¶	¶	¶	0
+Yours	Yours	png22	Yours	you	0
+assuredly	assuredly	av-vvn	assuredly	assure	0
+Barnabe	Barnabe	np1	Barnabe	Barnaby	0
+Googe	Googe	np1	Googe	Googe	0
+.	.	.	.	.	1

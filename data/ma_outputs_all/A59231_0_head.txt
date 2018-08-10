@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRULY	TRULY	av-j	TRULY	true	0
+VIRTUOUS	VIRTUOUS	j	VIRTUOUS	virtuous	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+T.	T.	np1	T.	T.	0
+E.	E.	np1	E.	E.	1

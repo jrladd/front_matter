@@ -1,0 +1,8 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+courteous	courteous	j	courteous	courteous	0
+and	and	cc	and	and	0
+carefull	carefull	j	careful	careful	0
+Chyrurgian	Chyrurgian	n1	Chyrurgian	surgeon	0
+.	.	.	.	.	1

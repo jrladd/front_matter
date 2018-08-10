@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Committee	Committee	n1	Committee	committee	0
+of	of	pp-f	of	of	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+for	for	p-acp	for	for	1

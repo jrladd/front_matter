@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+Jo.	Jo.	np1	Jo.	Jo.	0
+TATHAM	TATHAM	np1	TATHAM	Tatham	0
+.	.	.	.	.	1

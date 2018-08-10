@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+Good	Good	j	Good	good	0
+Friend	Friend	n1	Friend	friend	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	1
+Jekyll	Jekyll	np1	Jekyll	Jekyll	0
+,	,	,	,	,	0
+Relict	Relict	n1	Relict	relict	0
+of	of	pp-f	of	of	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Jekyll	Jekyll	np1	Jekyll	Jekyll	0
+.	.	.	.	.	1

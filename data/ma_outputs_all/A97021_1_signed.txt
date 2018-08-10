@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+JOHN	JOHN	np1	JOHN	John	0
+WALL	WALL	np1-n	WALL	wall	1

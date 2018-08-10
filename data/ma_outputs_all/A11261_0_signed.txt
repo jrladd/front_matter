@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+best	best	js	best	best	0
+bond	bond	n1	bound	bond	0
+that	that	cst	that	that	0
+may	may	vmb	may	may	0
+be	be	vbi	be	be	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	0
+S.	S.	np1	S.	S.	1

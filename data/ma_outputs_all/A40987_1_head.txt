@@ -1,0 +1,6 @@
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+be	be	vbb	be	be	0
+multiplied	multiplied	vvn	multiplied	multiply	0
+.	.	.	.	.	1

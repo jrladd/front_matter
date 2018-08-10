@@ -1,0 +1,13 @@
+Right	Right	av-jn	Right	right	0
+reverend	reverend	j-jn	reverend	reverend	0
+Father	Father	n1	Father	father	0
+in	in	p-acp	in	in	0
+God	God	np1	God	God	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+singular	singular	j	singular	singular	0
+good	good	j	good	good	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1

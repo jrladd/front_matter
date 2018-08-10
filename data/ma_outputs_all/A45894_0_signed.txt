@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+though	though	cs	though	though	0
+mis-understood	mis-understood	j	misunderstood	misunderstood	0
+Orator	Orator	n1	Orator	orator	0
+.	.	.	.	.	1
+GEORGE	GEORGE	np1	GEORGE	George	0
+GILL	GILL	np1	GILL	Gill	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+both	both	d	both	both	0
+in	in	p-acp	in	in	0
+heart	heart	n1	heart	heart	0
+and	and	cc	and	and	0
+endeuours	endeuours	n2	endeavours	endeavour	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+W.	W.	np1	W.	W.	1

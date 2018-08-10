@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Si	Si	fw-mi	Si	si	0
+Paul	Paul	np1	Paul	Paul	0
+Pinder	Pinder	np1	Pinder	Pinder	0
+,	,	,	,	,	1

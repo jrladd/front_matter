@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Obedient	Obedient	j	Obedient	obedient	0
+Sonne	Sonne	n1	Son	son	0
+ZACHARY	ZACHARY	np1	ZACHARY	Zachary	0
+BOGAN	BOGAN	np1	BOGAN	Bogan	0
+.	.	.	.	.	1

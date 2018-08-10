@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+CARTWRIGHT	CARTWRIGHT	np1	CARTWRIGHT	Cartwright	0
+.	.	.	.	.	1

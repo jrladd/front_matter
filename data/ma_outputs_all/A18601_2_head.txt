@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Nobility	Nobility	n1	Nobility	nobility	0
+of	of	pp-f	of	of	0
+FRANCE	FRANCE	np1	FRANCE	France	0
+.	.	.	.	.	1

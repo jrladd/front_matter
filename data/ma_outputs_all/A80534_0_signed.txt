@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+religiously-devoted	religiously-devoted	j	religiously-devoted	religiously-devoted	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+by	by	p-acp	by	by	0
+you	you	pn22	you	you	0
+all	all	d	all	all	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+Carpenter	Carpenter	n1	Carpenter	carpenter	0
+.	.	.	.	.	1

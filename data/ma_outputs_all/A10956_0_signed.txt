@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+.	.	.	.	.	1
+T.	T.	np1	T.	T.	0
+R.	R.	np1	R.	R.	1

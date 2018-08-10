@@ -1,0 +1,10 @@
+Thine	Thine	png21	Thine	thou	0
+,	,	,	,	,	0
+longer	longer	av-jc	longer	long	0
+then	then	cs	then	than	0
+thou	thou	pns21	thou	thou	0
+art	art	vb2r	art	be	0
+Truths	Truths	ng1	Truths	truth	0
+;	;	;	;	;	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+and	and	cc	and	and	0
+observe	observe	vvi	observe	observe	0
+you	you	pn22	you	you	0
+;	;	;	;	;	0
+CHR	CHR	np1	CHR	Chr	0
+.	.	.	.	.	1
+BLACKWOOD	BLACKWOOD	np1	BLACKWOOD	Blackwood	0
+.	.	.	.	.	1

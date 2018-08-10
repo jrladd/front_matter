@@ -1,0 +1,9 @@
+CAROLO	CAROLO	np1	CAROLO	Carolo	0
+STOVRTONO	STOVRTONO	np1	STOVRTONO	STOVRTONO	0
+iuueni	iuueni	fw-la	iuueni	iuueni	0
+de	de	fw-la	de	de	0
+nobili	nobili	fw-la	nobili	nobili	0
+genere	genere	fw-la	genere	genere	0
+nato	nato	fw-la	nato	nato	0
+salutem	salutem	fw-la	salutem	salutem	0
+.	.	.	.	.	1

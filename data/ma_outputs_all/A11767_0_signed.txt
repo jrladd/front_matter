@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+,	,	,	,	,	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Scott	Scott	np1	Scott	Scott	0
+.	.	.	.	.	1

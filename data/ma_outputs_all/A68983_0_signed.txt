@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+Commanded	Commanded	vvn	Commanded	command	0
+NICH	NICH	np1	NICH	NICH	0
+.	.	.	.	.	1
+BRETON	BRETON	np1	BRETON	Breton	0
+.	.	.	.	.	1

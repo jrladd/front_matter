@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Majesty	Majesty	n1	Majesty	majesty	0
+OF	OF	pp-f	OF	of	0
+Great	Great	j	Great	great	0
+Brittaines	Brittaines	npg1	Brittaines	Britain	0
+Monarchesse	Monarchesse	n2	Monarchess	monarches	0
+,	,	,	,	,	0
+Our	Our	po12	Our	our	0
+most	most	av-ds	most	most	0
+Gratious	Gratious	j	Gracious	gracious	0
+Queen	Queen	n1	Queen	queen	0
+,	,	,	,	,	0
+MARIE	MARIE	uh	MARRY	marie	0
+.	.	.	.	.	1

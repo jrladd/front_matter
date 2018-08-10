@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+vvorships	vvorships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+.	.	.	.	.	1
+R	R	sy	R	r	0
+.	.	.	.	.	1
+B	B	sy	B	b	1

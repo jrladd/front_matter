@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Assistan	Assistan	np1	Assistan	Assistan	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+things	things	n2	things	thing	0
+of	of	pp-f	of	of	0
+our	our	po12	our	our	0
+Common	Common	j	Common	common	0
+Salvatio	Salvatio	np1	Salvatio	Salvatio	0
+J.	J.	np1	J.	J.	0
+W.	W.	np1	W.	W.	1

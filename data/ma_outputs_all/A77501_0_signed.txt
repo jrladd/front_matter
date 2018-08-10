@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+BRINSLEY	BRINSLEY	np1	BRINSLEY	Brinsley	0
+.	.	.	.	.	1

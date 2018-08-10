@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+honors	honors	n2	honours	honour	0
+humbly	humbly	av-j	humbly	humble	0
+deuote	deuote	vvb	devote	devote	0
+▪	▪	▪	▪	▪	0
+IOHN	IOHN	np1	IOHN	John	0
+PROCTOR	PROCTOR	n1	PROCTOR	proctor	0
+.	.	.	.	.	1

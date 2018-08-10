@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+and	and	cc	and	and	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+Le	Le	fw-fr	Le	le	0
+GROS	GROS	fw-fr	GROS	gros	0
+of	of	pp-f	of	of	0
+Crostwick	Crostwick	np1	Crostwick	Crostwick	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

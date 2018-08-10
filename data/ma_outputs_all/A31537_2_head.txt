@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+HENRY	HENRY	np1	HENRY	Henry	0
+BOYLE	BOYLE	vvi	BOIL	boil	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	0
+Chancellor	Chancellor	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+Her	Her	po31	Her	her	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Exchequer	Exchequer	n1	Exchequer	exchequer	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

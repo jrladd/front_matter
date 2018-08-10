@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+brother	brother	n1	brother	brother	0
+in	in	p-acp	in	in	0
+lawe	lawe	n1	law	law	0
+.	.	.	.	.	1
+G.	G.	np1	G.	G.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+longing	longing	vvg	longing	long	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+drunke	drunke	vvn	drunk	drink	0
+of	of	pp-f	of	of	0
+Helicon	Helicon	np1	Helicon	Helicon	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LITHGOW	LITHGOW	np1	LITHGOW	Lithgow	0
+.	.	.	.	.	1

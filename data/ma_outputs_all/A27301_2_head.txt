@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+LORD	LORD	n1	LORD	lord	0
+SPENCER	SPENCER	np1	SPENCER	Spencer	0
+.	.	.	.	.	1

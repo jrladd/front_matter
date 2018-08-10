@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most-most	most-most	j	most-most	most-most	0
+respectiue	respectiue	j	respective	respective	0
+HVM	HVM	n1	HVM	hvm	0
+:	:	:	:	:	0
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

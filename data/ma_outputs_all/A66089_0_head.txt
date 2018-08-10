@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Princess	Princess	n1	Princess	princess	0
+,	,	,	,	,	0
+MARY	MARY	np1	MARY	MARY	0
+Dutches	Dutches	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Richmond	Richmond	np1	Richmond	Richmond	0
+and	and	cc	and	and	0
+Lennox	Lennox	np1	Lennox	Lennox	0
+.	.	.	.	.	1

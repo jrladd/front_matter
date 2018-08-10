@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+al	al	d	all	all	0
+those	those	d	those	those	0
+which	which	r-crq	which	which	0
+either	either	d	either	either	0
+ride	ride	vvb	ride	ride	0
+vpon	vpon	p-acp	upon	upon	0
+their	their	po32	their	their	0
+owne	owne	d	own	own	0
+horses	horses	n2	horses	horse	0
+or	or	cc	or	or	0
+are	are	vbr	are	be	0
+acquainted	acquainted	vvn	acquainted	acquaint	0
+with	with	p-acp	with	with	0
+trauell	trauell	n1	travel	travel	0
+.	.	.	.	.	1

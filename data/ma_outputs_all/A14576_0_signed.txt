@@ -1,0 +1,10 @@
+❧	❧	sy	❧	❧	0
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+Iohn	Iohn	np1	Iohn	John	0
+Vovvell	Vovvell	vvi	Vovvell	vovvell	0
+alias	alias	av	alias	alias	0
+Hooker	Hooker	np1	Hooker	Hooker	0
+.	.	.	.	.	1

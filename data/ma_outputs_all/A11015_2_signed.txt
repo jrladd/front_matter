@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+vse	vse	n1	use	use	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+HENRIE	HENRIE	np1	HENRIE	Henry	0
+HOLLAND	HOLLAND	np1	HOLLAND	Holland	0
+.	.	.	.	.	1

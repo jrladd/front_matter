@@ -1,0 +1,11 @@
+Vestrum	Vestrum	np1	Vestrum	Vestrum	0
+nascendi	nascendi	fw-la	nascendi	nascendi	0
+lege	lege	fw-la	lege	lege	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+arbitrio	arbitrio	fw-la	arbitrio	arbitrio	0
+viuendi	viuendi	fw-la	viuendi	viuendi	0
+,	,	,	,	,	0
+Gul.	Gul.	np1	Gul.	Gul.	0
+Innesium	Innesium	np1	Innesium	Innesium	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+AND	AND	cc	AND	and	0
+HIS	HIS	po31	HIS	his	0
+MUCH	MUCH	d	MUCH	much	0
+Honored	Honored	j-vvn	Honoured	honour	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Master	Master	n1	Master	master	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+DERING	DERING	np1	DERING	Dering	0
+.	.	.	.	.	1

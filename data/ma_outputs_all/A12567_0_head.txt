@@ -1,0 +1,16 @@
+SIR	SIR	n1	SIR	sir	0
+IOHN	IOHN	np1	IOHN	John	0
+SMYTHE	SMYTHE	np1	SMYTHE	Smythe	0
+his	his	po31	his	his	0
+Proëme	Proëme	n1	Proëme	proëme	0
+Dedicatorie	Dedicatorie	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Nobilitie	Nobilitie	n1	Nobility	nobility	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Realme	Realme	n1	Realm	realm	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

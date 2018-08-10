@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+H.C.	H.C.	np1	H.C.	H.C.	0
+W.A.	W.A.	np1	W.A.	W.A.	1

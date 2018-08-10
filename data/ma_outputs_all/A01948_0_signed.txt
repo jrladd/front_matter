@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+truly-deuoted	truly-deuoted	j	truly-deuoted	truly-deuoted	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+PETER	PETER	np1	PETER	Peter	0
+GOSSELIN	GOSSELIN	np1	GOSSELIN	Gosselin	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Allie	Allie	n1	Ally	ally	0
+,	,	,	,	,	0
+HVM	HVM	uh	HUM	hum	0
+.	.	.	.	.	1
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

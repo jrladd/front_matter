@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Remembrancer	Remembrancer	n1	Remembrancer	remembrancer	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+GOVGE	GOVGE	np1	GOVGE	GOVGE	0
+.	.	.	.	.	1

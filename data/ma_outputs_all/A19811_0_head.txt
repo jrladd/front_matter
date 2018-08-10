@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HIGH	HIGH	j	HIGH	high	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Prince	Prince	n1	Prince	prince	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+His	His	po31	His	his	0
+Excellence	Excellence	n1	Excellence	excellence	0
+.	.	.	.	.	1

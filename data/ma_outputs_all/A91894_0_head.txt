@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honour'd	Honour'd	j-vvn	Honoured	honour	0
+and	and	cc	and	and	0
+truly	truly	av-j	truly	true	0
+Religious	Religious	j	Religious	religious	0
+Lady	Lady	n1	Lady	lady	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+HUSSEY	HUSSEY	np1	HUSSEY	Hussey	0
+of	of	pp-f	of	of	0
+DODDINGTON	DODDINGTON	np1	DODDINGTON	Doddington	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONO	HONO	fw-it	HONO	hono	0
+∣	∣	sy	∣	∣	0
+rable	rable	n1	rabble	rabble	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Charles	Charles	np1	Charles	Charles	0
+Morrison	Morrison	np1	Morrison	Morrison	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

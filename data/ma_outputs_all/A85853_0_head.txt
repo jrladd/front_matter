@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+FRANCES	FRANCES	np1	FRANCES	Frances	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1

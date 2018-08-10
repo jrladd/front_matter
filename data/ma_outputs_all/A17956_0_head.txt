@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+DIANAES	DIANAES	npg1	DIANAES	Diana	0
+EARTHLIE	EARTHLIE	j	EARTHLY	earthly	0
+DEPVTESSE	DEPVTESSE	n1	DEPVTESSE	depvtesse	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+worthy	worthy	j	worthy	worthy	0
+Sister	Sister	n1	Sister	sister	0
+,	,	,	,	,	0
+Mistris	Mistris	n1	Mistress	mistress	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Carye	Carye	vvi	Carry	carry	0
+.	.	.	.	.	1

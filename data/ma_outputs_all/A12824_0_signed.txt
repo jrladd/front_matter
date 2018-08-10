@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Sacred	Sacred	j	Sacred	sacred	0
+Majesties	Majesties	n2	Majesties	majesty	0
+most	most	av-ds	most	most	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+devoted	devoted	vvn	devoted	devote	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+:	:	:	:	:	0
+STAFFORD	STAFFORD	np1	STAFFORD	Stafford	0
+.	.	.	.	.	1

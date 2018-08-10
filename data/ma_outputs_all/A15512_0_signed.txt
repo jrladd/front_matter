@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Smyth	Smyth	np1	Smyth	Smyth	0
+.	.	.	.	.	1

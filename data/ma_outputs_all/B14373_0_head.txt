@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+HIS	HIS	po31	HIS	his	0
+MVCH	MVCH	d	MUCH	much	0
+HONOVRED	HONOVRED	j-vvn	HONOURED	honour	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LA	LA	fw-fr	LA	la	0
+.	.	.	.	.	1
+E.	E.	np1	E.	E.	0
+M.	M.	n1	M.	m.	1

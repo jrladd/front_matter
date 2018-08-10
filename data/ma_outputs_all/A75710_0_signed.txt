@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+SIMEON	SIMEON	np1	SIMEON	Simeon	0
+ASHE	ASHE	np1	ASHE	Ashe	0
+.	.	.	.	.	1

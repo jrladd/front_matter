@@ -1,0 +1,11 @@
+This	This	d	This	this	0
+is	is	vbz	is	be	0
+all	all	d	all	all	0
+from	from	p-acp	from	from	0
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Dempster	Dempster	np1	Dempster	Dempster	0
+.	.	.	.	.	1

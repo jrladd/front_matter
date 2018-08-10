@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Much	Much	d	Much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+,	,	,	,	,	0
+MADAM	MADAM	n1	MADAM	madam	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+BARNARDISTON	BARNARDISTON	np1	BARNARDISTON	Barnardiston	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Samuel	Samuel	np1	Samuel	Samuel	0
+Bird	Bird	n1	Bird	bird	0
+.	.	.	.	.	1

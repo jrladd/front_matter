@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+and	and	cc	and	and	0
+Worships	Worships	n2	Worships	worship	0
+Sincerely	Sincerely	av-j	Sincerely	sincere	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+VICARS	VICARS	np1	VICARS	Vicars	0
+.	.	.	.	.	1

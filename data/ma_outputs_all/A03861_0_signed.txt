@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordshipps	Lordshipps	n2	Lordships	lordship	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Hunnis	Hunnis	np1	Hunnis	Hunnis	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+FREEMAN	FREEMAN	n1	FREEMAN	freeman	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+wel-wishing	wel-wishing	j	wellwishing	wellwishing	0
+Honorer	Honorer	n1	Honorer	honourer	0
+,	,	,	,	,	0
+HVM	HVM	uh	HUM	hum	0
+.	.	.	.	.	1
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

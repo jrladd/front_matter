@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+SIR	SIR	n1	SIR	sir	0
+IOHN	IOHN	np1	IOHN	John	0
+SCOTT	SCOTT	np1	SCOTT	Scott	0
+of	of	pp-f	of	of	0
+Scots-Tarvet	Scots-Tarvet	j	Scots-Tarvet	scots-tarvet	0
+,	,	,	,	,	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	1

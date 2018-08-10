@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+CHILDREN	CHILDREN	n2	CHILDREN	child	0
+.	.	.	.	.	1

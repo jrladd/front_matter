@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Bartholomeus	Bartholomeus	np1	Bartholomeus	Bartholomeus	0
+Georgie	Georgie	np1	Georgie	Georgie	0
+viz	viz	av	videlicet	viz	0
+,	,	,	,	,	0
+Pilgrim	Pilgrim	n1	Pilgrim	pilgrim	0
+.	.	.	.	.	1

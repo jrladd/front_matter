@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+importunate	importunate	j	importunate	importunate	0
+servant	servant	n1	servant	servant	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+throne	throne	n1	throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PIERCE	PIERCE	vvi	PIERCE	pierce	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+Veghelman	Veghelman	np1	Veghelman	Veghelman	0
+.	.	.	.	.	1

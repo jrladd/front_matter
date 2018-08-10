@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+and	and	cc	and	and	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+chaplaine	chaplaine	n1	chaplain	chaplain	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+PELLING	PELLING	vvg	PELLING	pell	0
+.	.	.	.	.	1

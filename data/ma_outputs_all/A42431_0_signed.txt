@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Son	Son	n1	Son	son	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Gaskarth	Gaskarth	n1	Gaskarth	gaskarth	0
+.	.	.	.	.	1

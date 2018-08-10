@@ -1,0 +1,2 @@
+H.	H.	np1	H.	H.	0
+L.	L.	np1	L.	L.	1

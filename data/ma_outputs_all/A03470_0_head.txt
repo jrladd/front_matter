@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+LORD	LORD	n1	LORD	lord	0
+THE	THE	dt	THE	the	0
+KING	KING	n1	KING	king	0
+.	.	.	.	.	1
+Sonet	Sonet	n1	Sonnet	sonnet	0
+Acrosticke	Acrosticke	n1	Acrosticke	acrostic	0
+.	.	.	.	.	1

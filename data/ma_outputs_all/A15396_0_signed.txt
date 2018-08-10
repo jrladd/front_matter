@@ -1,0 +1,7 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+reverentiae	reverentiae	fw-la	reverentiae	reverentiae	0
+observantiss	observantiss	n1	observantiss	observantiss	0
+.	.	.	.	.	1
+Andraeas	Andraeas	npg1	Andraeas	andraeas	0
+Wille	Wille	n1	Will	will	0
+.	.	.	.	.	1

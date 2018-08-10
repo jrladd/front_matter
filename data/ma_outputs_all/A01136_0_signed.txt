@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesu	Iesu	np1	Iesu	Jesus	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Foxe	Foxe	n1	Fox	fox	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+WIL	WIL	np1	WIL	Will	0
+.	.	.	.	.	1
+BARTLET	BARTLET	np1	BARTLET	Bartlet	0
+.	.	.	.	.	1

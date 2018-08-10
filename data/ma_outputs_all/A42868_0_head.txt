@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Brother	Brother	n1	Brother	brother	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HIDE	HIDE	vvb	HIDE	hide	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+and	and	cc	and	and	0
+Chanter	Chanter	np1	Chanter	Chanter	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Cathedral	Cathedral	n1	Cathedral	cathedral	0
+Church	Church	n1	Church	church	0
+in	in	p-acp	in	in	0
+SALISBURY	SALISBURY	np1	SALISBURY	Salisbury	0
+.	.	.	.	.	1

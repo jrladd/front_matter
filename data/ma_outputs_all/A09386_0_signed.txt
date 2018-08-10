@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Cacott	Cacott	np1	Cacott	Cacott	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Tuke	Tuke	vvd	Took	take	0
+.	.	.	.	.	1

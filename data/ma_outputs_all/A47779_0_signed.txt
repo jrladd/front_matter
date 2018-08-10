@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+.	.	.	.	.	1
+George	George	np1	George	George	0
+Lesly	Lesly	np1	Lesly	Lesly	0
+.	.	.	.	.	1

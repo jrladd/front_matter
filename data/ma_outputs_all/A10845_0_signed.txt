@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+prest	prest	j-vvn	pressed	press	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+ROBINSON	ROBINSON	np1	ROBINSON	Robinson	0
+.	.	.	.	.	1

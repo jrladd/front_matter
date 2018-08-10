@@ -1,0 +1,7 @@
+Vestrae	Vestrae	np1	Vestrae	Vestrae	0
+Reverentiae	Reverentiae	fw-la	Reverentiae	reverentiae	0
+observantiss	observantiss	n1	observantiss	observantiss	0
+.	.	.	.	.	1
+ANDREAS	ANDREAS	np1	ANDREAS	Andreas	0
+WILLETTVS	WILLETTVS	np1	WILLETTVS	WILLETTVS	0
+.	.	.	.	.	1

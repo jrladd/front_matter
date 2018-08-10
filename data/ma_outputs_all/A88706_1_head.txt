@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+HOLMDEN	HOLMDEN	np1	HOLMDEN	HOLMDEN	0
+Of	Of	pp-f	Of	of	0
+Limsfield	Limsfield	np1	Limsfield	Limsfield	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+Surrey	Surrey	np1	Surrey	Surrey	0
+,	,	,	,	,	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

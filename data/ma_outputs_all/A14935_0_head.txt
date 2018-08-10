@@ -1,0 +1,11 @@
+RIGHT-NOBLE	RIGHT-NOBLE	j	RIGHT-NOBLE	right-noble	0
+,	,	,	,	,	0
+MOST	MOST	av-ds	MOST	most	0
+RE	RE	zz	RE	re	0
+∣	∣	sy	∣	∣	0
+NOWNED	NOWNED	n1	NOWNED	nowned	0
+,	,	,	,	,	0
+MY	MY	po11	MY	my	0
+DREAD	DREAD	j	DREAD	dread	0
+SOVERAIGNE	SOVERAIGNE	n-jn	SOVERAIGNE	sovereign	0
+;	;	;	;	;	1

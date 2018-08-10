@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+SIR	SIR	n1	SIR	sir	0
+PAUL	PAUL	np1	PAUL	Paul	0
+PINDAR	PINDAR	np1	PINDAR	Pindar	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

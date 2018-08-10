@@ -1,0 +1,13 @@
+Serenissimae	Serenissimae	fw-la	Serenissimae	serenissimae	0
+Majestatis	Majestatis	fw-la	Majestatis	majestatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+sub	sub	fw-la	sub	sub	0
+∣	∣	sy	∣	∣	0
+ditus	ditus	fw-la	ditus	ditus	0
+,	,	,	,	,	0
+servusque	servusque	fw-la	servusque	servusque	0
+devotissimus	devotissimus	fw-la	devotissimus	devotissimus	0
+,	,	,	,	,	0
+IOANNES	IOANNES	np1	IOANNES	Johannes	0
+ADAMSONUS	ADAMSONUS	np1	ADAMSONUS	ADAMSONUS	0
+.	.	.	.	.	1

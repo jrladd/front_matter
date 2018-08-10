@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+H.	H.	np1	H.	H.	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+M.	M.	n1	M.	m.	0
+William	William	np1	William	William	0
+Cowper	Cowper	np1	Cowper	Cowper	0
+Minist	Minist	np1	Minist	Minist	0
+.	.	.	.	.	0
+at	at	p-acp	at	at	0
+Perth	Perth	np1	Perth	Perth	0
+.	.	.	.	.	1

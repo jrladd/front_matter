@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+dayly	dayly	j	daily	daily	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Christian	Christian	njp	Christian	christian	0
+deuotion	deuotion	n1	devotion	devotion	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+LANGFORD	LANGFORD	np1	LANGFORD	Langford	0
+.	.	.	.	.	1

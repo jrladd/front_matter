@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+servant	servant	n1	servant	servant	0
+CL	CL	crd	CL	cl	0
+.	.	.	.	.	1
+BARKSDALE	BARKSDALE	np1	BARKSDALE	Barksdale	0
+.	.	.	.	.	1

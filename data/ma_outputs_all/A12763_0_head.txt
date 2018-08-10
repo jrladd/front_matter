@@ -1,0 +1,4 @@
+DEO	DEO	np1	DEO	Deo	0
+&	&	cc	&	and	0
+ECCLESIAE	ECCLESIAE	np1	ECCLESIAE	ECCLESIAE	0
+.	.	.	.	.	1

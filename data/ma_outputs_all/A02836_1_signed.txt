@@ -1,0 +1,13 @@
+Humbly	Humbly	av-j	Humbly	humble	0
+kisseth	kisseth	vvz	kisses	kiss	0
+your	your	po22	your	your	0
+sacred	sacred	j	sacred	sacred	0
+hands	hands	n2	hands	hand	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+short-breath'd	short-breath'd	j	short-breathed	short-breathed	0
+Muse	Muse	n1	Muse	muse	0
+of	of	pp-f	of	of	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+HAYMAN	HAYMAN	np1	HAYMAN	Hayman	0
+.	.	.	.	.	1

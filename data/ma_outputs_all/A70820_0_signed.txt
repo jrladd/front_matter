@@ -1,0 +1,8 @@
+His	His	po31	His	his	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+PLAYFORD	PLAYFORD	np1	PLAYFORD	Playford	0
+.	.	.	.	.	1

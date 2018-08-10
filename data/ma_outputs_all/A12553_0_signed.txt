@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Smyth	Smyth	np1	Smyth	Smyth	0
+.	.	.	.	.	1

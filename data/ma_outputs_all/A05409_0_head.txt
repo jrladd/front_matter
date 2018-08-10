@@ -1,0 +1,15 @@
+blazon	blazon	n1	blazon	blazon	0
+or	or	cc	or	or	0
+coat	coat	n1	coat	coat	0
+of	of	pp-f	of	of	0
+arms	arms	n2	arms	arm	0
+HONORI	HONORI	fw-la	HONORI	honori	0
+AC	AC	fw-la	AC	ac	0
+MEMORIAE	MEMORIAE	np1	MEMORIAE	MEMORIAE	0
+CHARISSIMORVM	CHARISSIMORVM	fw-la	CHARISSIMORVM	charissimorvm	0
+CONIVGVM	CONIVGVM	fw-la	CONIVGVM	conivgvm	0
+EDOVARDI	EDOVARDI	fw-la	EDOVARDI	edovardi	0
+ET	ET	fw-la	ET	et	0
+SVSANNAE	SVSANNAE	np1	SVSANNAE	SVSANNAE	0
+LEVVKENORVM	LEVVKENORVM	fw-la	LEVVKENORVM	levvkenorvm	0
+.	.	.	.	.	1

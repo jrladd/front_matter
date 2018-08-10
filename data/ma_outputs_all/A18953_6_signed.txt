@@ -1,0 +1,6 @@
+A	A	dt	A	a	0
+distressed	distressed	j-vvn	distressed	distress	0
+Prisoner	Prisoner	n1	Prisoner	prisoner	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+C.	C.	np1	C.	C.	1

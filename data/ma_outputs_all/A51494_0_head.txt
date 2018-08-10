@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+,	,	,	,	,	0
+Pious	Pious	j	Pious	pious	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Faithful	Faithful	j	Faithful	faithful	0
+Minister	Minister	n1	Minister	minister	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+John	John	np1	John	John	0
+Shower	Shower	n1	Shower	shower	0
+.	.	.	.	.	1

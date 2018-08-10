@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+her	her	po31	her	her	0
+High	High	j	High	high	0
+Maiestie	Maiestie	n1	Majesty	majesty	0
+.	.	.	.	.	1

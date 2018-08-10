@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+and	and	cc	and	and	0
+Wor	Wor	zz	Wor	wor	0
+∣	∣	sy	∣	∣	0
+ships	ships	n2	ships	ship	0
+well-willer	well-willer	n1	well-willer	well-willer	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+M.	M.	n1	M.	m.	1

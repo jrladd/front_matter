@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Happy	Happy	j	Happy	happy	0
+Preserver	Preserver	n1	Preserver	preserver	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Sacred	Sacred	j	Sacred	sacred	0
+Majesty	Majesty	n1	Majesty	majesty	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LADY	LADY	n1	LADY	lady	0
+JANE	JANE	np1	JANE	JANE	0
+LANE	LANE	n1	LANE	lane	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+LORD	LORD	n1	LORD	lord	0
+DELAMER	DELAMER	np1	DELAMER	DELAMER	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Dunham-Massie	Dunham-Massie	j	Dunham-Massie	dunham-massie	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

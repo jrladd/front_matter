@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Com	Com	vvi	Come	come	0
+∣	∣	sy	∣	∣	0
+mittee	mittee	n1	mitty	mitty	0
+at	at	p-acp	at	at	0
+Derby-House	Derby-House	n1	Derby-House	derby-house	0
+.	.	.	.	.	1

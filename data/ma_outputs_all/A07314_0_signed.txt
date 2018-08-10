@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+duties	duties	n2	duties	duty	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+MAXWELL	MAXWELL	np1	MAXWELL	Maxwell	0
+.	.	.	.	.	1

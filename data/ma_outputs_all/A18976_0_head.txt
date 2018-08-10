@@ -1,0 +1,10 @@
+IACOBVS	IACOBVS	fw-la	IACOBVS	jacobus	0
+CLELANDVS	CLELANDVS	fw-la	CLELANDVS	clelandvs	0
+Scotus	Scotus	np1	Scotus	Scotus	0
+,	,	,	,	,	0
+Hoc	Hoc	fw-la	Hoc	hoc	0
+Grati	Grati	fw-la	Grati	grati	0
+Animi	Animi	fw-la	Animi	animi	0
+Monumentum	Monumentum	np1	Monumentum	Monumentum	0
+ponebat	ponebat	fw-la	ponebat	ponebat	0
+.	.	.	.	.	1

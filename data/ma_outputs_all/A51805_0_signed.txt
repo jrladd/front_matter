@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+much	much	d	much	much	0
+Oblig'd	Oblig'd	j-vvn	Obliged	oblige	0
+,	,	,	,	,	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+F.	F.	np1	F.	F.	0
+M.	M.	n1	M.	m.	1

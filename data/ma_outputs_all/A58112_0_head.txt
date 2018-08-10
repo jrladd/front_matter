@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFULL	WORSHIPFULL	j	WORSHIPFUL	worshipful	0
+Sr	Sr	n1	Sir	sir	0
+G.	G.	np1	G.	G.	0
+B.	B.	np1	B.	B.	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

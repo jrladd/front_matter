@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+Affectionately	Affectionately	av-j	Affectionately	affectionate	0
+Devoted	Devoted	vvn	Devoted	devote	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+J.	J.	np1	J.	J.	1

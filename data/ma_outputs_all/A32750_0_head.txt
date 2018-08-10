@@ -1,0 +1,12 @@
+The	The	dt	The	the	0
+Dedication	Dedication	n1	Dedication	dedication	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Bakers	Bakers	n2	Bakers	baker	0
+,	,	,	,	,	0
+Smith	Smith	n1	Smith	smith	0
+Millers	Millers	npg1	Millers	Miller	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+other	other	j-jn	other	other	0
+Readers	Readers	n2	Readers	reader	1

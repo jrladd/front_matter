@@ -1,0 +1,10 @@
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+the	the	dt	the	the	0
+DUTCHESS	DUTCHESS	n1	DUTCHESS	duchess	0
+OF	OF	pp-f	OF	of	0
+PORTSMOUTH	PORTSMOUTH	np1	PORTSMOUTH	Portsmouth	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+AMPLISSIMO	AMPLISSIMO	fw-la	AMPLISSIMO	amplissimo	0
+ET	ET	fw-la	ET	et	0
+REVERENDISSIMO	REVERENDISSIMO	fw-la	REVERENDISSIMO	reverendissimo	0
+DOMINO	DOMINO	fw-la	DOMINO	domino	0
+GVILIELMO	GVILIELMO	np1	GVILIELMO	GVILIELMO	0
+ARCHI-PRAESULI	ARCHI-PRAESULI	j	ARCHI-PRAESULI	archi-praesuli	0
+Cantuariensi	Cantuariensi	fw-la	Cantuariensi	cantuariensi	0
+.	.	.	.	.	1

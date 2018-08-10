@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+affectio	affectio	fw-la	affectio	affectio	0
+∣	∣	sy	∣	∣	0
+nate	nate	fw-fr	nate	nate	0
+kinseman	kinseman	n1	kinsman	kinsman	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+R.	R.	np1	R.	R.	1

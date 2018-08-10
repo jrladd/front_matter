@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Duty	Duty	n1	Duty	duty	0
+John	John	np1	John	John	0
+Lloyd	Lloyd	np1	Lloyd	Lloyd	0
+Praesb	Praesb	np1	Praesb	Praesb	0
+.	.	.	.	.	1

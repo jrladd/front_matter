@@ -1,0 +1,8 @@
+Elizium	Elizium	np1	Elizium	Elysium	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Duchesse	Duchesse	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+BVCKINGHAM	BVCKINGHAM	np1	BVCKINGHAM	BVCKINGHAM	0
+.	.	.	.	.	1

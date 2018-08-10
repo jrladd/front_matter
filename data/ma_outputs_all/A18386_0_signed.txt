@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+not	not	xx	not	not	0
+worth	worth	j	worth	worth	0
+the	the	dt	the	the	0
+naming	naming	n-vvg	naming	name	0
+.	.	.	.	.	1

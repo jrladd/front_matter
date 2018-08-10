@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+Androse	Androse	np1	Androse	Androse	0
+.	.	.	.	.	1

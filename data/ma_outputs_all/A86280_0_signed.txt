@@ -1,0 +1,13 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Brethren	Brethren	n2	Brothers	brethren	0
+in	in	p-acp	in	in	0
+these	these	d	these	these	0
+common	common	j	common	common	0
+Sufferings	Sufferings	n2	Sufferings	suffering	0
+.	.	.	.	.	1
+Peter	Peter	np1	Peter	Peter	0
+Heylyn	Heylyn	np1	Heylyn	Heylyn	1

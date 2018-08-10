@@ -1,0 +1,4 @@
+Comfort	Comfort	n1	Comfort	comfort	0
+after	after	p-acp	after	after	0
+Crosses	Crosses	n2	Crosses	cross	0
+.	.	.	.	.	1

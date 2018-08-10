@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maunded	maunded	j	manded	manded	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+COVELL	COVELL	np1	COVELL	Covell	0
+.	.	.	.	.	1

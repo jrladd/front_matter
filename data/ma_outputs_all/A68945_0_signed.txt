@@ -1,0 +1,3 @@
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+CATES	CATES	n2	CATES	cate	0
+.	.	.	.	.	1

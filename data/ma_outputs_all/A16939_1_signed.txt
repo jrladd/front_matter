@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+RAPHE	RAPHE	np1	RAPHE	Ralph	0
+BROOKE	BROOKE	n1	BROOKE	brook	0
+,	,	,	,	,	0
+Yorke	Yorke	np1	Yorke	York	0
+Herauld	Herauld	n1	Herald	herald	0
+.	.	.	.	.	1

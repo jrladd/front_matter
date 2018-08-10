@@ -1,0 +1,4 @@
+Of	Of	pp-f	Of	of	0
+Venus	Venus	np1	Venus	Venus	0
+.	.	.	.	.	1
+♀	♀	sy	♀	♀	1

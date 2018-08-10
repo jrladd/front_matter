@@ -1,0 +1,10 @@
+All	All	av-d	All	all	0
+prosperitie	prosperitie	n1	prosperity	prosperity	0
+and	and	cc	and	and	0
+happinesse	happinesse	n1	happiness	happiness	0
+externall	externall	j	external	external	0
+,	,	,	,	,	0
+internall	internall	j	internal	internal	0
+,	,	,	,	,	0
+eternall	eternall	j	eternal	eternal	0
+.	.	.	.	.	1

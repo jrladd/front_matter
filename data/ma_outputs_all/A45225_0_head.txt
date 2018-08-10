@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Queen	Queen	n1	Queen	queen	0
+of	of	pp-f	of	of	0
+Spain	Spain	np1	Spain	Spain	0
+.	.	.	.	.	1

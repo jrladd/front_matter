@@ -1,0 +1,4 @@
+A	A	dt	A	a	0
+LETTER	LETTER	n1	LETTER	letter	0
+to	to	p-acp	to	to	0
+Monsieur	Monsieur	fw-fr	Monsieur	monsieur	1

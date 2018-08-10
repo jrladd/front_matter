@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Sacred	Sacred	j	Sacred	sacred	0
+Maiesty	Maiesty	n1	Majesty	majesty	0
+of	of	pp-f	of	of	0
+King	King	n1	King	king	0
+IAMES	IAMES	np1	IAMES	Iames	0
+.	.	.	.	.	1

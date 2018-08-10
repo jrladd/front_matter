@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+our	our	po12	our	our	0
+Fair	Fair	j	Fair	fair	0
+and	and	cc	and	and	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Ladies	Ladies	n2	Ladies	lady	0
+.	.	.	.	.	1

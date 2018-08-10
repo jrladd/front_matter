@@ -1,0 +1,11 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+dutie	dutie	n1	duty	duty	0
+and	and	cc	and	and	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

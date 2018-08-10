@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+zealous	zealous	j	zealous	zealous	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+Ja.	Ja.	np1	Ja.	Ja.	0
+Strong	Strong	j	Strong	strong	0
+.	.	.	.	.	1

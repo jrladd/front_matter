@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MOST	MOST	av-ds	MOST	most	0
+HONOVR'D	HONOVR'D	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+William	William	np1	William	William	0
+Brouncker	Brouncker	fw-ge	Brouncker	brouncker	0
+Es	Es	fw-ge	Es	es	0
+∣	∣	sy	∣	∣	0
+quier	quier	n1	quire	quire	0
+,	,	,	,	,	0
+This.	This.	zz	This.	this.	1

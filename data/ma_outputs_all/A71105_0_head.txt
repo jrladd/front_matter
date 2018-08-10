@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Supream	Supream	j	Supreme	supreme	0
+Authority	Authority	n1	Authority	authority	0
+the	the	dt	the	the	0
+Parlament	Parlament	n1	Parliament	parliament	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Commonwealth	Commonwealth	n1	Commonwealth	commonwealth	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+:	:	:	:	:	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Seruices	Seruices	n2	Services	service	0
+of	of	pp-f	of	of	0
+Loue	Loue	n1	Love	love	0
+and	and	cc	and	and	0
+Dutie	Dutie	n1	Duty	duty	0
+:	:	:	:	:	0
+THO	THO	av	THOUGH	tho	0
+:	:	:	:	:	0
+MYRIELL	MYRIELL	np1	MYRIELL	MYRIELL	0
+.	.	.	.	.	1

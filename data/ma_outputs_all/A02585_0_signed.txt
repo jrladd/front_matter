@@ -1,0 +1,4 @@
+Yours	Yours	png22	Yours	you	0
+Jos.	Jos.	np1	Jos.	Jos.	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

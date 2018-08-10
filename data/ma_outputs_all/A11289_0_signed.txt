@@ -1,0 +1,6 @@
+Christoph	Christoph	np1	Christoph	Christoph	0
+.	.	.	.	.	1
+Iohannides	Iohannides	np1	Iohannides	Iohannides	0
+Dalby	Dalby	np1	Dalby	Dalby	0
+DANVS	DANVS	np1	DANVS	DANVS	0
+.	.	.	.	.	1

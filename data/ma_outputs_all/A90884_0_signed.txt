@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+David	David	np1	David	David	0
+Papillon	Papillon	np1	Papillon	Papillon	0
+.	.	.	.	.	1

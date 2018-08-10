@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+affectionate	affectionate	j	affectionate	affectionate	0
+and	and	cc	and	and	0
+dearely	dearely	av-jn	dearly	dear	0
+well	well	av	well	well	0
+wishing	wishing	vvg	wishing	wish	0
+Countryman	Countryman	n1	Countryman	countryman	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	0
+C.	C.	np1	C.	C.	1

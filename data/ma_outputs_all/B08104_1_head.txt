@@ -1,0 +1,15 @@
+A	A	dt	A	a	0
+la	la	fw-fr	la	la	0
+treshaute	treshaute	fw-la	treshaute	treshaute	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+∣	∣	sy	∣	∣	0
+puissante	puissante	j	puissant	puissant	0
+Roine	Roine	n1	Roine	roine	0
+ELISABETH	ELISABETH	np1	ELISABETH	Elisabeth	0
+,	,	,	,	,	0
+Roine	Roine	np1	Roine	Roine	0
+de	de	fw-fr	de	de	0
+Boheme	Boheme	n1	Boheme	boheme	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

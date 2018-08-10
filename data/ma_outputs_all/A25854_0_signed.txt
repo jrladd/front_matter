@@ -1,0 +1,4 @@
+Radulphus	Radulphus	np1	Radulphus	Radulphus	0
+Castrensis	Castrensis	np1	Castrensis	Castrensis	0
+Antimachivalensis	Antimachivalensis	np1	Antimachivalensis	Antimachivalensis	0
+.	.	.	.	.	1

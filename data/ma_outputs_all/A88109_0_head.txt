@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+COLONELL	COLONELL	n1	COLONELL	colonel	0
+SIDENHAM	SIDENHAM	np1	SIDENHAM	SIDENHAM	0
+one	one	crd	one	one	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Highnesse	Highnesse	n1	Highness	highness	0
+Councell	Councell	n1	Council	council	0
+of	of	pp-f	of	of	0
+State	State	n1	State	state	0
+.	.	.	.	.	1

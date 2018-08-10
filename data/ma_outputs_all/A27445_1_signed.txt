@@ -1,0 +1,17 @@
+Mon	Mon	fw-fr	Mon	mon	0
+Seigneur	Seigneur	fw-fr	Seigneur	seigneur	0
+,	,	,	,	,	0
+Vôtre	Vôtre	fw-fr	Vôtre	vôtre	0
+tres	tres	fw-fr	tres	tres	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+tres	tres	fw-la	tres	tres	0
+Obeissant	Obeissant	j	Obeisant	obeisant	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+tres	tres	fw-fr	tres	tres	0
+Affectionné	Affectionné	fw-fr	Affectionné	affectionné	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+PIERRE	PIERRE	fw-fr	PIERRE	pierre	0
+BERAULT	BERAULT	np1	BERAULT	BERAULT	0
+.	.	.	.	.	1

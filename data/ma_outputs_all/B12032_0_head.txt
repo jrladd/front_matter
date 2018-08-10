@@ -1,0 +1,13 @@
+Roy	Roy	fw-fr	Roy	roy	0
+de	de	fw-fr	de	de	0
+la	la	fw-fr	la	la	0
+Grand	Grand	fw-fr	Grand	grand	0
+'	'	'	'	'	0
+Bretagne	Bretagne	np1	Bretagne	Britain	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1
+Defenseur	Defenseur	fw-fr	Defenseur	defenseur	0
+de	de	fw-fr	de	de	0
+la	la	fw-fr	la	la	0
+Foy	Foy	fw-fr	Foy	foy	0
+.	.	.	.	.	1

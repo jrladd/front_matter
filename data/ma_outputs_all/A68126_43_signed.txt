@@ -1,0 +1,14 @@
+From	From	p-acp	From	from	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+sincerely	sincerely	av-j	sincerely	sincere	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

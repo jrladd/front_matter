@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+SOCIETY	SOCIETY	n1	SOCIETY	society	0
+OF	OF	pp-f	OF	of	0
+ASTROLOGERS	ASTROLOGERS	n2	ASTROLOGERS	astrologer	0
+.	.	.	.	.	1

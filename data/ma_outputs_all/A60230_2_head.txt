@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+at	at	p-acp	at	at	0
+BRVGES	BRVGES	np1	BRVGES	BRVGES	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+SACRED	SACRED	j	SACRED	sacred	0
+MAJESTIE	MAJESTIE	n1	MAJESTIE	majesty	0
+;	;	;	;	;	1

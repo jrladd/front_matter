@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+seruice	seruice	n1	service	service	0
+reuerently	reuerently	av-j	reverently	reverent	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+Anthonie	Anthonie	np1	Anthonie	Anthony	0
+Copley	Copley	np1	Copley	Copley	0
+.	.	.	.	.	1

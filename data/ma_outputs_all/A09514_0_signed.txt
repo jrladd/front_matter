@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+honors	honors	ng1	honours	honour	0
+poore	poore	j	poor	poor	0
+beadsman	beadsman	n1	beadsman	beadsman	0
+,	,	,	,	,	0
+GILES	GILES	np1	GILES	Giles	0
+VVILLOVGHBY	VVILLOVGHBY	np1	VVILLOVGHBY	VVILLOVGHBY	0
+.	.	.	.	.	1

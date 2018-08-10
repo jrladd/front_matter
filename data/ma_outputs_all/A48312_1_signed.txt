@@ -1,0 +1,11 @@
+as	as	p-acp	as	as	0
+really	really	av-j	really	real	0
+as	as	c-acp	as	as	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+your	your	po22	your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+IOHN	IOHN	np1	IOHN	John	0
+LEY	LEY	np1	LEY	Ley	0
+.	.	.	.	.	1

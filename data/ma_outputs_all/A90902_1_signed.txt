@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+suffering	suffering	vvg	suffering	suffer	0
+supplicant	supplicant	n1	supplicant	supplicant	0
+,	,	,	,	,	0
+WALTER	WALTER	np1	WALTER	Walter	0
+POWELL	POWELL	np1	POWELL	Powell	0
+.	.	.	.	.	1

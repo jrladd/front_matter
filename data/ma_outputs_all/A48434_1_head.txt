@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+Honourable	Honourable	j	Honourable	honourable	0
+COUNCIL	COUNCIL	n1	COUNCIL	council	0
+.	.	.	.	.	1

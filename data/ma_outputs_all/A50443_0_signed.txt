@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Most	Most	av-ds	Most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+Everard	Everard	np1	Everard	Everard	0
+Maynwaringe	Maynwaringe	vvg	Maynwaringe	maynwaringe	0
+.	.	.	.	.	1

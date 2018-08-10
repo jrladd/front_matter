@@ -1,0 +1,6 @@
+Anne	Anne	np1	Anne	Anne	0
+Gibbs	Gibbs	np1	Gibbs	Gibbs	0
+Ἀναγραμματικῶσ	Ἀναγραμματικῶσ	np1	Ἀναγραμματικῶσ	Ἀναγραμματικῶσ	0
+.	.	.	.	.	1
+Sing	Sing	vvg	Sing	sing	0
+Ben-ab	Ben-ab	j	Ben-ab	ben-ab	1

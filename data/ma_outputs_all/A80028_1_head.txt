@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+famous	famous	j	famous	famous	0
+&	&	cc	&	and	0
+renowned	renowned	j-vvn	renowned	renown	0
+Mr.	Mr.	n1	Mr.	mr.	1
+George	George	np1	George	George	0
+Wither	Wither	vvb	Wither	wither	0
+.	.	.	.	.	1

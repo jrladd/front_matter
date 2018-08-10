@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Servants	Servants	n2	Servants	servant	0
+.	.	.	.	.	1
+I.L.	I.L.	np1	I.L.	I.L.	0
+W	W	j	W	wonderful	0
+.	.	.	.	.	1
+D	D	sy	WORSER	d	0
+,	,	,	,	,	1

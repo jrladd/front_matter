@@ -1,0 +1,7 @@
+Thy	Thy	po21	Thy	thy	0
+Most	Most	av-ds	Most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+,	,	,	,	,	0
+Dionys.	Dionys.	np1	Dionys.	Dionys.	0
+Petave	Petave	np1	Petave	Petave	0
+.	.	.	.	.	1

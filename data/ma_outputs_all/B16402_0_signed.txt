@@ -1,0 +1,7 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+VVingfield	VVingfield	np1	VVingfield	VVingfield	0
+.	.	.	.	.	1

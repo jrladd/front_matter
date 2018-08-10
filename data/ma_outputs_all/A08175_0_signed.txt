@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+vnfaygned	vnfaygned	j	unfeigned	unfeigned	0
+well	well	n1	well	well	0
+willer	willer	n1	willer	willer	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Newton	Newton	np1	Newton	Newton	0
+.	.	.	.	.	1

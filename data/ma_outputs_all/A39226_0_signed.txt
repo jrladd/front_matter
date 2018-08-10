@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+JOSEPH	JOSEPH	np1	JOSEPH	Joseph	0
+CARYL	CARYL	np1	CARYL	CARYL	0
+.	.	.	.	.	1

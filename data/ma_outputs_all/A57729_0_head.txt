@@ -1,0 +1,3 @@
+CARMEN	CARMEN	np1	CARMEN	Carmen	0
+.	.	.	.	.	1
+Quod	Quod	fw-la	Quod	quod	1

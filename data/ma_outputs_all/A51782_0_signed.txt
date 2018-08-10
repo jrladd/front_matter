@@ -1,0 +1,10 @@
+An	An	dt	And	a	0
+Honourer	Honourer	n1	Honourer	honourer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Name	Name	n1	Name	name	0
+and	and	cc	and	and	0
+Vertues	Vertues	n2	Virtues	virtue	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+M.	M.	n1	M.	m.	1

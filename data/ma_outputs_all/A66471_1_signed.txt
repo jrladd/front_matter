@@ -1,0 +1,13 @@
+Most	Most	ds	Most	most	0
+Couragious	Couragious	j	Courageous	courageous	0
+Worthies	Worthies	n2-jn	Worthies	worthy	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Williams	Williams	np1	Williams	Williams	0
+.	.	.	.	.	1

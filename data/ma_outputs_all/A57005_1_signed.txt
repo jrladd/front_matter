@@ -1,0 +1,9 @@
+Dignitati	Dignitati	n1	Dignitati	dignitati	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+,	,	,	,	,	0
+humillime	humillime	n1	humillime	humillime	0
+devotissimus	devotissimus	fw-la	devotissimus	devotissimus	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+TOMLINSON	TOMLINSON	np1	TOMLINSON	Tomlinson	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Humblest	Humblest	js	Humblest	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Long	Long	av-j	Long	long	0
+.	.	.	.	.	1

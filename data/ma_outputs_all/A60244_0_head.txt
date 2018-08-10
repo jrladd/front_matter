@@ -1,0 +1,10 @@
+Robert	Robert	np1	Robert	Robert	0
+Denison	Denison	zz	Denison	denison	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Most	Most	av-ds	Most	most	0
+Worthy	Worthy	j	Worthy	worthy	0
+and	and	cc	and	and	0
+Learned	Learned	j	Learned	learned	0
+J.	J.	np1	J.	J.	0
+H.	H.	np1	H.	H.	1

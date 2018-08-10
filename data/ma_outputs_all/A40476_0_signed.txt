@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+A.	A.	np1	A.	A.	0
+FREZER	FREZER	np1	FREZER	FREZER	0
+.	.	.	.	.	1

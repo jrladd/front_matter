@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+lovers	lovers	n2	lovers	lover	0
+of	of	pp-f	of	of	0
+Mirth	Mirth	n1	Mirth	mirth	0
+and	and	cc	and	and	0
+VVit.	VVit.	np1	VVit.	VVit.	1

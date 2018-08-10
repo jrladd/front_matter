@@ -1,0 +1,15 @@
+your	your	po22	your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+comman	comman	j	commn	common	0
+∣	∣	sy	∣	∣	0
+ded	ded	j	dead	dead	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+AD	AD	fw-la	AD	ad	0
+.	.	.	.	.	1
+HARSNET	HARSNET	n1	HARSNET	harsnet	0
+.	.	.	.	.	1

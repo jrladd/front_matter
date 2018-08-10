@@ -1,0 +1,17 @@
+Discipulus	Discipulus	fw-la	Discipulus	discipulus	0
+semper	semper	fw-la	semper	semper	0
+tuus	tuus	fw-la	tuus	tuus	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+,	,	,	,	,	0
+gratissimus	gratissimus	fw-la	gratissimus	gratissimus	0
+,	,	,	,	,	0
+Tuique	Tuique	fw-la	Tuique	tuique	0
+observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
+,	,	,	,	,	0
+quoad	quoad	j	quoad	quoad	0
+vixerit	vixerit	n1	vixerit	vixerit	0
+,	,	,	,	,	0
+servus	servus	fw-la	servus	servus	0
+Guilielmus	Guilielmus	fw-la	Guilielmus	guilielmus	0
+Walker	Walker	np1	Walker	Walker	0
+.	.	.	.	.	1

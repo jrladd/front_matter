@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Grace's	Grace's	ng1	Grace's	grace	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
+BRENT	BRENT	vvd	BRENT	burn	0
+.	.	.	.	.	1

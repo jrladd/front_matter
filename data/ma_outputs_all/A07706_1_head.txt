@@ -1,0 +1,9 @@
+¶	¶	¶	¶	¶	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+More	More	av-dc	More	more	0
+to	to	p-acp	to	to	0
+Peter	Peter	np1	Peter	Peter	0
+Giles	Giles	np1	Giles	Giles	0
+sēdeth	sēdeth	vvz	sends	send	0
+gretynge	gretynge	n1	greeting	greeting	0
+.	.	.	.	.	1

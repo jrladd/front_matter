@@ -1,0 +1,12 @@
+So	So	np1	So	So	0
+prayes	prayes	vvz	prays	pray	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+VINES	VINES	n2	VINES	vine	0
+.	.	.	.	.	1

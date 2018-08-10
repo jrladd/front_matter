@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+louers	louers	n2	lovers	lover	0
+of	of	pp-f	of	of	0
+running	running	j-vvg	running	run	0
+Horses	Horses	n2	Horses	horse	0
+.	.	.	.	.	1

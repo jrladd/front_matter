@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+COVNTESSE	COVNTESSE	n1	COVNTESSE	countess	0
+of	of	pp-f	of	of	0
+BRISTOL	BRISTOL	np1	BRISTOL	Bristol	0
+,	,	,	,	,	0
+MY	MY	po11	MY	my	0
+BELOVED	BELOVED	j-vvn	BELOVED	belove	0
+WIFE	WIFE	n1	WIFE	wife	0
+.	.	.	.	.	1

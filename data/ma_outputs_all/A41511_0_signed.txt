@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+reall	reall	j	real	real	0
+Remembrancer	Remembrancer	n1	Remembrancer	remembrancer	0
+.	.	.	.	.	1
+Philip	Philip	np1	Philip	Philip	0
+Goodwin	Goodwin	np1	Goodwin	Goodwin	0
+.	.	.	.	.	1

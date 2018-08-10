@@ -1,0 +1,13 @@
+This	This	d	This	this	0
+Pattern	Pattern	n1	Pattern	pattern	0
+of	of	pp-f	of	of	0
+her	her	po31	her	her	0
+own	own	d	own	own	0
+Character	Character	n1	Character	character	0
+and	and	cc	and	and	0
+Happiness	Happiness	n1	Happiness	happiness	0
+is	is	vbz	is	be	0
+most	most	av-ds	most	most	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+.	.	.	.	.	1

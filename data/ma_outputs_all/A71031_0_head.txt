@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+EVER	EVER	av	EVER	ever	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+PATRON	PATRON	n1	PATRON	patron	0
+Sir	Sir	n1	Sir	sir	0
+IOHN	IOHN	np1	IOHN	John	0
+BOLLES	BOLLES	np1	BOLLES	Bolles	0
+Bart.	Bart.	np1	Bart.	Bart.	1

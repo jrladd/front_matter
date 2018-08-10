@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+devoted	devoted	j-vvn	devoted	devote	0
+unfeignedly	unfeignedly	av-j	unfeignedly	unfeigned	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+MARY	MARY	np1	MARY	MARY	0
+RANDE	RANDE	np1	RANDE	RANDE	0
+.	.	.	.	.	1

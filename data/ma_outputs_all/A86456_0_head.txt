@@ -1,0 +1,13 @@
+In	In	p-acp	In	in	0
+particular	particular	j	particular	particular	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Richard	Richard	np1	Richard	Richard	0
+Beal	Beal	np1	Beal	Beal	0
+and	and	cc	and	and	0
+Lambert	Lambert	np1	Lambert	Lambert	0
+Godfrey	Godfrey	np1	Godfrey	Godfrey	0
+Esq	Esq	np1	Esq	Esq	1

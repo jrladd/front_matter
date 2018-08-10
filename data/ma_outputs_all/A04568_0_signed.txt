@@ -1,0 +1,4 @@
+Rich	Rich	j	Rich	rich	0
+:	:	:	:	:	0
+Iohnson	Iohnson	np1	Iohnson	Johnson	0
+.	.	.	.	.	1

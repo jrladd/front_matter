@@ -1,0 +1,15 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+seruice	seruice	n1	service	service	0
+of	of	pp-f	of	of	0
+my	my	po11	my	my	0
+ministery	ministery	n1	ministry	ministry	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+N	N	zz	N	n	0
+:	:	:	:	:	0
+BIFEILD	BIFEILD	np1	BIFEILD	BIFEILD	0
+.	.	.	.	.	1

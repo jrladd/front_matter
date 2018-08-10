@@ -1,0 +1,15 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+his	his	po31	his	his	0
+approued	approued	j-vvn	approved	approve	0
+Maister	Maister	n1	Master	master	0
+Henry	Henry	np1	Henry	Henry	0
+Lassels	Lassels	np1	Lassels	Lassels	0
+Gentelman	Gentelman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Howell	Howell	np1	Howell	Howell	0
+wysheth	wysheth	vvz	wisheth	wish	0
+hartely	hartely	av-j	heartily	hearty	0
+well	well	av	well	well	0
+.	.	.	.	.	1

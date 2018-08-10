@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Geo.	Geo.	np1	Geo.	Geo.	0
+Masterson	Masterson	np1	Masterson	Masterson	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Godfree	Godfree	j	Godfree	godfree	0
+Goodman	Goodman	n1	Goodman	goodman	0
+Bishop	Bishop	n1	Bishop	bishop	0
+late	late	j	late	late	0
+of	of	pp-f	of	of	0
+Gloucester	Gloucester	np1	Gloucester	Gloucester	0
+.	.	.	.	.	1

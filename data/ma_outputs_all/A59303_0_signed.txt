@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+E.	E.	np1	E.	E.	0
+SETTLE	SETTLE	vvi	SETTLE	settle	0
+.	.	.	.	.	1

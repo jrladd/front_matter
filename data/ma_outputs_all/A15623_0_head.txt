@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+him-selfe	him-selfe	px31	himself	himself	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+W.	W.	np1	W.	W.	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+hapinesse	hapinesse	n1	hapinesse	happiness	0
+.	.	.	.	.	1

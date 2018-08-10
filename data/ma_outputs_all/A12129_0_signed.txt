@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+I	I	pns11	I	i	0
+A.	A.	np1	A.	A.	0
+SHIRLEY	SHIRLEY	np1	SHIRLEY	Shirley	0
+.	.	.	.	.	1

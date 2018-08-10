@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+louer	louer	n1	lover	lover	0
+,	,	,	,	,	0
+BEN	BEN	zz	BEN	ben	0
+.	.	.	.	.	1
+IONSON	IONSON	np1	IONSON	Jonson	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Highness's	Highness's	ng1	Highness's	highness	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+Lane	Lane	n1	Lane	lane	0
+.	.	.	.	.	1

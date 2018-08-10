@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+Christian	Christian	np1	Christian	Christian	0
+dutie	dutie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+.	.	.	.	.	1
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+ALLEN	ALLEN	np1	ALLEN	Allen	0
+.	.	.	.	.	1

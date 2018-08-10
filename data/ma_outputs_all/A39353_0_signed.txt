@@ -1,0 +1,11 @@
+Amoris	Amoris	fw-la	Amoris	amoris	0
+,	,	,	,	,	0
+ac	ac	fw-la	ac	ac	0
+Reverentiae	Reverentiae	fw-la	Reverentiae	reverentiae	0
+Vinculo	Vinculo	np1	Vinculo	Vinculo	0
+Arctissimo	Arctissimo	fw-la	Arctissimo	arctissimo	0
+Dominationi	Dominationi	np1	Dominationi	Dominationi	0
+Tuae	Tuae	fw-la	Tuae	tuus	0
+Obstrictus	Obstrictus	np1	Obstrictus	Obstrictus	0
+E.	E.	np1	E.	E.	0
+E.	E.	np1	E.	E.	1

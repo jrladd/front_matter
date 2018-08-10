@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+Sacred	Sacred	j	Sacred	sacred	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+QUEEN-Consort	QUEEN-Consort	n1	QUEEN-Consort	queen-consort	0
+.	.	.	.	.	1

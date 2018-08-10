@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+at	at	p-acp	at	at	0
+commandment	commandment	n1	commandment	commandment	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+CHVRCHYARD	CHVRCHYARD	n1	CHVRCHYARD	chvrchyard	0
+.	.	.	.	.	1

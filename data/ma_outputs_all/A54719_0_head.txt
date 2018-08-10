@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+PATRONAGE	PATRONAGE	n1	PATRONAGE	patronage	0
+OF	OF	pp-f	OF	of	0
+THOSE	THOSE	d	THOSE	those	0
+Pair	Pair	n1	Pair	pair	0
+of	of	pp-f	of	of	0
+Sacred	Sacred	j	Sacred	sacred	0
+Sisters	Sisters	ng1	Sisters	sister	0
+Truth	Truth	n1	Truth	truth	0
+and	and	cc	and	and	0
+Iustice.	Iustice.	n1	Iustice.	justice	1

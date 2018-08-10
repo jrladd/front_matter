@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+WILLAN	WILLAN	np1	WILLAN	WILLAN	0
+.	.	.	.	.	1

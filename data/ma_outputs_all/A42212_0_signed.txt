@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Cousin	Cousin	n1	Cousin	cousin	0
+&	&	cc	&	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Goldsmit	Goldsmit	np1	Goldsmit	Goldsmit	1

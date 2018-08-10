@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+most	most	av-ds	most	most	0
+Worthily	Worthily	av-j	Worthily	worthy	0
+Ho	Ho	uh	Ho	ho	0
+∣	∣	sy	∣	∣	0
+noured	noured	j	noured	noured	0
+Lady	Lady	n1	Lady	lady	0
+Theodosialvie	Theodosialvie	np1	Theodosialvie	Theodosialvie	1

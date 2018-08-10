@@ -1,0 +1,7 @@
+Devotiss	Devotiss	np1	Devotiss	Devotiss	0
+:	:	:	:	:	0
+Devinctiss	Devinctiss	np1	Devinctiss	Devinctiss	0
+:	:	:	:	:	0
+G.	G.	np1	G.	G.	0
+HILS	HILS	n2	HILS	hill	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+at	at	p-acp	at	at	0
+cōmaun	cōmaun	vvi	command	command	0
+∣	∣	sy	∣	∣	0
+dement	dement	n1	dement	dement	0
+Robert	Robert	np1	Robert	Robert	0
+Crowley	Crowley	np1	Crowley	Crowley	0
+.	.	.	.	.	1

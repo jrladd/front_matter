@@ -1,0 +1,15 @@
+Contracted	Contracted	j-vvn	Contracted	contract	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+the	the	dt	the	the	0
+bands	bands	n2	bans	band	0
+of	of	pp-f	of	of	0
+true	true	j	true	true	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+Augustine	Augustine	np1	Augustine	Augustine	0
+Taylor	Taylor	np1	Taylor	Taylor	0
+.	.	.	.	.	1

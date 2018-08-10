@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Beloved	Beloved	j-vvn	Beloved	belove	0
+Countrey	Countrey	n1	Country	country	0
+∣	∣	sy	∣	∣	0
+men	men	n1	men	man	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+LANCASTER	LANCASTER	np1	LANCASTER	Lancaster	0
+.	.	.	.	.	1

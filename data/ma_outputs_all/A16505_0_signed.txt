@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+readie	readie	j	ready	ready	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+respectiue	respectiue	j	respective	respective	0
+seruice	seruice	n1	service	service	0
+to	to	p-acp	to	to	0
+my	my	po11	my	my	0
+power	power	n1	power	power	0
+.	.	.	.	.	1
+IMMANVEL	IMMANVEL	np1	IMMANVEL	IMMANVEL	0
+BOVRNE	BOVRNE	n1	BOVRNE	bovrne	0
+.	.	.	.	.	1

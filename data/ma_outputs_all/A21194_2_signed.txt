@@ -1,0 +1,15 @@
+Majestatis	Majestatis	fw-la	Majestatis	majestatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+,	,	,	,	,	0
+Subditus	Subditus	fw-la	Subditus	subditus	0
+humilis	humilis	fw-la	humilis	humilis	0
+,	,	,	,	,	0
+Seruus	Seruus	fw-la	Seruus	seruus	0
+fidelis	fidelis	fw-la	fidelis	fidelis	0
+,	,	,	,	,	0
+Propugnator	Propugnator	fw-la	Propugnator	propugnator	0
+acerrimus	acerrimus	fw-la	acerrimus	acerrimus	0
+,	,	,	,	,	0
+GEORGIVS	GEORGIVS	np1	GEORGIVS	GEORGIVS	0
+EGLISEMMIVS	EGLISEMMIVS	np1	EGLISEMMIVS	EGLISEMMIVS	0
+.	.	.	.	.	1

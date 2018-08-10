@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Obedient	Obedient	j	Obedient	obedient	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+BROWN	BROWN	np1	BROWN	Brown	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Fair	Fair	j	Fair	fair	0
+Sex.	Sex.	n1	Sex.	sex	1

@@ -1,0 +1,12 @@
+A	A	dt	A	a	0
+true	true	j	true	true	0
+desirer	desirer	n1	desirer	desirer	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+only	only	j	only	only	0
+good	good	j	good	good	0
+,	,	,	,	,	0
+SAM	SAM	np1	SAM	Sam	0
+.	.	.	.	.	1
+HIERON	HIERON	np1	HIERON	Hieron	0
+.	.	.	.	.	1

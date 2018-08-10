@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+observance	observance	n1	observance	observance	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Heywood	Heywood	np1	Heywood	Heywood	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+VIRO	VIRO	fw-la	VIRO	viro	0
+VERE	VERE	np1	VERE	Vere	0
+GENEROSO	GENEROSO	fw-la	GENEROSO	generoso	0
+,	,	,	,	,	0
+Et	Et	fw-la	Et	et	0
+meritissimè	meritissimè	fw-la	meritissimè	meritissimè	0
+à	à	fw-fr	à	à	0
+me	me	pno11	me	i	0
+colendo	colendo	fw-es	colendo	colendo	0
+BERNARDO	BERNARDO	np1	BERNARDO	Bernardo	0
+HYDE	HYDE	np1	HYDE	Hyde	0
+,	,	,	,	,	0
+Armig.	Armig.	np1	Armig.	Armig.	1

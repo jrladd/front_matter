@@ -1,0 +1,6 @@
+James	James	np1	James	James	0
+Gaffarel	Gaffarel	n1	Gaffarel	gaffarel	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+Health	Health	n1	Health	health	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+AND	AND	cc	AND	and	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Ladie	Ladie	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Mary	Mary	uh	Marry	mary	0
+Ley.	Ley.	np1	Ley.	Ley.	1

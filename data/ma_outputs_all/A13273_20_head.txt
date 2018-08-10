@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Dorset	Dorset	np1	Dorset	Dorset	0
+.	.	.	.	.	1

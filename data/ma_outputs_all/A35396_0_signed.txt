@@ -1,0 +1,3 @@
+Nich.	Nich.	np1	Nich.	Nich.	0
+Culpeper	Culpeper	np1	Culpeper	Culpeper	0
+.	.	.	.	.	1

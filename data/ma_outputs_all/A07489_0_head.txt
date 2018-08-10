@@ -1,0 +1,15 @@
+❧	❧	sy	❧	❧	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+truely	truely	av-j	truly	true	0
+Great	Great	j	Great	great	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+grace-full	grace-full	j	graceful	graceful	0
+Prince	Prince	n1	Prince	prince	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+,	,	,	,	,	0
+Prince	Prince	n1	Prince	prince	0
+of	of	pp-f	of	of	0
+WALES	WALES	np1	WALES	Wales	0
+.	.	.	.	.	1

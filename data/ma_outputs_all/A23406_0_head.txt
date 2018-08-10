@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+ALL	ALL	av-d	ALL	all	0
+ENGLISH	ENGLISH	jp	ENGLISH	english	0
+CATHOLIKES	CATHOLIKES	njp2	CATHOLICS	catholic	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+real	real	j	real	real	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Borfet	Borfet	vvi	Borfet	borfet	0
+.	.	.	.	.	1

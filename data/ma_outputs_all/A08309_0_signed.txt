@@ -1,0 +1,8 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+direction	direction	n1	direction	direction	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Norden	Norden	np1	Norden	Norden	0
+.	.	.	.	.	1

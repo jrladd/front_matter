@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+affectionat	affectionat	j	affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Seriously	Seriously	av-j	Seriously	serious	0
+well-wishing	well-wishing	j	wellwishing	wellwishing	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+.	.	.	.	.	1
+J.	J.	np1	J.	J.	0
+C.	C.	np1	C.	C.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Dauphin	Dauphin	n1	Dauphin	dauphin	0
+.	.	.	.	.	1
+The	The	dt	The	the	0
+General	General	j	General	general	0
+Design	Design	n1	Design	design	0
+of	of	pp-f	of	of	0
+this	this	d	this	this	0
+Work	Work	n1	Work	work	0
+.	.	.	.	.	1

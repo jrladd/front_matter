@@ -1,0 +1,10 @@
+Humilissimo	Humilissimo	fw-la	Humilissimo	humilissimo	0
+&	&	cc	&	and	0
+Divotissimo	Divotissimo	fw-la	Divotissimo	divotissimo	0
+Suddito	Suddito	fw-la	Suddito	suddito	0
+&	&	cc	&	and	0
+Vassallo	Vassallo	np1	Vassallo	Vassallo	0
+,	,	,	,	,	0
+Guglielmo	Guglielmo	np1	Guglielmo	Guglielmo	0
+Clenche	Clenche	n1	Clench	clench	0
+.	.	.	.	.	1

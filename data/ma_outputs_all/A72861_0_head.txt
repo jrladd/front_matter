@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+louing	louing	j-vvg	loving	love	0
+and	and	cc	and	and	0
+much	much	d	much	much	0
+beloued	beloued	j-vvn	beloved	belove	0
+Couzen	Couzen	vvi	Cozen	cozen	0
+,	,	,	,	,	0
+Signior	Signior	n1	Signior	signior	0
+M.	M.	n1	M.	m.	0
+P.	P.	np1	P.	P.	1

@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+with	with	p-acp	with	with	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+endeuors	endeuors	n2	endeavours	endeavour	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+:	:	:	:	:	0
+IOHN	IOHN	np1	IOHN	John	0
+OVERTON	OVERTON	np1	OVERTON	Overton	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+qual	qual	j	qual	qual	0
+è	è	fw-fr	è	è	0
+il	il	fw-fr	il	il	0
+suo	suo	fw-la	suo	suo	0
+Vassallo	Vassallo	np1	Vassallo	Vassallo	0
+Dudleio	Dudleio	np1	Dudleio	Dudleio	0
+Loftusio	Loftusio	np1	Loftusio	Loftusio	0
+.	.	.	.	.	1

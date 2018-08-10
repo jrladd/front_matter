@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+truely	truely	av-j	truly	true	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Bayly	Bayly	n1	Baily	bailiff	0
+.	.	.	.	.	1

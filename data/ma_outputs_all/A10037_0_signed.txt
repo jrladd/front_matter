@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Chri	Chri	fw-la	Chri	chri	0
+∣	∣	sy	∣	∣	0
+stian	stian	n1	stian	stian	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+R	R	sy	R	r	0
+:	:	:	:	:	0
+PRESTON	PRESTON	np1	PRESTON	Preston	0
+.	.	.	.	.	1

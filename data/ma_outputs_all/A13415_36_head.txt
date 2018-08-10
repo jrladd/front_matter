@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LADY	LADY	n1	LADY	lady	0
+MARTHA	MARTHA	np1	MARTHA	Martha	0
+,	,	,	,	,	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Holdernesse	Holdernesse	np1	Holdernesse	Holdernesse	0
+.	.	.	.	.	1

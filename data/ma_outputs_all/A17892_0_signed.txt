@@ -1,0 +1,8 @@
+Iames	Iames	np1	Iames	Iames	0
+Canceller	Canceller	np1	Canceller	Canceller	0
+wisheth	wisheth	vvz	wishes	wish	0
+con	con	vvb	con	con	0
+∣	∣	sy	∣	∣	0
+tinuall	tinuall	j	tinuall	tinuall	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+daylie	daylie	j	daily	daily	0
+Orator	Orator	n1	Orator	orator	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+DVNENSIS	DVNENSIS	np1	DVNENSIS	DVNENSIS	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+The	The	dt	The	the	0
+Dedication	Dedication	n1	Dedication	dedication	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+that	that	cst	that	that	0
+Honourable	Honourable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+to	to	p-acp	to	to	0
+whom	whom	ro-crq	whom	who	0
+the	the	dt	the	the	0
+following	following	j-vvg	following	follow	0
+Letters	Letters	n2	Letters	letter	0
+were	were	vbdr	were	be	0
+directed	directed	vvn	directed	direct	0
+.	.	.	.	.	1

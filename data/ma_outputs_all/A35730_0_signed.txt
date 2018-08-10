@@ -1,0 +1,3 @@
+Edward	Edward	np1	Edward	Edward	0
+Dering	Dering	np1	Dering	Dering	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Whitelocke	Whitelocke	n1	Whitelocke	whitelocke	0
+Bulstrode	Bulstrode	np1	Bulstrode	Bulstrode	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Clifford's-Inn	Clifford's-Inn	n1	Clifford's-Inn	clifford's-inn	0
+.	.	.	.	.	1

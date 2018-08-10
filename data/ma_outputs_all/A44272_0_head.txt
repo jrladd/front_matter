@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Noble	Noble	j	Noble	noble	0
+Friend	Friend	n1	Friend	friend	0
+Mr	Mr	n1	Mr	mr.	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+TURNER	TURNER	np1	TURNER	Turner	0
+,	,	,	,	,	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+of	of	pp-f	of	of	0
+GRAIES	GRAIES	np1	GRAIES	GRAIES	0
+—	—	—	—	—	0
+INN	INN	n1	INN	inn	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+Pro	Pro	np1	Pro	Pro	0
+fulgentisima	fulgentisima	fw-la	fulgentisima	fulgentisima	0
+ELIZABETHA	ELIZABETHA	np1	ELIZABETHA	ELIZABETHA	0
+.	.	.	.	.	1

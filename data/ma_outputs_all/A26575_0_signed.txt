@@ -1,0 +1,8 @@
+Most	Most	ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+A.	A.	np1	A.	A.	1

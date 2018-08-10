@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+humbly	humbly	av-j	humbly	humble	0
+at	at	p-acp	at	at	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+mandement	mandement	n1	mandment	mandment	0
+L.	L.	n1	L.	lord	0
+T.	T.	np1	T.	T.	1

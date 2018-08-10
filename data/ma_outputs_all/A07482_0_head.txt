@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+Master	Master	n1	Master	master	0
+Edward	Edward	np1	Edward	Edward	0
+Stanley	Stanley	np1	Stanley	Stanley	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

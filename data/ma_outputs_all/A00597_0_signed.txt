@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+F.	F.	np1	F.	F.	1

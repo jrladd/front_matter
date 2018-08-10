@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+humble	humble	j	humble	humble	0
+Oratour	Oratour	n1	Orator	orator	0
+,	,	,	,	,	0
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+HVME	HVME	np1	HVME	HVME	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Yeur	Yeur	po22	Yeur	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+heartily	heartily	av-j	heartily	hearty	0
+devoted	devoted	vvn	devoted	devote	0
+as	as	p-acp	as	as	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+WILLAN	WILLAN	np1	WILLAN	WILLAN	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Ambrose	Ambrose	np1	Ambrose	Ambrose	0
+Wood	Wood	n1	Wood	wood	0
+.	.	.	.	.	1

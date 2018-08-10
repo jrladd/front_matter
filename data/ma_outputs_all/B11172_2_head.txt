@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+AND	AND	cc	AND	and	0
+CONSTANT	CONSTANT	j	CONSTANT	constant	0
+CATHOLIKES	CATHOLIKES	njp2	CATHOLICS	catholic	0
+in	in	p-acp	in	in	0
+Scotland	Scotland	np1	Scotland	Scotland	0
+.	.	.	.	.	1

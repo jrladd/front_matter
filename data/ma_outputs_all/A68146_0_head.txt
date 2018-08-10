@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Robard	Robard	np1	Robard	Robard	0
+Deuoreux	Deuoreux	fw-fr	Deuoreux	deuoreux	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Essex	Essex	np1	Essex	Essex	0
+.	.	.	.	.	1

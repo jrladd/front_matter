@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+MARSHALL	MARSHALL	j	MARSHAL	martial	0
+SMITH	SMITH	n1	SMITH	smith	0
+.	.	.	.	.	1

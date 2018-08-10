@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+CELEBRIOVS	CELEBRIOVS	j	CELEBRIOUS	celebrious	0
+and	and	cc	and	and	0
+famous	famous	j	famous	famous	0
+Vniuersity	Vniuersity	n1	University	university	0
+of	of	pp-f	of	of	0
+Cambridge	Cambridge	np1	Cambridge	Cambridge	0
+.	.	.	.	.	1

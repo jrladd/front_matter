@@ -1,0 +1,10 @@
+I	I	sy	I	i	0
+thine	thine	png21	thine	thou	0
+,	,	,	,	,	0
+if	if	cs	if	if	0
+thou	thou	pns21	thou	thou	0
+mine	mine	vvb	mine	mine	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

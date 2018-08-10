@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Anton.	Anton.	np1	Anton.	Anton.	1

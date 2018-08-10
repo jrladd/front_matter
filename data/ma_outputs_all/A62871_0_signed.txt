@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+W.	W.	np1	W.	W.	1

@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+and	and	cc	and	and	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+HENRY	HENRY	np1	HENRY	Henry	0
+GRESWOLD	GRESWOLD	np1	GRESWOLD	GRESWOLD	0
+.	.	.	.	.	1
+Precentor	Precentor	np1	Precentor	Precentor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Cathedral	Cathedral	n1	Cathedral	cathedral	0
+of	of	pp-f	of	of	0
+Lichfield	Lichfield	np1	Lichfield	Lichfield	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

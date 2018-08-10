@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Offices	Offices	n2	Offices	office	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+JACOMB	JACOMB	np1	JACOMB	JACOMB	0
+.	.	.	.	.	1

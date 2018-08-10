@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+LEICESTER	LEICESTER	np1	LEICESTER	Leicester	0
+DEVEREUX	DEVEREUX	np1	DEVEREUX	Devereux	0
+,	,	,	,	,	0
+VISCOUNT	VISCOUNT	np1	VISCOUNT	Viscount	0
+HEREFORD	HEREFORD	np1	HEREFORD	Hereford	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+FERRARS	FERRARS	np1	FERRARS	Ferrars	0
+of	of	pp-f	of	of	0
+Chartley	Chartley	np1	Chartley	Chartley	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

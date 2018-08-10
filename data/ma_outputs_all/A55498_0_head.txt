@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+highly	highly	av-j	highly	high	0
+Honour'd	Honour'd	vvn	Honoured	honour	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Hopefull	Hopefull	j	Hopeful	hopeful	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+LAVRENCE	LAVRENCE	np1	LAVRENCE	LAVRENCE	0
+Esq	Esq	np1	Esq	Esq	1

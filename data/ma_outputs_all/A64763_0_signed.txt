@@ -1,0 +1,2 @@
+E.	E.	np1	E.	E.	0
+P.	P.	np1	P.	P.	1

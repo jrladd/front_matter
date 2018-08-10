@@ -1,0 +1,7 @@
+D.	D.	np1	D.	D.	0
+Langworth	Langworth	np1	Langworth	Langworth	0
+,	,	,	,	,	0
+Arch-deacon	Arch-deacon	n1	Archdeacon	archdeacon	0
+of	of	pp-f	of	of	0
+Welles	Welles	np1	Welles	Welles	0
+.	.	.	.	.	1

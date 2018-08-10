@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Royal	Royal	j	Royal	royal	0
+Highness's	Highness's	ng1	Highness's	highness	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+EDM	EDM	n1	EDM	edm	0
+.	.	.	.	.	1
+ARWAKER	ARWAKER	np1	ARWAKER	ARWAKER	1

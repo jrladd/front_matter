@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Ronourable	Ronourable	j	Ronourable	ronourable	0
+THE	THE	dt	THE	the	0
+Lord	Lord	n1	Lord	lord	0
+Wharton	Wharton	np1	Wharton	Wharton	0
+.	.	.	.	.	1

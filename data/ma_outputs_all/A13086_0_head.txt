@@ -1,0 +1,3 @@
+NOBILITAS	NOBILITAS	fw-la	NOBILITAS	nobilitas	0
+Patriae	Patriae	fw-la	Patriae	patriae	0
+DECVS	DECVS	fw-la	DECVS	decvs	1

@@ -1,0 +1,11 @@
+BY	BY	p-acp	BY	by	0
+An	An	dt	And	a	0
+observing	observing	j-vvg	observing	observe	0
+Honorer	Honorer	n1	Honorer	honourer	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Faithfulness	Faithfulness	n1	Faithfulness	faithfulness	0
+,	,	,	,	,	0
+Silvanus	Silvanus	np1	Silvanus	Silvanus	0
+Taylor	Taylor	np1	Taylor	Taylor	0
+.	.	.	.	.	1

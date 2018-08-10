@@ -1,0 +1,10 @@
+THO	THO	np1	THO	Tho	0
+.	.	.	.	.	1
+DVNELMENS	DVNELMENS	npg1	DVNELMENS	dvnelmens	0
+.	.	.	.	.	0
+nuper	nuper	fw-la	nuper	nuper	0
+COVEN	COVEN	np1	COVEN	Coven	0
+.	.	.	.	.	1
+&	&	cc	&	and	0
+LICHF	LICHF	n1	LICHF	lichf	0
+.	.	.	.	.	1

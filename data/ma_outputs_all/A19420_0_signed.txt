@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dutifull	dutifull	j	dutiful	dutiful	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+CLEM	CLEM	np1	CLEM	Clem	0
+:	:	:	:	:	0
+COTTON	COTTON	np1	COTTON	Cotton	0
+.	.	.	.	.	1

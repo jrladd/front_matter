@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+P.	P.	np1	P.	P.	0
+de	de	fw-la	de	de	0
+La.	La.	fw-it	La.	la	0
+Serre	Serre	np1	Serre	Serre	0
+.	.	.	.	.	1

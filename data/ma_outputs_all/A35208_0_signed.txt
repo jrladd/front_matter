@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Crouch	Crouch	vvb	Crouch	crouch	0
+.	.	.	.	.	1

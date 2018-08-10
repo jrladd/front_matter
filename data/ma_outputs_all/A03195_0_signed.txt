@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+obseruant	obseruant	j	observant	observant	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Heywood	Heywood	np1	Heywood	Heywood	0
+.	.	.	.	.	1

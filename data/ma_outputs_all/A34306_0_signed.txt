@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Royal	Royal	j	Royal	royal	0
+Highness's	Highness's	ng1	Highness's	highness	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+Devoted	Devoted	vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Congreve	Congreve	np1	Congreve	Congreve	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+B.	B.	np1	B.	B.	0
+Keach	Keach	np1	Keach	Keach	0
+.	.	.	.	.	1

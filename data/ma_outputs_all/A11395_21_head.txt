@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+long-approoued	long-approoued	j	long-approved	long-approved	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+R.	R.	np1	R.	R.	0
+Nicolson	Nicolson	np1	Nicolson	Nicolson	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+S.	S.	np1	S.	S.	0
+wisheth	wisheth	vvz	wishes	wish	0
+euer	euer	av	ever	ever	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+content	content	n1	content	content	0
+.	.	.	.	.	1

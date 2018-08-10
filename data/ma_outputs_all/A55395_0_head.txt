@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+truly	truly	av-j	truly	true	0
+Religious	Religious	j	Religious	religious	0
+Lady	Lady	n1	Lady	lady	0
+Laetitia	Laetitia	np1	Laetitia	Laetitia	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Donegal	Donegal	np1	Donegal	Donegal	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

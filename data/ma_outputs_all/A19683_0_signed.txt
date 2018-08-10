@@ -1,0 +1,6 @@
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+seruices	seruices	n2	services	service	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+M.	M.	n1	M.	m.	1

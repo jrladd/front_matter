@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Hester	Hester	np1	Hester	Hester	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOUR'D	HONOUR'D	j-vvn	HONOURED	honour	0
+MADAM	MADAM	n1	MADAM	madam	0
+▪	▪	▪	▪	▪	0
+Madam	Madam	n1	Madam	madam	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+P.	P.	np1	P.	P.	1

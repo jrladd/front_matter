@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Hearty-Soul-Servant	Hearty-Soul-Servant	n1	Hearty-Soul-Servant	hearty-soul-servant	0
+,	,	,	,	,	0
+James	James	np1	James	James	0
+Woode	Woode	n1	Wood	wood	0
+.	.	.	.	.	1

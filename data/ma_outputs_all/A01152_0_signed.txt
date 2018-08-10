@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+sonne	sonne	n1	son	son	0
+George	George	np1	George	George	0
+Harte	Harte	n1	Heart	heart	0
+.	.	.	.	.	1

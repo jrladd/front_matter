@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Gerhard	Gerhard	np1	Gerhard	Gerhard	0
+.	.	.	.	.	1

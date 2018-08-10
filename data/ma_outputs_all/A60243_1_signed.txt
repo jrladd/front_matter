@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+affectionate	affectionate	j	affectionate	affectionate	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Andr.	Andr.	np1	Andr.	Andr.	0
+Sall	Sall	np1	Sall	Sall	0
+.	.	.	.	.	1

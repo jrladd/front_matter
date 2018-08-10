@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dutifull	dutifull	j	dutiful	dutiful	0
+subiect	subiect	j-jn	subject	subject	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Holland	Holland	np1	Holland	Holland	0
+widow	widow	n1	widow	widow	0
+.	.	.	.	.	1

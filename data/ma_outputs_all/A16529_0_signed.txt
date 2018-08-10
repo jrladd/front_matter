@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+vnfained	vnfained	j	unfeigned	unfeigned	0
+loue	loue	n1	love	love	0
+for	for	p-acp	for	for	0
+Christs	Christs	npg1	Christs	Christ	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+Nicolas	Nicolas	np1	Nicolas	Nicolas	0
+Bownde	Bownde	vvn	Bound	bind	0
+.	.	.	.	.	1

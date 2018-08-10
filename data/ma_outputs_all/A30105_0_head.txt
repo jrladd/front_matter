@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+HEROIQVE	HEROIQVE	np1	HEROIQVE	HEROIQVE	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+GOLDSMITH	GOLDSMITH	n1	GOLDSMITH	goldsmith	0
+of	of	pp-f	of	of	0
+GRAIES-INNE	GRAIES-INNE	n1	GRAIES-INNE	graies-inne	0
+,	,	,	,	,	0
+Esq.	Esq.	np1	Esq.	Esq.	1

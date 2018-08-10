@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Friends	Friends	n2	Friends	friend	0
+and	and	cc	and	and	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+POWELL	POWELL	np1	POWELL	Powell	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+VERBRUGGEN	VERBRUGGEN	np1	VERBRUGGEN	VERBRUGGEN	0
+.	.	.	.	.	1

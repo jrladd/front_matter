@@ -1,0 +1,12 @@
+In	In	p-acp	In	in	0
+perpetuum	perpetuum	fw-la	perpetuum	perpetuum	0
+grati	grati	fw-la	grati	grati	0
+animi	animi	fw-la	animi	animi	0
+monumentum	monumentum	fw-la	monumentum	monumentum	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+Georgius	Georgius	np1	Georgius	Georgius	0
+Swinnocke	Swinnocke	vvi	Swinnocke	swinnocke	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+NO	NO	av-dx	NO	no	0
+LESSE	LESSE	av-dc	LESS	less	0
+EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
+THEN	THEN	av	THEN	then	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+NORABLIE	NORABLIE	av-j	NORABLIE	norablie	0
+DESCENDED	DESCENDED	vvn	DESCENDED	descend	0
+Gentlewoman	Gentlewoman	n1	Gentlewoman	gentlewoman	0
+,	,	,	,	,	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Anne	Anne	np1	Anne	Anne	0
+Herne	Herne	np1	Herne	Herne	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+SIR	SIR	n1	SIR	sir	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PORTMAN	PORTMAN	np1	PORTMAN	Portman	0
+,	,	,	,	,	0
+BARONET	BARONET	n1	BARONET	baronet	0
+.	.	.	.	.	1

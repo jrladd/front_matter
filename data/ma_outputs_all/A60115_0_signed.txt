@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Loyal	Loyal	j	Loyal	loyal	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Shotterel	Shotterel	n1	Shotterel	shotterel	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Durfey	Durfey	np1	Durfey	Durfey	0
+.	.	.	.	.	1

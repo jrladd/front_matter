@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORTHIE	WORTHIE	j	WORTHY	worthy	0
+and	and	cc	and	and	0
+vertuuos	vertuuos	j	vertuuos	vertuuos	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+SIR	SIR	n1	SIR	sir	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+WESTON	WESTON	np1	WESTON	Weston	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+in	in	p-acp	in	in	0
+al	al	d	all	all	0
+humi	humi	fw-la	humi	humi	0
+∣	∣	sy	∣	∣	0
+litie	litie	n1	litie	litie	0
+and	and	cc	and	and	0
+reuerence	reuerence	n1	reverence	reverence	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+PHILIPS	PHILIPS	vvz	PHILIPS	fillip	0
+.	.	.	.	.	1

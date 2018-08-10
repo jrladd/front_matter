@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+SARAH	SARAH	np1	SARAH	Sarah	0
+COOPER	COOPER	np1	COOPER	Cooper	0
+.	.	.	.	.	1

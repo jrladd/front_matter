@@ -1,0 +1,6 @@
+Sir	Sir	n1	Sir	sir	0
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+T.	T.	np1	T.	T.	0
+W.	W.	np1	W.	W.	1

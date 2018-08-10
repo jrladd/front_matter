@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+MADEN	MADEN	np1	MADEN	MADEN	0
+.	.	.	.	.	1

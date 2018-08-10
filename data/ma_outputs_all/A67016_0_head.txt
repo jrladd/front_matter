@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Mourning	Mourning	j-vvg	Mourning	mourn	0
+Relations	Relations	n2	Relations	relation	0
+and	and	cc	and	and	0
+Friends	Friends	n2	Friends	friend	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+WALKER	WALKER	np1	WALKER	Walker	0
+,	,	,	,	,	0
+Lately	Lately	av-j	Lately	late	0
+Deceased	Deceased	j-vvn	Deceased	decease	0
+.	.	.	.	.	1

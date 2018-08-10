@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+desire	desire	n1	desire	desire	0
+Ioh	Ioh	np1	Ioh	Johnh	0
+:	:	:	:	:	0
+Weeuer	Weeuer	n1	Weeuer	weeuer	0
+.	.	.	.	.	1

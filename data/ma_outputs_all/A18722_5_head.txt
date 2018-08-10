@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Kneuet	Kneuet	n1	Knevet	knevet	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+one	one	crd	one	one	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lieutenants	Lieutenants	n2	Lieutenants	lieutenant	0
+of	of	pp-f	of	of	0
+Willshire	Willshire	np1	Willshire	Willshire	0
+.	.	.	.	.	1

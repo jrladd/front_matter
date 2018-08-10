@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Orator	Orator	n1	Orator	orator	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+Christopher	Christopher	np1	Christopher	Christopher	0
+Jelinger	Jelinger	np1	Jelinger	Jelinger	0
+.	.	.	.	.	1

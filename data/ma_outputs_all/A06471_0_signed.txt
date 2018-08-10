@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+bounden	bounden	vvn	bounden	bind	0
+Donald	Donald	np1	Donald	Donald	0
+Lupton	Lupton	np1	Lupton	Lupton	0
+.	.	.	.	.	1

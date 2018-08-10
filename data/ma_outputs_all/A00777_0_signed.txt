@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+iust	iust	j	just	just	0
+referen	referen	n2	referen	referen	0
+∣	∣	sy	∣	∣	0
+ces	ces	fw-fr	ces	ces	0
+of	of	pp-f	of	of	0
+loue	loue	n1	love	love	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+ADAMS	ADAMS	np1	ADAMS	Adams	0
+.	.	.	.	.	1

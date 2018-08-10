@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

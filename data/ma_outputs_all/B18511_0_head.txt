@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+DENYS	DENYS	np1	DENYS	Denys	0
+HAMPSON	HAMPSON	np1	HAMPSON	Hampson	0
+,	,	,	,	,	0
+Baronet	Baronet	n1	Baronet	baronet	0
+,	,	,	,	,	0
+High-Sheriff	High-Sheriff	n1	High-Sheriff	high-sheriff	0
+of	of	pp-f	of	of	0
+Buckingham	Buckingham	np1	Buckingham	Buckingham	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Humble	Humble	j	Humble	humble	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+,	,	,	,	,	0
+Pat	Pat	av	Pat	pat	0
+:	:	:	:	:	0
+Strachan	Strachan	np1	Strachan	Strachan	0
+.	.	.	.	.	1

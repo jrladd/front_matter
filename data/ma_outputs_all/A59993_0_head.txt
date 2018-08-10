@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Donnogh	Donnogh	np1	Donnogh	Donnogh	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Clancarty	Clancarty	np1	Clancarty	Clancarty	0
+,	,	,	,	,	0
+Viscount	Viscount	np1	Viscount	Viscount	0
+Muskery	Muskery	np1	Muskery	Muskery	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Baron	Baron	n1	Baron	baron	0
+Blarney	Blarney	np1	Blarney	Blarney	0
+.	.	.	.	.	1

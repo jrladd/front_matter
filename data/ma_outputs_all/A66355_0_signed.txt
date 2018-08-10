@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Compassionate	Compassionate	j	Compassionate	compassionate	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+Williams	Williams	np1	Williams	Williams	0
+.	.	.	.	.	1

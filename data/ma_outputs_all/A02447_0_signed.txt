@@ -1,0 +1,15 @@
+BY	BY	p-acp	BY	by	0
+HER	HER	po31	HER	her	0
+MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
+MOST	MOST	av-ds	MOST	most	0
+AFFECTIO	AFFECTIO	fw-la	AFFECTIO	affectio	0
+∣	∣	sy	∣	∣	0
+NED	NED	np1	NED	Ned	0
+AND	AND	cc	AND	and	0
+BOVND	BOVND	vvn	BOUND	bind	0
+IN	IN	p-acp	IN	in	0
+ALL	ALL	av-d	ALL	all	0
+HVMBLE	HVMBLE	j	HUMBLE	humble	0
+DVTY	DVTY	n1	DVTY	dvty	0
+VV.	VV.	np1	VV.	VV.	0
+H.	H.	np1	H.	H.	1

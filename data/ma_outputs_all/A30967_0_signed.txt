@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+ever	ever	av	ever	ever	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WIL	WIL	np1	WIL	Will	0
+:	:	:	:	:	0
+BARLEE	BARLEE	n1	BARLEE	barlee	0
+.	.	.	.	.	1

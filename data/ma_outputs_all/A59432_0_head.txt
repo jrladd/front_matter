@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Prince	Prince	n1	Prince	prince	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+,	,	,	,	,	0
+DUKE	DUKE	n1	DUKE	duke	0
+,	,	,	,	,	0
+MARQUIS	MARQUIS	n1	MARQUIS	marquis	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+EARL	EARL	n1	EARL	earl	0
+OF	OF	pp-f	OF	of	0
+NEWCASTLE	NEWCASTLE	np1	NEWCASTLE	Newcastle	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

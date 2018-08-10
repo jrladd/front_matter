@@ -1,0 +1,12 @@
+Euer	Euer	av	Ever	ever	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+seruice	seruice	n1	service	service	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+Heron	Heron	np1	Heron	Heron	0
+.	.	.	.	.	1

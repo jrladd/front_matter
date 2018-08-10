@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+kinsman	kinsman	n1	kinsman	kinsman	0
+,	,	,	,	,	0
+HVM	HVM	uh	HUM	hum	0
+:	:	:	:	:	0
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

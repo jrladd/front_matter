@@ -1,0 +1,9 @@
+FOR	FOR	p-acp	FOR	for	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+EARL	EARL	n1	EARL	earl	0
+of	of	pp-f	of	of	0
+BRISTOL	BRISTOL	np1	BRISTOL	Bristol	0
+.	.	.	.	.	1

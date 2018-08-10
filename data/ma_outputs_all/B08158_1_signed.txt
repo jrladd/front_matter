@@ -1,0 +1,5 @@
+IO	IO	uh	IO	io	0
+.	.	.	.	.	1
+TAYL	TAYL	n1	TAYL	tail	0
+OR	OR	cc	OR	or	0
+.	.	.	.	.	1

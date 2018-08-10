@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+Honors	Honors	np1	Honors	Honors	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Observer	Observer	n1	Observer	observer	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Eyre	Eyre	np1	Eyre	Eyre	0
+.	.	.	.	.	1

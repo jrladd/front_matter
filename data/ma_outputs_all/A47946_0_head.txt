@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+Countess	Countess	n1	Countess	countess	0
+Dowager	Dowager	n1	Dowager	dowager	0
+of	of	pp-f	of	of	0
+Tenet	Tenet	n1	Tenet	tenet	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,17 @@
+For	For	p-acp	For	for	0
+the	the	dt	the	the	0
+very	very	j	very	very	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Edward	Edward	np1	Edward	Edward	0
+Stilling	Stilling	vvg	Stilling	still	0
+fleet	fleet	n1	fleet	fleet	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Diocess	Diocess	n1	Diocese	diocese	0
+of	of	pp-f	of	of	0
+Worcester	Worcester	np1	Worcester	Worcester	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Poor	Poor	j	Poor	poor	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HUGH	HUGH	j	HUGH	huge	0
+CROMPTON	CROMPTON	np1	CROMPTON	Crompton	0
+.	.	.	.	.	1

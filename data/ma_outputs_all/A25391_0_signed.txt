@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Highness's	Highness's	ng1	Highness's	highness	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+loially	loially	av-j	loially	loial	0
+devoted	devoted	j-vvn	devoted	devote	0
+Orator	Orator	n1	Orator	orator	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+DRAKE	DRAKE	np1	DRAKE	Drake	0
+.	.	.	.	.	1

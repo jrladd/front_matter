@@ -1,0 +1,7 @@
+Right	Right	av-jn	Right	right	0
+honorable	honorable	j	honourable	honourable	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+woorthy	woorthy	j	worthy	worthy	0
+Earle	Earle	n1	Earl	earl	0
+,	,	,	,	,	1

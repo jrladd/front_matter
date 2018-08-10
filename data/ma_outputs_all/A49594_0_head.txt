@@ -1,0 +1,9 @@
+A	A	dt	A	a	0
+Madame	Madame	n1	Madame	madam	0
+,	,	,	,	,	0
+Madame	Madame	fw-fr	Madame	madame	0
+la	la	fw-fr	la	la	0
+DUCHESSE	DUCHESSE	np1	DUCHESSE	Duchesse	0
+DE	DE	fw-fr	DE	de	0
+GRAFTON	GRAFTON	np1	GRAFTON	Grafton	0
+.	.	.	.	.	1

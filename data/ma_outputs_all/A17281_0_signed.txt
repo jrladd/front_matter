@@ -1,0 +1,17 @@
+Zour	Zour	po22	Your	your	0
+M.	M.	n1	M.	m.	1
+Maist	Maist	vm2	Mayest	may	0
+humil	humil	vvi	humil	humil	0
+,	,	,	,	,	0
+faythful	faythful	j	faithful	faithful	0
+sub	sub	fw-la	sub	sub	0
+∣	∣	sy	∣	∣	0
+iect	iect	n1	iect	iect	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+daylie	daylie	j	daily	daily	0
+Oratour	Oratour	n1	Orator	orator	0
+.	.	.	.	.	1
+NICOL	NICOL	np1	NICOL	Nicol	0
+BVRNE	BVRNE	vvb	BURN	burn	0
+.	.	.	.	.	1

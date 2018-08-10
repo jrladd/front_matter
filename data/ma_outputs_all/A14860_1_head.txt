@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WOR	WOR	zz	WOR	wor	0
+∣	∣	sy	∣	∣	0
+SHIPFVL	SHIPFVL	np1	SHIPFVL	SHIPFVL	0
+Mr.	Mr.	n1	Mr.	mr.	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+BAINARD	BAINARD	np1	BAINARD	BAINARD	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Mistris	Mistris	n1	Mistress	mistress	0
+BAINARD	BAINARD	np1	BAINARD	BAINARD	0
+his	his	po31	his	his	0
+Wife	Wife	n1	Wife	wife	0
+.	.	.	.	.	1

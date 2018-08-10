@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+ready	ready	av-j	ready	ready	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+,	,	,	,	,	0
+W.P.	W.P.	np1	W.P.	W.P.	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sr.	Sr.	n1	Sr.	sir	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+HANSON	HANSON	np1	HANSON	Hanson	0
+,	,	,	,	,	0
+Kt.	Kt.	np1	Kt.	Kt.	0
+Lord	Lord	n1	Lord	lord	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

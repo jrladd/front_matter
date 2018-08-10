@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+MADAM	MADAM	n1	MADAM	madam	0
+Gerthrude	Gerthrude	np1	Gerthrude	Gerthrude	0
+Rodd	Rodd	np1	Rodd	Rodd	0
+,	,	,	,	,	0
+OF	OF	pp-f	OF	of	0
+WARE	WARE	j	aware	ware	0
+near	near	j	near	near	0
+EXON	EXON	np1	EXON	Exon	0
+.	.	.	.	.	1

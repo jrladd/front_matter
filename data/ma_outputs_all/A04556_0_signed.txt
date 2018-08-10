@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+loue	loue	n1	love	love	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+poore	poore	j	poor	poor	0
+power	power	n1	power	power	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

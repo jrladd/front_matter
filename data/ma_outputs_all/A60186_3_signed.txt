@@ -1,0 +1,7 @@
+DD.	DD.	np1	DD.	DD.	0
+VV.	VV.	np1	VV.	VV.	0
+Addictissimus	Addictissimus	fw-la	Addictissimus	addictissimus	0
+Servus	Servus	np1	Servus	Servus	0
+ROBERTUS	ROBERTUS	np1	ROBERTUS	ROBERTUS	0
+SIBBALDUS	SIBBALDUS	np1	SIBBALDUS	SIBBALDUS	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+due	due	j-jn	due	due	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Ryther	Ryther	np1	Ryther	Ryther	0
+.	.	.	.	.	1

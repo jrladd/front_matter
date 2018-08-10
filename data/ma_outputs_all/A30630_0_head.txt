@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Learned	Learned	j	Learned	learned	0
+Mr.	Mr.	n1	Mr.	mr.	1
+JOHN	JOHN	np1	JOHN	John	0
+LOCK	LOCK	n1	LOCK	lock	0
+,	,	,	,	,	0
+Author	Author	n1	Author	author	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+ESSAY	ESSAY	n1	ESSAY	essay	0
+Upon	Upon	p-acp	Upon	upon	0
+Humane	Humane	j	Humane	humane	0
+Understanding	Understanding	n1	Understanding	understanding	0
+.	.	.	.	.	1

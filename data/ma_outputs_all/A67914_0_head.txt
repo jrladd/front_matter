@@ -1,0 +1,6 @@
+Extraordinar	Extraordinar	j	Extraordinary	extraordinary	0
+LORDS	LORDS	ng1	LORDS	lord	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+SESSION	SESSION	n1	SESSION	session	0
+.	.	.	.	.	1

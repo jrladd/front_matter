@@ -1,0 +1,4 @@
+Most	Most	ds	Most	most	0
+Dread	Dread	j	Dread	dread	0
+Soveraign	Soveraign	n-jn	Sovereign	sovereign	0
+.	.	.	.	.	1

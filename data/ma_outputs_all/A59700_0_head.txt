@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Iudicious	Iudicious	j	Judicious	judicious	0
+and	and	cc	and	and	0
+eminently	eminently	av-j	eminently	eminent	0
+learned	learned	vvn	learned	learn	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+SELDEN	SELDEN	np1	SELDEN	Selden	0
+,	,	,	,	,	0
+Esq.	Esq.	np1	Esq.	Esq.	1

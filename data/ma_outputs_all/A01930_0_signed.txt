@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+vn-redeemable	vn-redeemable	j	unredeemable	unredeemable	0
+seruant	seruant	n1	servant	servant	0
+Patrik	Patrik	np1	Patrik	Patrick	0
+Gordon	Gordon	np1	Gordon	Gordon	0
+.	.	.	.	.	1

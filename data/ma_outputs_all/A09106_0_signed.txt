@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+Countreyman	Countreyman	n1	Countryman	countryman	0
+,	,	,	,	,	0
+wishing	wishing	vvg	wishing	wish	0
+you	you	pn22	you	you	0
+all	all	d	all	all	0
+good	good	j	good	good	0
+,	,	,	,	,	0
+that	that	cst	that	that	0
+is	is	vbz	is	be	0
+truly	truly	av-j	truly	true	0
+good	good	j	good	good	0
+.	.	.	.	.	1
+P.	P.	np1	P.	P.	0
+R.	R.	np1	R.	R.	1

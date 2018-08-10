@@ -1,0 +1,9 @@
+Most	Most	ds	Most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+SINCLAR	SINCLAR	n1	SINCLAR	sinclar	0
+.	.	.	.	.	1

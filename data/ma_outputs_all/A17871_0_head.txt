@@ -1,0 +1,3 @@
+An	An	dt	And	a	0
+Epigram	Epigram	n1	Epigram	epigram	0
+.	.	.	.	.	1

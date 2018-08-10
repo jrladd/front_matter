@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Rainoldes	Rainoldes	vvz	Rainolds	rainold	0
+.	.	.	.	.	1

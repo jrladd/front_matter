@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+much	much	av-d	much	much	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+for	for	p-acp	for	for	0
+Christs	Christs	npg1	Christs	Christ	0
+sake	sake	n1	sake	sake	0
+.	.	.	.	.	1

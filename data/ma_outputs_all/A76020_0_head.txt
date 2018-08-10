@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+DIGBY	DIGBY	np1	DIGBY	Digby	0
+.	.	.	.	.	1

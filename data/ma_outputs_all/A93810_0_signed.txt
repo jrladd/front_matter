@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Royall	Royall	j	Royal	royal	0
+Highnesses	Highnesses	n2	Highnesses	highness	0
+un	un	fw-fr	un	un	0
+∣	∣	sy	∣	∣	0
+worthy	worthy	j	worthy	worthy	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Orator	Orator	n1	Orator	orator	0
+.	.	.	.	.	1
+GEORGE	GEORGE	np1	GEORGE	George	0
+STARKEY	STARKEY	np1	STARKEY	Starkey	0
+.	.	.	.	.	1

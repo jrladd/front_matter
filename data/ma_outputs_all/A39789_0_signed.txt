@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+Homager	Homager	n1	Homager	homager	0
+Natha	Natha	np1	Natha	Natha	0
+.	.	.	.	.	1
+Fairfax	Fairfax	np1	Fairfax	Fairfax	0
+.	.	.	.	.	1

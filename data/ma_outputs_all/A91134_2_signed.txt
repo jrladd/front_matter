@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+devoted	devoted	j-vvn	devoted	devote	0
+Shipman	Shipman	n1	Shipman	shipman	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Prujean	Prujean	np1	Prujean	Prujean	0
+.	.	.	.	.	1

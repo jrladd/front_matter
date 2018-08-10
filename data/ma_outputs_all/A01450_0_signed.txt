@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+and	and	cc	and	and	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+obsequie	obsequie	n1	obsequy	obsequy	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+.	.	.	.	.	1
+Samuel	Samuel	np1	Samuel	Samuel	0
+Gardiner	Gardiner	np1	Gardiner	Gardiner	0
+.	.	.	.	.	1

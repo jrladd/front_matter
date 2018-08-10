@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+E.	E.	np1	E.	E.	1

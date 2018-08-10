@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+observance	observance	n1	observance	observance	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+TOMBES	TOMBES	n2	TOMBES	tomb	0
+.	.	.	.	.	1

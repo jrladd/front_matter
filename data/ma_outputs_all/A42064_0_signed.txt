@@ -1,0 +1,13 @@
+the	the	dt	the	the	0
+meanest	meanest	js	meanest	mean	0
+of	of	pp-f	of	of	0
+God's	God's	npg1	God's	God	0
+Servants	Servants	n2	Servants	servant	0
+and	and	cc	and	and	0
+our	our	po12	our	our	0
+Churche's	Churche's	ng1	Church's	church	0
+Sons	Sons	n2	Sons	son	0
+,	,	,	,	,	0
+FRAN.	FRAN.	np1	FRAN.	FRAN.	0
+GREGORY	GREGORY	np1	GREGORY	Gregory	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Wor.	Wor.	n1	Wor.	worship	0
+most	most	av-ds	most	most	0
+ready	ready	j	ready	ready	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+disposed	disposed	vvn	disposed	dispose	0
+of	of	pp-f	of	of	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Dolman	Dolman	np1	Dolman	Dolman	0
+.	.	.	.	.	1

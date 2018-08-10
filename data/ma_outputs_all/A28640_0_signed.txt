@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+PRICE	PRICE	n1	PRICE	price	0
+.	.	.	.	.	1

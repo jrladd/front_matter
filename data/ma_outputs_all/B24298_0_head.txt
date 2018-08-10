@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+THE	THE	dt	THE	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+GLOUCESTER	GLOUCESTER	np1	GLOUCESTER	Gloucester	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+deuotion	deuotion	n1	devotion	devotion	0
+:	:	:	:	:	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+MANSEL	MANSEL	np1	MANSEL	MANSEL	0
+.	.	.	.	.	1

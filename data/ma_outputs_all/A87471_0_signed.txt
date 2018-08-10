@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+serve	serve	vvb	serve	serve	0
+you	you	pn22	you	you	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	0
+Stratton	Stratton	np1	Stratton	Stratton	0
+.	.	.	.	.	1

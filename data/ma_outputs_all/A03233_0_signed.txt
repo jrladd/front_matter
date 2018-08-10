@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Heywood	Heywood	np1	Heywood	Heywood	0
+.	.	.	.	.	1

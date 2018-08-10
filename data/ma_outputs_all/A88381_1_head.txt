@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+Noble	Noble	j	Noble	noble	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mris.	Mris.	n1	Mris.	mrs.	0
+MARY	MARY	np1	MARY	MARY	0
+ATHERTON	ATHERTON	np1	ATHERTON	Atherton	0
+.	.	.	.	.	1

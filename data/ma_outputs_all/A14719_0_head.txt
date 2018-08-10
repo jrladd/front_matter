@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VVorshipfull	VVorshipfull	j	Worshipful	worshipful	0
+&	&	cc	&	and	0
+most	most	av-ds	most	most	0
+wor	wor	zz	wor	wor	0
+∣	∣	sy	∣	∣	0
+thy	thy	po21	thy	thy	0
+gent	gent	j	gent	gentle	0
+M.	M.	n1	M.	m.	0
+William	William	np1	William	William	0
+Cockin	Cockin	np1	Cockin	Cockin	0
+.	.	.	.	.	1

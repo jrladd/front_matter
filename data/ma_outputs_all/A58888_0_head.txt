@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Parishoners	Parishoners	n2	Parishioners	parishioner	0
+of	of	pp-f	of	of	0
+Broad	Broad	np1	Broad	Broad	0
+∣	∣	sy	∣	∣	0
+clist	clist	crd	clist	clist	0
+,	,	,	,	,	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+be	be	vbb	be	be	0
+Multiplyed	Multiplyed	vvn	Multiplied	multiply	0
+.	.	.	.	.	1

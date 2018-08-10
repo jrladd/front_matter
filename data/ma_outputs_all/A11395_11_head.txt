@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+COLVMNS	COLVMNS	n2	COLVMNS	colvmn	0
+.	.	.	.	.	1

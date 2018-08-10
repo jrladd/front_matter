@@ -1,0 +1,5 @@
+I	I	pns11	I	i	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Prideawgs	Prideawgs	n2	Prideawgs	prideawg	0
+eilwaith	eilwaith	n1	eilwaith	eilwaith	0
+.	.	.	.	.	1

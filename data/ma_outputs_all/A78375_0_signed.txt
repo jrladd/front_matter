@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+way	way	n1	way	way	0
+of	of	pp-f	of	of	0
+Truth	Truth	n1	Truth	truth	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+C.	C.	np1	C.	C.	1

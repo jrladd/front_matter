@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+service	service	n1	service	service	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+WALKER	WALKER	np1	WALKER	Walker	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+respectiuely	respectiuely	av-j	respectively	respective	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+his	his	po31	his	his	0
+best	best	js	best	best	0
+abilities	abilities	n2	abilities	ability	0
+and	and	cc	and	and	0
+seruices	seruices	n2	services	service	0
+,	,	,	,	,	0
+EDVVARD	EDVVARD	np1	EDVVARD	EDVVARD	0
+POETON	POETON	np1	POETON	POETON	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+verry	verry	j	very	very	0
+worthy	worthy	j	worthy	worthy	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+Maister	Maister	n1	Master	master	0
+Francis	Francis	np1	Francis	Francis	0
+Mustian	Mustian	np1	Mustian	Mustian	0
+of	of	pp-f	of	of	0
+Peckam	Peckam	np1	Peckam	Peckam	0
+.	.	.	.	.	1

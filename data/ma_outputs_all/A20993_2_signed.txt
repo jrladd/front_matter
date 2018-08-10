@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+at	at	p-acp	at	at	0
+all	all	d	all	all	0
+Commands	Commands	vvz	Commands	command	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Much	Much	d	Much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+IOHN	IOHN	np1	IOHN	John	0
+DRYDEN	DRYDEN	np1	DRYDEN	Dryden	0
+Esq.	Esq.	np1	Esq.	Esq.	1

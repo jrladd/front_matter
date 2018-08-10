@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+vvorships	vvorships	ng1	worships	worship	0
+poore	poore	j	poor	poor	0
+brother	brother	n1	brother	brother	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+oratour	oratour	n1	orator	orator	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Richard	Richard	np1	Richard	Richard	0
+Robinson	Robinson	np1	Robinson	Robinson	0
+,	,	,	,	,	1

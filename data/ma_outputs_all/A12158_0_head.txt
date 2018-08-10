@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HONO	HONO	fw-it	HONO	hono	0
+∣	∣	sy	∣	∣	0
+RABLE	RABLE	n1	RABLE	rabble	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+LORD	LORD	n1	LORD	lord	0
+BARKLEY	BARKLEY	np1	BARKLEY	Barkley	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Barkely	Barkely	np1	Barkely	Barkely	0
+Castle	Castle	n1	Castle	castle	0
+.	.	.	.	.	1

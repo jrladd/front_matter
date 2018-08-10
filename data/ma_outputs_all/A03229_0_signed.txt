@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+Humbly	Humbly	av-j	Humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HEYVVOOD	HEYVVOOD	np1	HEYVVOOD	HEYVVOOD	0
+.	.	.	.	.	1

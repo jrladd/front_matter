@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+DE	DE	fw-fr	DE	de	0
+LA	LA	fw-fr	LA	la	0
+GREY	GREY	np1	GREY	Grey	0
+.	.	.	.	.	1

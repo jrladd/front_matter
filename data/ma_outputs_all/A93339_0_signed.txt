@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+and	and	cc	and	and	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+many	many	d	many	many	0
+ways	ways	n2	ways	way	0
+obliged	obliged	vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+.	.	.	.	.	1
+Edward	Edward	np1	Edward	Edward	0
+Smith	Smith	n1	Smith	smith	0
+.	.	.	.	.	1

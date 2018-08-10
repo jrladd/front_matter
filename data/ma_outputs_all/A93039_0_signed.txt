@@ -1,0 +1,11 @@
+An	An	dt	And	a	0
+Admirer	Admirer	n1	Admirer	admirer	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Vertue	Vertue	n1	Virtue	virtue	0
+and	and	cc	and	and	0
+Piety	Piety	n1	Piety	piety	0
+,	,	,	,	,	0
+Jane	Jane	np1	Jane	Jane	0
+Sharp	Sharp	j	Sharp	sharp	0
+.	.	.	.	.	1

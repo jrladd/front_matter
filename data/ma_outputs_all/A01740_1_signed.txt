@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifulnesse	dutifulnesse	n1	dutifulness	dutifulness	0
+,	,	,	,	,	0
+HG	HG	n1	HG	hg	0
+.	.	.	.	.	1

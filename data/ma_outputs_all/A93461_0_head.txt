@@ -1,0 +1,11 @@
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Their	Their	po32	Their	their	0
+MAJESTIES	MAJESTIES	n2	MAJESTIES	majesty	0
+Forces	Forces	n2	Forces	force	0
+by	by	p-acp	by	by	0
+Sea	Sea	n1	Sea	sea	0
+or	or	cc	or	or	0
+Land.	Land.	n1	Land.	land	1

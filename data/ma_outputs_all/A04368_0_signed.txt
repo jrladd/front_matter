@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+seruant	seruant	n1	servant	servant	0
+William	William	np1	William	William	0
+Ieffray	Ieffray	np1	Ieffray	Ieffray	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+H.	H.	np1	H.	H.	0
+Cousine	Cousine	n1	Cousin	cousine	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+MORRAY	MORRAY	n1	MORRAY	morray	0
+.	.	.	.	.	1

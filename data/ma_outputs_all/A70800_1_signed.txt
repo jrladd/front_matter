@@ -1,0 +1,5 @@
+Pidou	Pidou	np1	Pidou	Pidou	0
+de	de	fw-fr	de	de	0
+St.	St.	n1	St.	saint	0
+Olon	Olon	np1	Olon	Olon	0
+.	.	.	.	.	1

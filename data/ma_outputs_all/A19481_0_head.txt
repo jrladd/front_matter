@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHIPFVL	WORSHIPFVL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+loving	loving	j-vvg	loving	love	0
+Master	Master	n1	Master	master	0
+LAMBERT	LAMBERT	np1	LAMBERT	Lambert	0
+OSBOLSTON	OSBOLSTON	np1	OSBOLSTON	OSBOLSTON	0
+,	,	,	,	,	0
+chiefe	chiefe	j-jn	chief	chief	0
+Schoole-master	Schoole-master	n1	Schoolmaster	schoolmaster	0
+of	of	pp-f	of	of	0
+Westminster-Schoole	Westminster-Schoole	n1	Westminster-Schoole	westminster-schoole	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+UNCLE	UNCLE	n1	UNCLE	uncle	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Atkinson	Atkinson	np1	Atkinson	Atkinson	0
+,	,	,	,	,	0
+Esq.	Esq.	np1	Esq.	Esq.	1

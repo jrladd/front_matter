@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Unfeigned	Unfeigned	j-vvn-u	Unfeigned	feign	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+WILL	WILL	vmb	WILL	will	0
+.	.	.	.	.	1
+BARON	BARON	np1	BARON	Baron	0
+.	.	.	.	.	1

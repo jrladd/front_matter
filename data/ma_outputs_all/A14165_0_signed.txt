@@ -1,0 +1,16 @@
+Di	Di	fw-it	Di	di	0
+vostra	vostra	fw-la	vostra	vostra	0
+sacra	sacra	fw-la	sacra	sacra	0
+Serenissima	Serenissima	fw-la	Serenissima	serenissimus	0
+Maiestà	Maiestà	fw-la	Maiestà	maiestà	0
+antico	antico	n1	antico	antico	0
+&	&	cc	&	and	0
+sempre	sempre	vvi	sempre	sempre	0
+seruo	seruo	fw-la	seruo	seruo	0
+fedele	fedele	fw-la	fedele	fedele	0
+,	,	,	,	,	0
+Petruccio	Petruccio	np1	Petruccio	Petruccio	0
+Vbaldino	Vbaldino	np1	Vbaldino	Vbaldino	0
+Cittadin	Cittadin	np1	Cittadin	Cittadin	0
+Fiorentino	Fiorentino	np1	Fiorentino	Fiorentino	0
+.	.	.	.	.	1

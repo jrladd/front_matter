@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+truly	truly	av-j	truly	true	0
+honored	honored	j-vvn	honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SKELTON	SKELTON	np1	SKELTON	Skelton	0
+,	,	,	,	,	0
+Gent.	Gent.	n1	Gent.	gentleman	1
+Increase	Increase	n1	Increase	increase	0
+of	of	pp-f	of	of	0
+Happiness	Happiness	n1	Happiness	happiness	0
+and	and	cc	and	and	0
+Comfort	Comfort	n1	Comfort	comfort	0
+.	.	.	.	.	1

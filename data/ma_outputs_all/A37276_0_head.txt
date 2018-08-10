@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+DARCY	DARCY	np1	DARCY	Darcy	0
+,	,	,	,	,	0
+Bar.	Bar.	np1	Bar.	Bar.	1

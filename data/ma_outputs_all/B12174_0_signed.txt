@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Churches	Churches	n2	Churches	church	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+CONYERS	CONYERS	np1	CONYERS	Conyers	0
+.	.	.	.	.	1

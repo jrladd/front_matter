@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+obe	obe	np1-n	obe	obe	0
+∣	∣	sy	∣	∣	0
+dient	dient	j	dient	dient	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Dannett	Dannett	np1	Dannett	Dannett	0
+.	.	.	.	.	1

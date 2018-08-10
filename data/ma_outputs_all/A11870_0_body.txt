@@ -1,0 +1,15 @@
+V.	V.	np1	V.	V.	1
+CLARISSIMO	CLARISSIMO	fw-la	CLARISSIMO	clarissimo	0
+D.	D.	np1	D.	D.	0
+EDWARDO	EDWARDO	np1	EDWARDO	Edwardo	0
+CARRELL	CARRELL	np1	CARRELL	Carrell	0
+ab	ab	zz	ab	ab	0
+Harting	Harting	np1	Harting	Harting	0
+EQVITI	EQVITI	fw-la	EQVITI	eqviti	0
+AVRATO	AVRATO	fw-la	AVRATO	avrato	0
+DICAT	DICAT	fw-la	DICAT	dicat	0
+MONVMENTVM	MONVMENTVM	np1	MONVMENTVM	MONVMENTVM	0
+ET	ET	fw-fr	ET	et	0
+PIGNVS	PIGNVS	np1	PIGNVS	PIGNVS	0
+AMORIS	AMORIS	fw-la	AMORIS	amoris	0
+.	.	.	.	.	1

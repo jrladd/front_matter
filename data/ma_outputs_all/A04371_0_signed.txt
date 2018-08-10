@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+IEMMAT	IEMMAT	np1	IEMMAT	IEMMAT	0
+.	.	.	.	.	1

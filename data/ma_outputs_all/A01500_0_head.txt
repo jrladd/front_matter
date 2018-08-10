@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+vertuously	vertuously	av-j	virtuously	virtuous	0
+No	No	uh-x	No	no	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+rightly	rightly	av-jn	rightly	right	0
+honoured	honoured	j-vvn	honoured	honour	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Sussex	Sussex	np1	Sussex	Sussex	0
+.	.	.	.	.	1

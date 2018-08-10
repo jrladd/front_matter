@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Learned	Learned	j	Learned	learned	0
+DIVINES	DIVINES	n2-jn	DIVINES	divine	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+AUTHORS	AUTHORS	n2	AUTHORS	author	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Apologeticall	Apologeticall	j	Apologetical	apologetical	0
+Narration	Narration	n1	Narration	narration	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+A.	A.	np1	A.	A.	1

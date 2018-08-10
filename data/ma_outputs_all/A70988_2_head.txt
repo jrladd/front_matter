@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+AND	AND	cc	AND	and	0
+MOST	MOST	av-ds	MOST	most	0
+PERFECTLY	PERFECTLY	av-j	PERFECTLY	perfect	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+ANNE	ANNE	zz	ANNE	anne	0
+LUCAS	LUCAS	np1	LUCAS	Lucas	0
+.	.	.	.	.	1

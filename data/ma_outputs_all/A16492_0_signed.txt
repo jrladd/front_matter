@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+.	.	.	.	.	1
+Edward	Edward	np1	Edward	Edward	0
+Boughen	Boughen	np1	Boughen	Boughen	0
+.	.	.	.	.	1

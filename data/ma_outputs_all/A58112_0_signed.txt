@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+devoted	devoted	vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Robinson	Robinson	np1	Robinson	Robinson	0
+.	.	.	.	.	1

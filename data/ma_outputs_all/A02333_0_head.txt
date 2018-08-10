@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Henrie	Henrie	np1	Henrie	Henry	0
+Brooke	Brooke	vvi	Brook	brook	0
+Cobham	Cobham	np1	Cobham	Cobham	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

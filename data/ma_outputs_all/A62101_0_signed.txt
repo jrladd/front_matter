@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+S.	S.	np1	S.	S.	1

@@ -1,0 +1,10 @@
+Thine	Thine	po21	Thine	thy	0
+in	in	n1	in	inn	0
+the	the	dt	the	the	0
+Light	Light	n1	Light	light	0
+,	,	,	,	,	0
+without	without	p-acp	without	without	0
+the	the	dt	the	the	0
+Outward	Outward	j	Outward	outward	0
+Name	Name	n1	Name	name	0
+.	.	.	.	.	1

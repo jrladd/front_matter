@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+nobly	nobly	av-j	nobly	noble	0
+accomplished	accomplished	vvd	accomplished	accomplish	0
+Pair	Pair	n1	Pair	pair	0
+,	,	,	,	,	0
+Dr	Dr	zz	Dr	dr	0
+JOHN	JOHN	np1	JOHN	John	0
+GAUDEN	GAUDEN	np1	GAUDEN	GAUDEN	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+Mris	Mris	n1	Mris	mistress	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+GAUDEN	GAUDEN	np1	GAUDEN	GAUDEN	0
+his	his	po31	his	his	0
+Wife	Wife	n1	Wife	wife	0
+.	.	.	.	.	1

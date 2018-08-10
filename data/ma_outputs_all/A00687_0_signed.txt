@@ -1,0 +1,7 @@
+Dauid	Dauid	np1	Dauid	David	0
+Fergussone	Fergussone	np1	Fergussone	Fergussone	0
+Minister	Minister	n1	Minister	minister	0
+of	of	pp-f	of	of	0
+Christis	Christis	fw-la	Christis	christis	0
+Euangell	Euangell	np1	Euangell	Euangell	0
+.	.	.	.	.	1

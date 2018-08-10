@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+poore	poore	j	poor	poor	0
+labourer	labourer	n1	labourer	labourer	0
+in	in	p-acp	in	in	0
+Christs	Christs	npg1	Christs	Christ	0
+Vineyard	Vineyard	n1	Vineyard	vineyard	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+F.	F.	np1	F.	F.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+loving	loving	j-vvg	loving	love	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Neighbour	Neighbour	n1	Neighbour	neighbour	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+HAYVVOOD	HAYVVOOD	np1	HAYVVOOD	HAYVVOOD	0
+.	.	.	.	.	1

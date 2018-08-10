@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Faithful	Faithful	j	Faithful	faithful	0
+Son	Son	n1	Son	son	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+TURNER	TURNER	np1	TURNER	Turner	0
+.	.	.	.	.	1

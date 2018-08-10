@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+worthy	worthy	j	worthy	worthy	0
+Commanders	Commanders	n2	Commanders	commander	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+brave	brave	j	brave	brave	0
+Souldiers	Souldiers	n2	Soldiers	soldier	0
+.	.	.	.	.	1

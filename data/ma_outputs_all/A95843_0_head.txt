@@ -1,0 +1,14 @@
+AS	AS	p-acp	AS	as	0
+ALSO	ALSO	av	ALSO	also	0
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+peaceable	peaceable	j	peaceable	peaceable	0
+Ministers	Ministers	n2	Ministers	minister	0
+of	of	pp-f	of	of	0
+CHRISTS	CHRISTS	npg1	CHRISTS	Christ	0
+Church	Church	n1	Church	church	0
+,	,	,	,	,	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+.	.	.	.	.	1

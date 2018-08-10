@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+very	very	av	very	very	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+COTTON	COTTON	n1	COTTON	cotton	0
+MATHER	MATHER	np1	MATHER	Mather	0
+.	.	.	.	.	1

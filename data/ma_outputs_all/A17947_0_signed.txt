@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+alvvayes	alvvayes	av	always	always	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Bedingfeld	Bedingfeld	np1	Bedingfeld	Bedingfeld	0
+.	.	.	.	.	1

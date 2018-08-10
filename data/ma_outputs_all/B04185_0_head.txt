@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+esteemed	esteemed	j-vvn	esteemed	esteem	0
+Christian	Christian	njp	Christian	christian	0
+Friends	Friends	n2	Friends	friend	0
+in	in	p-acp	in	in	0
+and	and	cc	and	and	0
+about	about	a-acp	about	about	0
+Southrepps	Southrepps	np1	Southrepps	Southrepps	0
+and	and	cc	and	and	0
+Alby	Alby	np1	Alby	Alby	0
+in	in	p-acp	in	in	0
+Norfolk	Norfolk	np1	Norfolk	Norfolk	0
+.	.	.	.	.	1

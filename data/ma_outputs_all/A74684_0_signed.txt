@@ -1,0 +1,8 @@
+DEBITOR	DEBITOR	n1	DEBITOR	debtor	0
+to	to	p-acp	to	to	0
+ye	ye	pn22	you	you	0
+All	All	d	All	all	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+WILLSFORD	WILLSFORD	np1	WILLSFORD	WILLSFORD	0
+.	.	.	.	.	1

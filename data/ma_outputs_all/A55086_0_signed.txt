@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+publique	publique	j	public	public	0
+,	,	,	,	,	0
+Laurence	Laurence	np1	Laurence	Laurence	0
+Palmer	Palmer	n1	Palmer	palmer	0
+.	.	.	.	.	1

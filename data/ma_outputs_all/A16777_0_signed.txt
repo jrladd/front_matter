@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Este	Este	fw-la	Este	este	0
+.	.	.	.	.	1

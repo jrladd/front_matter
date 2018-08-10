@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+dutie	dutie	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+YATES	YATES	np1	YATES	Yates	0
+.	.	.	.	.	1

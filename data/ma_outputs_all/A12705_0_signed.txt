@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+alwaies	alwaies	av	always	always	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+SPARKE	SPARKE	n1	SPARKE	spark	0
+.	.	.	.	.	1

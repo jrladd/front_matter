@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+those	those	d	those	those	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+Ashford	Ashford	np1	Ashford	Ashford	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+adjacent	adjacent	j	adjacent	adjacent	0
+Parishes	Parishes	n2	Parishes	parish	0
+,	,	,	,	,	0
+who	who	r-crq	who	who	0
+attend	attend	vvb	attend	attend	0
+upon	upon	p-acp	upon	upon	0
+my	my	po11	my	my	0
+Ministry	Ministry	n1	Ministry	ministry	0
+.	.	.	.	.	1

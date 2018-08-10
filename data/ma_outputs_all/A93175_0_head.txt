@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+BERNARD	BERNARD	np1	BERNARD	Bernard	0
+HIDE	HIDE	vvb	HIDE	hide	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

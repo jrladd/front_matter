@@ -1,0 +1,6 @@
+Most	Most	ds	Most	most	0
+faithful	faithful	j	faithful	faithful	0
+devoted	devoted	j-vvn	devoted	devote	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+D.W.	D.W.	np1	D.W.	D.W.	1

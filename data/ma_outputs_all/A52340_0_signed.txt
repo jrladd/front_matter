@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+faithful	faithful	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+Will	Will	vmb	Will	will	0
+.	.	.	.	.	1
+Nicolson	Nicolson	np1	Nicolson	Nicolson	0
+.	.	.	.	.	1

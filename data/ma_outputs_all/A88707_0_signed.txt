@@ -1,0 +1,13 @@
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+trés	trés	fw-fr	trés	trés	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+obeissant	obeissant	j	obeisant	obeisant	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+,	,	,	,	,	0
+Alex.	Alex.	np1	Alex.	Alex.	0
+De	De	fw-fr	De	de	0
+la	la	fw-fr	la	la	0
+Roberdiere	Roberdiere	np1	Roberdiere	Roberdiere	0
+.	.	.	.	.	1

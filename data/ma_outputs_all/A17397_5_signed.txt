@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+seruice	seruice	n1	service	service	0
+of	of	pp-f	of	of	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+euer	euer	av	ever	ever	0
+commnaded	commnaded	vvn	commnaded	commnade	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+BIFIELD	BIFIELD	np1	BIFIELD	BIFIELD	0
+.	.	.	.	.	1

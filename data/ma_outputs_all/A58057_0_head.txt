@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+William	William	np1	William	William	0
+Inge	Inge	np1	Inge	Inge	0
+OF	OF	pp-f	OF	of	0
+THORP	THORP	np1	THORP	Thorp	0
+,	,	,	,	,	0
+IN	IN	p-acp	IN	in	0
+STAFFORD-SHIRE	STAFFORD-SHIRE	n1	STAFFORD-SHIRE	stafford-shire	0
+,	,	,	,	,	0
+Esq.	Esq.	np1	Esq.	Esq.	1

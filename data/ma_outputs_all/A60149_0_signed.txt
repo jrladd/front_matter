@@ -1,0 +1,12 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+best	best	js	best	best	0
+Services	Services	n2	Services	service	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Shower	Shower	n1	Shower	shower	0
+.	.	.	.	.	1

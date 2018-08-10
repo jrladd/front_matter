@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Woollie	Woollie	np1	Woollie	Woollie	0
+.	.	.	.	.	1

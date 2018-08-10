@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+honourable	honourable	j	honourable	honourable	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+Lord	Lord	n1	Lord	lord	0
+BERKLEY	BERKLEY	np1	BERKLEY	Berkley	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Berkley	Berkley	np1	Berkley	Berkley	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

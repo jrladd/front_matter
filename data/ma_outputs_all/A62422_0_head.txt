@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+worthily	worthily	av-j	worthily	worthy	0
+honoured	honoured	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+Patroness	Patroness	n1	Patroness	patroness	0
+.	.	.	.	.	1
+MRS.	MRS.	n1	MRS.	mrs.	0
+ALICE	ALICE	np1	ALICE	Alice	0
+BARRET	BARRET	np1	BARRET	Barret	0
+.	.	.	.	.	1

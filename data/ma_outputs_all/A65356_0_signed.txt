@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+Io.	Io.	np1	Io.	Io.	0
+Webster	Webster	np1	Webster	Webster	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Phillip	Phillip	np1	Phillip	Phillip	0
+Lord	Lord	n1	Lord	lord	0
+Lysle	Lysle	np1	Lysle	Lysle	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Leivetenant	Leivetenant	n1	Lieutenant	lieutenant	0
+Generall	Generall	n1	General	general	0
+of	of	pp-f	of	of	0
+IRELAND	IRELAND	np1	IRELAND	Ireland	0
+.	.	.	.	.	1

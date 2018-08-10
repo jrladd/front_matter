@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Servants	Servants	n2	Servants	servant	0
+for	for	p-acp	for	for	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+Matthew	Matthew	np1	Matthew	Matthew	0
+Lawrence	Lawrence	np1	Lawrence	Laurence	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Stansbye	Stansbye	np1	Stansbye	Stansbye	0
+,	,	,	,	,	0
+Isaac	Isaac	np1	Isaac	Isaac	0
+Basil.	Basil.	np1	Basil.	Basil.	1

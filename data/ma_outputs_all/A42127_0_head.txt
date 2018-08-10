@@ -1,0 +1,4 @@
+Fortiter	Fortiter	fw-la	Fortiter	fortiter	0
+Defendit	Defendit	fw-la	Defendit	defendit	0
+Triumphans	Triumphans	n2	Triumphans	triumphan	0
+.	.	.	.	.	1

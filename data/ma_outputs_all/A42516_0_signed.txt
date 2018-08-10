@@ -1,0 +1,6 @@
+G.	G.	np1	G.	G.	0
+D.	D.	np1	D.	D.	0
+E.	E.	np1	E.	E.	0
+E.	E.	np1	E.	E.	0
+A.	A.	np1	A.	A.	0
+P.	P.	np1	P.	P.	1

@@ -1,0 +1,7 @@
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+Martin	Martin	np1	Martin	Martin	0
+Monyless	Monyless	np1-j	Moneyless	moneyless	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+ever	ever	av	ever	ever	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+IAMES	IAMES	np1	IAMES	Iames	0
+WARE	WARE	n1	WARE	ware	0
+.	.	.	.	.	1

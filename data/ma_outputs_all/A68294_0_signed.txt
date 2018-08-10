@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Lo.	Lo.	n1	Lo.	lord	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+K.	K.	n1	K.	king	1

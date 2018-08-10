@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+seruaunt	seruaunt	n1	servant	servant	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Partridge	Partridge	n1	Partridge	partridge	0
+.	.	.	.	.	1

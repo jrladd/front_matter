@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+LOWICK	LOWICK	np1	LOWICK	Lowick	0
+.	.	.	.	.	1

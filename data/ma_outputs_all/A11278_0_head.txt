@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+ALL	ALL	av-d	ALL	all	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+AND	AND	cc	AND	and	0
+Modest-minded	Modest-minded	j	Modest-minded	modest-minded	0
+Women	Women	n2	Women	woman	0
+I.S.	I.S.	np1	I.S.	I.S.	0
+Doctor	Doctor	n1	Doctor	doctor	0
+in	in	p-acp	in	in	0
+Phy	Phy	q-crq	Phy	why	0
+∣	∣	sy	∣	∣	0
+sicke	sicke	j	sick	sick	0
+wisheth	wisheth	vvz	wishes	wish	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

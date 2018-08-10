@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Worshipes	Worshipes	ng1	Worships	worships	0
+poore	poore	j	poor	poor	0
+Orator	Orator	n1	Orator	orator	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1
+Samuel	Samuel	np1	Samuel	Samuel	0
+Garey	Garey	np1	Garey	Garey	0
+.	.	.	.	.	1

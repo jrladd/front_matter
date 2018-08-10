@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+comandement	comandement	n1	commandment	commandment	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+SABIE	SABIE	np1	SABIE	SABIE	0
+.	.	.	.	.	1

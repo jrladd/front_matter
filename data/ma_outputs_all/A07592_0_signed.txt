@@ -1,0 +1,10 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+woorshippes	woorshippes	n2	woorshippes	woorshippe	0
+du	du	fw-fr	du	du	0
+∣	∣	sy	∣	∣	0
+ring	ring	n1	ring	ring	0
+life	life	n1	life	life	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+S.	S.	np1	S.	S.	1

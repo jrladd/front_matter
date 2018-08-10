@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Ladie	Ladie	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Spencer	Spencer	np1	Spencer	Spencer	0
+of	of	pp-f	of	of	0
+Ofley	Ofley	np1	Ofley	Ofley	0
+.	.	.	.	.	1

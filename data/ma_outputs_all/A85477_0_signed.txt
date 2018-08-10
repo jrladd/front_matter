@@ -1,0 +1,15 @@
+By	By	p-acp	By	by	0
+one	one	pi	one	one	0
+who	who	r-crq	who	who	0
+suffers	suffers	vvz	suffers	suffer	0
+till	till	p-acp	till	till	0
+the	the	dt	the	the	0
+prisoner	prisoner	n1	prisoner	prisoner	0
+of	of	pp-f	of	of	0
+hope	hope	n1	hope	hope	0
+comes	comes	vvz	comes	come	0
+forth	forth	av	forth	forth	0
+.	.	.	.	.	1
+Dorothea	Dorothea	np1	Dorothea	Dorothea	0
+Gotherson	Gotherson	np1	Gotherson	Gotherson	0
+.	.	.	.	.	1

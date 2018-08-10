@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+OUR	OUR	po12	OUR	our	0
+DEAR	DEAR	j-jn	DEAR	dear	0
+DISCIPLES	DISCIPLES	n2	DISCIPLES	disciple	0
+,	,	,	,	,	0
+Honor'd	Honor'd	j-vvn	Honoured	honour	0
+COADEPTS	COADEPTS	n2	COADEPTS	coadept	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+ALL	ALL	av-d	ALL	all	0
+WELL-WISHERS	WELL-WISHERS	n2	WELL-WISHERS	well-wisher	0
+TO	TO	p-acp	TO	to	0
+OUR	OUR	po12	OUR	our	0
+Hermetic	Hermetic	n1	Hermetic	hermetic	0
+Art.	Art.	n1	Art.	art	1

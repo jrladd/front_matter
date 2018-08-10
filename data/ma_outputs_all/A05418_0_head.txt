@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+William	William	np1	William	William	0
+Lord	Lord	n1	Lord	lord	0
+Craven	Craven	j-jn	Craven	craven	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Hamsted	Hamsted	np1	Hamsted	Hamsted	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Gardyner	Gardyner	n1	Gardener	gardener	0
+,	,	,	,	,	1

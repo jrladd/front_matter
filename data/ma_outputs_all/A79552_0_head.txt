@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+LORD	LORD	n1	LORD	lord	0
+THE	THE	dt	THE	the	0
+EARL	EARL	n1	EARL	earl	0
+of	of	pp-f	of	of	0
+CLEAVLAND	CLEAVLAND	np1	CLEAVLAND	Cleavland	0
+.	.	.	.	.	1

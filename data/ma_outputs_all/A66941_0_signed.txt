@@ -1,0 +1,3 @@
+By	By	p-acp	By	by	0
+T.	T.	np1	T.	T.	0
+W.	W.	np1	W.	W.	1

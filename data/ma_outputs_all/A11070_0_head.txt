@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Worthy	Worthy	j	Worthy	worthy	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+truely	truely	av-j	truly	true	0
+honorable	honorable	j	honourable	honourable	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Beniamin	Beniamin	np1	Beniamin	Benjamin	0
+Rudyerd	Rudyerd	vvd	Rudyerd	rudyerd	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+VLYSSES	VLYSSES	np1	VLYSSES	Ulysses	0
+MARTINENGVS	MARTINENGVS	npg1	MARTINENGVS	martinengvs	0
+EARLE	EARLE	n1	EARLE	earl	0
+OF	OF	pp-f	OF	of	0
+BARCHEN	BARCHEN	vvp	BARCHEN	barchen	0
+HIEROME	HIEROME	np1	HIEROME	Hierome	0
+ZANCHY	ZANCHY	j	ZANCHY	zanchy	0
+WISHETH	WISHETH	n2	WISHETH	wisheth	0
+grace	grace	vvb	grace	grace	0
+and	and	cc	and	and	0
+peace	peace	n1	peace	peace	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servants	Servants	n2	Servants	servant	0
+The	The	dt	The	the	0
+Heyres	Heyres	n2	Heirs	heir	0
+of	of	pp-f	of	of	0
+TYCHO	TYCHO	n1	TYCHO	tycho	0
+BRAHE	BRAHE	np1	BRAHE	Brahe	0
+.	.	.	.	.	1

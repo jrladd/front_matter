@@ -1,0 +1,7 @@
+THE	THE	dt	THE	the	0
+TRANSLATOR	TRANSLATOR	n1	TRANSLATOR	translator	0
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Dearest	Dearest	js-jn	Dearest	dear	0
+CONSORT	CONSORT	n1	CONSORT	consort	0
+.	.	.	.	.	1

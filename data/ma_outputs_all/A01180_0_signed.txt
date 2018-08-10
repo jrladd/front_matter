@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MVCH	MVCH	d	MUCH	much	0
+HONOVRED	HONOVRED	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+SIR	SIR	n1	SIR	sir	0
+Robert	Robert	np1	Robert	Robert	0
+Filmer	Filmer	np1	Filmer	Filmer	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

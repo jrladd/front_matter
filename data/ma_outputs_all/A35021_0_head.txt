@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+All	All	d	All	all	0
+within	within	p-acp	within	within	0
+my	my	po11	my	my	0
+Diocess	Diocess	n1	Diocese	diocese	0
+,	,	,	,	,	0
+especially	especially	av-j	especially	especial	0
+those	those	d	those	those	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+HEREFORD	HEREFORD	np1	HEREFORD	Hereford	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+PAT	PAT	av	PAT	pat	0
+.	.	.	.	.	1
+GORDON	GORDON	np1	GORDON	Gordon	0
+.	.	.	.	.	1

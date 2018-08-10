@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+St.	St.	n1	St.	saint	0
+Botolph	Botolph	np1	Botolph	Botolph	0
+Aldersgate	Aldersgate	np1	Aldersgate	Aldersgate	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Topsel	Topsel	n1	Topsel	topsel	0
+.	.	.	.	.	1

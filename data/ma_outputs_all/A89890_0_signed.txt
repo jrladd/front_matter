@@ -1,0 +1,3 @@
+Mercurius	Mercurius	np1	Mercurius	Mercurius	0
+Pragmaticus	Pragmaticus	np1	Pragmaticus	Pragmaticus	0
+.	.	.	.	.	1

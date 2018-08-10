@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+HOVSE	HOVSE	n1	HOVSE	hovse	0
+of	of	pp-f	of	of	0
+COMMONS	COMMONS	n2	COMMONS	commons	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+in	in	p-acp	in	in	0
+Parliament	Parliament	n1	Parliament	parliament	0
+.	.	.	.	.	1

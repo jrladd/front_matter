@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+much	much	d	much	much	0
+obliged	obliged	j-vvn	obliged	oblige	0
+SUFFERING	SUFFERING	vvg	SUFFERING	suffer	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WALTER	WALTER	np1	WALTER	Walter	0
+POWELL	POWELL	np1	POWELL	Powell	0
+.	.	.	.	.	1

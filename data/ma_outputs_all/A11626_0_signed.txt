@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+truely	truely	av-j	truly	true	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+SCOT	SCOT	np1	SCOT	Scot	0
+.	.	.	.	.	1

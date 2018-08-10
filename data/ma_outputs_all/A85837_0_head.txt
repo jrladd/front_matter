@@ -1,0 +1,8 @@
+The	The	dt	The	the	0
+humble	humble	j	humble	humble	0
+Petition	Petition	vvb	Petition	petition	0
+of	of	pp-f	of	of	0
+Lionel	Lionel	np1	Lionel	Lionel	0
+Gatford	Gatford	np1	Gatford	Gatford	0
+.	.	.	.	.	1
+B.D.	B.D.	np1	B.D.	B.D.	1

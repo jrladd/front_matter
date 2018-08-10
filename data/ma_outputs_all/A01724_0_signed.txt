@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Iosua	Iosua	np1	Iosua	Joshua	0
+Senior	Senior	fw-la	Senior	senior	0
+.	.	.	.	.	1

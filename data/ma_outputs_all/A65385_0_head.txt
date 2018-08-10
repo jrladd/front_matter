@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+SOCIETIES	SOCIETIES	n2	SOCIETIES	society	0
+FOR	FOR	p-acp	FOR	for	0
+Reformation	Reformation	n1	Reformation	reformation	0
+.	.	.	.	.	1

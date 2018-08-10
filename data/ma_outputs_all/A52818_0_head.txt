@@ -1,0 +1,2 @@
+DIRECTIONS	DIRECTIONS	n2	DIRECTIONS	direction	0
+.	.	.	.	.	1

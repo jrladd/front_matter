@@ -1,0 +1,8 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+M.H.	M.H.	np1	M.H.	M.H.	1

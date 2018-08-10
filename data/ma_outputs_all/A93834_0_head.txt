@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VVORSHIPFULL	VVORSHIPFULL	j	WORSHIPFUL	worshipful	0
+John	John	np1	John	John	0
+Wroth	Wroth	j	Wroth	wroth	0
+and	and	cc	and	and	0
+John	John	np1	John	John	0
+Davies	Davies	np1	Davies	Davies	0
+Esquires	Esquires	n2	Esquires	esquire	0
+.	.	.	.	.	1

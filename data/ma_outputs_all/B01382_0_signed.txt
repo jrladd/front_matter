@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Soul-Servant	Soul-Servant	n1	Soul-Servant	soul-servant	0
+,	,	,	,	,	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+ANNESLEY	ANNESLEY	np1	ANNESLEY	Annesley	0
+.	.	.	.	.	1

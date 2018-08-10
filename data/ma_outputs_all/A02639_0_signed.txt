@@ -1,0 +1,9 @@
+your	your	po22	your	your	0
+Graces	Graces	n2	Graces	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humility	humility	n1	humility	humility	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Hardwick	Hardwick	np1	Hardwick	Hardwick	0
+.	.	.	.	.	1

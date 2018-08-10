@@ -1,0 +1,10 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+Mary	Mary	uh	Marry	mary	0
+Charleton	Charleton	np1	Charleton	Charleton	0
+.	.	.	.	.	1

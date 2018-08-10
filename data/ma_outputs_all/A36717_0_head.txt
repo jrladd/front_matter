@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Sir	Sir	n1	Sir	sir	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+HOWARD	HOWARD	np1	HOWARD	Howard	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

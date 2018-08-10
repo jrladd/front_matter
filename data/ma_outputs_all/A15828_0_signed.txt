@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+Commanded	Commanded	vvn	Commanded	command	0
+IOHN	IOHN	np1	IOHN	John	0
+YATES	YATES	np1	YATES	Yates	0
+.	.	.	.	.	1

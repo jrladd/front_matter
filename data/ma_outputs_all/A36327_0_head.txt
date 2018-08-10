@@ -1,0 +1,15 @@
+The	The	dt	The	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+BROOKES	BROOKES	np1	BROOKES	Brookes	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+JAMES	JAMES	np1	JAMES	James	0
+WYLD	WYLD	np1	WYLD	Wyld	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+SARAH	SARAH	np1	SARAH	Sarah	0
+WYLD	WYLD	np1	WYLD	Wyld	0
+.	.	.	.	.	1

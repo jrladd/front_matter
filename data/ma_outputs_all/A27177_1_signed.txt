@@ -1,0 +1,12 @@
+So	So	np1	So	So	0
+Exeunt	Exeunt	fw-la	Exeunt	exeunt	0
+Your	Your	po22	Your	your	0
+Gratefull	Gratefull	j	Grateful	grateful	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+LOWIN	LOWIN	np1	LOWIN	LOWIN	0
+,	,	,	,	,	0
+JOSEPH	JOSEPH	np1	JOSEPH	Joseph	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

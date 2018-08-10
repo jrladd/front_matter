@@ -1,0 +1,4 @@
+PHIL	PHIL	np1	PHIL	Phil	0
+.	.	.	.	.	1
+STƲBS	STƲBS	np1	STƲBS	STƲBS	0
+.	.	.	.	.	1

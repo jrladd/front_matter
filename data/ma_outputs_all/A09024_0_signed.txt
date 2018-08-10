@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+de	de	fw-fr	de	de	0
+∣	∣	sy	∣	∣	0
+uoted	uoted	vvn	voted	vote	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+obser	obser	n1	obser	obser	0
+∣	∣	sy	∣	∣	0
+uance	uance	n1	vance	vance	0
+,	,	,	,	,	0
+ELN	ELN	np1	ELN	ELN	0
+.	.	.	.	.	1
+PARR	PARR	np1	PARR	Parr	0
+.	.	.	.	.	1

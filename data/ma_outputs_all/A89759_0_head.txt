@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Excellence	Excellence	n1	Excellence	excellence	0
+The	The	dt	The	the	0
+Lord	Lord	n1	Lord	lord	0
+General	General	n1	General	general	0
+Cromwel	Cromwel	np1	Cromwel	Cromwel	0
+.	.	.	.	.	1

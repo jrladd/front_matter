@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+good	good	j	good	good	0
+Friend	Friend	n1	Friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Richard	Richard	np1	Richard	Richard	0
+Watson	Watson	np1	Watson	Watson	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1
+At	At	p-acp	At	at	0
+Caen.	Caen.	np1	Caen.	Caen.	1

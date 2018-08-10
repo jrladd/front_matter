@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Clopton	Clopton	np1	Clopton	Clopton	0
+Havers	Havers	np1	Havers	Havers	0
+.	.	.	.	.	1

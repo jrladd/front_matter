@@ -1,0 +1,14 @@
+A	A	dt	A	a	0
+Tres-Haute	Tres-Haute	j	Tres-Haute	tres-haute	0
+et	et	fw-la	et	et	0
+Tres	Tres	fw-la	Tres	tres	0
+Illustre	Illustre	fw-it	Illustre	illustre	0
+PRINCESSE	PRINCESSE	n1	PRINCESSE	princess	0
+Francois	Francois	np1	Francois	Francois	0
+de	de	fw-fr	de	de	0
+Lorraine	Lorraine	np1	Lorraine	Lorraine	0
+,	,	,	,	,	0
+Duchesse	Duchesse	np1	Duchesse	Duchesse	0
+DE	DE	fw-fr	DE	de	0
+VENDOSME	VENDOSME	np1	VENDOSME	Vendosme	0
+.	.	.	.	.	1

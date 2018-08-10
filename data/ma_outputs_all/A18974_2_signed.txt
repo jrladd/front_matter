@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+in	in	p-acp	in	in	0
+duty	duty	n1	duty	duty	0
+as	as	c-acp	as	as	0
+Somtimes	Somtimes	av	Sometimes	sometime	0
+Imitatour	Imitatour	n1	Imitator	imitator	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+C.	C.	np1	C.	C.	1

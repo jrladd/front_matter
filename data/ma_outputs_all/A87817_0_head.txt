@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+Committee	Committee	n1	Committee	committee	0
+of	of	pp-f	of	of	0
+Examinations	Examinations	n2	Examinations	examination	0
+;	;	;	;	;	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+from	from	p-acp	from	from	0
+God	God	np1	God	God	0
+,	,	,	,	,	0
+through	through	p-acp	through	through	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+.	.	.	.	.	1

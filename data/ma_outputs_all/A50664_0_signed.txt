@@ -1,0 +1,3 @@
+G.	G.	np1	G.	G.	0
+MERITON	MERITON	np1	MERITON	MERITON	0
+.	.	.	.	.	1

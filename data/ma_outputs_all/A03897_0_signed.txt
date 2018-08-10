@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+hearty	hearty	j	hearty	hearty	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+due	due	j-jn	due	due	0
+observance	observance	n1	observance	observance	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+HVRSTE	HVRSTE	n1	HVRSTE	hvrste	0
+.	.	.	.	.	1

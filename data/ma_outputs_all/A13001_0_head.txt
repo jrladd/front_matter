@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+M.	M.	n1	M.	m.	0
+Iohn	Iohn	np1	Iohn	John	0
+How	How	c-crq	How	how	0
+∣	∣	sy	∣	∣	0
+son	son	n1	son	son	0
+,	,	,	,	,	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+to	to	p-acp	to	to	0
+her	her	pno31	her	she	0
+Ma	Ma	fw-fr	Ma	ma	0
+∣	∣	sy	∣	∣	0
+iestie	iestie	n1	iestie	iestie	0
+.	.	.	.	.	1

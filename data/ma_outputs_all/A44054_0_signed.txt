@@ -1,0 +1,7 @@
+Right	Right	av-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+PHIL	PHIL	np1	PHIL	Phil	0
+.	.	.	.	.	1
+SCOT	SCOT	np1	SCOT	Scot	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Mris	Mris	n1	Mris	mistress	0
+ANNE	ANNE	np1	ANNE	ANNE	0
+CHARLTON	CHARLTON	np1	CHARLTON	Charlton	0
+of	of	pp-f	of	of	0
+S.	S.	np1	S.	S.	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+D.	D.	np1	D.	D.	1

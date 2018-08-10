@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+common	common	j	common	common	0
+Sauiour	Sauiour	n1	Saviour	saviour	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+COVVPER	COVVPER	np1	COVVPER	COVVPER	0
+.	.	.	.	.	1

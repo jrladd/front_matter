@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+GHT	GHT	n1	GHT	ght	0
+HONOV	HONOV	np1	HONOV	HONOV	0
+∣	∣	sy	∣	∣	0
+RABLE	RABLE	n1	RABLE	rabble	0
+THE	THE	dt	THE	the	0
+COVNTESSE	COVNTESSE	n1	COVNTESSE	countess	0
+HAMPTON	HAMPTON	np1	HAMPTON	Hampton	0
+all	all	d	all	all	0
+peace	peace	n1	peace	peace	0
+and	and	cc	and	and	0
+comfort	comfort	n1	comfort	comfort	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	1

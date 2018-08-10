@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+ever	ever	av	ever	ever	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+CARR	CARR	np1	CARR	Carr	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Kinges	Kinges	ng1	Kings	king	0
+most	most	av-ds	most	most	0
+Sa	Sa	uh	Sa	sa	0
+∣	∣	sy	∣	∣	0
+cred	cred	j	cred	cred	0
+MAIESTIE	MAIESTIE	n1	MAIESTIE	majesty	0
+.	.	.	.	.	1

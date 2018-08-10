@@ -1,0 +1,3 @@
+Philanax	Philanax	np1	Philanax	Philanax	0
+Misopapas	Misopapas	fw-la	Misopapas	misopapas	0
+.	.	.	.	.	1

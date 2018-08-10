@@ -1,0 +1,10 @@
+¶	¶	¶	¶	¶	0
+A	A	dt	A	a	0
+GENTILLE	GENTILLE	j	GENTLE	gentle	0
+ET	ET	fw-fr	ET	et	0
+VERTVEVSE	VERTVEVSE	np1	VERTVEVSE	VERTVEVSE	0
+FILLE	FILLE	fw-fr	FILLE	fille	0
+Madame	Madame	fw-fr	Madame	madame	0
+Mariette	Mariette	np1	Mariette	Mariette	0
+Catanea	Catanea	np1	Catanea	Catanea	0
+.	.	.	.	.	1

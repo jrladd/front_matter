@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+common	common	j	common	common	0
+Seruant	Seruant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+him	him	pno31	him	he	0
+whom	whom	ro-crq	whom	who	0
+we	we	pns12	we	we	0
+all	all	d	all	all	0
+reioyce	reioyce	vvb	rejoice	rejoice	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+.	.	.	.	.	1
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+EXON	EXON	np1	EXON	Exon	0
+.	.	.	.	.	1

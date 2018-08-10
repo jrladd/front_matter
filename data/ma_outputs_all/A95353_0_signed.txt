@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+very	very	av	very	very	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+to	to	p-acp	to	to	0
+love	love	n1	love	love	0
+and	and	cc	and	and	0
+honour	honour	vvi	honour	honour	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+TVCKNEY	TVCKNEY	np1	TVCKNEY	TVCKNEY	0
+.	.	.	.	.	1

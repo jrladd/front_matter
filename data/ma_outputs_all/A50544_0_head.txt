@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sr.	Sr.	n1	Sr.	sir	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+HOOKER	HOOKER	np1	HOOKER	Hooker	0
+Lord	Lord	n1	Lord	lord	0
+MAJOR	MAJOR	j	MAJOR	major	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Court	Court	n1	Court	court	0
+of	of	pp-f	of	of	0
+ALDERMEN	ALDERMEN	n2	ALDERMEN	alderman	0
+.	.	.	.	.	1

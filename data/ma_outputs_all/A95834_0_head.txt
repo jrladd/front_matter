@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+best	best	js	best	best	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+noblest	noblest	js	noblest	noble	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Seleucus	Seleucus	np1	Seleucus	Seleucus	0
+Abantiades	Abantiades	np1	Abantiades	Abantiades	0
+.	.	.	.	.	1

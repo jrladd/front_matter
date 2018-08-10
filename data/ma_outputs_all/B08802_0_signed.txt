@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+obliged	obliged	vvn	obliged	oblige	0
+.	.	.	.	.	0
+and	and	cc	and	and	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+COLLINGS	COLLINGS	np1	COLLINGS	Collings	0
+.	.	.	.	.	1

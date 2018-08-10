@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+GRACE's	GRACE's	ng1	GRACE's	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+SY	SY	np1	SY	SY	0
+.	.	.	.	.	1
+PATRICK	PATRICK	np1	PATRICK	Patrick	0
+.	.	.	.	.	1

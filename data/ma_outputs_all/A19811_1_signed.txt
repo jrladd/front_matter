@@ -1,0 +1,4 @@
+SAM	SAM	np1	SAM	Sam	0
+.	.	.	.	.	1
+DANYEL	DANYEL	np1	DANYEL	DANYEL	0
+.	.	.	.	.	1

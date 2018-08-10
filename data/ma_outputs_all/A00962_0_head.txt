@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+perect	perect	vvb	perect	perect	0
+gentleman	gentleman	n1	gentleman	gentleman	0
+Sir	Sir	n1	Sir	sir	0
+Robert	Robert	np1	Robert	Robert	0
+Townesend	Townesend	np1	Townesend	Townesend	0
+.	.	.	.	.	1

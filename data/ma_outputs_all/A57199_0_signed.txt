@@ -1,0 +1,12 @@
+Humbly	Humbly	av-j	Humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+service	service	n1	service	service	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+REYNER	REYNER	np1	REYNER	Reyner	0
+.	.	.	.	.	1

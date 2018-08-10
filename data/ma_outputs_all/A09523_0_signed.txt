@@ -1,0 +1,17 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+vntill	vntill	c-acp	until	until	0
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+for	for	p-acp	for	for	0
+euer	euer	av	ever	ever	0
+:	:	:	:	:	0
+Marshall	Marshall	vvb	Marshal	marshal	0
+PETOVVE	PETOVVE	vvi	PETOVVE	petovve	0
+.	.	.	.	.	1

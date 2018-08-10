@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+ever	ever	av	ever	ever	0
+honouring	honouring	vvg	honouring	honour	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Jones	Jones	np1	Jones	Jones	0
+.	.	.	.	.	1

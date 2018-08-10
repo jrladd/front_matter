@@ -1,0 +1,14 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Rob	Rob	vvi	Rob	rob	0
+rt	rt	vb2r	rt	be	0
+ingflde	ingflde	j	ingflde	ingflde	0
+of	of	pp-f	of	of	0
+Lc	Lc	j	Lc	lc	0
+hryngham	hryngham	n1	hryngham	hryngham	0
+knight	knight	n1	knight	knight	0
+.	.	.	.	.	1

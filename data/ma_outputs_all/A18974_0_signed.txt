@@ -1,0 +1,12 @@
+his	his	po31	his	his	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+servant	servant	n1	servant	servant	0
+.	.	.	.	.	1
+IAMES	IAMES	np1	IAMES	Iames	0
+CLELAND	CLELAND	np1	CLELAND	Cleland	0
+.	.	.	.	.	1

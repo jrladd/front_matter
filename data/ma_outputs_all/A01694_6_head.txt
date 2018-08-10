@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+Ladies	Ladies	n2	Ladies	lady	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Gentlewo	Gentlewo	np1	Gentlewo	Gentlewo	0
+∣	∣	sy	∣	∣	0
+men	men	n1	men	man	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

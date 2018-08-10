@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+beloved	beloved	j-vvn	beloved	belove	0
+friends	friends	n2	friends	friend	0
+,	,	,	,	,	0
+whose	whose	rg-crq	whose	who	0
+souls	souls	n2	souls	soul	0
+hunger	hunger	n1	hunger	hunger	0
+after	after	p-acp	after	after	0
+sincere	sincere	j	sincere	sincere	0
+Milk	Milk	n1	Milk	milk	0
+.	.	.	.	.	1

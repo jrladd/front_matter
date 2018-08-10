@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+well	well	n1	well	well	0
+Wisher	Wisher	np1	Wisher	Wisher	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+R.	R.	np1	R.	R.	1

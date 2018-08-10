@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+ROYAL	ROYAL	j	ROYAL	royal	0
+Highness's	Highness's	ng1	Highness's	highness	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+DRYDEN	DRYDEN	np1	DRYDEN	Dryden	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+Majesty	Majesty	n1	Majesty	majesty	0
+.	.	.	.	.	1

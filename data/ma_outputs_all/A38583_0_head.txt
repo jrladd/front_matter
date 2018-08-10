@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+FRANCES	FRANCES	np1	FRANCES	Frances	0
+ELBOROW	ELBOROW	np1	ELBOROW	ELBOROW	0
+,	,	,	,	,	0
+Widow	Widow	n1	Widow	widow	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+late	late	j	late	late	0
+deceased	deceased	j-vvn	deceased	decease	0
+Author	Author	n1	Author	author	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Reverendo	Reverendo	fw-la	Reverendo	reverendo	0
+in	in	p-acp	in	in	0
+Christo	Christo	fw-la	Christo	christo	0
+Patri	Patri	fw-la	Patri	patri	0
+,	,	,	,	,	0
+THOMAE	THOMAE	np1	THOMAE	Thomae	0
+TENNISONO	TENNISONO	np1	TENNISONO	TENNISONO	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+Episcopo	Episcopo	np1	Episcopo	Episcopo	0
+Lincolniensi	Lincolniensi	fw-la	Lincolniensi	lincolniensi	0
+.	.	.	.	.	1

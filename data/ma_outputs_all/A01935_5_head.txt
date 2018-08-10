@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Doctor	Doctor	n1	Doctor	doctor	0
+DVCK	DVCK	n1	DVCK	dvck	0
+,	,	,	,	,	0
+Chancellor	Chancellor	n1	Chancellor	chancellor	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+Diocesse	Diocesse	n1	Diocese	diocese	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

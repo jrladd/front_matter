@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obli	Obli	fw-fr	Obli	obli	0
+∣	∣	sy	∣	∣	0
+ged	ged	n-vvn	ged	ge	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Wilkinson	Wilkinson	np1	Wilkinson	Wilkinson	0
+.	.	.	.	.	1

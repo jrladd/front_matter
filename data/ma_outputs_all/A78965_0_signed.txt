@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+much	much	d	much	much	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Spirituall	Spirituall	j	Spiritual	spiritual	0
+Servant	Servant	n1	Servant	servant	0
+EDM	EDM	np1	EDM	EDM	0
+.	.	.	.	.	1
+CALAMY	CALAMY	np1	CALAMY	Calamy	0
+.	.	.	.	.	1

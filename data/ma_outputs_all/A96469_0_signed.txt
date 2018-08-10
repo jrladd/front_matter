@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+wash	wash	vvi	wash	wash	0
+the	the	dt	the	the	0
+feet	feet	n2	feet	foot	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Servants	Servants	n2	Servants	servant	0
+of	of	pp-f	of	of	0
+my	my	po11	my	my	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+MICHAEL	MICHAEL	np1	MICHAEL	Michael	0
+WIGMORE	WIGMORE	np1	WIGMORE	Wigmore	0
+.	.	.	.	.	1

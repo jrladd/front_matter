@@ -1,0 +1,11 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+commaund	commaund	n1	command	command	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+disposed	disposed	vvn	disposed	dispose	0
+off	off	a-acp	off	off	0
+;	;	;	;	;	0
+RALPH	RALPH	np1	RALPH	Ralph	0
+HAMO	HAMO	fw-la	HAMO	hamo	0
+.	.	.	.	.	1

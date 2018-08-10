@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+humble	humble	j	humble	humble	0
+ser	ser	zz	ser	ser	0
+∣	∣	sy	∣	∣	0
+uant	uant	n1	uant	vaunt	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+.	.	.	.	.	1
+GERVASE	GERVASE	np1	GERVASE	GERVASE	0
+NID	NID	vvd	NID	nid	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+John	John	np1	John	John	0
+Warner	Warner	np1	Warner	Warner	0
+Lord	Lord	n1	Lord	lord	0
+Major	Major	j	Major	major	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Citie	Citie	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

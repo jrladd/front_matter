@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Loving	Loving	j-vvg	Loving	love	0
+Friends	Friends	n2	Friends	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Parishioners	Parishioners	n2	Parishioners	parishioner	0
+.	.	.	.	.	1

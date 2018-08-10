@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+Epistle	Epistle	n1	Epistle	epistle	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Incomparable	Incomparable	j	Incomparable	incomparable	0
+MARINDA	MARINDA	np1	MARINDA	MARINDA	0
+.	.	.	.	.	1

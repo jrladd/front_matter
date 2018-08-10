@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+and	and	cc	and	and	0
+ready	ready	j	ready	ready	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Cobbes	Cobbes	n2	Cobbes	cob	0
+.	.	.	.	.	1

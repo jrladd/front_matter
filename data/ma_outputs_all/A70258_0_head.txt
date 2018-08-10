@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+John	John	np1	John	John	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Dover	Dover	np1	Dover	Dover	0
+,	,	,	,	,	0
+Viscount	Viscount	np1	Viscount	Viscount	0
+Rochford	Rochford	np1	Rochford	Rochfort	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Hunsdon	Hunsdon	np1	Hunsdon	Hunsdon	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

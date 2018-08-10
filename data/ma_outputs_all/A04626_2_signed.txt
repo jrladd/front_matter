@@ -1,0 +1,4 @@
+Thine	Thine	po21	Thine	thy	0
+W.	W.	np1	W.	W.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+commandement	commandement	n1	commandment	commandment	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Digges	Digges	np1	Digges	Digges	0
+.	.	.	.	.	1

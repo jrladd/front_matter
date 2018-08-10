@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+at	at	p-acp	at	at	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maundment	maundment	n1	maundment	maundment	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+D.	D.	np1	D.	D.	1

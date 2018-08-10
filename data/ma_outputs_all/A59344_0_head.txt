@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Church-Warden	Church-Warden	n1	Church-Warden	church-warden	0
+and	and	cc	and	and	0
+Overseer	Overseer	n1	Overseer	overseer	0
+,	,	,	,	,	0
+Execu	Execu	np1	Execu	Execu	0
+∣	∣	sy	∣	∣	0
+tors	tors	n2	tors	tor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+late	late	j	late	late	0
+Renowned	Renowned	j-vvn	Renowned	renown	0
+Captain	Captain	n1	Captain	captain	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

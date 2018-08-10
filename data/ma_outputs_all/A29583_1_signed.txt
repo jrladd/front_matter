@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Lord	Lord	n1	Lord	lord	0
+most	most	ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Br.	Br.	np1	Br.	Br.	0
+Serenus	Serenus	np1	Serenus	Serenus	0
+Cressy	Cressy	np1	Cressy	Cressy	0
+.	.	.	.	.	1

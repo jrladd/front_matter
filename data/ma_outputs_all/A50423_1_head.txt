@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Ingenious	Ingenious	j	Ingenious	ingenious	0
+Author	Author	n1	Author	author	0
+,	,	,	,	,	0
+concerning	concerning	vvg	concerning	concern	0
+his	his	po31	his	his	0
+DECIMALS	DECIMALS	n2	DECIMALS	decimal	0
+.	.	.	.	.	1

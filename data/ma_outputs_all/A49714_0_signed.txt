@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+Most	Most	av-ds	Most	most	0
+faithful	faithful	j	faithful	faithful	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+CANT	CANT	fw-mi	CANT	cant	0
+.	.	.	.	.	1

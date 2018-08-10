@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Francis	Francis	np1	Francis	Francis	0
+Lord	Lord	n1	Lord	lord	0
+Guilford	Guilford	np1	Guilford	Guilford	0
+.	.	.	.	.	1

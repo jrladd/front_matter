@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+,	,	,	,	,	0
+by	by	p-acp	by	by	0
+double	double	j-jn	double	double	0
+dutie	dutie	n1	duty	duty	0
+bound	bound	vvn	bound	bind	0
+,	,	,	,	,	0
+ABRAHAM	ABRAHAM	np1	ABRAHAM	Abraham	0
+FLEMING	FLEMING	njp	FLEMING	fleming	0
+.	.	.	.	.	1

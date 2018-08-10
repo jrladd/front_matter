@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+seruiceably	seruiceably	av-j	serviceably	serviceable	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+FINET	FINET	np1	FINET	FINET	0
+.	.	.	.	.	1

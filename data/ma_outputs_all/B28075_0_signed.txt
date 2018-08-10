@@ -1,0 +1,12 @@
+De	De	fw-fr	De	de	0
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+Majesté	Majesté	fw-fr	Majesté	majesté	0
+Le	Le	fw-fr	Le	le	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+,	,	,	,	,	0
+tres-fidéle	tres-fidéle	j	tres-fidéle	tres-fidéle	0
+&	&	cc	&	and	0
+tres-obëissant	tres-obëissant	j	tres-obëissant	tres-obëissant	0
+Sujet	Sujet	fw-fr	Sujet	sujet	0
+,	,	,	,	,	0
+PETTY	PETTY	j	PETTY	petty	1

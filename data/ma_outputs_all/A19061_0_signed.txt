@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+poore	poore	j	poor	poor	0
+seruant	seruant	n1	servant	servant	0
+C.	C.	np1	C.	C.	0
+E.	E.	np1	E.	E.	1

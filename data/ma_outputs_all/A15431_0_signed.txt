@@ -1,0 +1,7 @@
+Tui	Tui	fw-la	Tui	tui	0
+honoris	honoris	fw-la	honoris	honoris	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+,	,	,	,	,	0
+ANDREAS	ANDREAS	np1	ANDREAS	Andreas	0
+WILLET	WILLET	np1	WILLET	Willet	0
+.	.	.	.	.	1

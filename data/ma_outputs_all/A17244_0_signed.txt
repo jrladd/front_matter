@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruaunt	seruaunt	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christe	Christe	np1	Christe	Christe	0
+Ed	Ed	wd	Ed	ed	0
+∣	∣	sy	∣	∣	0
+munde	munde	n1	munde	munde	0
+Bunny	Bunny	np1	Bunny	Bunny	0
+.	.	.	.	.	1

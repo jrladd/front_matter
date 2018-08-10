@@ -1,0 +1,8 @@
+Da	Da	n1	Dam	dam	0
+:	:	:	:	:	0
+Dicsonus	Dicsonus	np1	Dicsonus	Dicsonus	0
+SS	SS	zz	SS	ss	0
+.	.	.	.	.	1
+Theol.	Theol.	np1	Theol.	Theol.	0
+Profes	Profes	vvb	Profess	profess	0
+.	.	.	.	.	1

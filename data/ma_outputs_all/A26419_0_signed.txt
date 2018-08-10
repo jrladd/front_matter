@@ -1,0 +1,14 @@
+His	His	po31	His	his	0
+Majesties	Majesties	n2	Majesties	majesty	0
+Loyal	Loyal	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+your	your	po22	your	your	0
+VVorships	VVorships	ng1	VVorships	worship	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+James	James	np1	James	James	0
+Jones	Jones	np1	Jones	Jones	0
+.	.	.	.	.	1

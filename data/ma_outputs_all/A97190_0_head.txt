@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+M.	M.	n1	M.	m.	0
+LAKE	LAKE	n1	LAKE	lake	0
+.	.	.	.	.	1

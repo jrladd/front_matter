@@ -1,0 +1,17 @@
+These	These	np1	These	Theise	0
+Compendious	Compendious	j	Compendious	compendious	0
+TABLES	TABLES	n2	TABLES	table	0
+OF	OF	pp-f	OF	of	0
+INTEREST	INTEREST	n1	INTEREST	interest	0
+are	are	vbr	are	be	0
+dedicated	dedicated	vvn	dedicated	dedicate	0
+,	,	,	,	,	0
+By	By	p-acp	By	by	0
+YOUR	YOUR	po22	YOUR	your	0
+,	,	,	,	,	0
+HIGHNESSES	HIGHNESSES	n2	HIGHNESSES	highness	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+servant	servant	n1	servant	servant	1

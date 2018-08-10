@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+His	His	po31	His	his	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Sir	Sir	n1	Sir	sir	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Barnardiston	Barnardiston	np1	Barnardiston	Barnardiston	0
+.	.	.	.	.	1

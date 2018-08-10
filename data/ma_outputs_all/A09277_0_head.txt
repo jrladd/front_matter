@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+WOR	WOR	zz	WOR	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+Nathanael	Nathanael	np1	Nathanael	Nathanael	0
+Stephens	Stephens	np1	Stephens	Stephens	0
+Esquier	Esquier	n1	Esquire	esquire	0
+,	,	,	,	,	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+from	from	p-acp	from	from	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1

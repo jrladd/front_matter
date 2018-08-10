@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+GENTLEMAN	GENTLEMAN	n1	GENTLEMAN	gentleman	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+TRESHAM	TRESHAM	np1	TRESHAM	Tresham	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

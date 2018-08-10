@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Gio.	Gio.	np1	Gio.	Gio.	0
+Francesco	Francesco	np1	Francesco	Francisco	0
+Biondi	Biondi	np1	Biondi	Biondi	0
+.	.	.	.	.	1

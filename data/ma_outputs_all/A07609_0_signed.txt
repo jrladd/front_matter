@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+Seruāt	Seruāt	n1	Seruamt	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+VV.	VV.	np1	VV.	VV.	1

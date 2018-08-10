@@ -1,0 +1,13 @@
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truely	truely	av-j	truly	true	0
+Loyall	Loyall	j	Loyal	loyal	0
+harted	harted	j-vvn	hearted	heart	0
+,	,	,	,	,	0
+learned	learned	j	learned	learned	0
+,	,	,	,	,	0
+well-accomplished	well-accomplished	j	well-accomplished	well-accomplished	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Mter	Mter	np1	Mter	Mter	1

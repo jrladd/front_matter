@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+:	:	:	:	:	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+EBVRNE	EBVRNE	np1	EBVRNE	EBVRNE	0
+.	.	.	.	.	1

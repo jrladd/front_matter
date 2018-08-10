@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+thankefully	thankefully	av-j	thankfully	thankful	0
+and	and	cc	and	and	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+AUG	AUG	np1	AUG	Aug	0
+.	.	.	.	.	1
+HILL	HILL	n1	HILL	hill	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+already	already	av	already	already	0
+too	too	av	too	too	0
+much	much	av-d	much	much	0
+regarded	regarded	vvn	regarded	regard	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+S.	S.	np1	S.	S.	1

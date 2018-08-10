@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+oratour	oratour	n1	orator	orator	0
+HENRY	HENRY	np1	HENRY	Henry	0
+TRIPP	TRIPP	np1	TRIPP	Tripp	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+wholly	wholly	av-jn	wholly	whole	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+OXLEY	OXLEY	np1	OXLEY	Oxley	0
+.	.	.	.	.	1

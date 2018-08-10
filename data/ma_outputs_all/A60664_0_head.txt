@@ -1,0 +1,16 @@
+An	An	dt	And	a	0
+Epistle	Epistle	n1	Epistle	epistle	0
+dedicated	dedicated	vvn	dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Mea	Mea	fw-la	Mea	mea	0
+∣	∣	sy	∣	∣	0
+sure	sure	av-j	sure	sure	0
+of	of	pp-f	of	of	0
+Light	Light	n1	Light	light	0
+and	and	cc	and	and	0
+Life	Life	n1	Life	life	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+People	People	n1	People	people	0
+.	.	.	.	.	1

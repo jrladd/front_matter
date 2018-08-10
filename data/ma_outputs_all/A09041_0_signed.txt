@@ -1,0 +1,11 @@
+Thine	Thine	po21	Thine	thy	0
+in	in	n1	in	inn	0
+the	the	dt	the	the	0
+prodigallity	prodigallity	n1	prodigality	prodigality	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Loues	Loues	ng1	Loves	love	0
+sincerity	sincerity	n1	sincerity	sincerity	0
+.	.	.	.	.	1
+H	H	zz	H	h	0
+P	P	sy	P	p	1

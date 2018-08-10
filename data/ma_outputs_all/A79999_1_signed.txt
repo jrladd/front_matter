@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+Theophilus	Theophilus	np1	Theophilus	Theophilus	0
+Philopatros	Philopatros	fw-la	Philopatros	philopatros	0
+.	.	.	.	.	1

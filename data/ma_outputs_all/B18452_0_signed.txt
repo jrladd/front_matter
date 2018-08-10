@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+obedient	obedient	j	obedient	obedient	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+EDMƲND	EDMƲND	n1	EDMƲND	edmʋnd	0
+GIBSON	GIBSON	np1	GIBSON	Gibson	0
+.	.	.	.	.	1

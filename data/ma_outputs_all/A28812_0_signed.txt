@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Countryman	Countryman	n1	Countryman	countryman	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Boraston	Boraston	np1	Boraston	Boraston	0
+.	.	.	.	.	1

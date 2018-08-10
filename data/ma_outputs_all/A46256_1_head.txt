@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+Worthy	Worthy	j	Worthy	worthy	0
+,	,	,	,	,	0
+Generous	Generous	j	Generous	generous	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Ancient	Ancient	j	Ancient	ancient	0
+Society	Society	n1	Society	society	0
+The	The	dt	The	the	0
+Right	Right	j-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Company	Company	n1	Company	company	0
+of	of	pp-f	of	of	0
+DRAPERS	DRAPERS	n2	DRAPERS	draper	0
+.	.	.	.	.	1

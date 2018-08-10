@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+DEVREVX	DEVREVX	np1	DEVREVX	DEVREVX	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Essex	Essex	np1	Essex	Essex	0
+&	&	cc	&	and	0
+Ew	Ew	n1	Ewe	ewe	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,6 @@
+A	A	dt	A	a	0
+louing	louing	j-vvg	loving	love	0
+freend	freend	n1	friend	friend	0
+N.	N.	np1	N.	N.	0
+B.	B.	np1	B.	B.	0
+Gent.	Gent.	n1	Gent.	gentleman	1

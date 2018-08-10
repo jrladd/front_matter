@@ -1,0 +1,7 @@
+A	A	dt	A	a	0
+WORD	WORD	n1	WORD	word	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+DISSENTING	DISSENTING	vvg	DISSENTING	dissent	0
+BRETHREN	BRETHREN	n2	BRETHREN	brethren	0
+.	.	.	.	.	1

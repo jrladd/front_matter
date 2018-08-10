@@ -1,0 +1,9 @@
+YOUR	YOUR	po22	YOUR	your	0
+LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1

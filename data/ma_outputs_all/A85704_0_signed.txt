@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Griffith	Griffith	np1	Griffith	Griffith	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+louing	louing	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+Captaine	Captaine	n1	Captain	captain	0
+Barnabe	Barnabe	np1	Barnabe	Barnaby	0
+Ryche	Ryche	j	Rich	rich	0
+.	.	.	.	.	1

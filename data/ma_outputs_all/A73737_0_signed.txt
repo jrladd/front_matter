@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+he	he	pns31	he	he	0
+may	may	vmb	may	may	0
+at	at	p-acp	at	at	0
+commandment	commandment	n1	commandment	commandment	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

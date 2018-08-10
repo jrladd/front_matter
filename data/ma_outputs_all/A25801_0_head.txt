@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+Author's	Author's	ng1	Author's	author	0
+Preface	Preface	n1	Preface	preface	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Christian	Christian	njp	Christian	christian	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

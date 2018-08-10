@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+assured	assured	j-vvn	assured	assure	0
+in	in	p-acp	in	in	0
+that	that	cst	that	that	0
+he	he	pns31	he	he	0
+may	may	vmb	may	may	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Sharrock	Sharrock	np1	Sharrock	Sharrock	0
+.	.	.	.	.	1

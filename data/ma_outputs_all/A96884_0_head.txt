@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+Isaac	Isaac	np1	Isaac	Isaac	0
+Pennington	Pennington	np1	Pennington	Pennington	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+MAjOR	MAjOR	j	MAjOR	major	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

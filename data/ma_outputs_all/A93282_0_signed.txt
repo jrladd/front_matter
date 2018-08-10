@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obe	obe	n1	obe	obe	0
+∣	∣	sy	∣	∣	0
+dient	dient	j	dient	dient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+SALGADO	SALGADO	np1	SALGADO	SALGADO	0
+.	.	.	.	.	1

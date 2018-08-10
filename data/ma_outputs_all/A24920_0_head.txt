@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+Norwich	Norwich	np1	Norwich	Norwich	0
+and	and	cc	and	and	0
+Norfolk	Norfolk	np1	Norfolk	Norfolk	0
+.	.	.	.	.	1

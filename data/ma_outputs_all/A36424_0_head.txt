@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Friend	Friend	n1	Friend	friend	0
+IAMES	IAMES	np1	IAMES	Iames	0
+LVDFORD	LVDFORD	np1	LVDFORD	LVDFORD	0
+OF	OF	pp-f	OF	of	0
+ANSELY	ANSELY	av-j	ANSELY	anse	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

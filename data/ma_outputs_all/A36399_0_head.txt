@@ -1,0 +1,7 @@
+For	For	p-acp	For	for	0
+King	King	n1	King	king	0
+Charls	Charls	np1	Charls	Charles	0
+Prisoner	Prisoner	n1	Prisoner	prisoner	0
+,	,	,	,	,	0
+these	these	d	these	these	0
+.	.	.	.	.	1

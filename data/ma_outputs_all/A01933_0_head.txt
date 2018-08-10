@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+IMPERIALL	IMPERIALL	j-jn	IMPERIAL	imperial	0
+MAIESTY	MAIESTY	n1	MAIESTY	majesty	0
+of	of	pp-f	of	of	0
+GREAT	GREAT	j	GREAT	great	0
+BRITAINES	BRITAINES	npg1	BRITAINES	Britain	0
+Monarch	Monarch	n1	Monarch	monarch	0
+JAMES	JAMES	np1	JAMES	James	0
+&c.	&c.	av	etc.	etc	1

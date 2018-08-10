@@ -1,0 +1,4 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+dedicatory	dedicatory	j	dedicatory	dedicatory	0
+.	.	.	.	.	1

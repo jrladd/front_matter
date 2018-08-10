@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+VVorshipfull	VVorshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Goodere	Goodere	fw-la	Goodere	goodere	0
+of	of	pp-f	of	of	0
+Powlesworth	Powlesworth	np1	Powlesworth	Powlesworth	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

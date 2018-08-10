@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+respective	respective	j	respective	respective	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HUM	HUM	uh	HUM	humh	0
+.	.	.	.	.	1
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

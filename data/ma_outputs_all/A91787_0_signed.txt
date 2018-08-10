@@ -1,0 +1,3 @@
+Samuel	Samuel	np1	Samuel	Samuel	0
+Richardson	Richardson	np1	Richardson	Richardson	0
+.	.	.	.	.	1

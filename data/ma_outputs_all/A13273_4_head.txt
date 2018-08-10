@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+Royal	Royal	j	Royal	royal	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+,	,	,	,	,	0
+Infanta	Infanta	n1	Infanta	infanta	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+;	;	;	;	;	0
+Princess	Princess	n1	Princess	princess	0
+PALATINE	PALATINE	jp	PALATINE	palatine	0
+of	of	pp-f	of	of	0
+Rhine	Rhine	np1	Rhine	Rhine	0
+.	.	.	.	.	1

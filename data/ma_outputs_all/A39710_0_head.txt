@@ -1,0 +1,10 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+his	his	po31	his	his	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+FRIENDS	FRIENDS	n2	FRIENDS	friend	0
+.	.	.	.	.	1

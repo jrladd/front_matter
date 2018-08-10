@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+AN	AN	dt	AND	a	0
+.	.	.	.	.	1
+MVNDY	MVNDY	np1	MVNDY	MVNDY	0
+.	.	.	.	.	1

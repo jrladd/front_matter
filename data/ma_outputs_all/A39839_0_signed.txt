@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+witness	witness	n1	witness	witness	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+merit	merit	n1	merit	merit	0
+,	,	,	,	,	0
+CHR	CHR	np1	CHR	Chr	0
+.	.	.	.	.	1
+FLOVVER	FLOVVER	n1	FLOVVER	flovver	0
+.	.	.	.	.	1

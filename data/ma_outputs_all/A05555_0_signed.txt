@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+truely	truely	av-j	truly	true	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+JOHN	JOHN	np1	JOHN	John	0
+BASTWICK	BASTWICK	np1	BASTWICK	Bastwick	0
+.	.	.	.	.	1

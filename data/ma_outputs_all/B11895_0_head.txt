@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+VERY	VERY	j	VERY	very	0
+GOOD	GOOD	j	GOOD	good	0
+friends	friends	n2	friends	friend	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Zouch	Zouch	vvb	Zouch	zouch	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Ed	Ed	wd	Ed	ed	0
+∣	∣	sy	∣	∣	0
+ward	ward	n1	ward	ward	0
+Fittn	Fittn	np1	Fittn	Fittn	0
+,	,	,	,	,	0
+Esquiers	Esquiers	n2	Esquires	esquire	0
+.	.	.	.	.	1

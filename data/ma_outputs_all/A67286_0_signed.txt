@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+as	as	c-acp	as	as	0
+most	most	ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+servant	servant	n1	servant	servant	0
+Will	Will	vmb	Will	will	0
+.	.	.	.	.	1
+Walker	Walker	np1	Walker	Walker	0
+.	.	.	.	.	1

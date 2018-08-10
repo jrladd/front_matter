@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Walter	Walter	np1	Walter	Walter	0
+Sweeper	Sweeper	n1	Sweeper	sweeper	0
+.	.	.	.	.	1

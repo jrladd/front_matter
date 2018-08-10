@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+humble	humble	j	humble	humble	0
+Serv.	Serv.	np1	Serv.	Serv.	0
+t	t	sy	tO	t	0
+E.	E.	np1	E.	E.	0
+W.	W.	np1	W.	W.	1

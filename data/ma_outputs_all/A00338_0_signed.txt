@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+humile	humile	n1	humile	humile	0
+seruaunt	seruaunt	n1	servant	servant	0
+,	,	,	,	,	0
+Philyppe	Philyppe	vvi	Philyppe	philyppe	0
+Gerrard	Gerrard	np1	Gerrard	Gerrard	0
+,	,	,	,	,	1

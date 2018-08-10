@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Strange	Strange	j	Strange	strange	0
+.	.	.	.	.	1

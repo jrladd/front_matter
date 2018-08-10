@@ -1,0 +1,15 @@
+JOHN	JOHN	np1	JOHN	John	0
+SIDWAY	SIDWAY	np1	SIDWAY	SIDWAY	0
+wisheth	wisheth	vvz	wishes	wish	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+Mer	Mer	uh	Mere	mer	0
+∣	∣	sy	∣	∣	0
+cy	cy	n1	cy	cy	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+,	,	,	,	,	0
+through	through	p-acp	through	through	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1

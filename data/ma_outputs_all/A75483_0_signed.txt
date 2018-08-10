@@ -1,0 +1,14 @@
+De	De	fw-fr	De	de	0
+vostre	vostre	fw-fr	vostre	vostre	0
+Grandeur	Grandeur	n1	Grandeur	grandeur	0
+le	le	fw-fr	le	le	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+,	,	,	,	,	0
+tres-obeissant	tres-obeissant	j	tres-obeisant	tres-obeisant	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+tres-fidelle	tres-fidelle	j	tres-fidelle	tres-fidelle	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+,	,	,	,	,	0
+DURYER	DURYER	np1	DURYER	DURYER	0
+.	.	.	.	.	1

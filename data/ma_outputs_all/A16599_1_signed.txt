@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+brother	brother	n1	brother	brother	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+:	:	:	:	:	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Bradshaw	Bradshaw	np1	Bradshaw	Bradshaw	0
+.	.	.	.	.	1

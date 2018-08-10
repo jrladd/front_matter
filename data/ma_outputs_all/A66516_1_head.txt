@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
+Sr	Sr	n1	Sir	sir	0
+Theophilus	Theophilus	np1	Theophilus	Theophilus	0
+Biddulph	Biddulph	np1	Biddulph	Biddulph	0
+,	,	,	,	,	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+and	and	cc	and	and	0
+BARONET	BARONET	n1	BARONET	baronet	0
+.	.	.	.	.	1

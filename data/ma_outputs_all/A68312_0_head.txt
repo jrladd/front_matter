@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+my	my	po11	my	my	0
+Noble	Noble	j	Noble	noble	0
+Friend	Friend	n1	Friend	friend	0
+N.H.	N.H.	np1	N.H.	N.H.	1

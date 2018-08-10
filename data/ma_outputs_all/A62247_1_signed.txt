@@ -1,0 +1,8 @@
+Paternitati	Paternitati	n1	Paternitati	paternitati	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+omni	omni	fw-la	omni	omni	0
+officio	officio	fw-la	officio	officio	0
+devinctissimus	devinctissimus	fw-la	devinctissimus	devinctissimus	0
+,	,	,	,	,	0
+H.	H.	np1	H.	H.	0
+S.	S.	np1	S.	S.	1

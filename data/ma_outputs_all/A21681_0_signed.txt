@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+H	H	zz	H	h	0
+H.	H.	np1	H.	H.	0
+humble	humble	j	humble	humble	0
+suppliant	suppliant	j-jn	suppliant	suppliant	0
+:	:	:	:	:	0
+Henry	Henry	np1	Henry	Henry	0
+Arthington	Arthington	np1	Arthington	Arthington	0
+.	.	.	.	.	0
+prisoner	prisoner	n1	prisoner	prisoner	0
+.	.	.	.	.	1

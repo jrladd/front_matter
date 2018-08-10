@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lord	Lord	n1	Lord	lord	0
+∣	∣	sy	∣	∣	0
+ships	ships	n2	ships	ship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duetie	duetie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+VVilliam	VVilliam	np1	VVilliam	William	0
+Barlowe	Barlowe	np1	Barlowe	Barlowe	0
+.	.	.	.	.	1

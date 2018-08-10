@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+affection	affection	n1	affection	affection	0
+at	at	p-acp	at	at	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Work	Work	n1	Work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ministry	Ministry	n1	Ministry	ministry	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+JO	JO	np1	JO	Jo	0
+:	:	:	:	:	0
+PATERSONE	PATERSONE	n1	PATERSONE	patersone	0
+.	.	.	.	.	1

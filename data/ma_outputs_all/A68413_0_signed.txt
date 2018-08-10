@@ -1,0 +1,12 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+alwayes	alwayes	av	always	always	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Lichefield	Lichefield	np1	Lichefield	Lichefield	0
+,	,	,	,	,	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+.	.	.	.	.	1

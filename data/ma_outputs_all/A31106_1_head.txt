@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHIPFƲL	WORSHIPFƲL	j	WORSHIPFƲL	worshipfʋl	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PRINNE	PRINNE	vvi	PRINNE	prinne	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+,	,	,	,	,	0
+A	A	dt	A	a	0
+Bencher	Bencher	n1	Bencher	bencher	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+Society	Society	n1	Society	society	0
+of	of	pp-f	of	of	0
+Lincolns-Inn	Lincolns-Inn	n1	Lincolns-Inn	lincolns-inn	0
+.	.	.	.	.	1

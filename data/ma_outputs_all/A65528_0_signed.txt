@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honor's	Honor's	n1|vbz	Honor's	honor|be	0
+truly	truly	av-j	truly	true	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+HARTLIB	HARTLIB	j	HARTLIB	hartlib	0
+.	.	.	.	.	1

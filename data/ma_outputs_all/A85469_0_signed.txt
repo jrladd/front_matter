@@ -1,0 +1,3 @@
+VValter	VValter	np1	VValter	VValter	0
+Gostelo	Gostelo	np1	Gostelo	Gostelo	0
+.	.	.	.	.	1

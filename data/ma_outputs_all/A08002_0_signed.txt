@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+admired	admired	j-vvn	admired	admire	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+most	most	ds	most	most	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+.	.	.	.	.	1
+Tho.	Tho.	np1	Tho.	Tho.	0
+Nash	Nash	np1	Nash	Nash	0
+.	.	.	.	.	1

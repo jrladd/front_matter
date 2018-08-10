@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+illustrious	illustrious	j	illustrious	illustrious	0
+and	and	cc	and	and	0
+venerable	venerable	j	venerable	venerable	0
+Brothers	Brothers	n2	Brother's	brother	0
+and	and	cc	and	and	0
+Sisters	Sisters	n2	Sisters	sister	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Company	Company	n1	Company	company	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+glorious	glorious	j	glorious	glorious	0
+Virgin	Virgin	n1	Virgin	virgin	0
+.	.	.	.	.	1

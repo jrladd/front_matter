@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+Supplicant	Supplicant	n1	Supplicant	supplicant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PLUME	PLUME	n1	PLUME	plume	0
+.	.	.	.	.	1

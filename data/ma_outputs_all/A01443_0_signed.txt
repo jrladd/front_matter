@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+at	at	p-acp	at	at	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+mandement	mandement	n1	mandment	mandment	0
+,	,	,	,	,	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Gardiner	Gardiner	np1	Gardiner	Gardiner	0
+.	.	.	.	.	1

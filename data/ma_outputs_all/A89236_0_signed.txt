@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+de	de	zz	de	de	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+WALT	WALT	np1	WALT	Walt	0
+.	.	.	.	.	1
+MONTAGU	MONTAGU	np1	MONTAGU	Montagu	0
+.	.	.	.	.	1

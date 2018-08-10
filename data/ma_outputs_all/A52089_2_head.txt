@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+high	high	j	high	high	0
+Inamoretto	Inamoretto	np1	Inamoretto	Inamoretto	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+MARY	MARY	np1	MARY	MARY	0
+MARTEN	MARTEN	np1	MARTEN	Marten	0
+.	.	.	.	.	1

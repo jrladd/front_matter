@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+zealous	zealous	j	zealous	zealous	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+humble	humble	j	humble	humble	0
+Seruant	Seruant	n1	Servant	servant	0
+.	.	.	.	.	1
+Humphrey	Humphrey	np1	Humphrey	Humphrey	0
+King	King	n1	King	king	0
+.	.	.	.	.	1

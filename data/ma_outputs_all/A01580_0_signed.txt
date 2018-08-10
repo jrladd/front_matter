@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+bounden	bounden	vvn	bounden	bind	0
+at	at	p-acp	at	at	0
+seruice	seruice	n1	service	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+GEE	GEE	np1	GEE	Gee	0
+.	.	.	.	.	1

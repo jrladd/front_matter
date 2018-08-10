@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+SOUTH	SOUTH	n1	SOUTH	south	0
+.	.	.	.	.	1

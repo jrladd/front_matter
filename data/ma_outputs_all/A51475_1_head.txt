@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+AUTHOUR'S	AUTHOUR'S	ng1	AUTHOUR'S	author	0
+Dedication	Dedication	n1	Dedication	dedication	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+French	French	jp	French	french	0
+King	King	n1	King	king	0
+.	.	.	.	.	1

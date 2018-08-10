@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Wòrships	Wòrships	n2	Wòrships	wòrship	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	j-vvn	devoted	devote	0
+ARTHVR	ARTHVR	np1	ARTHVR	ARTHVR	0
+WARVVICK	WARVVICK	np1	WARVVICK	WARVVICK	0
+.	.	.	.	.	1

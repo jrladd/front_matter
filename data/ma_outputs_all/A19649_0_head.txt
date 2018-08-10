@@ -1,0 +1,14 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Pope	Pope	n1	Pope	pope	0
+his	his	po31	his	his	0
+Catholiques	Catholiques	njp2	Catholics	catholic	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+England	England	np1	England	England	0
+or	or	cc	or	or	0
+else	else	av	else	else	0
+where	where	c-crq	where	where	0
+.	.	.	.	.	1

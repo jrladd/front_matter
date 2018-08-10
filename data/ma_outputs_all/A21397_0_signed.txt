@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+affected	affected	j-vvn	affected	affect	0
+,	,	,	,	,	0
+Ro.	Ro.	np1	Ro.	Ro.	0
+Armin	Armin	np1	Armin	Armin	0
+.	.	.	.	.	1

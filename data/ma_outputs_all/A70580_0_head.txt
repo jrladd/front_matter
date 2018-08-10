@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Most	Most	av-ds	Most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Prince	Prince	n1	Prince	prince	0
+JAMES	JAMES	np1	JAMES	James	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Yorke	Yorke	np1	Yorke	York	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

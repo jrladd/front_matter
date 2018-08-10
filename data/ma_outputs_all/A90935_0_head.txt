@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Honou	Honou	np1	Honou	Honou	0
+∣	∣	sy	∣	∣	0
+rable	rable	n1	rabble	rabble	0
+the	the	cs	the	than	0
+Count	Count	n1	Count	count	0
+De	De	fw-fr	De	de	0
+Louvigny	Louvigny	np1	Louvigny	Louvigny	0
+,	,	,	,	,	0
+Governor	Governor	n1	Governor	governor	0
+of	of	pp-f	of	of	0
+Navar	Navar	np1	Navar	Navarre	0
+&	&	cc	&	and	0
+Bearn	Bearn	np1	Bearn	Bearn	0
+.	.	.	.	.	1

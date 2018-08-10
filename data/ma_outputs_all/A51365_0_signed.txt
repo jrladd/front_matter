@@ -1,0 +1,13 @@
+His	His	po31	His	his	0
+most	most	av-ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+,	,	,	,	,	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+MAT	MAT	n1	MAT	mat	0
+.	.	.	.	.	1
+MORGAN	MORGAN	np1	MORGAN	Morgan	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+A	A	dt	A	a	0
+Lover	Lover	n1	Lover	lover	0
+of	of	pp-f	of	of	0
+this	this	d	this	this	0
+Art	Art	n1	Art	art	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+of	of	pp-f	of	of	0
+you	you	pn22	you	you	0
+all	all	d	all	all	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Jackson	Jackson	np1	Jackson	Jackson	0
+.	.	.	.	.	1

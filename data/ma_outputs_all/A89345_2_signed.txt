@@ -1,0 +1,4 @@
+SA	SA	uh	SA	sa	0
+.	.	.	.	.	1
+RUTTER	RUTTER	np1	RUTTER	Rutter	0
+.	.	.	.	.	1

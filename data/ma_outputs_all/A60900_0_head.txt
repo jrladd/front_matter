@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+ANSLEY	ANSLEY	np1	ANSLEY	Ansley	0
+,	,	,	,	,	0
+Dean	Dean	n1	Dean	dean	0
+of	of	pp-f	of	of	0
+Exon.	Exon.	np1	Exon.	Exon.	1

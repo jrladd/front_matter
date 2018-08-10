@@ -1,0 +1,11 @@
+As	As	p-acp	As	as	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+I	I	pns11	I	i	0
+haue	haue	vhb	have	have	0
+doone	doone	vdn	done	do	0
+,	,	,	,	,	0
+Fare	Fare	vvb	Fare	fare	0
+you	you	pn22	you	you	0
+well	well	av	well	well	0
+.	.	.	.	.	1

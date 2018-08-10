@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humbly-deuoted	humbly-deuoted	j	humbly-devoted	humbly-devoted	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+house	house	n1	house	house	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+FEATLY	FEATLY	av-j	FEATLY	feat	0
+.	.	.	.	.	1

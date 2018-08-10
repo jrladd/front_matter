@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truely	truely	av-j	truly	true	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Mary	Mary	uh	Marry	mary	0
+Griffith	Griffith	np1	Griffith	Griffith	0
+:	:	:	:	:	1

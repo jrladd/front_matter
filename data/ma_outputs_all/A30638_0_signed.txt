@@ -1,0 +1,8 @@
+Thy	Thy	po21	Thy	thy	0
+carefull	carefull	j	careful	careful	0
+and	and	cc	and	and	0
+loving	loving	j-vvg	loving	love	0
+Father	Father	n1	Father	father	0
+.	.	.	.	.	1
+E.	E.	np1	E.	E.	0
+B.	B.	np1	B.	B.	1

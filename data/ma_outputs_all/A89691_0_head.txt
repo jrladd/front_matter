@@ -1,0 +1,6 @@
+HUMBLY	HUMBLY	av-j	HUMBLY	humble	0
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+TO	TO	p-acp	TO	to	0
+Madam	Madam	n1	Madam	madam	0
+F.	F.	np1	F.	F.	0
+N.	N.	np1	N.	N.	1

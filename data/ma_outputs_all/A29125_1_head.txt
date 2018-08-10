@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+M.	M.	n1	M.	m.	0
+John	John	np1	John	John	0
+Goodwin	Goodwin	np1	Goodwin	Goodwin	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+God	God	np1	God	God	0
+walking	walking	vvg	walking	walk	0
+with	with	p-acp	with	with	0
+him	him	pno31	him	he	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

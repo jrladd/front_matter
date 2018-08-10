@@ -1,0 +1,10 @@
+Thy	Thy	po21	Thy	thy	0
+Real	Real	j	Real	real	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Well-wisher	Well-wisher	j	Wellwisher	wellwish	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+B.	B.	np1	B.	B.	0
+P.	P.	np1	P.	P.	1

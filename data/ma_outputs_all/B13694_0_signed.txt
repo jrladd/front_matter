@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+GARDINER	GARDINER	np1	GARDINER	Gardiner	0
+.	.	.	.	.	0
+ex	ex	fw-la	ex	ex	0
+Aede	Aede	vvd	Aede	aede	0
+Christi	Christi	fw-la	Christi	christi	0
+.	.	.	.	.	1

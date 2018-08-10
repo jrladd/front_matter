@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+worthy	worthy	j	worthy	worthy	0
+Society	Society	n1	Society	society	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Company	Company	n1	Company	company	0
+of	of	pp-f	of	of	0
+MERCHANT-TAYLORS	MERCHANT-TAYLORS	ng1	MERCHANT-TAYLORS	merchant-taylors	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Ancient	Ancient	j	Ancient	ancient	0
+Friends	Friends	n2	Friends	friend	0
+F.S.	F.S.	np1	F.S.	F.S.	0
+E.B.	E.B.	np1	E.B.	E.B.	0
+H.S.	H.S.	np1	H.S.	H.S.	0
+J.C.	J.C.	np1	J.C.	J.C.	0
+I.N.	I.N.	np1	I.N.	I.N.	0
+A.L.	A.L.	np1	A.L.	A.L.	0
+M.L.	M.L.	np1	M.L.	M.L.	0
+T.C.	T.C.	np1	T.C.	T.C.	1

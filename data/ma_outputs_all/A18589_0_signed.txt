@@ -1,0 +1,7 @@
+Her	Her	po31	Her	her	0
+ill	ill	j-jn	ill	ill	0
+Townesman	Townesman	n1	Townsman	townsman	0
+,	,	,	,	,	0
+Ri.	Ri.	np1	Ri.	Ri.	0
+Dauies	Dauies	np1	Dauies	Davies	0
+.	.	.	.	.	1

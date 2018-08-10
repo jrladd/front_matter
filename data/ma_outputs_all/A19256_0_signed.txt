@@ -1,0 +1,16 @@
+Euer	Euer	av	Ever	ever	0
+vowed	vowed	vvd	vowed	vow	0
+to	to	p-acp	to	to	0
+you	you	pn22	you	you	0
+(	(	(	(	(	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+)	)	)	)	)	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Cooke	Cooke	n1	Cook	cook	0
+.	.	.	.	.	1

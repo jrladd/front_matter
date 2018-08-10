@@ -1,0 +1,9 @@
+Mawl	Mawl	n1	Mawl	mawl	0
+ir	ir	zz	ir	ir	0
+cyfieithydd	cyfieithydd	uh	cyfieithydd	cyfieithydd	0
+o	o	uh	oh	oh	0
+waith	waith	uh	waith	waith	0
+GRY	GRY	j	GRY	gry	0
+.	.	.	.	.	1
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+.	.	.	.	.	1

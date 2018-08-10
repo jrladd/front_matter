@@ -1,0 +1,2 @@
+Iohn	Iohn	np1	Iohn	John	0
+Bale	Bale	n1	Bale	bale	1

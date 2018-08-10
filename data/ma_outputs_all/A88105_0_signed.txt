@@ -1,0 +1,14 @@
+To	To	pc-acp	To	to	0
+be	be	vbi	be	be	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+and	and	cc	and	and	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+yours	yours	png22	yours	you	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+acceptable	acceptable	j	acceptable	acceptable	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+LEY	LEY	np1	LEY	Ley	0
+.	.	.	.	.	1

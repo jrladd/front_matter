@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HEROICK	HEROICK	j	HEROIC	heroic	0
+AND	AND	cc	AND	and	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+NOVRABLE	NOVRABLE	np1	NOVRABLE	NOVRABLE	0
+,	,	,	,	,	0
+GE	GE	zz	GE	ge	0
+∣	∣	sy	∣	∣	0
+NERALL	NERALL	n1	NERALL	nerall	0
+CE	CE	fw-fr	CE	ce	0
+∣	∣	sy	∣	∣	0
+CILL	CILL	np1	CILL	CILL	0
+.	.	.	.	.	1

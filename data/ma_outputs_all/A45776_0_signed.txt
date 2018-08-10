@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+Irish	Irish	jp	Irish	irish	0
+.	.	.	.	.	1

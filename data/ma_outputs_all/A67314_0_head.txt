@@ -1,0 +1,9 @@
+Illustrissimo	Illustrissimo	fw-la	Illustrissimo	illustrissimo	0
+VIRO	VIRO	fw-la	VIRO	viro	0
+,	,	,	,	,	0
+HEROI	HEROI	np1	HEROI	HEROI	0
+MAVORTIO	MAVORTIO	fw-la	MAVORTIO	mavortio	0
+DOMINO	DOMINO	fw-la	DOMINO	domino	0
+OLIVERIO	OLIVERIO	np1	OLIVERIO	OLIVERIO	0
+CROMWELLO	CROMWELLO	np1	CROMWELLO	CROMWELLO	0
+,	,	,	,	,	1

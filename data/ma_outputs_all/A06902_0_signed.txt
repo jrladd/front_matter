@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	n2	Majesties	majesty	0
+,	,	,	,	,	0
+poore	poore	j	poor	poor	0
+Vassaile	Vassaile	n1	Vassal	vassal	0
+and	and	cc	and	and	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+GERVASE	GERVASE	np1	GERVASE	GERVASE	0
+MARKHAM	MARKHAM	np1	MARKHAM	Markham	0
+.	.	.	.	.	1

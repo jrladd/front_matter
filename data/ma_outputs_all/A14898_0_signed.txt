@@ -1,0 +1,3 @@
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+VVEELKES	VVEELKES	n2	VVEELKES	vveelke	0
+.	.	.	.	.	1

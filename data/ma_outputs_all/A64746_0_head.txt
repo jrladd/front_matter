@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+truly	truly	av-j	truly	true	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Excellently	Excellently	av-j	Excellently	excellent	0
+accomplish'd	accomplish'd	vvd	accomplished	accomplish	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LORD	LORD	n1	LORD	lord	0
+KILDARE	KILDARE	np1	KILDARE	Kildare	0
+DIGBY	DIGBY	np1	DIGBY	Digby	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Saints	Saints	n2	Saints	saint	0
+and	and	cc	and	and	0
+Churches	Churches	n2	Churches	church	0
+of	of	pp-f	of	of	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Christian	Christian	np1	Christian	Christian	0
+Salutation	Salutation	n1	Salutation	salutation	0
+.	.	.	.	.	1

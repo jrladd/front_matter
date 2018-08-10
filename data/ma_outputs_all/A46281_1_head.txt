@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+AND	AND	cc	AND	and	0
+Learned	Learned	j	Learned	learned	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+MAPLETT	MAPLETT	np1	MAPLETT	MAPLETT	0
+,	,	,	,	,	0
+Doctor	Doctor	n1	Doctor	doctor	0
+in	in	p-acp	in	in	0
+PHYSICK	PHYSICK	n1	PHYSICK	physic	0
+.	.	.	.	.	1

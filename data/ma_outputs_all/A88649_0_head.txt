@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Ho	Ho	uh	Ho	ho	0
+∣	∣	sy	∣	∣	0
+nourable	nourable	j	nourable	nourable	0
+the	the	dt	the	the	0
+Council	Council	n1	Council	council	0
+of	of	pp-f	of	of	0
+State	State	n1	State	state	0
+.	.	.	.	.	1

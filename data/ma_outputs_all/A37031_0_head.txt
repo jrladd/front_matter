@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Young	Young	j	Young	young	0
+Students	Students	n2	Students	student	0
+of	of	pp-f	of	of	0
+both	both	d	both	both	0
+Universities	Universities	n2	Universities	university	0
+.	.	.	.	.	1

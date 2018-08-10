@@ -1,0 +1,11 @@
+I	I	pns11	I	i	0
+Subscribe	Subscribe	vvb	Subscribe	subscribe	0
+my	my	po11	my	my	0
+self	self	n1	self	self	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+W.	W.	np1	W.	W.	1

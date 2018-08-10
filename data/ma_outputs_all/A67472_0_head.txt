@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+HENRY	HENRY	np1	HENRY	Henry	0
+BROME	BROME	np1	BROME	Brome	0
+in	in	p-acp	in	in	0
+St.	St.	n1	St.	saint	0
+Paul's	Paul's	npg1	Paul's	Paul	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+,	,	,	,	,	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

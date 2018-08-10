@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+GEREE	GEREE	n1	GEREE	geree	0
+.	.	.	.	.	1

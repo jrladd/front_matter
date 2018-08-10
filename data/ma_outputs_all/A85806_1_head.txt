@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+English	English	jp	English	english	0
+Nation	Nation	n1	Nation	nation	0
+.	.	.	.	.	1

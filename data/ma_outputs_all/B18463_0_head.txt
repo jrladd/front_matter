@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+JAMES	JAMES	np1	JAMES	James	0
+EARL	EARL	n1	EARL	earl	0
+OF	OF	pp-f	OF	of	0
+PERTH	PERTH	np1	PERTH	Perth	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	0
+Lord	Lord	n1	Lord	lord	0
+High-Chancellor	High-Chancellor	n1	High-Chancellor	high-chancellor	0
+OF	OF	pp-f	OF	of	0
+SCOTLAND	SCOTLAND	np1	SCOTLAND	Scotland	0
+.	.	.	.	.	1

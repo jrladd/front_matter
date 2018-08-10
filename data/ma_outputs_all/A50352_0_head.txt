@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+Author's	Author's	ng1	Author's	author	0
+humble	humble	j	humble	humble	0
+Petition	Petition	vvb	Petition	petition	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+right	right	j-jn	right	right	0
+Royal	Royal	j	Royal	royal	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+thrice	thrice	av	thrice	thrice	0
+Noble	Noble	j	Noble	noble	0
+Patron	Patron	n1	Patron	patron	0
+.	.	.	.	.	1

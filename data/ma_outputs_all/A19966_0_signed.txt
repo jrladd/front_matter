@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+most	most	av-ds	most	most	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+and	and	cc	and	and	0
+loyally	loyally	av-j	loyally	loyal	0
+affected	affected	vvn	affected	affect	0
+.	.	.	.	.	1
+Angel	Angel	n1	Angel	angel	0
+Daie	Daie	n1	Day	day	0
+.	.	.	.	.	1

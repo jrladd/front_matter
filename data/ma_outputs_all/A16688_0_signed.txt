@@ -1,0 +1,6 @@
+Amplitudinis	Amplitudinis	fw-la	Amplitudinis	amplitudinis	0
+tuae	tuae	fw-la	tuae	tuus	0
+deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
+GVLIELMVS	GVLIELMVS	fw-la	GVLIELMVS	gvlielmvs	0
+HOWARDVS	HOWARDVS	np1	HOWARDVS	HOWARDVS	0
+.	.	.	.	.	1

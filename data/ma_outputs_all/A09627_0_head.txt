@@ -1,0 +1,17 @@
+Unto	Unto	p-acp	Unto	unto	0
+his	his	po31	his	his	0
+ryght	ryght	j-jn	right	right	0
+entyerly	entyerly	j	entyerly	entyerly	0
+beloued	beloued	j-vvn	beloved	belove	0
+syster	syster	n1	sister	sister	0
+in	in	p-acp	in	in	0
+chryst	chryst	np1	chryst	Christ	0
+Ioyeuce	Ioyeuce	np1	Ioyeuce	Ioyeuce	0
+Leygh	Leygh	vvb	Leygh	leygh	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+more	more	av-dc	more	more	0
+gretyng	gretyng	n1	greeting	greeting	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+lorde	lorde	n1	lord	lord	0
+.	.	.	.	.	1

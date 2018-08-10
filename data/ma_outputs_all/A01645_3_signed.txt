@@ -1,0 +1,5 @@
+Ità	Ità	fw-fr	Ità	ità	0
+testor	testor	n1	testor	testor	0
+R.	R.	np1	R.	R.	0
+WINTERTON	WINTERTON	np1	WINTERTON	Winterton	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+much	much	d	much	much	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+,	,	,	,	,	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Orator	Orator	n1	Orator	orator	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+SMITH	SMITH	n1	SMITH	smith	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honll	Honll	j	Honll	honll	0
+:	:	:	:	:	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+euer-honor'd	euer-honor'd	j	ever-honored	ever-honored	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Lord	Lord	n1	Lord	lord	0
+Matrauers	Matrauers	n2	Matrauers	matrauer	0
+.	.	.	.	.	1

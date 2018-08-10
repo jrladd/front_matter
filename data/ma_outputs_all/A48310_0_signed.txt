@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+much	much	av-d	much	much	0
+bounden	bounden	vvn	bounden	bind	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+LAKE	LAKE	n1	LAKE	lake	0
+.	.	.	.	.	1

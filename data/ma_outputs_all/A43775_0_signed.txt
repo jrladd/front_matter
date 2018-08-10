@@ -1,0 +1,11 @@
+Tuorum	Tuorum	np1	Tuorum	Tuorum	0
+Servorum	Servorum	fw-la	Servorum	servorum	0
+omnium	omnium	fw-la	omnium	omnium	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Juris-prudentium	Juris-prudentium	j	Juris-prudentium	juris-prudentium	0
+minimior	minimior	n1	minimior	minimior	0
+,	,	,	,	,	0
+PHILANTHROPUS	PHILANTHROPUS	np1	PHILANTHROPUS	PHILANTHROPUS	0
+.	.	.	.	.	1

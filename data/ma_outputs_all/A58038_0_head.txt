@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Society	Society	n1	Society	society	0
+for	for	p-acp	for	for	0
+Refor	Refor	np1	Refor	Refor	0
+∣	∣	sy	∣	∣	0
+mation	mation	n1	mansion	mansion	0
+of	of	pp-f	of	of	0
+Manners	Manners	n2	Manners	manner	0
+in	in	p-acp	in	in	0
+Nottingham	Nottingham	np1	Nottingham	Nottingham	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+affectioned	affectioned	j-vvn	affectioned	affection	0
+Brother	Brother	n1	Brother	brother	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Patience	Patience	n1	Patience	patience	0
+and	and	cc	and	and	0
+Faith	Faith	n1	Faith	faith	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Saints	Saints	n2	Saints	saint	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Arthurbury	Arthurbury	np1	Arthurbury	Arthurbury	0
+.	.	.	.	.	1

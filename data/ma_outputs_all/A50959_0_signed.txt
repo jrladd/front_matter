@@ -1,0 +1,3 @@
+JOHN	JOHN	np1	JOHN	John	0
+MILTON	MILTON	np1	MILTON	Milton	0
+.	.	.	.	.	1

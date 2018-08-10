@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+new	new	j	new	new	0
+and	and	cc	and	and	0
+dearly-affected	dearly-affected	j	dearly-affected	dearly-affected	0
+CHARGE	CHARGE	n1	CHARGE	charge	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Diocese	Diocese	n1	Diocese	diocese	0
+of	of	pp-f	of	of	0
+EXCESTER	EXCESTER	np1	EXCESTER	EXCESTER	0
+,	,	,	,	,	0
+All	All	d	All	all	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Benediction	Benediction	n1	Benediction	benediction	0
+.	.	.	.	.	1

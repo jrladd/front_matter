@@ -1,0 +1,9 @@
+Sacellanus	Sacellanus	np1	Sacellanus	Sacellanus	0
+obsequentissimus	obsequentissimus	fw-la	obsequentissimus	obsequentissimus	0
+ET	ET	fw-la	ET	et	0
+Cliens	Cliens	n2-jn	Cliens	clien	0
+humillimus	humillimus	j	humillimus	humillimus	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+WHARTON	WHARTON	np1	WHARTON	WHARTON	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+Worships	Worships	vvz	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duties	duties	n2	duties	duty	0
+,	,	,	,	,	0
+Barthol	Barthol	np1	Barthol	Barthol	0
+.	.	.	.	.	1
+Robertson	Robertson	np1	Robertson	Robertson	0
+.	.	.	.	.	1

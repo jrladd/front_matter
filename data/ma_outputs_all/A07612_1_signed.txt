@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+Subiect	Subiect	j-jn	Subject	subject	0
+Doctor	Doctor	n1	Doctor	doctor	0
+Monardes	Monardes	npg1	Monardes	monardes	0
+▪	▪	▪	▪	▪	1

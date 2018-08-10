@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+ever	ever	av	ever	ever	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Uncle	Uncle	n1	Uncle	uncle	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+Shetterden	Shetterden	np1	Shetterden	Shetterden	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	1

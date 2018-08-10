@@ -1,0 +1,17 @@
+In	In	p-acp	In	in	0
+Marmora	Marmora	np1	Marmora	Marmora	0
+Arundelliana	Arundelliana	np1	Arundelliana	Arundelliana	0
+ab	ab	fw-la	ab	ab	0
+Honoratissimo	Honoratissimo	fw-la	Honoratissimo	honoratissimo	0
+Henrico	Henrico	np1	Henrico	Henrico	0
+Comite	Comite	np1	Comite	Comite	0
+Norwicensi	Norwicensi	fw-la	Norwicensi	norwicensi	0
+Et	Et	fw-la	Et	et	0
+supremo	supremo	fw-la	supremo	supremo	0
+Angliae	Angliae	fw-la	Angliae	angliae	0
+Marescallo	Marescallo	np1	Marescallo	Marescallo	0
+,	,	,	,	,	0
+Academiae	Academiae	np1	Academiae	Academiae	0
+Oxoniensi	Oxoniensi	fw-la	Oxoniensi	oxoniensi	0
+DATA	DATA	fw-la	DATA	data	0
+.	.	.	.	.	1

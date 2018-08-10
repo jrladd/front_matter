@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+bond-servant	bond-servant	n1	bondservant	bondservant	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+G.	G.	np1	G.	G.	1

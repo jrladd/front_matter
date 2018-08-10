@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+ADAMS	ADAMS	np1	ADAMS	Adams	0
+OF	OF	pp-f	OF	of	0
+WOLVERTON	WOLVERTON	np1	WOLVERTON	Wolverton	0
+Gent.	Gent.	n1	Gent.	gentleman	1

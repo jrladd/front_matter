@@ -1,0 +1,14 @@
+Mirth	Mirth	n1	Mirth	mirth	0
+and	and	cc	and	and	0
+Musicke	Musicke	n1	Music	music	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Cunning-catcher	Cunning-catcher	n1	Cunning-catcher	cunning-catcher	0
+,	,	,	,	,	0
+Derth	Derth	n1	Dearth	dearth	0
+and	and	cc	and	and	0
+Physicke	Physicke	n1	Physic	physic	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Cony-catcher	Cony-catcher	n1	Conycatcher	cony-catcher	0
+.	.	.	.	.	1

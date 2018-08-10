@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+ever	ever	av	ever	ever	0
+honoured	honoured	j-vvn	honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+MARY	MARY	np1	MARY	MARY	0
+HINTON	HINTON	np1	HINTON	Hinton	0
+.	.	.	.	.	1

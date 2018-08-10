@@ -1,0 +1,13 @@
+A	A	dt	A	a	0
+LETTER	LETTER	n1	LETTER	letter	0
+CONCERNING	CONCERNING	vvg	CONCERNING	concern	0
+The	The	dt	The	the	0
+Ephesian	Ephesian	jp	Ephesian	ephesian	0
+MATRON	MATRON	n1	MATRON	matron	0
+:	:	:	:	:	0
+To	To	p-acp	To	to	0
+a	a	dt	a	a	0
+Person	Person	n1	Person	person	0
+of	of	pp-f	of	of	0
+Honour	Honour	n1	Honour	honour	0
+.	.	.	.	.	1

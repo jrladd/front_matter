@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+firmly	firmly	av-j	firmly	firm	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Freman	Freman	np1	Freman	Freman	0
+.	.	.	.	.	1

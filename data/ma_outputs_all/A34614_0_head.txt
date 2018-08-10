@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+ROYALL	ROYALL	j	ROYAL	royal	0
+HIGHNES	HIGHNES	n1	HIGHNES	highness	0
+the	the	dt	the	the	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+Of	Of	pp-f	Of	of	0
+ORANGE	ORANGE	np1	ORANGE	Orange	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+Tho	Tho	av	Though	tho	0
+:	:	:	:	:	0
+Cartwright	Cartwright	np1	Cartwright	Cartwright	0
+.	.	.	.	.	1

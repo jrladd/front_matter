@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+reference	reference	n1	reference	reference	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+publike	publike	j	public	public	0
+good	good	j	good	good	0
+.	.	.	.	.	1
+The	The	dt	The	the	0
+Translator	Translator	n1	Translator	translator	0
+.	.	.	.	.	1

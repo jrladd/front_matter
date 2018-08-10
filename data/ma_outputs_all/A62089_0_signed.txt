@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RI	RI	zz	RI	ri	0
+.	.	.	.	.	1
+BAXTER	BAXTER	np1	BAXTER	Baxter	0
+.	.	.	.	.	1

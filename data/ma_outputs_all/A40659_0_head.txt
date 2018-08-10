@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+truely	truely	av-j	truly	true	0
+religious	religious	j	religious	religious	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+ISABELLA	ISABELLA	np1	ISABELLA	Isabel	0
+,	,	,	,	,	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Northampton	Northampton	np1	Northampton	Northampton	0
+.	.	.	.	.	1

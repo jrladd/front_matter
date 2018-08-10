@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+Walter	Walter	np1	Walter	Walter	0
+Owsold	Owsold	np1	Owsold	Owsold	0
+.	.	.	.	.	1

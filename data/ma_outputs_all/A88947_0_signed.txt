@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Loving	Loving	j-vvg	Loving	love	0
+Brethren	Brethren	n2	Brothers	brethren	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+MATHER	MATHER	np1	MATHER	Mather	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+TOMPSON	TOMPSON	np1	TOMPSON	Tompson	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Brethren	Brethren	n2	Brothers	brethren	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Ministry	Ministry	n1	Ministry	ministry	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Classical	Classical	j	Classical	classical	0
+Presbytery	Presbytery	n1	Presbytery	presbytery	0
+in	in	p-acp	in	in	0
+Bradford-North	Bradford-North	n1	Bradford-North	bradford-north	0
+.	.	.	.	.	1

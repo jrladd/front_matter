@@ -1,0 +1,7 @@
+AUX	AUX	fw-fr	AUX	aux	0
+PROFESSEURS	PROFESSEURS	fw-fr	PROFESSEURS	professeurs	0
+ET	ET	fw-fr	ET	et	0
+DOCTEURS	DOCTEURS	fw-fr	DOCTEURS	docteurs	0
+EN	EN	fw-fr	EN	en	0
+THEOLOGIE	THEOLOGIE	n1	THEOLOGIE	theology	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Levves	Levves	np1	Levves	Levves	0
+Maigret	Maigret	np1	Maigret	Maigret	0
+a	a	dt	a	a	0
+Lionnois	Lionnois	njp	Lionnois	lionnois	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+FRENCH	FRENCH	jp	FRENCH	french	0
+Nobility	Nobility	n1	Nobility	nobility	0
+.	.	.	.	.	1

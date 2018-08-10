@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+AND	AND	cc	AND	and	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+singular	singular	j	singular	singular	0
+good	good	j	good	good	0
+Patronesse	Patronesse	n1	Patroness	patroness	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+FINCH	FINCH	np1	FINCH	Finch	0
+.	.	.	.	.	1

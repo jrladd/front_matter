@@ -1,0 +1,14 @@
+(	(	(	(	(	0
+My	My	po11	My	my	0
+LORD	LORD	n1	LORD	lord	0
+)	)	)	)	)	0
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+Most	Most	av-ds	Most	most	0
+devoted	devoted	vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+MIDENSIS	MIDENSIS	np1	MIDENSIS	MIDENSIS	0
+.	.	.	.	.	1

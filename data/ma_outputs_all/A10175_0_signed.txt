@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+moste	moste	av-ds	most	most	0
+obeisant	obeisant	j	obeisant	obeisant	0
+,	,	,	,	,	0
+Prudent	Prudent	j	Prudent	prudent	0
+Choyselat	Choyselat	n1	Choyselat	choyselat	0
+.	.	.	.	.	1

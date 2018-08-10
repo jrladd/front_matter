@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+faithfull	faithfull	j	faithful	faithful	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+uant	uant	n1	uant	vaunt	0
+George	George	np1	George	George	0
+Whetstones	Whetstones	np1	Whetstones	Whetstone	0
+.	.	.	.	.	1

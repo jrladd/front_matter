@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+poore	poore	j	poor	poor	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+vnfained	vnfained	j	unfeigned	unfeigned	0
+wel-willer	wel-willer	n1	well-willer	well-willer	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+Mundy	Mundy	np1	Mundy	Mundy	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Their	Their	po32	Their	their	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+OGILBY	OGILBY	np1	OGILBY	OGILBY	0
+.	.	.	.	.	1

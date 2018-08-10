@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Work	Work	n1	Work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ministry	Ministry	n1	Ministry	ministry	0
+.	.	.	.	.	1
+Ed.	Ed.	np1	Ed.	Ed.	0
+Calamy	Calamy	np1	Calamy	Calamy	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Most	Most	av-ds	Most	most	0
+Dear	Dear	j-jn	Dear	dear	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Mr	Mr	n1	Mr	mr.	0
+S.	S.	np1	S.	S.	0
+VV.	VV.	np1	VV.	VV.	1

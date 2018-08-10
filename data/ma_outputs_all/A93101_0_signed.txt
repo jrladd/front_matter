@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+SHEPPARD	SHEPPARD	np1	SHEPPARD	Sheppard	0
+.	.	.	.	.	1

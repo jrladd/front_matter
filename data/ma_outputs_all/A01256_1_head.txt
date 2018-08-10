@@ -1,0 +1,4 @@
+Ad	Ad	fw-la	Ad	ad	0
+Regem	Regem	fw-la	Regem	regem	0
+Iacobum	Iacobum	fw-la	Iacobum	iacobum	0
+.	.	.	.	.	1

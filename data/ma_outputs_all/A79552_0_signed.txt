@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+faithful	faithful	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+GRANDISON	GRANDISON	np1	GRANDISON	Grandison	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+BEDFORD	BEDFORD	np1	BEDFORD	Bedford	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+RUSSEL	RUSSEL	np1	RUSSEL	Russel	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+THORNEHAƲGH	THORNEHAƲGH	np1	THORNEHAƲGH	THORNEHAƲGH	0
+.	.	.	.	.	1

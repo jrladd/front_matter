@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Heywood	Heywood	np1	Heywood	Heywood	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+AUTHOR	AUTHOR	n1	AUTHOR	author	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+ESSAY	ESSAY	n1	ESSAY	essay	0
+UPON	UPON	p-acp	UPON	upon	0
+Ways	Ways	n2	Ways	way	0
+and	and	cc	and	and	0
+Means	Means	n2	Means	mean	0
+.	.	.	.	.	1

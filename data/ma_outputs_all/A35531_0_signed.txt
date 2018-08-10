@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+servant	servant	n1	servant	servant	0
+De	De	fw-fr	De	de	0
+Cyrano	Cyrano	np1	Cyrano	Cyrano	0
+Bergerac	Bergerac	np1	Bergerac	Bergerac	0
+.	.	.	.	.	1

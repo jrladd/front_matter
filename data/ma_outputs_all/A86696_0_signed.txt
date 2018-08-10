@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Kingdom	Kingdom	n1	Kingdom	kingdom	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+HUGHES	HUGHES	np1	HUGHES	Hughes	0
+.	.	.	.	.	1

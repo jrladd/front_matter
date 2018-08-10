@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+Honest	Honest	j	Honest	honest	0
+Friend	Friend	n1	Friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PATE	PATE	n1	PATE	pate	0
+,	,	,	,	,	0
+Of	Of	pp-f	Of	of	0
+London	London	np1	London	London	0
+Woollen-draper	Woollen-draper	n1	Woollen-draper	woollen-draper	0
+.	.	.	.	.	1

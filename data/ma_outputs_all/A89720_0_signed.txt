@@ -1,0 +1,11 @@
+Devinctissimi	Devinctissimi	fw-la	Devinctissimi	devinctissimi	0
+vobis	vobis	fw-la	vobis	vobis	0
+fratris	fratris	fw-la	fratris	fratris	0
+ac	ac	fw-la	ac	ac	0
+in	in	p-acp	in	in	0
+Domino	Domino	fw-la	Domino	domino	0
+conservi	conservi	fw-la	conservi	conservi	0
+JOH	JOH	np1	JOH	Joh	0
+.	.	.	.	.	1
+NORMAN	NORMAN	np1	NORMAN	Norman	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Soul-Servant	Soul-Servant	n1	Soul-Servant	soul-servant	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Annesley	Annesley	np1	Annesley	Annesley	0
+.	.	.	.	.	1

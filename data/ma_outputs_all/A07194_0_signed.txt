@@ -1,0 +1,9 @@
+Maiestatis	Maiestatis	fw-la	Maiestatis	maiestatis	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+subd	subd	vvd	subd	subd	0
+.	.	.	.	.	0
+deuotiss	deuotiss	vvb	deuotiss	deuotiss	0
+.	.	.	.	.	1
+NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
+BRENT	BRENT	vvd	BRENT	burn	0
+.	.	.	.	.	1

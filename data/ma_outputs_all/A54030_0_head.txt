@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+WORTHY	WORTHY	j-jn	WORTHY	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+DARELL	DARELL	np1	DARELL	Darell	0
+of	of	pp-f	of	of	0
+Calehill	Calehill	np1	Calehill	Calehill	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+Kent	Kent	np1	Kent	Kent	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

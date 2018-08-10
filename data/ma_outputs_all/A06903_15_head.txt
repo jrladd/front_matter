@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+busie	busie	j	busy	busy	0
+Horsecorsers	Horsecorsers	n2	Horsecorsers	horsecorser	0
+,	,	,	,	,	0
+both	both	d	both	both	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Citty	Citty	n1	City	city	0
+and	and	cc	and	and	0
+Country	Country	n1	Country	country	0
+where	where	c-crq	where	where	0
+∣	∣	sy	∣	∣	0
+soeuer	soeuer	av	soever	soever	0
+.	.	.	.	.	1

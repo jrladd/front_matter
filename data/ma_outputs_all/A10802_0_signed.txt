@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duty	duty	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+Don	Don	n1	DONE	don	0
+Diego	Diego	np1	Diego	Diego	0
+Howel	Howel	np1	Howel	Howel	0
+.	.	.	.	.	1

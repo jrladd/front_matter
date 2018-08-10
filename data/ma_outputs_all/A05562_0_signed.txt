@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+assured	assured	av-vvn	assured	assure	0
+▪	▪	▪	▪	▪	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+Ling.	Ling.	np1	Ling.	Ling.	1

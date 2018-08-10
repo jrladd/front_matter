@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+JOHN	JOHN	np1	JOHN	John	0
+TRY	TRY	vvb	TRY	try	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Faithfully	Faithfully	av-j	Faithfully	faithful	0
+Devoted	Devoted	vvn	Devoted	devote	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+best	best	js	best	best	0
+Service	Service	n1	Service	service	0
+,	,	,	,	,	0
+CLAƲDIƲS	CLAƲDIƲS	fw-fr	CLAƲDIƲS	claʋdiʋs	0
+GILBERT	GILBERT	np1	GILBERT	Gilbert	0
+.	.	.	.	.	1

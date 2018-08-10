@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+ANN	ANN	cc	ANN	and	0
+DIDO	DIDO	np1	DIDO	Dido	0
+,	,	,	,	,	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Carthage	Carthage	np1	Carthage	Carthage	0
+.	.	.	.	.	1

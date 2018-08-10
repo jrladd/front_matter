@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+EZEKIAS	EZEKIAS	npg1	EZEKIAS	ezekias	0
+WOODVVARD	WOODVVARD	n1	WOODVVARD	woodvvard	0
+.	.	.	.	.	1

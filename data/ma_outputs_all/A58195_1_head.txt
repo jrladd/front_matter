@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+truly	truly	av-j	truly	true	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+perfect	perfect	j	perfect	perfect	0
+Lover	Lover	n1	Lover	lover	0
+of	of	pp-f	of	of	0
+Ingenuity	Ingenuity	n1	Ingenuity	ingenuity	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Hanmer	Hanmer	np1	Hanmer	Hanmer	0
+,	,	,	,	,	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

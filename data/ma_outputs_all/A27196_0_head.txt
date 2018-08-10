@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+GRACE	GRACE	n1	GRACE	grace	0
+THE	THE	dt	THE	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Schonberg	Schonberg	np1	Schonberg	Schonberg	0
+and	and	cc	and	and	0
+Lemster	Lemster	np1	Lemster	Lemster	0
+.	.	.	.	.	1

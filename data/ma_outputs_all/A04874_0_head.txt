@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+much	much	d	much	much	0
+re	re	zz	re	re	0
+∣	∣	sy	∣	∣	0
+spected	spected	vvn	spected	spect	0
+and	and	cc	and	and	0
+worthy	worthy	j	worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+Master	Master	n1	Master	master	0
+JOHN	JOHN	np1	JOHN	John	0
+WAITE	WAITE	vvi	WAIT	wait	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Elect	Elect	j-vvn	Elect	elect	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+Madam	Madam	n1	Madam	madam	0
+Rookesby	Rookesby	np1	Rookesby	Rookesby	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

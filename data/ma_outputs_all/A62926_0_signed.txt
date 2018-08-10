@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+TONGE	TONGE	n1	TONGE	tongue	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+plenally	plenally	av-j	plenally	plenal	0
+devoted	devoted	vvn	devoted	devote	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HEYVVOOD	HEYVVOOD	np1	HEYVVOOD	HEYVVOOD	0
+.	.	.	.	.	1

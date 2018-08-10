@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+vvholy	vvholy	av-jn	wholly	whole	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+HENRY	HENRY	np1	HENRY	Henry	0
+GRANTHAN	GRANTHAN	np1	GRANTHAN	GRANTHAN	0
+.	.	.	.	.	1

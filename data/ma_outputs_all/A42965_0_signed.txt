@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+service	service	n1	service	service	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+GODWYN	GODWYN	np1	GODWYN	GODWYN	0
+.	.	.	.	.	1

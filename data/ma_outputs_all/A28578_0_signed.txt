@@ -1,0 +1,6 @@
+G.	G.	np1	G.	G.	0
+H.	H.	np1	H.	H.	0
+hosp	hosp	n1	hosp	hosp	0
+.	.	.	.	.	1
+Gray	Gray	np1	Gray	Gray	0
+▪	▪	▪	▪	▪	1

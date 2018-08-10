@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+Monsieur	Monsieur	fw-fr	Monsieur	monsieur	0
+P.	P.	np1	P.	P.	0
+H.	H.	np1	H.	H.	0
+Marquess	Marquess	n1	Marquis	marquis	0
+of	of	pp-f	of	of	0
+C.	C.	np1	C.	C.	1

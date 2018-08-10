@@ -1,0 +1,12 @@
+SIR	SIR	n1	SIR	sir	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PHILIPOT	PHILIPOT	np1	PHILIPOT	PHILIPOT	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VVORSHIPFVLL	VVORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+Syr	Syr	n1	Sir	sir	0
+Humphry	Humphry	np1	Humphry	Humphrey	0
+Lynde	Lynde	np1	Lynde	Lynde	0
+.	.	.	.	.	1

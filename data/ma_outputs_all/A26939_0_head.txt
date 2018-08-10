@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRULY	TRULY	np1	TRULY	Truly	0
+CHRISTIAN	CHRISTIAN	njp	CHRISTIAN	christian	0
+Merchants	Merchants	n2	Merchant's	merchant	0
+and	and	cc	and	and	0
+other	other	j-jn	other	other	0
+Citizens	Citizens	n2	Citizens	citizen	0
+OF	OF	pp-f	OF	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

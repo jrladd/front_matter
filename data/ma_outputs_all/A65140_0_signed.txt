@@ -1,0 +1,2 @@
+Vale	Vale	n1	Vale	vale	0
+.	.	.	.	.	1

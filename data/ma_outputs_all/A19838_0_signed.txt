@@ -1,0 +1,4 @@
+Sam	Sam	np1	Sam	Sam	0
+:	:	:	:	:	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+.	.	.	.	.	1

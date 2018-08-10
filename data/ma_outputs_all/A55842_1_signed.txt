@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+dispose	dispose	n1	dispose	dispose	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesu	Iesu	np1	Iesu	Jesus	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+PRIDEAVX	PRIDEAVX	np1	PRIDEAVX	PRIDEAVX	0
+.	.	.	.	.	1

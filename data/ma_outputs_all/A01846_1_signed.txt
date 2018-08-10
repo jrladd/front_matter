@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+euer	euer	av	ever	ever	0
+bounden	bounden	vvn	bounden	bind	0
+.	.	.	.	.	1
+CH	CH	j-vvn	CHANGED	change	0
+.	.	.	.	.	1
+GOLDVVILL	GOLDVVILL	n1	GOLDVVILL	goldvvill	0
+.	.	.	.	.	1

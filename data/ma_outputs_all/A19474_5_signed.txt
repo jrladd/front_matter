@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+Shepherd	Shepherd	n1	Shepherd	shepherd	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+ABBOT	ABBOT	n1	ABBOT	abbot	0
+.	.	.	.	.	1

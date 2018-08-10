@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Truly	Truly	av-j	Truly	true	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Sophronius	Sophronius	np1	Sophronius	Sophronius	0
+Philalethes	Philalethes	np1	Philalethes	Philalethes	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+highest	highest	js	highest	high	0
+degree	degree	n1	degree	degree	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+lowest	lowest	js	lowest	low	0
+obedience	obedience	n1	obedience	obedience	0
+Your	Your	po22	Your	your	0
+L'	L'	fw-mi	L'	l'	0
+ESTRANGE	ESTRANGE	vvi	ESTRANGE	estrange	0
+.	.	.	.	.	1

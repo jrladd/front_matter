@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+MOUNT	MOUNT	vvb	MOUNT	mount	0
+GARRET	GARRET	n1	GARRET	garret	0
+.	.	.	.	.	1

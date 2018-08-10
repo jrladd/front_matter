@@ -1,0 +1,15 @@
+V.	V.	n1	V.	v.	0
+E.	E.	np1	E.	E.	0
+ex	ex	fw-la	ex	ex	0
+fratre	fratre	fw-la	fratre	fratre	0
+amantissimo	amantissimo	fw-la	amantissimo	amantissimo	0
+Nepotis	Nepotis	fw-la	Nepotis	nepotis	0
+&	&	cc	&	and	0
+servi	servi	fw-la	servi	servi	0
+addictissimi	addictissimi	fw-la	addictissimi	addictissimi	0
+,	,	,	,	,	0
+Gulielmi	Gulielmi	np1	Gulielmi	Gulielmi	0
+Moorehead	Moorehead	np1	Moorehead	Moorehead	0
+novi	novi	fw-la	novi	novi	0
+Coll.	Coll.	np1	Coll.	Coll.	0
+Soc.	Soc.	np1	Soc.	Soc.	1

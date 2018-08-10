@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+SIDNEY	SIDNEY	np1	SIDNEY	Sidney	0
+LODGE	LODGE	vvb	LODGE	lodge	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Most	Most	av-ds	Most	most	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Bright	Bright	j	Bright	bright	0
+.	.	.	.	.	1

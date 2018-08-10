@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+,	,	,	,	,	0
+VALENTINE	VALENTINE	np1	VALENTINE	Valentine	0
+SIMS	SIMS	np1	SIMS	Sims	0
+.	.	.	.	.	1

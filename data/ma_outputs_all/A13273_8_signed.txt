@@ -1,0 +1,11 @@
+Yr	Yr	n1	Yr	yr	0
+Noble	Noble	j	Noble	noble	0
+Name's	Name's	n1|vbz	Name's	name|be	0
+&	&	cc	&	and	0
+Vertue's	Vertue's	n1|vbz	Virtue's	virtue|be	0
+most	most	av-ds	most	most	0
+Observant	Observant	j	Observant	observant	0
+,	,	,	,	,	0
+IOSVAH	IOSVAH	np1	IOSVAH	IOSVAH	0
+SYLVESTER	SYLVESTER	np1	SYLVESTER	Sylvester	0
+.	.	.	.	.	1

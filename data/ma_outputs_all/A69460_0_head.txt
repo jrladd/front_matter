@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Most	Most	av-ds	Most	most	0
+Accomplish't	Accomplish't	vvn	Accomplished	accomplish	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+MADAM	MADAM	n1	MADAM	madam	0
+Mary-Elizabeth	Mary-Elizabeth	np1	Mary-Elizabeth	Mary-Elizabeth	0
+Manly	Manly	j	Manly	manly	0
+.	.	.	.	.	1

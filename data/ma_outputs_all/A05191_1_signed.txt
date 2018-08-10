@@ -1,0 +1,6 @@
+Whilest	Whilest	cs	Whilst	while	0
+I	I	pns11	I	i	0
+remaine	remaine	vvb	remain	remain	0
+IOHN	IOHN	np1	IOHN	John	0
+LAVVRENCE	LAVVRENCE	np1	LAVVRENCE	LAVVRENCE	0
+.	.	.	.	.	1

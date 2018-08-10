@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+worship	worship	n1	worship	worship	0
+∣	∣	sy	∣	∣	0
+full	full	j	full	full	0
+M.	M.	n1	M.	m.	0
+Robert	Robert	np1	Robert	Robert	0
+Foorth	Foorth	av	Forth	forth	0
+of	of	pp-f	of	of	0
+Butley	Butley	np1	Butley	Butley	0
+in	in	p-acp	in	in	0
+Suffolke	Suffolke	np1	Suffolke	Suffolk	0
+Esquyer	Esquyer	np1	Esquyer	Esquyer	0
+.	.	.	.	.	1

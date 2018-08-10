@@ -1,0 +1,12 @@
+De	De	fw-fr	De	de	0
+vostre	vostre	fw-fr	vostre	vostre	0
+Maiesté	Maiesté	fw-fr	Maiesté	maiesté	0
+Tres	Tres	fw-la	Tres	tres	0
+humble	humble	j	humble	humble	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+affectionné	affectionné	fw-fr	affectionné	affectionné	0
+seruiteur	seruiteur	fw-fr	seruiteur	seruiteur	0
+Eusebe	Eusebe	fw-fr	Eusebe	eusebe	0
+Philadelphe	Philadelphe	n1	Philadelphe	philadelphe	0
+.	.	.	.	.	1

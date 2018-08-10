@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+La.	La.	n1	La.	lady	0
+in	in	p-acp	in	in	0
+dutifull	dutifull	j	dutiful	dutiful	0
+sort	sort	n1	sort	sort	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+comman	comman	j	commn	common	0
+∣	∣	sy	∣	∣	0
+ded	ded	j	dead	dead	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+SVTTON	SVTTON	np1	SVTTON	SVTTON	0
+.	.	.	.	.	1

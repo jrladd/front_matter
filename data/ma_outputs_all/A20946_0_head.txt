@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MVCH	MVCH	d	MUCH	much	0
+HONORED	HONORED	j-vvn	HONOURED	honour	0
+FATHER	FATHER	n1	FATHER	father	0
+:	:	:	:	:	0
+S.	S.	n1	S.	saint	0
+F.	F.	np1	F.	F.	0
+S.	S.	fw-la	S.	s.	1

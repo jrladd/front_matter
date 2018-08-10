@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+AND	AND	cc	AND	and	0
+Profound	Profound	j	Profound	profound	0
+Prophetick	Prophetick	j	Prophetic	prophetic	0
+Text	Text	n1	Text	text	0
+▪	▪	▪	▪	▪	0
+men	men	n2	men	man	0
+of	of	pp-f	of	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

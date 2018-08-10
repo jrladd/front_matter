@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Royston	Royston	np1	Royston	Royston	0
+.	.	.	.	.	1

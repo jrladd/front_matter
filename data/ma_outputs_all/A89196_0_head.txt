@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+Commons	Commons	n2	Commons	commons	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+in	in	p-acp	in	in	0
+Parliament	Parliament	n1	Parliament	parliament	0
+..	..	..	..	..	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+bly	bly	zz	bly	bly	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+.	.	.	.	.	1
+EDMUND	EDMUND	np1	EDMUND	Edmund	0
+CAMPION	CAMPION	np1	CAMPION	Campion	0
+.	.	.	.	.	1

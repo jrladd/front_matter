@@ -1,0 +1,3 @@
+TO	TO	p-acp	TO	to	0
+PARTHENIA	PARTHENIA	np1	PARTHENIA	Parthenia	0
+.	.	.	.	.	1

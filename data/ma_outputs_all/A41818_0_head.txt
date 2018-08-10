@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+accomplish'd	accomplish'd	vvd	accomplished	accomplish	0
+Travellour	Travellour	n1	Traveler	traveler	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Friend	Friend	n1	Friend	friend	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Muses	Muses	np2	Muses	Muse	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+AUSTIN	AUSTIN	np1	AUSTIN	Austin	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

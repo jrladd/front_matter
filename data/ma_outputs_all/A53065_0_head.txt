@@ -1,0 +1,5 @@
+A	A	dt	A	a	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+TO	TO	p-acp	TO	to	0
+FORTUNE	FORTUNE	n1	FORTUNE	fortune	0
+.	.	.	.	.	1

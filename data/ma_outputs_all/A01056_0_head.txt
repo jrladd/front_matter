@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+truest	truest	js	truest	true	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+worthiest	worthiest	js-jn	worthiest	worthy	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+FORD	FORD	n1	FORD	ford	0
+of	of	pp-f	of	of	0
+Grayes-Inne	Grayes-Inne	n1	Grayes-Inne	grayes-inne	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Seruices	Seruices	n2	Services	service	0
+,	,	,	,	,	0
+where	where	c-crq	where	where	0
+∣	∣	sy	∣	∣	0
+in	in	p-acp	in	in	0
+he	he	pns31	he	he	0
+can	can	vmb	can	can	0
+stead	stead	vvi	stead	stead	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+BARLOVV	BARLOVV	np1	BARLOVV	BARLOVV	0
+.	.	.	.	.	1

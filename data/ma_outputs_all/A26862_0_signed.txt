@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+fellow-servant	fellow-servant	n1	fellow-servant	fellow-servant	0
+,	,	,	,	,	0
+RI	RI	zz	RI	ri	0
+.	.	.	.	.	1
+BAXTER	BAXTER	np1	BAXTER	Baxter	0
+.	.	.	.	.	1

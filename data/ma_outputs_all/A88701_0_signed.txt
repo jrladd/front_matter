@@ -1,0 +1,11 @@
+E	E	sy	E	e	0
+musaeolo	musaeolo	fw-la	musaeolo	musaeolo	0
+meo	meo	fw-la	meo	meo	0
+Tavistocensi	Tavistocensi	fw-la	Tavistocensi	tavistocensi	0
+in	in	p-acp	in	in	0
+Comitatu	Comitatu	fw-la	Comitatu	comitatu	0
+Devon	Devon	np1	Devon	Devon	0
+.	.	.	.	.	1
+T	T	sy	TO	t	0
+:	:	:	:	:	0
+L.	L.	np1	L.	L.	1

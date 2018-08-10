@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Noble	Noble	j	Noble	noble	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+E	E	sy	E	e	0
+:	:	:	:	:	0
+R.	R.	np1	R.	R.	1

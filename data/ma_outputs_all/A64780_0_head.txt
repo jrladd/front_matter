@@ -1,0 +1,13 @@
+Patri	Patri	fw-la	Patri	patri	0
+mihi	mihi	fw-la	mihi	mihi	0
+Charissimo	Charissimo	fw-la	Charissimo	charissimo	0
+I	I	pns11	I	i	0
+.	.	.	.	.	0
+V.	V.	np1	V.	V.	1
+Haec	Haec	fw-la	Haec	haec	0
+parerga	parerga	fw-la	parerga	parerga	0
+mea	mea	fw-la	mea	mea	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+C.	C.	np1	C.	C.	0
+Q.	Q.	np1	Q.	Q.	1

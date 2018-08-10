@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+MARY	MARY	np1	MARY	MARY	0
+COUNTESS	COUNTESS	n1	COUNTESS	countess	0
+DOWAGER	DOWAGER	n1	DOWAGER	dowager	0
+OF	OF	pp-f	OF	of	0
+NORTHAMPTON	NORTHAMPTON	np1	NORTHAMPTON	Northampton	0
+.	.	.	.	.	1

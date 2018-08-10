@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+WORTHIE	WORTHIE	j	WORTHY	worthy	0
+GENTLEMAN	GENTLEMAN	n1	GENTLEMAN	gentleman	0
+CAPTAINE	CAPTAINE	n1	CAPTAINE	captain	0
+EDMVND	EDMVND	np1	EDMVND	EDMVND	0
+Panton	Panton	np1	Panton	Panton	0
+Captaine	Captaine	n1	Captain	captain	0
+and	and	cc	and	and	0
+Leader	Leader	n1	Leader	leader	0
+to	to	p-acp	to	to	0
+our	our	po12	our	our	0
+Londons	Londons	npg1	Londons	London	0
+hopefull	hopefull	j	hopeful	hopeful	0
+Infantrie	Infantrie	n1	Infantry	infantry	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Tour	Tour	np1	Tour	Tour	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+James	James	np1	James	James	0
+Kirkwood	Kirkwood	np1	Kirkwood	Kirkwood	0
+.	.	.	.	.	1

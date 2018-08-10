@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+doe	doe	vdb	do	do	0
+you	you	pn22	you	you	0
+all	all	d	all	all	0
+seruice	seruice	n1	service	service	0
+BARNABE	BARNABE	np1	BARNABE	Barnaby	0
+RYCH	RYCH	j	RICH	rich	0
+.	.	.	.	.	1

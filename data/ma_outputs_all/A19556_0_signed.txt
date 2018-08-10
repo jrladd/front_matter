@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+faithfull	faithfull	j	faithful	faithful	0
+honorer	honorer	n1	honorer	honourer	0
+,	,	,	,	,	0
+RAPHE	RAPHE	np1	RAPHE	Ralph	0
+CRANE	CRANE	np1	CRANE	Crane	0
+.	.	.	.	.	1

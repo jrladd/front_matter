@@ -1,0 +1,10 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+Affectionately	Affectionately	av-j	Affectionately	affectionate	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+SHEPPARD	SHEPPARD	np1	SHEPPARD	Sheppard	0
+.	.	.	.	.	1

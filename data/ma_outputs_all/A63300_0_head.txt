@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Choise	Choise	n1	Choice	choice	0
+hand	hand	n1	hand	hand	0
+of	of	pp-f	of	of	0
+Approved	Approved	j-vvn	Approved	approve	0
+Gallantry	Gallantry	n1	Gallantry	gallantry	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+DORMER	DORMER	j	DORMER	dorm	0
+Esq	Esq	np1	Esq	Esq	1

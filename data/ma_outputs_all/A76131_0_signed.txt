@@ -1,0 +1,12 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affecti	affecti	n1	affection	affection	0
+∣	∣	sy	∣	∣	0
+onate	onate	j	onate	onate	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Ben.	Ben.	np1	Ben.	Ben.	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

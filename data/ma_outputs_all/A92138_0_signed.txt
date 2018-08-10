@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+at	at	p-acp	at	at	0
+all	all	d	all	all	0
+respective	respective	j	respective	respective	0
+obser	obser	n1	obser	obser	0
+∣	∣	sy	∣	∣	0
+vance	vance	vvb	vance	vance	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+R.	R.	np1	R.	R.	1

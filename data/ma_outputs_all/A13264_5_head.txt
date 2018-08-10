@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MVCH	MVCH	d	MUCH	much	0
+DESERVING	DESERVING	j-vvg	DESERVING	deserve	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+AND	AND	cc	AND	and	0
+BROTHER	BROTHER	n1	BROTHER	brother	0
+,	,	,	,	,	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+GODOLPHIN	GODOLPHIN	np1	GODOLPHIN	Godolphin	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+,	,	,	,	,	0
+This.	This.	zz	This.	this.	1

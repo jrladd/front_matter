@@ -1,0 +1,6 @@
+Nathanael	Nathanael	np1	Nathanael	Nathanael	0
+Mather	Mather	np1	Mather	Mather	0
+,	,	,	,	,	0
+Isaac	Isaac	np1	Isaac	Isaac	0
+Chauncy	Chauncy	np1	Chauncy	Chauncy	0
+.	.	.	.	.	1

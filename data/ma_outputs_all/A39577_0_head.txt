@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+Lord	Lord	np1	Lord	Lord	0
+DE	DE	fw-fr	DE	de	0
+LA	LA	fw-fr	LA	la	0
+MERE	MERE	j	MERE	mere	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Durham-Massy	Durham-Massy	j	Durham-Massy	durham-massy	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Their	Their	po32	Their	their	0
+Majesties	Majesties	n2	Majesties	majesty	0
+High	High	j	High	high	0
+Commissio	Commissio	np1	Commissio	Commissio	0
+∣	∣	sy	∣	∣	0
+ner	ner	zz	ner	ner	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+Kingdom	Kingdom	n1	Kingdom	kingdom	0
+of	of	pp-f	of	of	0
+Scotland	Scotland	np1	Scotland	Scotland	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+duties	duties	n2	duties	duty	0
+of	of	pp-f	of	of	0
+Affection	Affection	n1	Affection	affection	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+GOMERSALL	GOMERSALL	np1	GOMERSALL	GOMERSALL	0
+.	.	.	.	.	1

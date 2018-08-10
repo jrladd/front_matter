@@ -1,0 +1,15 @@
+Who	Who	q-crq	Who	who	0
+is	is	vbz	is	be	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+euer	euer	av	ever	ever	0
+shall	shall	vmb	shall	shall	0
+bee	bee	vbi	be	be	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Honour	Honour	n1	Honour	honour	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+PEACHAM	PEACHAM	np1	PEACHAM	Peacham	0
+.	.	.	.	.	1

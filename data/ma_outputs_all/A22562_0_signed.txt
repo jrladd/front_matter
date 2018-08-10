@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Attersoll	Attersoll	np1	Attersoll	Attersoll	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+:	:	:	:	:	0
+Nath.	Nath.	np1	Nath.	Nath.	0
+Homes	Homes	np1	Homes	Homes	0
+.	.	.	.	.	1

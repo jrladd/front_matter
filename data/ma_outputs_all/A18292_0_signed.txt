@@ -1,0 +1,15 @@
+A	A	dt	A	a	0
+Petitioner	Petitioner	n1	Petitioner	petitioner	0
+for	for	p-acp	for	for	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+vnto	vnto	p-acp	unto	unto	0
+the	the	dt	the	the	0
+throne	throne	n1	throne	throne	0
+of	of	pp-f	of	of	0
+grace	grace	n1	grace	grace	0
+,	,	,	,	,	0
+MATH	MATH	np1	MATH	MATH	0
+,	,	,	,	,	0
+CAYLIE	CAYLIE	np1	CAYLIE	CAYLIE	0
+.	.	.	.	.	1

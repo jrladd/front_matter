@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+so	so	av	so	so	0
+long	long	av-j	long	long	0
+as	as	c-acp	as	as	0
+you	you	pn22	you	you	0
+correspond	correspond	vvi	correspond	correspond	0
+HIC	HIC	fw-la	HIC	hic	0
+MVLIER	MVLIER	fw-la	MVLIER	mvlier	0
+.	.	.	.	.	1

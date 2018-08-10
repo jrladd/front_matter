@@ -1,0 +1,6 @@
+Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
+tuae	tuae	fw-la	tuae	tuus	0
+deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
+Stephanus	Stephanus	np1	Stephanus	Stephanus	0
+Denison	Denison	zz	Denison	denison	0
+.	.	.	.	.	1

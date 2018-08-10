@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+thing	thing	n1	thing	thing	0
+J	J	pns11	J	i	0
+may	may	vmb	may	may	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+Ithiel	Ithiel	np1	Ithiel	Ithiel	0
+Smart	Smart	n1	Smart	smart	0
+.	.	.	.	.	1

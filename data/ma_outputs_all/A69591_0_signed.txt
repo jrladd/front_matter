@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+dutiful	dutiful	j	dutiful	dutiful	0
+Subject	Subject	j-jn	Subject	subject	0
+Walter	Walter	np1	Walter	Walter	0
+Kirkham	Kirkham	np1	Kirkham	Kirkham	0
+Blount	Blount	np1	Blount	Blount	0
+.	.	.	.	.	1

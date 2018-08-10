@@ -1,0 +1,3 @@
+GUALT	GUALT	np1	GUALT	Gualt	0
+.	.	.	.	.	1
+CHARLETON	CHARLETON	np1	CHARLETON	Charleton	1

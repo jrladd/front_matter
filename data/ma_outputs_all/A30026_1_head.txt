@@ -1,0 +1,11 @@
+An	An	dt	And	a	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Noble	Noble	j	Noble	noble	0
+BEREANS	BEREANS	njp2	BEREANS	bereans	0
+Of	Of	pp-f	Of	of	0
+this	this	d	this	this	0
+Age	Age	n1	Age	age	0
+.	.	.	.	.	1

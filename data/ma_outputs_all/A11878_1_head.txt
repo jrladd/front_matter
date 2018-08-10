@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+that	that	cst	that	that	0
+singular	singular	j	singular	singular	0
+Glory	Glory	n1	Glory	glory	0
+of	of	pp-f	of	of	0
+our	our	po12	our	our	0
+Nation	Nation	n1	Nation	nation	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Light	Light	n1	Light	light	0
+of	of	pp-f	of	of	0
+Britaine	Britaine	np1	Britaine	Britain	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Camden	Camden	np1	Camden	Camden	0
+Clarenceulx	Clarenceulx	fw-fr	Clarenceulx	clarenceulx	0
+.	.	.	.	.	1

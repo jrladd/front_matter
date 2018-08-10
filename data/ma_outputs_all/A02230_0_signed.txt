@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+,	,	,	,	,	0
+B.	B.	np1	B.	B.	0
+Griffin	Griffin	np1	Griffin	Griffin	0
+.	.	.	.	.	1

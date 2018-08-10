@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+Unfortunate	Unfortunate	j	Unfortunate	unfortunate	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+Dark	Dark	j	Dark	dark	0
+and	and	cc	and	and	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+Henry	Henry	np1	Henry	Henry	0
+Wari	Wari	fw-la	Wari	wari	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+BARRET	BARRET	np1	BARRET	Barret	0
+.	.	.	.	.	1

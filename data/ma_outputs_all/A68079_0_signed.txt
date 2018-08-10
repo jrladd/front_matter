@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	0
+F.	F.	np1	F.	F.	1

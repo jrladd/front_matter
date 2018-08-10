@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Observant	Observant	j	Observant	observant	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+HANNAH	HANNAH	np1	HANNAH	Hannah	0
+WOLLEY	WOLLEY	np1	WOLLEY	WOLLEY	0
+.	.	.	.	.	1

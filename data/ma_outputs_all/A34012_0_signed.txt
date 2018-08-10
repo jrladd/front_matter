@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majestie's	Majestie's	n1|vbz	Majesty's	majesty|be	0
+most	most	av-ds	most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+&	&	cc	&	and	0
+De	De	fw-fr	De	de	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+C.	C.	np1	C.	C.	1

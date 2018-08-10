@@ -1,0 +1,3 @@
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+HOPKINS	HOPKINS	np1	HOPKINS	Hopkins	0
+.	.	.	.	.	1

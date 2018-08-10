@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+humblie	humblie	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+L.	L.	np1	L.	L.	1

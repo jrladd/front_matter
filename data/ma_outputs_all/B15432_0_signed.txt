@@ -1,0 +1,13 @@
+The	The	dt	The	the	0
+Servant	Servant	n1	Servant	servant	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+Memory	Memory	n1	Memory	memory	0
+and	and	cc	and	and	0
+your	your	po22	your	your	0
+merits	merits	n2	merits	merit	0
+,	,	,	,	,	0
+FRA	FRA	np1	FRA	Fra	0
+.	.	.	.	.	1
+QVARLES	QVARLES	np1	QVARLES	QVARLES	0
+.	.	.	.	.	1

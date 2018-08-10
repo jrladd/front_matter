@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Seruant-Kinsman	Seruant-Kinsman	n1	Seruant-Kinsman	seruant-kinsman	0
+,	,	,	,	,	0
+HVM	HVM	uh	HUM	hum	0
+:	:	:	:	:	0
+SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+BENJAMIN	BENJAMIN	np1	BENJAMIN	Benjamin	0
+BATHURST	BATHURST	np1	BATHURST	Bathurst	0
+.	.	.	.	.	1

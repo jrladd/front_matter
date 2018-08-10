@@ -1,0 +1,8 @@
+✚	✚	sy	✚	✚	0
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MOST	MOST	av-ds	MOST	most	0
+DERE	DERE	j-jn	DEAR	dear	0
+SISTER	SISTER	n1	SISTER	sister	0
+ELISABETH	ELISABETH	np1	ELISABETH	Elisabeth	0
+P.	P.	np1	P.	P.	1

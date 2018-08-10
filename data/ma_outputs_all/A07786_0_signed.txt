@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	n2	VVorships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+trunesse	trunesse	fw-fr	trunesse	trunesse	0
+of	of	pp-f	of	of	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+An	An	cs	And	an	0
+:	:	:	:	:	0
+Mundy	Mundy	np1	Mundy	Mundy	0
+.	.	.	.	.	1

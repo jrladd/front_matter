@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+DEARE	DEARE	n1	DEARE	deer	0
+AFFECTED	AFFECTED	vvd	AFFECTED	affect	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+M.	M.	n1	M.	m.	0
+D.	D.	np1	D.	D.	0
+S.	S.	np1	S.	S.	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+.	.	.	.	.	1

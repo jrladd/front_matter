@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Bell	Bell	n1	Bell	bell	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+Hum	Hum	n1	Hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+and	and	cc	and	and	0
+Faithfull	Faithfull	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+KEN	KEN	np1	KEN	Ken	0
+.	.	.	.	.	1

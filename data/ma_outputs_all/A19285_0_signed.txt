@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+euer	euer	av	ever	ever	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+TH	TH	pns21	THAT	thou	0
+.	.	.	.	.	1
+COOPER	COOPER	np1	COOPER	Cooper	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Scot	Scot	np1	Scot	Scot	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

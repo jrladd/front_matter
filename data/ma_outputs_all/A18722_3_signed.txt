@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+at	at	p-acp	at	at	0
+commaundment	commaundment	n1	commandment	commandment	0
+T.	T.	np1	T.	T.	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+Master	Master	n1	Master	master	0
+VVILLIAM	VVILLIAM	np1	VVILLIAM	VVILLIAM	0
+PRINNE	PRINNE	np1	PRINNE	PRINNE	0
+,	,	,	,	,	0
+Vtter-Barrester	Vtter-Barrester	n1	Vtter-Barrester	vtter-barrester	0
+of	of	pp-f	of	of	0
+Lincolnes-Jnne	Lincolnes-Jnne	j	Lincolnes-Jnne	lincolnes-jnne	0
+.	.	.	.	.	1

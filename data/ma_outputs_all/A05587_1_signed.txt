@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+euer	euer	av	ever	ever	0
+earnestly	earnestly	av-j	earnestly	earnest	0
+affected	affected	vvn	affected	affect	0
+.	.	.	.	.	1
+VV.	VV.	np1	VV.	VV.	0
+L.	L.	np1	L.	L.	1

@@ -1,0 +1,8 @@
+Stephanus	Stephanus	np1	Stephanus	Stephanus	0
+Georgius	Georgius	np1	Georgius	Georgius	0
+Embdensis	Embdensis	np1	Embdensis	Embdensis	0
+,	,	,	,	,	0
+author	author	n1	author	author	0
+&	&	cc	&	and	0
+Respondens	Respondens	fw-la	Respondens	respondens	0
+.	.	.	.	.	1

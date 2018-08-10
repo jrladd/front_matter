@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+HOBERT	HOBERT	np1	HOBERT	Hobert	0
+BOƲRK	BOƲRK	np1	BOƲRK	BOƲRK	0
+.	.	.	.	.	1

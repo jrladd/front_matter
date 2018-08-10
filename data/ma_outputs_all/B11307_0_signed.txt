@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+FR.	FR.	np1	FR.	Fr.	0
+St.	St.	n1	St.	saint	0
+ALBAN	ALBAN	np1	ALBAN	Alban	0
+.	.	.	.	.	1

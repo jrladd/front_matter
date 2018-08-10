@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+humbly-devoted	humbly-devoted	j	humbly-devoted	humbly-devoted	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+Fullwood	Fullwood	np1	Fullwood	Fullwood	0
+▪	▪	▪	▪	▪	1

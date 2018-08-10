@@ -1,0 +1,16 @@
+Noble	Noble	j	Noble	noble	0
+Sr.	Sr.	n1	Sr.	sir	0
+The	The	dt	The	the	0
+Glad	Glad	j	Glad	glad	0
+Observer	Observer	n1	Observer	observer	0
+Of	Of	pp-f	Of	of	0
+Your	Your	po22	Your	your	0
+Choise	Choise	n1	Choice	choice	0
+Accomplishments	Accomplishments	n2	Accomplishments	accomplishment	0
+And	And	cc	And	and	0
+Eminent	Eminent	j	Eminent	eminent	0
+Merits	Merits	n2	Merits	merit	0
+,	,	,	,	,	0
+BARTEN	BARTEN	np1	BARTEN	Barten	0
+HOLYDAY	HOLYDAY	n1	HOLYDAY	holiday	0
+.	.	.	.	.	1

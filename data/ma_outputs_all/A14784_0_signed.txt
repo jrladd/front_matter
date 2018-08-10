@@ -1,0 +1,6 @@
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Warner	Warner	np1	Warner	Warner	0
+.	.	.	.	.	1

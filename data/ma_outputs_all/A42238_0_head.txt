@@ -1,0 +1,7 @@
+My	My	po11	My	my	0
+very	very	j	very	very	0
+Good	Good	j	Good	good	0
+Lord	Lord	n1	Lord	lord	0
+and	and	cc	and	and	0
+Patron	Patron	n1	Patron	patron	0
+.	.	.	.	.	1

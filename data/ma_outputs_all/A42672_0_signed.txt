@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+you	you	pn22	you	you	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+Worship	Worship	n1	Worship	worship	0
+∣	∣	sy	∣	∣	0
+full	full	j	full	full	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humility	humility	n1	humility	humility	0
+devoted	devoted	vvn	devoted	devote	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+GETSIUS	GETSIUS	np1	GETSIUS	GETSIUS	0
+.	.	.	.	.	1

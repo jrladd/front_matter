@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+UNIVERSITIES	UNIVERSITIES	n2	UNIVERSITIES	university	0
+IN	IN	p-acp	IN	in	0
+EUROPE	EUROPE	np1	EUROPE	Europe	0
+.	.	.	.	.	1

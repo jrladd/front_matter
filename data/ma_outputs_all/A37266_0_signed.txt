@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+true	true	j	true	true	0
+Admirer	Admirer	n1	Admirer	admirer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Davison	Davison	np1	Davison	Davison	0
+.	.	.	.	.	1

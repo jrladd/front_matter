@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Ladies	Ladies	n2	Ladies	lady	0
+and	and	cc	and	and	0
+Gentlewomen	Gentlewomen	n2	Gentlewomen	gentlewoman	0
+OF	OF	pp-f	OF	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

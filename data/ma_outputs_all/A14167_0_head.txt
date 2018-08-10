@@ -1,0 +1,16 @@
+AL	AL	d	ALL	all	0
+NOBILE	NOBILE	j	NOBILE	nobile	0
+ET	ET	fw-la	ET	et	0
+PRVDENTE	PRVDENTE	fw-la	PRVDENTE	prvdente	0
+ET	ET	fw-la	ET	et	0
+AMICHE	AMICHE	fw-it	AMICHE	amiche	0
+VOL	VOL	np1	VOL	Vol	0
+LETTORE	LETTORE	fw-it	LETTORE	lettore	0
+DELLA	DELLA	fw-la	DELLA	della	0
+Real	Real	j	Real	real	0
+natione	natione	n1	nation	nation	0
+Inghilese	Inghilese	vvi	Inghilese	inghilese	0
+.	.	.	.	.	1
+P.	P.	np1	P.	P.	0
+V.	V.	n1	V.	v.	0
+F.	F.	np1	F.	F.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	ng1	VVorships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+T.	T.	np1	T.	T.	0
+Newman	Newman	np1	Newman	Newman	0
+.	.	.	.	.	1

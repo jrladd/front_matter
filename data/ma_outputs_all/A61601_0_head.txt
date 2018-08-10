@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Most	Most	av-ds	Most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+HENRY	HENRY	np1	HENRY	Henry	0
+,	,	,	,	,	0
+Prince	Prince	n1	Prince	prince	0
+of	of	pp-f	of	of	0
+Orange	Orange	np1	Orange	Orange	0
+.	.	.	.	.	1

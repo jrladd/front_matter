@@ -1,0 +1,12 @@
+My	My	po11	My	my	0
+humble	humble	j	humble	humble	0
+Muse	Muse	n1	Muse	muse	0
+,	,	,	,	,	0
+desires	desires	vvz	desires	desire	0
+likewise	likewise	av	likewise	likewise	0
+to	to	pc-acp	to	to	0
+kisse	kisse	vvi	kiss	kiss	0
+your	your	po22	your	your	0
+sacred	sacred	j	sacred	sacred	0
+hands	hands	n2	hands	hand	0
+.	.	.	.	.	1

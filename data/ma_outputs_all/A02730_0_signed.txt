@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+HARRISON	HARRISON	np1	HARRISON	Harrison	0
+.	.	.	.	.	1

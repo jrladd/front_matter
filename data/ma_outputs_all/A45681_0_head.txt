@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+into	into	p-acp	into	into	0
+whose	whose	rg-crq	whose	who	0
+hands	hands	n2	hands	hand	0
+this	this	d	this	this	0
+may	may	vmb	may	may	0
+fall	fall	vvi	fallen	fall	0
+;	;	;	;	;	0
+especially	especially	av-j	especially	especial	0
+those	those	d	those	those	0
+who	who	r-crq	who	who	0
+sit	sit	vvb	fit	sit	0
+under	under	p-acp	under	under	0
+my	my	po11	my	my	0
+Ministry	Ministry	n1	Ministry	ministry	0
+.	.	.	.	.	1

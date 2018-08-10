@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+F.	F.	np1	F.	F.	0
+R.	R.	np1	R.	R.	1

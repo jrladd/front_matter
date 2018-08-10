@@ -1,0 +1,8 @@
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+and	and	cc	and	and	0
+honour	honour	vvi	honour	honour	0
+You	You	pn22	You	you	0
+Nehemiah	Nehemiah	np1	Nehemiah	Nehemiah	0
+Rogers	Rogers	np1	Rogers	Rogers	1

@@ -1,0 +1,9 @@
+Deuoted	Deuoted	vvn	Devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+kindnesse	kindnesse	n1	kindness	kindness	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+DOWLAND	DOWLAND	np1	DOWLAND	Dowland	0
+.	.	.	.	.	1

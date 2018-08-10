@@ -1,0 +1,5 @@
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+to	to	p-acp	to	to	0
+Master	Master	n1	Master	master	0
+R.A.	R.A.	np1	R.A.	R.A.	1

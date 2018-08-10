@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+my	my	po11	my	my	0
+best	best	js	best	best	0
+services	services	n2	services	service	0
+ANTONY	ANTONY	np1	ANTONY	Antony	0
+WHITE	WHITE	j-jn	WHITE	white	0
+.	.	.	.	.	1

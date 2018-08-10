@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+AUTHOURS	AUTHOURS	n2	AUTHOURS	author	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+TO	TO	p-acp	TO	to	0
+Pope	Pope	n1	Pope	pope	0
+VRBAN	VRBAN	np1	VRBAN	VRBAN	0
+VIII	VIII	np1	VIII	Viii	0
+.	.	.	.	.	1

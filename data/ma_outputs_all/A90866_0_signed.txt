@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Edm.	Edm.	np1	Edm.	Edm.	0
+Porter	Porter	n1	Porter	porter	0
+.	.	.	.	.	1

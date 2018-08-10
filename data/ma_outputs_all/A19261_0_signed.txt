@@ -1,0 +1,4 @@
+Yours	Yours	png22	Yours	you	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+COOKE	COOKE	n1	COOKE	cook	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+FLEETWOOD	FLEETWOOD	np1	FLEETWOOD	Fleetwood	0
+SHEPPARD	SHEPPARD	np1	SHEPPARD	Sheppard	0
+.	.	.	.	.	1

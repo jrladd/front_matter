@@ -1,0 +1,13 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+(	(	(	(	(	0
+would	would	vmd	would	will	0
+I	I	pns11	I	i	0
+could	could	vmd	could	can	0
+say	say	vvi	say	say	0
+)	)	)	)	)	0
+Protector	Protector	n1	Protector	protector	0
+.	.	.	.	.	1
+S.D.	S.D.	np1	S.D.	S.D.	1

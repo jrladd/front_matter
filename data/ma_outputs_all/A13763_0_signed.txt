@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humilitie	humilitie	n1	humility	humility	0
+T	T	sy	TO	t	0
+F.	F.	np1	F.	F.	1

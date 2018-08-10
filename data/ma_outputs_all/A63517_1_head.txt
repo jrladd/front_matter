@@ -1,0 +1,2 @@
+Epistle	Epistle	n1	Epistle	epistle	0
+.	.	.	.	.	1

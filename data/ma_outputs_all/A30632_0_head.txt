@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+My	My	po11	My	my	0
+Noble	Noble	j	Noble	noble	0
+Friends	Friends	n2	Friends	friend	0
+,	,	,	,	,	0
+SVV	SVV	av	SVV	svv	0
+.	.	.	.	.	1
+Y.B.	Y.B.	np1	Y.B.	Y.B.	0
+T.R.	T.R.	np1	T.R.	T.R.	0
+EN	EN	fw-fr	EN	en	0
+ME	ME	pno11	ME	i	0
+.	.	.	.	.	1

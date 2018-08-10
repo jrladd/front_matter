@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Highness's	Highness's	ng1	Highness's	highness	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Banks	Banks	n2	Banks	bank	0
+.	.	.	.	.	1

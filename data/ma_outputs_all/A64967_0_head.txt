@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THAT	THAT	cst	THAT	that	0
+CONGREGATION	CONGREGATION	n1	CONGREGATION	congregation	0
+Who	Who	r-crq	Who	who	0
+had	had	vhd	had	have	0
+Mr.	Mr.	n1	Mr.	mr.	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+LAWRENCE	LAWRENCE	np1	LAWRENCE	Laurence	0
+For	For	p-acp	For	for	0
+their	their	po32	their	their	0
+PASTOR	PASTOR	n1	PASTOR	pastor	0
+.	.	.	.	.	1

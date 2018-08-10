@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RIC	RIC	n1	RIC	ric	0
+.	.	.	.	.	1
+ALLEN	ALLEN	np1	ALLEN	Allen	0
+.	.	.	.	.	1

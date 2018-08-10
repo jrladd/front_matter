@@ -1,0 +1,13 @@
+MY	MY	po11	MY	my	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Most	Most	av-ds	Most	most	0
+humblie	humblie	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+RI	RI	zz	RI	ri	0
+:	:	:	:	:	0
+WATSON	WATSON	np1	WATSON	Watson	0
+.	.	.	.	.	1

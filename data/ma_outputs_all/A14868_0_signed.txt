@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worshippes	worshippes	ng1	worships	worship	0
+faithfull	faithfull	j	faithful	faithful	0
+Seruaunt	Seruaunt	n1	Servant	servant	0
+.	.	.	.	.	1
+VV.	VV.	np1	VV.	VV.	0
+VV.	VV.	np1	VV.	VV.	1

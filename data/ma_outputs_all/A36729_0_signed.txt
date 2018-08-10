@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+oblig'd	oblig'd	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+De	De	fw-fr	De	de	0
+LUZANCY	LUZANCY	n1	LUZANCY	luzancy	0
+.	.	.	.	.	1

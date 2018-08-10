@@ -1,0 +1,9 @@
+Cultorum	Cultorum	fw-la	Cultorum	cultorum	0
+tuorum	tuorum	fw-la	tuorum	tuorum	0
+summus	summus	fw-la	summus	summus	0
+licet	licet	fw-la	licet	licet	0
+infimus	infimus	fw-la	infimus	infimus	0
+,	,	,	,	,	0
+S.	S.	fw-la	S.	s.	0
+SHAW	SHAW	fw-mi	SHAW	shaw	0
+.	.	.	.	.	1

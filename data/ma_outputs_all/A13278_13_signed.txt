@@ -1,0 +1,5 @@
+Humbly	Humbly	av-j	Humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Iosuah	Iosuah	np1	Iosuah	Iosuah	0
+Sylvester	Sylvester	np1	Sylvester	Sylvester	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+BR	BR	np1	BR	BR	0
+.	.	.	.	.	1
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+BEL	BEL	zz	BEL	bel	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+Humbly	Humbly	av-j	Humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+J.	J.	np1	J.	J.	0
+M.	M.	n1	M.	m.	1

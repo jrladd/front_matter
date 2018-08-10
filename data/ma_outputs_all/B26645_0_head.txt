@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Most	Most	av-ds	Most	most	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+and	and	cc	and	and	0
+Accomplish'd	Accomplish'd	vvn	Accomplished	accomplish	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Rich.	Rich.	np1	Rich.	Richard	1

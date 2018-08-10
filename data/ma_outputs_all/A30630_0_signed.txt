@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+BƲRTHOGGE	BƲRTHOGGE	n1	BƲRTHOGGE	bʋrthogge	0
+.	.	.	.	.	1

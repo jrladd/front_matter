@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Craige	Craige	np1	Craige	Craige	0
+,	,	,	,	,	0
+Scoto-Britan	Scoto-Britan	j	Scoto-Britan	scoto-britan	0
+.	.	.	.	.	1

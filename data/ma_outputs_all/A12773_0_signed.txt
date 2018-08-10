@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+humbly	humbly	av-j	humbly	humble	0
+.	.	.	.	.	1
+Ed.	Ed.	np1	Ed.	Ed.	0
+Sp.	Sp.	np1	Sp.	Sp.	1

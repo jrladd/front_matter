@@ -1,0 +1,7 @@
+Majestatis	Majestatis	fw-la	Majestatis	majestatis	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+Sacellanus	Sacellanus	np1	Sacellanus	Sacellanus	0
+,	,	,	,	,	0
+F.	F.	np1	F.	F.	0
+H.	H.	np1	H.	H.	1

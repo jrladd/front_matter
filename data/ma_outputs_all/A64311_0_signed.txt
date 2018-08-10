@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+most	most	av-ds	most	most	0
+dutiful	dutiful	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+.	.	.	.	.	1
+Jonathan	Jonathan	np1	Jonathan	Jonathan	0
+Swift	Swift	j	Swift	swift	0
+.	.	.	.	.	1

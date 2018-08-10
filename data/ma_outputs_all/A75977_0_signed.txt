@@ -1,0 +1,4 @@
+Henricus	Henricus	np1	Henricus	Henricus	0
+Cornelius	Cornelius	np1	Cornelius	Cornelius	0
+Agrippa	Agrippa	np1	Agrippa	Agrippa	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Charles	Charles	np1	Charles	Charles	0
+Montague	Montague	np1	Montague	Montague	0
+,	,	,	,	,	0
+Chancellour	Chancellour	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ex	Ex	fw-la	Ex	ex	0
+∣	∣	sy	∣	∣	0
+chequer	chequer	n1	chequer	chequer	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

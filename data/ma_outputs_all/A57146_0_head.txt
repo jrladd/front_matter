@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Good	Good	j	Good	good	0
+Friend	Friend	n1	Friend	friend	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+NIXSON	NIXSON	np1	NIXSON	Nixson	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+honorable	honorable	j	honourable	honourable	0
+minded	minded	j-vvn	minded	mind	0
+Souldier	Souldier	n1	Soldier	soldier	0
+.	.	.	.	.	1

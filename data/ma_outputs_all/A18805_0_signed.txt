@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Harryngton	Harryngton	np1	Harryngton	Harryngton	0
+.	.	.	.	.	1

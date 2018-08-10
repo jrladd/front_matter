@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+ROYAL	ROYAL	j	ROYAL	royal	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Glocester	Glocester	np1	Glocester	Gloucester	0
+.	.	.	.	.	1

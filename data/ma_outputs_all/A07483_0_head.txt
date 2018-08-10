@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+friend	friend	n1	friend	friend	0
+master	master	n1	master	master	0
+Robert	Robert	np1	Robert	Robert	0
+Traps	Traps	n2	Traps	trap	0
+,	,	,	,	,	0
+C.	C.	np1	C.	C.	0
+K.	K.	n1	K.	king	0
+wisheth	wisheth	vvz	wishes	wish	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

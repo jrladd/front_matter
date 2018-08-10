@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+And	And	cc	And	and	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Matthews	Matthews	np1	Matthews	Matthews	0
+.	.	.	.	.	1

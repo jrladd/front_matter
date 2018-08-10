@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Richard	Richard	np1	Richard	Richard	0
+Hutchinson	Hutchinson	np1	Hutchinson	Hutchinson	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+HIGH-SHERIFF	HIGH-SHERIFF	n1	HIGH-SHERIFF	high-sheriff	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+HERTFORD	HERTFORD	np1	HERTFORD	Hertford	0
+.	.	.	.	.	1

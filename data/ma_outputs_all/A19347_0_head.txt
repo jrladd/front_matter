@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRUELY	TRUELY	av-j	TRULY	true	0
+Noble	Noble	j	Noble	noble	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+,	,	,	,	,	0
+Theophila	Theophila	np1	Theophila	Theophila	0
+Cooke	Cooke	n1	Cook	cook	0
+.	.	.	.	.	1

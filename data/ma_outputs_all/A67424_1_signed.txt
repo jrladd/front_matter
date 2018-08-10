@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+and	and	cc	and	and	0
+Worships	Worships	n2	Worships	worship	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+Richard	Richard	np1	Richard	Richard	0
+Wallis	Wallis	np1	Wallis	Wallis	0
+.	.	.	.	.	1

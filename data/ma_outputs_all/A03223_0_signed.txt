@@ -1,0 +1,7 @@
+Shall	Shall	vmb	Shall	shall	0
+remayne	remayne	vvi	remain	remain	0
+yours	yours	png22	yours	you	0
+:	:	:	:	:	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Heywood	Heywood	np1	Heywood	Heywood	0
+.	.	.	.	.	1

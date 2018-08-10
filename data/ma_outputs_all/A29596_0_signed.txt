@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Countryman	Countryman	n1	Countryman	countryman	0
+,	,	,	,	,	0
+Ap	Ap	fw-mi	Ap	ap	0
+William	William	np1	William	William	0
+,	,	,	,	,	0
+d'	d'	fw-fr	d'	d'	0
+Bretaine	Bretaine	np1	Bretaine	Bretaine	0
+.	.	.	.	.	1

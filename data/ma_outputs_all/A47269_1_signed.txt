@@ -1,0 +1,11 @@
+A	A	dt	A	a	0
+true	true	j	true	true	0
+and	and	cc	and	and	0
+faithful	faithful	j	faithful	faithful	0
+Honourer	Honourer	n1	Honourer	honourer	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+transparent	transparent	j	transparent	transparent	0
+Virtues	Virtues	n2	Virtues	virtue	0
+W.	W.	np1	W.	W.	0
+J.	J.	np1	J.	J.	1

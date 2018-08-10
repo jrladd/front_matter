@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+i	i	sy	i	i	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+th	th	dt	that	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+:	:	:	:	:	0
+JOHN	JOHN	np1	JOHN	John	0
+WELLES	WELLES	np1	WELLES	Welles	1

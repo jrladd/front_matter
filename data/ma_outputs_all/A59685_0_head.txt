@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+deare	deare	j-jn	deer	dear	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mr	Mr	n1	Mr	mr.	0
+W.	W.	np1	W.	W.	0
+Greenhill	Greenhill	np1	Greenhill	Greenhill	0
+.	.	.	.	.	1

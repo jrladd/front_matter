@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+MAIES	MAIES	np1	MAIES	Maies	0
+∣	∣	sy	∣	∣	0
+TIE	TIE	vvb	TIE	tie	0
+THE	THE	dt	THE	the	0
+QUEENE	QUEENE	n1	QUEENE	queen	0
+OF	OF	pp-f	OF	of	0
+BOHEMIA	BOHEMIA	np1	BOHEMIA	Bohemia	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	1

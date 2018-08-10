@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+HIGHNESS's	HIGHNESS's	ng1	HIGHNESS's	highness	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+BASIL	BASIL	np1	BASIL	Basil	0
+KENNET	KENNET	np1	KENNET	Kennet	0
+.	.	.	.	.	1

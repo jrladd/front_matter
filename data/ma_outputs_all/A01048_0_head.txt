@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Rightly	Rightly	av-jn	Rightly	right	0
+right	right	vvi	right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Penelope	Penelope	np1	Penelope	Penelope	0
+,	,	,	,	,	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Deuonshire	Deuonshire	np1	Deuonshire	Devonshire	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+deuo	deuo	n1	devo	devo	0
+∣	∣	sy	∣	∣	0
+ted	ted	j	ted	ted	0
+daily	daily	j	daily	daily	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+.	.	.	.	.	1
+Theoph.	Theoph.	np1	Theoph.	Theoph.	0
+Landauensis	Landauensis	np1	Landauensis	Landauensis	0
+.	.	.	.	.	1

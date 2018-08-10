@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+FISHMONGERS	FISHMONGERS	n2	FISHMONGERS	fishmonger	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+BVTCHERS	BVTCHERS	n2	BVTCHERS	bvtcher	0
+,	,	,	,	,	0
+GREETING	GREETING	vvg	GREETING	greet	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Thine	Thine	po21	Thine	thy	0
+assured	assured	j-vvn	assured	assure	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Whetston	Whetston	np1	Whetston	Whetston	0
+.	.	.	.	.	1

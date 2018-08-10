@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Churches	Churches	n2	Churches	church	0
+denoted	denoted	vvd	denoted	denote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+EDVV	EDVV	np1	EDVV	EDVV	0
+.	.	.	.	.	1
+DALTON	DALTON	np1	DALTON	Dalton	0
+.	.	.	.	.	1

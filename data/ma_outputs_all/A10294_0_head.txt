@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+ll	ll	vmb	ll	will	0
+zealous	zealous	j	zealous	zealous	0
+Professor	Professor	n1	Professor	professor	0
+and	and	cc	and	and	0
+true	true	j	true	true	0
+hearted	hearted	j-vvn	hearted	heart	0
+Patriots	Patriots	n2	Patriots	patriot	0
+in	in	p-acp	in	in	0
+Great	Great	j	Great	great	0
+Britaine	Britaine	np1	Britaine	Britain	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+My	My	po11	My	my	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+N.	N.	np1	N.	N.	1

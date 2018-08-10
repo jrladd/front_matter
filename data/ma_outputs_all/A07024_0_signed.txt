@@ -1,0 +1,13 @@
+By	By	p-acp	By	by	0
+him	him	pno31	him	he	0
+that	that	cst	that	that	0
+is	is	vbz	is	be	0
+yours	yours	png22	yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+observance	observance	n1	observance	observance	0
+,	,	,	,	,	0
+SHACK	SHACK	vvi	SHACK	shack	0
+;	;	;	;	;	0
+MARMYON	MARMYON	np1	MARMYON	MARMYON	0
+.	.	.	.	.	1

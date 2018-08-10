@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+dayly	dayly	j	daily	daily	0
+ora	ora	n1	oram	oram	0
+∣	∣	sy	∣	∣	0
+tour	tour	fw-fr	tour	tour	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Brice	Brice	np1	Brice	Brice	0
+.	.	.	.	.	1

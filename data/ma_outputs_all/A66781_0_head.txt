@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+KING'S	KING'S	ng1	KING'S	king	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+,	,	,	,	,	0
+If	If	cs	If	if	0
+this	this	d	this	this	0
+Considering	Considering	vvg	Considering	consider	0
+Glass	Glass	n1	Glass	glass	0
+comes	comes	vvz	comes	come	0
+accidentally	accidentally	av-j	accidentally	accidental	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+View	View	n1	View	view	0
+.	.	.	.	.	1

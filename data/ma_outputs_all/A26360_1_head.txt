@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+BOOKSELLER	BOOKSELLER	n1	BOOKSELLER	bookseller	0
+.	.	.	.	.	1

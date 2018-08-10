@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+IOHN	IOHN	np1	IOHN	John	0
+MVRRELL	MVRRELL	np1	MVRRELL	MVRRELL	0
+.	.	.	.	.	1

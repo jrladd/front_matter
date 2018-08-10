@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORSHYPFVLL	WORSHYPFVLL	j	WORSHYPFVLL	worshypfvll	0
+M.	M.	n1	M.	m.	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+WYKES	WYKES	np1	WYKES	WYKES	0
+OF	OF	pp-f	OF	of	0
+Dodyngton	Dodyngton	np1	Dodyngton	Dodyngton	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Countye	Countye	n1	County	county	0
+of	of	pp-f	of	of	0
+Glouceter	Glouceter	np1	Glouceter	Gloucester	0
+Esquyer	Esquyer	np1	Esquyer	Esquyer	0
+.	.	.	.	.	1

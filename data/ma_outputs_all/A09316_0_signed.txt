@@ -1,0 +1,12 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+graces	graces	n2	graces	grace	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+obediently	obediently	av-j	obediently	obedient	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Danyell	Danyell	np1	Danyell	Danyell	0
+.	.	.	.	.	1

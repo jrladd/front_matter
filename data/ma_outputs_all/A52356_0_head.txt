@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+NISBET	NISBET	np1	NISBET	Nisbet	0
+OF	OF	pp-f	OF	of	0
+DIRLETON	DIRLETON	np1	DIRLETON	Dirleton	0
+.	.	.	.	.	1

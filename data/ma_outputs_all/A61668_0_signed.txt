@@ -1,0 +1,3 @@
+DAVID	DAVID	np1	DAVID	David	0
+STOKES	STOKES	np1	STOKES	Stokes	0
+.	.	.	.	.	1

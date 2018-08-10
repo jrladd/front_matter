@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+FRIENDS	FRIENDS	n2	FRIENDS	friend	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+CAMBRO-BRITANS	CAMBRO-BRITANS	j	CAMBRO-BRITANS	cambro-britans	0
+.	.	.	.	.	1

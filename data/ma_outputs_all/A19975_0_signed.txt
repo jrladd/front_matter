@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Daye	Daye	n1	Day	day	0
+.	.	.	.	.	1

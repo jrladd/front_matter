@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+youthfull	youthfull	j	youthful	youthful	0
+Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
+,	,	,	,	,	0
+or	or	cc	or	or	0
+Apprentises	Apprentises	n2	Apprentices	apprentice	0
+,	,	,	,	,	0
+fauourers	fauourers	n2	favourers	favourer	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+diuine	diuine	j-jn	divine	divine	0
+Arte	Arte	n1	Art	art	0
+of	of	pp-f	of	of	0
+sense-delighting	sense-delighting	j	sense-delighting	sense-delighting	0
+Poesie	Poesie	n1	Poesy	poesy	0
+.	.	.	.	.	1

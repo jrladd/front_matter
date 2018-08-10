@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+nobly	nobly	av-j	nobly	noble	0
+accomplisht	accomplisht	vvn	accomplished	accomplish	0
+Gentle	Gentle	j	Gentle	gentle	0
+∣	∣	sy	∣	∣	0
+man	man	n1	man	man	0
+,	,	,	,	,	0
+Wolstan	Wolstan	np1	Wolstan	Wolstan	0
+Dixie	Dixie	np1	Dixie	Dixie	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

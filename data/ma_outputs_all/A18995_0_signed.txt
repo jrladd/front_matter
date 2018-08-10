@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+duetie	duetie	n1	duty	duty	0
+William	William	np1	William	William	0
+Cleuer	Cleuer	np1	Cleuer	Cleuer	0
+.	.	.	.	.	1

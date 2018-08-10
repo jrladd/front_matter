@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+humblie	humblie	av-j	humbly	humble	0
+most	most	av-ds	most	most	0
+assured	assured	j-vvn	assured	assure	0
+,	,	,	,	,	0
+Margaret	Margaret	np1	Margaret	Margaret	0
+Tyler	Tyler	np1	Tyler	Tyler	0
+.	.	.	.	.	1

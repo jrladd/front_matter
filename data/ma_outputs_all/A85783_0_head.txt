@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dearly	Dearly	av-jn	Dearly	dear	0
+Beloved	Beloved	j-vvn	Beloved	belove	0
+Friends	Friends	n2	Friends	friend	0
+and	and	cc	and	and	0
+Neighbours	Neighbours	n2	Neighbours	neighbour	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+LAVENHAM	LAVENHAM	np1	LAVENHAM	Lavenham	0
+.	.	.	.	.	1

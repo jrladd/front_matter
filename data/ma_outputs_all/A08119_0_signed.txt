@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+for	for	p-acp	for	for	0
+life	life	n1	life	life	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+W.	W.	np1	W.	W.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Subiect	Subiect	j-jn	Subject	subject	0
+THEOPHILUS	THEOPHILUS	np1	THEOPHILUS	Theophilus	0
+BRABOURNE	BRABOURNE	np1	BRABOURNE	Brabourne	0
+.	.	.	.	.	1

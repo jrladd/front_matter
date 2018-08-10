@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+IOHN	IOHN	np1	IOHN	John	0
+DOVLAND	DOVLAND	np1	DOVLAND	DOVLAND	0
+.	.	.	.	.	1

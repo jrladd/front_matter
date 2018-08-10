@@ -1,0 +1,12 @@
+YOUR	YOUR	po22	YOUR	your	0
+MAJESTY's	MAJESTY's	ng1	MAJESTY's	majesty	0
+Passionately-devoted	Passionately-devoted	j	Passionately-devoted	passionately-devoted	0
+,	,	,	,	,	0
+or	or	cc	or	or	0
+otherwise	otherwise	av	otherwise	otherwise	0
+dis-interested	dis-interested	j	disinterested	disinterested	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WORCESTER	WORCESTER	np1	WORCESTER	Worcester	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+singularly	singularly	av-j	singularly	singular	0
+and	and	cc	and	and	0
+perpetually	perpetually	av-j	perpetually	perpetual	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+H.	H.	np1	H.	H.	0
+T.	T.	np1	T.	T.	0
+Relict	Relict	n1	Relict	relict	0
+of	of	pp-f	of	of	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Wedderburn	Wedderburn	np1	Wedderburn	Wedderburn	0
+.	.	.	.	.	1

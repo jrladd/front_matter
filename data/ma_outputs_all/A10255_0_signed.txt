@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+true	true	j	true	true	0
+Complement	Complement	n1	Compliment	compliment	0
+of	of	pp-f	of	of	0
+a	a	dt	a	a	0
+faithfull	faithfull	j	faithful	faithful	0
+heart	heart	n1	heart	heart	0
+.	.	.	.	.	1
+Fra	Fra	np1	Fra	Fra	0
+:	:	:	:	:	0
+Quarles	Quarles	np1	Quarles	Quarles	0
+.	.	.	.	.	1

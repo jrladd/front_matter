@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+AND	AND	cc	AND	and	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+GENTLE-WOMAN	GENTLE-WOMAN	n1	GENTLE-WOMAN	gentlewoman	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+Anne	Anne	np1	Anne	Anne	0
+Ʋaux	Ʋaux	np1	Ʋaux	Ʋaux	0
+.	.	.	.	.	1

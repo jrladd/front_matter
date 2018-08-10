@@ -1,0 +1,11 @@
+Johanniculus	Johanniculus	np1	Johanniculus	Johanniculus	0
+Nortonulus	Nortonulus	fw-la	Nortonulus	nortonulus	0
+Ortu	Ortu	fw-la	Ortu	ortu	0
+Londinensis	Londinensis	fw-la	Londinensis	londinensis	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+oriundus	oriundus	fw-la	oriundus	oriundus	0
+.	.	.	.	.	0
+agro	agro	n1	agro	agro	0
+Hartfordiensi	Hartfordiensi	fw-la	Hartfordiensi	hartfordiensi	0
+.	.	.	.	.	1

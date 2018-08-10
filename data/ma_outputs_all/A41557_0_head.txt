@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+Truely	Truely	av-j	Truly	true	0
+Re	Re	fw-mi	Re	re	0
+∣	∣	sy	∣	∣	0
+ligious	ligious	j	ligious	ligious	0
+Lady	Lady	n1	Lady	lady	0
+Jane	Jane	np1	Jane	Jane	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Su	Su	n1	Sum	sum	0
+∣	∣	sy	∣	∣	0
+therland	therland	n1	therland	therland	0
+.	.	.	.	.	1

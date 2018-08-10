@@ -1,0 +1,11 @@
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+Loving	Loving	j-vvg	Loving	love	0
+Friend	Friend	n1	Friend	friend	0
+.	.	.	.	.	1
+JOHN	JOHN	np1	JOHN	John	0
+HORNE	HORNE	n1	HORNE	horn	0
+.	.	.	.	.	1

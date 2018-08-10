@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+humblest	humblest	js	humblest	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+BEAUCHAMP	BEAUCHAMP	np1	BEAUCHAMP	Beauchamp	0
+PLANTAGENET	PLANTAGENET	np1	PLANTAGENET	Plantagenet	0
+.	.	.	.	.	1

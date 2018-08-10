@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Supplicant	Supplicant	n1	Supplicant	supplicant	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+.	.	.	.	.	1
+R.C.	R.C.	np1	R.C.	R.C.	1

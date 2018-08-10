@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+GRACE	GRACE	n1	GRACE	grace	0
+The	The	dt	The	the	0
+DUKE	DUKE	n1	DUKE	duke	0
+of	of	pp-f	of	of	0
+SHREWSBURY	SHREWSBURY	np1	SHREWSBURY	Shrewsbury	0
+,	,	,	,	,	0
+One	One	crd	One	one	0
+of	of	pp-f	of	of	0
+HIS	HIS	po31	HIS	his	0
+MAJESTY'S	MAJESTY'S	ng1	MAJESTY'S	majesty	0
+Principal	Principal	j-jn	Principal	principal	0
+Secretaries	Secretaries	n2	Secretary's	secretary	0
+OF	OF	pp-f	OF	of	0
+STATE	STATE	n1	STATE	state	0
+.	.	.	.	.	1

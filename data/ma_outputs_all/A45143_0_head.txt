@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Stillingfleet	Stillingfleet	np1	Stillingfleet	Stillingfleet	0
+.	.	.	.	.	1

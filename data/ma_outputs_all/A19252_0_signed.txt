@@ -1,0 +1,7 @@
+At	At	p-acp	At	at	0
+Your	Your	po22	Your	your	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Cooke	Cooke	n1	Cook	cook	0
+.	.	.	.	.	1

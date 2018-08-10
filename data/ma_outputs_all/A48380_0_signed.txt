@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Devoted	Devoted	vvn	Devoted	devote	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+CHA	CHA	zz	CHA	cha	0
+.	.	.	.	.	1
+LIDGOƲLD	LIDGOƲLD	np1	LIDGOƲLD	LIDGOƲLD	0
+.	.	.	.	.	1

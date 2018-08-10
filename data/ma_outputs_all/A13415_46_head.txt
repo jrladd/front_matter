@@ -1,0 +1,10 @@
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HIGH	HIGH	j	HIGH	high	0
+MAIESTIE	MAIESTIE	n1	MAIESTIE	majesty	0
+OF	OF	pp-f	OF	of	0
+QVEENE	QVEENE	n1	QVEENE	qveene	0
+MARY	MARY	np1	MARY	MARY	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Enemy	Enemy	n1	Enemy	enemy	0
+,	,	,	,	,	0
+because	because	c-acp	because	because	0
+I	I	pns11	I	i	0
+tell	tell	vvb	tell	tell	0
+you	you	pn22	you	you	0
+the	the	dt	the	the	0
+Truth	Truth	n1	Truth	truth	0
+.	.	.	.	.	1
+Philirenes	Philirenes	np1	Philirenes	Philirenes	0
+.	.	.	.	.	1

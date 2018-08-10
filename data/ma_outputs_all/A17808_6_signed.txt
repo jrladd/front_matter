@@ -1,0 +1,11 @@
+A	A	dt	A	a	0
+true	true	j	true	true	0
+denoted	denoted	vvd	denoted	denote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+resplendent	resplendent	j	resplendent	resplendent	0
+vertues	vertues	n2	virtues	virtue	0
+,	,	,	,	,	0
+ABRAHAM	ABRAHAM	np1	ABRAHAM	Abraham	0
+DARCIE	DARCIE	np1	DARCIE	DARCIE	0
+.	.	.	.	.	1

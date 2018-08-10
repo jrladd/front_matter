@@ -1,0 +1,11 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+celsitudinis	celsitudinis	fw-la	celsitudinis	celsitudinis	0
+obsequentissimus	obsequentissimus	fw-la	obsequentissimus	obsequentissimus	0
+famulus	famulus	fw-la	famulus	famulus	0
+DA	DA	n1	DA	dam	0
+:	:	:	:	:	0
+HVMIVS	HVMIVS	np1	HVMIVS	HVMIVS	0
+The	The	av	The	then	0
+:	:	:	:	:	0
+Scoto-Britannus	Scoto-Britannus	j	Scoto-Britannus	scoto-britannus	0
+.	.	.	.	.	1

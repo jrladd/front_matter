@@ -1,0 +1,13 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Honor's	Honor's	ng1	Honor's	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+engaged	engaged	j-vvn	engaged	engage	0
+Servant	Servant	n1	Servant	servant	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+WARING	WARING	np1	WARING	Waring	0
+.	.	.	.	.	1

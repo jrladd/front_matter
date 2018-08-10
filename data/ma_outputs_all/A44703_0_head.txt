@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Father	Father	n1	Father	father	0
+in	in	p-acp	in	in	0
+God	God	np1	God	God	0
+BENJAMIN	BENJAMIN	np1	BENJAMIN	Benjamin	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Diocess	Diocess	n1	Diocese	diocese	0
+of	of	pp-f	of	of	0
+Lincoln	Lincoln	np1	Lincoln	Lincoln	0
+.	.	.	.	.	1

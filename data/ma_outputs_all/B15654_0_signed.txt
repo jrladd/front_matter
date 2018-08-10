@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worshippes	Worshippes	n2	Worships	worship	0
+at	at	p-acp	at	at	0
+plea	plea	n1	plea	plea	0
+∣	∣	sy	∣	∣	0
+sure	sure	j	sure	sure	0
+to	to	pc-acp	to	to	0
+dispose	dispose	vvi	dispose	dispose	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1
+Abraham	Abraham	np1	Abraham	Abraham	0
+Fleming	Fleming	np1	Fleming	Fleming	0
+.	.	.	.	.	1

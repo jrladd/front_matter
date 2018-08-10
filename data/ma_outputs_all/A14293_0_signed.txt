@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+brother	brother	n1	brother	brother	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Vaughan	Vaughan	np1	Vaughan	Vaughan	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+Of	Of	pp-f	Of	of	0
+Mars	Mars	np1	Mars	Mars	0
+.	.	.	.	.	1
+♂	♂	sy	♂	♂	1

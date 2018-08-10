@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WISE	WISE	j	WISE	wise	0
+AND	AND	cc	AND	and	0
+VER	VER	fw-la	VER	ver	0
+∣	∣	sy	∣	∣	0
+tuous	tuous	j	tuous	tuous	0
+Gentlewoman	Gentlewoman	n1	Gentlewoman	gentlewoman	0
+,	,	,	,	,	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Marietta	Marietta	np1	Marietta	Marietta	0
+Catanea	Catanea	np1	Catanea	Catanea	0
+.	.	.	.	.	1

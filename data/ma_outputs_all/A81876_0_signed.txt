@@ -1,0 +1,9 @@
+Tibi	Tibi	fw-la	Tibi	tibi	0
+devinctissimus	devinctissimus	fw-la	devinctissimus	devinctissimus	0
+,	,	,	,	,	0
+obser	obser	fw-it	obser	obser	0
+∣	∣	sy	∣	∣	0
+vantissimusque	vantissimusque	fw-la	vantissimusque	vantissimusque	0
+,	,	,	,	,	0
+H.	H.	np1	H.	H.	0
+W.	W.	np1	W.	W.	1

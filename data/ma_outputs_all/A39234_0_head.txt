@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+SISTERS	SISTERS	n2	SISTERS	sister	0
+.	.	.	.	.	1

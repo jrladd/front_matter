@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+Grace	Grace	n1	Grace	grace	0
+MARY	MARY	np1	MARY	MARY	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+OF	OF	pp-f	OF	of	0
+BEUFORT	BEUFORT	np1	BEUFORT	BEUFORT	0
+.	.	.	.	.	1

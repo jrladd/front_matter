@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+loving	loving	n-vvg	loving	love	0
+and	and	cc	and	and	0
+faithful	faithful	j	faithful	faithful	0
+Father	Father	n1	Father	father	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+LAWRENCE	LAWRENCE	np1	LAWRENCE	Laurence	1

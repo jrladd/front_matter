@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+WELTON	WELTON	np1	WELTON	Welton	0
+.	.	.	.	.	1

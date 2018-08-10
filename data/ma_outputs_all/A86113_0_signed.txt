@@ -1,0 +1,5 @@
+deditus	deditus	fw-la	deditus	deditus	0
+MICH	MICH	np1	MICH	Mich	0
+.	.	.	.	.	1
+HAWK	HAWK	n1	HAWK	hawk	0
+.	.	.	.	.	1

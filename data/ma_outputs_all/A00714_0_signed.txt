@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+bounden	bounden	vvn	bounden	bind	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+F.	F.	np1	F.	F.	1

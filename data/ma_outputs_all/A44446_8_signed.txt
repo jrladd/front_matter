@@ -1,0 +1,13 @@
+You	You	pn22	You	you	0
+know	know	vvb	know	know	0
+,	,	,	,	,	0
+you	you	pn22	you	you	0
+know	know	vvb	know	know	0
+How	How	c-crq	How	how	0
+much	much	av-d	much	much	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Amasia's	Amasia's	npg1	Amasia's	amasia	0
+.	.	.	.	.	1
+Sylvius	Sylvius	np1	Sylvius	Silvius	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+VVorpps	VVorpps	n2	VVorpps	vvorpp	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+according	according	vvg	according	accord	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+profession	profession	n1	profession	profession	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PAYBODY	PAYBODY	n1	PAYBODY	paybody	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+CRANLEY	CRANLEY	np1	CRANLEY	CRANLEY	0
+.	.	.	.	.	1

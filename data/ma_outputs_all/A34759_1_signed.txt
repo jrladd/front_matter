@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Ʋncle	Ʋncle	n1	Ʋncle	ʋncle	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+CARTER	CARTER	n1	CARTER	carter	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+poore	poore	j	poor	poor	0
+Neighbour	Neighbour	n1	Neighbour	neighbour	0
+and	and	cc	and	and	0
+perpetuall	perpetuall	j	perpetual	perpetual	0
+well-willer	well-willer	n1	well-willer	well-willer	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+CARPENTER	CARPENTER	n1	CARPENTER	carpenter	0
+.	.	.	.	.	1

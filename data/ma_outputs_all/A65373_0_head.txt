@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+Truly	Truly	av-j	Truly	true	0
+Noble	Noble	j	Noble	noble	0
+MARGARET	MARGARET	np1	MARGARET	Margaret	0
+,	,	,	,	,	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+ROTHES	ROTHES	np1	ROTHES	Rothes	0
+.	.	.	.	.	1

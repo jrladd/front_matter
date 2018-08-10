@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+friend	friend	n1	friend	friend	0
+most	most	av-ds	most	most	0
+trustily	trustily	av-j	trustily	trusty	0
+assured	assured	vvn	assured	assure	0
+Edvvard	Edvvard	np1	Edvvard	Edvvard	0
+Hake	Hake	np1	Hake	Hake	0
+.	.	.	.	.	1

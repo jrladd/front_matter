@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+true	true	j	true	true	0
+Lover	Lover	n1	Lover	lover	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+good	good	j	good	good	0
+Learning	Learning	n1	Learning	learning	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Iobn	Iobn	np1	Iobn	John	0
+Finch	Finch	np1	Finch	Finch	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Sir	Sir	n1	Sir	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ALEYN	ALEYN	np1	ALEYN	ALEYN	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Maior	Maior	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

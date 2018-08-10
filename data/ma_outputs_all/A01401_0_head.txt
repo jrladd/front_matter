@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	j-jn	Right	right	0
+Honora	Honora	np1	Honora	Honora	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Countesse	Countesse	n1	Countess	countess	0
+Dowager	Dowager	n1	Dowager	dowager	0
+of	of	pp-f	of	of	0
+DERBIE	DERBIE	np1	DERBIE	DERBIE	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+no	no	av-dx	no	no	0
+lesse	lesse	av-dc	less	less	0
+humbl	humbl	j	humbl	humbl	0
+then	then	cs	then	than	0
+truly	truly	av-j	truly	true	0
+devote	devote	vvi	devote	devote	1

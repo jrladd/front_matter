@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+unfeignedly	unfeignedly	av-j	unfeignedly	unfeigned	0
+Beloved	Beloved	vvn	Beloved	belove	0
+Parishioners	Parishioners	n2	Parishioners	parishioner	0
+of	of	pp-f	of	of	0
+Saint	Saint	n1	Saint	saint	0
+GILES	GILES	np1	GILES	Giles	0
+Cripplegate	Cripplegate	np1	Cripplegate	Cripplegate	0
+.	.	.	.	.	1

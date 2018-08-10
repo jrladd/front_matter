@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+LOVING	LOVING	j-vvg	LOVING	love	0
+Cousin	Cousin	n1	Cousin	cousin	0
+Mr.	Mr.	n1	Mr.	mr.	1
+Thomas	Thomas	np1	Thomas	Thomas	0
+Smith	Smith	n1	Smith	smith	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+health	health	n1	health	health	0
+,	,	,	,	,	0
+grace	grace	n1	grace	grace	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+happinesse	happinesse	n1	happiness	happiness	0
+.	.	.	.	.	1

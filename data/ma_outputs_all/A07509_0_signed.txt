@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+selected	selected	vvn	selected	select	0
+studies	studies	n2	studies	study	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+MIDLETON	MIDLETON	np1	MIDLETON	MIDLETON	0
+.	.	.	.	.	1

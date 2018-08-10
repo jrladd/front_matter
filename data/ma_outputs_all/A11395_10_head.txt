@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+COLONIES	COLONIES	n2	COLONIES	colony	0
+.	.	.	.	.	1

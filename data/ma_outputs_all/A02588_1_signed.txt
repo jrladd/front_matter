@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+&	&	cc	&	and	0
+vnfained	vnfained	j	unfeigned	unfeigned	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Adam	Adam	np1	Adam	Adam	0
+Hill	Hill	n1	Hill	hill	0
+,	,	,	,	,	0
+Minister	Minister	n1	Minister	minister	0
+.	.	.	.	.	1

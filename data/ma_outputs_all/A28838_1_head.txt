@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Dauphin	Dauphin	n1	Dauphin	dauphin	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+perfectly	perfectly	av-j	perfectly	perfect	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servants	Servants	n2	Servants	servant	0
+;	;	;	;	;	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+HENCHMAN	HENCHMAN	np1	HENCHMAN	Henchman	0
+.	.	.	.	.	1

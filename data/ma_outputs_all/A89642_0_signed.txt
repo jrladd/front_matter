@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+and	and	cc	and	and	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+Child	Child	n1	Child	child	0
+.	.	.	.	.	1
+Br.	Br.	np1	Br.	Br.	0
+ANGELVS	ANGELVS	np1	ANGELVS	ANGELVS	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+.	.	.	.	.	1

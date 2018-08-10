@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+IOHN	IOHN	np1	IOHN	John	0
+WHITE	WHITE	j-jn	WHITE	white	0
+.	.	.	.	.	1

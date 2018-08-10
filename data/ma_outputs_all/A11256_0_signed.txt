@@ -1,0 +1,7 @@
+Thine	Thine	png21	Thine	thou	0
+,	,	,	,	,	0
+least	least	av-ds	least	least	0
+worthy	worthy	j	worthy	worthy	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+S.	S.	np1	S.	S.	1

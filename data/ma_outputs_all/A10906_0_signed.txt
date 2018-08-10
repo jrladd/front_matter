@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Rogers	Rogers	np1	Rogers	Rogers	0
+.	.	.	.	.	1

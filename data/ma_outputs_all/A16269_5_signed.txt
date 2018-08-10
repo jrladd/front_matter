@@ -1,0 +1,3 @@
+R.	R.	np1	R.	R.	0
+Hathway	Hathway	np1	Hathway	Hathway	0
+.	.	.	.	.	1

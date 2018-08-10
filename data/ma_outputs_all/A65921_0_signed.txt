@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+Devoted	Devoted	vvn	Devoted	devote	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Whitfeld	Whitfeld	np1	Whitfeld	Whitfeld	0
+.	.	.	.	.	1

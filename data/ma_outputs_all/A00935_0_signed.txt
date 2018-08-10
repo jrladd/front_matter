@@ -1,0 +1,12 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Worships	Worships	ng1	Worships	worship	0
+comman	comman	j	commn	common	0
+∣	∣	sy	∣	∣	0
+dement	dement	fw-fr	dement	dement	0
+alwaies	alwaies	av	always	always	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Abraham	Abraham	np1	Abraham	Abraham	0
+Fleming	Fleming	np1	Fleming	Fleming	0
+.	.	.	.	.	1

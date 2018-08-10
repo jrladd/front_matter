@@ -1,0 +1,13 @@
+Di	Di	fw-it	Di	di	0
+sua	sua	fw-la	sua	sva	0
+Altezza	Altezza	np1	Altezza	Altezza	0
+serenissima	serenissima	fw-la	serenissima	serenissimus	0
+humilissimo	humilissimo	fw-la	humilissimo	humilissimo	0
+,	,	,	,	,	0
+e	e	fw-la	e	e	0
+fedelissimo	fedelissimo	fw-la	fedelissimo	fedelissimo	0
+seruitore	seruitore	fw-la	seruitore	seruitore	0
+,	,	,	,	,	0
+BENVENVTO	BENVENVTO	np1	BENVENVTO	BENVENVTO	0
+ITALIANO	ITALIANO	fw-it	ITALIANO	italiano	0
+.	.	.	.	.	1

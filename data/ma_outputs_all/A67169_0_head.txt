@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+Noble	Noble	j	Noble	noble	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+FLOWER	FLOWER	n1	FLOWER	flower	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Clarendon	Clarendon	np1	Clarendon	Clarendon	0
+.	.	.	.	.	1

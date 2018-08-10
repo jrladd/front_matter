@@ -1,0 +1,8 @@
+Reverentiae	Reverentiae	fw-la	Reverentiae	reverentiae	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
+,	,	,	,	,	0
+JOAN	JOAN	np1	JOAN	Joan	0
+.	.	.	.	.	1
+FROST	FROST	n1	FROST	frost	0
+.	.	.	.	.	1

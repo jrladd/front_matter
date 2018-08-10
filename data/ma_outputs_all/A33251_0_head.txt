@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Protestant	Protestant	n1	Protestant	protestant	0
+Nobility	Nobility	n1	Nobility	nobility	0
+,	,	,	,	,	0
+Gen	Gen	fw-la	Gen	gen	0
+∣	∣	sy	∣	∣	0
+try	try	n1	try	try	0
+and	and	cc	and	and	0
+Commonalty	Commonalty	n1	Commonalty	commonalty	0
+of	of	pp-f	of	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

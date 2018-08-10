@@ -1,0 +1,11 @@
+The	The	dt	The	the	0
+Publishers	Publishers	n2	Publishers	publisher	0
+affectionate	affectionate	j	affectionate	affectionate	0
+good	good	j	good	good	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+singular	singular	j	singular	singular	0
+good	good	j	good	good	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1

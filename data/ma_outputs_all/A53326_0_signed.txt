@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+ever	ever	av	ever	ever	0
+devoted	devoted	j-vvn	devoted	devote	0
+Ser	Ser	n1	Sir	sir	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+things	things	n2	things	thing	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+O.	O.	np1	O.	O.	1

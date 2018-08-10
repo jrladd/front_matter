@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Grace's	Grace's	ng1	Grace's	grace	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Stanhope	Stanhope	np1	Stanhope	Stanhope	0
+.	.	.	.	.	1

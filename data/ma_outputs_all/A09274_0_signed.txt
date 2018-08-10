@@ -1,0 +1,17 @@
+Yours	Yours	png22	Yours	you	0
+:	:	:	:	:	0
+willing	willing	j	willing	willing	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+greater	greater	jc	greater	great	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+not	not	xx	not	not	0
+more	more	av-dc	more	more	0
+acceptable	acceptable	j	acceptable	acceptable	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+GEREE	GEREE	n1	GEREE	geree	0
+.	.	.	.	.	1

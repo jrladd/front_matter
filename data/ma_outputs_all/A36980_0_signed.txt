@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Humlitie	Humlitie	n1	Humlitie	humlitie	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+NICOLAS	NICOLAS	np1	NICOLAS	Nicolas	0
+DARTON	DARTON	np1	DARTON	Darton	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Cultor	Cultor	np1	Cultor	Cultor	0
+&	&	cc	&	and	0
+Sacellanus	Sacellanus	np1	Sacellanus	Sacellanus	0
+observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
+I.	I.	np1	I.	I.	0
+M.	M.	n1	M.	m.	1

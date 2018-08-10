@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+LORD	LORD	n1	LORD	lord	0
+JOHN	JOHN	np1	JOHN	John	0
+,	,	,	,	,	0
+EARL	EARL	n1	EARL	earl	0
+of	of	pp-f	of	of	0
+DALKEITH	DALKEITH	np1	DALKEITH	Dalkeith	0
+,	,	,	,	,	0
+Apparent	Apparent	j	Apparent	apparent	0
+DUKE	DUKE	n1	DUKE	duke	0
+of	of	pp-f	of	of	0
+BƲCCLƲGH	BƲCCLƲGH	np1	BƲCCLƲGH	BƲCCLƲGH	0
+.	.	.	.	.	1

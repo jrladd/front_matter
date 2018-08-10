@@ -1,0 +1,4 @@
+Barthol	Barthol	np1	Barthol	Barthol	0
+.	.	.	.	.	1
+Robinson	Robinson	np1	Robinson	Robinson	0
+.	.	.	.	.	1

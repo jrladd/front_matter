@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+HUSTLER	HUSTLER	np1	HUSTLER	Hustler	0
+,	,	,	,	,	0
+A	A	dt	A	a	0
+MEMBER	MEMBER	n1	MEMBER	member	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+Commons	Commons	n2	Commons	commons	0
+.	.	.	.	.	1

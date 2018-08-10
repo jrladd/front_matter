@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+Honorer	Honorer	n1	Honorer	honourer	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+JONES	JONES	np1	JONES	Jones	0
+Eugen.	Eugen.	np1	Eugen.	Eugen.	1

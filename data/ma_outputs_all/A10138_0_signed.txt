@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+.	.	.	.	.	1
+Tho.	Tho.	np1	Tho.	Tho.	0
+Pritchard	Pritchard	np1	Pritchard	Pritchard	0
+.	.	.	.	.	1

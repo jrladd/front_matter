@@ -1,0 +1,9 @@
+Cousen	Cousen	n1	Cousin	cousin	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

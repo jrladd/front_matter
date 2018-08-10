@@ -1,0 +1,4 @@
+D.	D.	np1	D.	D.	0
+N.	N.	np1	N.	N.	0
+C.	C.	np1	C.	C.	0
+Q.	Q.	np1	Q.	Q.	1

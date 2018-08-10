@@ -1,0 +1,8 @@
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+Mercie	Mercie	n1	Mercy	mercy	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

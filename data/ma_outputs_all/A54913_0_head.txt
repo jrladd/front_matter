@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MVCH	MVCH	d	MUCH	much	0
+HOND	HOND	n1	HOND	hound	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+W.	W.	np1	W.	W.	0
+D.	D.	np1	D.	D.	0
+ESQVIRE	ESQVIRE	vvi	ESQVIRE	esqvire	0
+THESE	THESE	d	THESE	these	0
+.	.	.	.	.	1

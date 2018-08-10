@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+High	High	j	High	high	0
+and	and	cc	and	and	0
+Mighty	Mighty	j	Mighty	mighty	0
+MONARCH	MONARCH	n1	MONARCH	monarch	0
+King	King	n1	King	king	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duetie	duetie	n1	duty	duty	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Purchas	Purchas	np1	Purchas	Purchas	0
+.	.	.	.	.	1

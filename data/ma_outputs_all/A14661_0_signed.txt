@@ -1,0 +1,15 @@
+Euer	Euer	av	Ever	ever	0
+bound	bound	vvn	bound	bind	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+alwaies	alwaies	av	always	always	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+pure	pure	j	pure	pure	0
+loue	loue	n1	love	love	0
+,	,	,	,	,	0
+Ralph	Ralph	np1	Ralph	Ralph	0
+Walker	Walker	np1	Walker	Walker	0
+.	.	.	.	.	1

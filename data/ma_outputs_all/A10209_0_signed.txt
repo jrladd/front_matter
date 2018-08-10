@@ -1,0 +1,14 @@
+I	I	pns11	I	i	0
+take	take	vvb	take	take	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+submissiue	submissiue	j	submissive	submissive	0
+leaue	leaue	n1	leave	leave	0
+Your	Your	po22	Your	your	0
+honour's	honour's	ng1	honour's	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+HAWKINS	HAWKINS	np1	HAWKINS	Hawkins	0
+.	.	.	.	.	1

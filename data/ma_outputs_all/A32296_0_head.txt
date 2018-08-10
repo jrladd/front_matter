@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+LOE	LOE	uh	LO	lo	0
+,	,	,	,	,	0
+K.	K.	n1	K.	king	0
+ALDERMAN	ALDERMAN	n1	ALDERMAN	alderman	0
+OF	OF	pp-f	OF	of	0
+The	The	dt	The	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

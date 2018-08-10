@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+most	most	av-ds	most	most	0
+honoured	honoured	j-vvn	honoured	honour	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+best	best	js	best	best	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+KENELME	KENELME	np1	KENELME	KENELME	0
+DIGBY	DIGBY	np1	DIGBY	Digby	0
+.	.	.	.	.	1

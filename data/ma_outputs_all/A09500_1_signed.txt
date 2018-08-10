@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+PERSON	PERSON	n1	PERSON	person	0
+.	.	.	.	.	1

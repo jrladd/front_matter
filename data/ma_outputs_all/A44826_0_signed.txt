@@ -1,0 +1,3 @@
+Posuit	Posuit	n1	Posuit	posuit	0
+N.	N.	np1	N.	N.	0
+N.	N.	np1	N.	N.	1

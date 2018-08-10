@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+humility	humility	n1	humility	humility	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+MORLEY	MORLEY	np1	MORLEY	Morley	0
+.	.	.	.	.	1

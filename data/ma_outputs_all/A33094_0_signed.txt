@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+irreserved	irreserved	vvn	irreserved	irreserve	0
+∣	∣	sy	∣	∣	0
+ly	ly	vvb	lie	lie	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+CANARIES	CANARIES	n2	CANARIES	canary	1

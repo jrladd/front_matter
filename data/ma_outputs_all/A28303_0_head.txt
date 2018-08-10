@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ATKIN	ATKIN	np1	ATKIN	Atkin	0
+Esquire	Esquire	n1	Esquire	esquire	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+MAJOR	MAJOR	j	MAJOR	major	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

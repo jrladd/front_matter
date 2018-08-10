@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+Lord	Lord	n1	Lord	lord	0
+My	My	po11	My	my	0
+Lord	Lord	n1	Lord	lord	0
+R.	R.	np1	R.	R.	0
+B.	B.	np1	B.	B.	0
+E.	E.	np1	E.	E.	1

@@ -1,0 +1,10 @@
+Domino	Domino	fw-la	Domino	domino	0
+summè	summè	fw-la	summè	summè	0
+Reverendo	Reverendo	fw-la	Reverendo	reverendo	0
+D.	D.	np1	D.	D.	0
+GILBERTO	GILBERTO	np1	GILBERTO	GILBERTO	0
+Archiepiscopo	Archiepiscopo	np1	Archiepiscopo	Archiepiscopo	0
+CANTUARIENSI	CANTUARIENSI	fw-la	CANTUARIENSI	cantuariensi	0
+Totius	Totius	fw-la	Totius	totius	0
+Angliae	Angliae	fw-la	Angliae	angliae	0
+Primati	Primati	fw-la	Primati	primati	1

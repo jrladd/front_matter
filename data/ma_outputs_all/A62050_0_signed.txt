@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+real	real	j	real	real	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+ever	ever	av	ever	ever	0
+blessed	blessed	j-vvn	blessed	bless	0
+Saviour	Saviour	n1	Saviour	saviour	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Swinnocke	Swinnocke	vvb	Swinnocke	swinnocke	0
+.	.	.	.	.	1

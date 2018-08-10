@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maund	maund	n1	maund	maund	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+Part.	Part.	n1	Part.	part	1

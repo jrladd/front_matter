@@ -1,0 +1,3 @@
+ELLIS	ELLIS	np1	ELLIS	Ellis	0
+BRADSHAVVE	BRADSHAVVE	n1	BRADSHAVVE	bradshavve	0
+.	.	.	.	.	1

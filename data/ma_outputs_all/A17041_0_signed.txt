@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lorships	Lorships	ng1	Lordships	lordship	0
+humblest	humblest	js	humblest	humble	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Seruice	Seruice	n1	Service	service	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BROVVNE	BROVVNE	j-jn	BROWN	brown	0
+.	.	.	.	.	1

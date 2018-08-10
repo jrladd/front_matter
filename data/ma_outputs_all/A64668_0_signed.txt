@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Honor's	Honor's	n1|vbz	Honor's	honor|be	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+T.Y.	T.Y.	np1	T.Y.	T.Y.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+beloved	beloved	j-vvn	beloved	belove	0
+Brother	Brother	n1	Brother	brother	0
+Captain	Captain	n1	Captain	captain	0
+GILBERT	GILBERT	np1	GILBERT	Gilbert	0
+CROUCH	CROUCH	vvi	CROUCH	crouch	0
+.	.	.	.	.	1

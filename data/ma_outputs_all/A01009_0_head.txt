@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVL	WORSHIPFVL	j	WORSHIPFUL	worshipful	0
+SYR	SYR	n1	SYR	sir	0
+EDƲƲARD	EDƲƲARD	vvn	EDƲƲARD	edʋʋard	0
+HOBY	HOBY	np1	HOBY	Hoby	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1

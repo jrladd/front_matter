@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+affection	affection	n1	affection	affection	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+ready	ready	j	ready	ready	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+:	:	:	:	:	0
+Henry	Henry	np1	Henry	Henry	0
+Robarts	Robarts	np1	Robarts	Robarts	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+love	love	n1	love	love	0
+,	,	,	,	,	0
+honor	honor	n1	honour	honour	0
+and	and	cc	and	and	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+.	.	.	.	.	1
+O.	O.	sy	O.	o	0
+HUGHES	HUGHES	np1	HUGHES	Hughes	0
+.	.	.	.	.	1

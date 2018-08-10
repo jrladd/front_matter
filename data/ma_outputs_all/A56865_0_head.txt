@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+LADY	LADY	n1	LADY	lady	0
+STANLEY	STANLEY	np1	STANLEY	Stanley	0
+.	.	.	.	.	1

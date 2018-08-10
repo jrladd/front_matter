@@ -1,0 +1,9 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honors	Honors	ng1	Honours	honour	0
+commandement	commandement	n1	commandment	commandment	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+ROGERS	ROGERS	np1	ROGERS	Rogers	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Bene	Bene	np1	Bene	Bene	0
+vortat	vortat	fw-la	vortat	vortat	0
+Deus	Deus	fw-la	Deus	deus	0
+,	,	,	,	,	0
+AMEN	AMEN	uh-n	AMEN	amen	0
+,	,	,	,	,	0
+Precatur	Precatur	np1	Precatur	Precatur	0
+,	,	,	,	,	0
+NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
+HOMESIƲS	HOMESIƲS	vvz	HOMESIƲS	homesiʋ	0
+.	.	.	.	.	1

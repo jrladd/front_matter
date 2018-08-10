@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JER	JER	n1	JER	jer	0
+.	.	.	.	.	1
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

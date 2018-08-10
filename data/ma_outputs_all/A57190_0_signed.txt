@@ -1,0 +1,11 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+IOHN	IOHN	np1	IOHN	John	0
+REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
+.	.	.	.	.	1

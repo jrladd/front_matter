@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+AND	AND	cc	AND	and	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+Sarah	Sarah	np1	Sarah	Sarah	0
+Prior.	Prior.	n1	Prior.	prior	0
+Inhabiting	Inhabiting	vvg	Inhabiting	inhabit	0
+the	the	dt	the	the	0
+Town	Town	n1	Town	town	0
+of	of	pp-f	of	of	0
+Colchester	Colchester	np1	Colchester	Colchester	0
+.	.	.	.	.	1

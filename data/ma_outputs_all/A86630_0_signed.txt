@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+thrice-Obedient	thrice-Obedient	j	thrice-Obedient	thrice-obedient	0
+and	and	cc	and	and	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servitor	Servitor	n1	Servitor	servitor	0
+JAM	JAM	fw-la	JAM	jam	0
+.	.	.	.	.	1
+HOVVEL	HOVVEL	np1	HOVVEL	HOVVEL	0
+.	.	.	.	.	1

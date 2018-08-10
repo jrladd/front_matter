@@ -1,0 +1,3 @@
+IS	IS	vbz	IS	be	0
+.	.	.	.	.	1
+VV.	VV.	np1	VV.	VV.	1

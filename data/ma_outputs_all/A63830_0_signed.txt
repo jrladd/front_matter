@@ -1,0 +1,12 @@
+Whilest	Whilest	cs	Whilst	while	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+a	a	dt	a	a	0
+lawfull	lawfull	j	lawful	lawful	0
+Ambassadour	Ambassadour	n1	Ambassador	ambassador	0
+for	for	p-acp	for	for	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+EDVARD	EDVARD	np1	EDVARD	EDVARD	0
+TVKE	TVKE	vvd	TOOK	take	0
+.	.	.	.	.	1

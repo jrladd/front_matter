@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Scholler	Scholler	n1	Scholar	scholar	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+ease	ease	n1	ease	ease	0
+more	more	av-dc	more	more	0
+forward	forward	av-j	forward	forward	0
+then	then	cs	then	than	0
+able	able	j	able	able	0
+.	.	.	.	.	1
+F.	F.	np1	F.	F.	0
+Cook	Cook	n1	Cook	cook	0
+.	.	.	.	.	1

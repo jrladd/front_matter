@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+William	William	np1	William	William	0
+Duncombe	Duncombe	np1	Duncombe	Duncombe	0
+,	,	,	,	,	0
+Bar.	Bar.	np1	Bar.	Bar.	1

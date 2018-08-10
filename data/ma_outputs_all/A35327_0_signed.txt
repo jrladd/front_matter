@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+C.	C.	np1	C.	C.	1

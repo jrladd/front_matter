@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HONO	HONO	fw-it	HONO	hono	0
+∣	∣	sy	∣	∣	0
+RABLE	RABLE	n1	RABLE	rabble	0
+AND	AND	cc	AND	and	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+LA	LA	fw-fr	LA	la	0
+∣	∣	sy	∣	∣	0
+DIE	DIE	vvb	DIE	die	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LADIE	LADIE	n1	LADIE	lady	0
+HARINGTON	HARINGTON	np1	HARINGTON	HARINGTON	0
+.	.	.	.	.	1

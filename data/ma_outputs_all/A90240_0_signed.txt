@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+nimble	nimble	j	nimble	nimble	0
+and	and	cc	and	and	0
+learned	learned	j	learned	learned	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+SCALE-SKY	SCALE-SKY	n1	SCALE-SKY	scale-sky	0
+.	.	.	.	.	1

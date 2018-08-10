@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+Ludovick	Ludovick	np1	Ludovick	Ludovick	0
+Borbon	Borbon	np1	Borbon	Borbon	0
+,	,	,	,	,	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Enguienna	Enguienna	np1	Enguienna	Enguienna	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Edward	Edward	np1	Edward	Edward	0
+Muns	Muns	zz	Muns	muns	0
+OF	OF	pp-f	OF	of	0
+CLAPHAM	CLAPHAM	np1	CLAPHAM	Clapham	0
+,	,	,	,	,	0
+IN	IN	p-acp	IN	in	0
+THE	THE	dt	THE	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+SƲRREY	SƲRREY	np1	SƲRREY	SƲRREY	0
+,	,	,	,	,	0
+Gent.	Gent.	n1	Gent.	gentleman	1

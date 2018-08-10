@@ -1,0 +1,14 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+vse	vse	vvi	use	use	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lorde	Lorde	n1	Lord	lord	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Northbrooke	Northbrooke	np1	Northbrooke	Northbrooke	0
+,	,	,	,	,	0
+preacher	preacher	n1	preacher	preacher	0
+.	.	.	.	.	1

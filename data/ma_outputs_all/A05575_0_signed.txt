@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+kinsman	kinsman	n1	kinsman	kinsman	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+:	:	:	:	:	0
+Iohn	Iohn	np1	Iohn	John	0
+Stradling	Stradling	np1	Stradling	Stradling	0
+.	.	.	.	.	1

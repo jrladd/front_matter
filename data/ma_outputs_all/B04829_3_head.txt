@@ -1,0 +1,15 @@
+Ir	Ir	zz	Ir	ir	0
+Anrhydeddus	Anrhydeddus	np1	Anrhydeddus	Anrhydeddus	0
+a'r	a'r	n1	a'r	a'r	0
+tra	tra	fw-la	tra	tra	0
+rhagorol	rhagorol	n1	rhagorol	rhagorol	0
+mewn	mewn	j	mewn	mewn	0
+Duw	Duw	zz	Duw	duw	0
+∣	∣	sy	∣	∣	0
+ioldeb	ioldeb	n1	ioldeb	ioldeb	0
+a	a	dt	a	a	0
+Dysc	Dysc	n1	Dysc	dysc	0
+Mr.	Mr.	n1	Mr.	mr.	1
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+BOYLE	BOYLE	np1	BOYLE	Boyle	0
+.	.	.	.	.	1

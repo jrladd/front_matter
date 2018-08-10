@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+and	and	cc	and	and	0
+MOST	MOST	av-ds	MOST	most	0
+VERTUOUS	VERTUOUS	j	VIRTUOUS	virtuous	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+ANNE	ANNE	np1	ANNE	ANNE	0
+LEEDES	LEEDES	vvz	LEEDES	leede	0
+.	.	.	.	.	1

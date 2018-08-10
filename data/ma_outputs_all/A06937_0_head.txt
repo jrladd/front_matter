@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+George	George	np1	George	George	0
+Riuers	Riuers	n2	Rivers	river	0
+of	of	pp-f	of	of	0
+Chafford	Chafford	np1	Chafford	Chafford	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+KENT	KENT	np1	KENT	Kent	0
+.	.	.	.	.	1

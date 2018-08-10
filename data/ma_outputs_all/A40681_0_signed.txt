@@ -1,0 +1,7 @@
+YOUR	YOUR	po22	YOUR	your	0
+LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
+humble	humble	j	humble	humble	0
+Oratour	Oratour	n1	Orator	orator	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Fuller	Fuller	np1	Fuller	Fuller	0
+.	.	.	.	.	1

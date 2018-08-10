@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+DEARE	DEARE	j-jn	DEER	dear	0
+FATHER	FATHER	n1	FATHER	father	0
+Mr.	Mr.	n1	Mr.	mr.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PRICE	PRICE	n1	PRICE	price	0
+Preacher	Preacher	n1	Preacher	preacher	0
+of	of	pp-f	of	of	0
+Gods	Gods	npg1	Gods	God	0
+word	word	n1	word	word	0
+in	in	p-acp	in	in	0
+SHREWSBVRY	SHREWSBVRY	np1	SHREWSBVRY	SHREWSBVRY	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+euer	euer	av	ever	ever	0
+,	,	,	,	,	0
+Cyrill	Cyrill	np1	Cyrill	Cyrill	0
+Turner	Turner	np1	Turner	Turner	0
+.	.	.	.	.	1

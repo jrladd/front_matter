@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+PRESIDENT	PRESIDENT	n1	PRESIDENT	precedent	0
+and	and	cc	and	and	0
+COUNCIL	COUNCIL	n1	COUNCIL	council	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+Highness	Highness	n1	Highness	highness	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+PROTECTOR	PROTECTOR	n1	PROTECTOR	protector	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+seruice	seruice	n1	service	service	0
+and	and	cc	and	and	0
+commandment	commandment	n1	commandment	commandment	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Dauies	Dauies	np1	Dauies	Davies	0
+.	.	.	.	.	1

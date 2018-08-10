@@ -1,0 +1,11 @@
+Ever	Ever	av	Ever	ever	0
+obliged	obliged	vvn	obliged	oblige	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+re	re	fw-mi	re	re	0
+∣	∣	sy	∣	∣	0
+spected	spected	vvn	spected	spect	0
+selfe	selfe	n1	self	self	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1
+B	B	sy	B	b	1

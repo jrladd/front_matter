@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+fear	fear	vvb	fear	fear	0
+God	God	np1	God	God	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Burrough	Burrough	n1	Burrough	burrow	0
+and	and	cc	and	and	0
+Parish	Parish	n1	Parish	parish	0
+of	of	pp-f	of	of	0
+Keder	Keder	jc	Keder	kede	0
+∣	∣	sy	∣	∣	0
+minster	minster	n1	minster	minster	0
+in	in	p-acp	in	in	0
+Worcestershire	Worcestershire	np1	Worcestershire	Worcestershire	0
+.	.	.	.	.	1

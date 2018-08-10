@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+VVOOR	VVOOR	n1	VVOOR	vvoor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Iaruis	Iaruis	np1	Iaruis	Jarvis	0
+Clifton	Clifton	np1	Clifton	Clifton	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

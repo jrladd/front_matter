@@ -1,0 +1,11 @@
+Euer	Euer	av	Ever	ever	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+commaunde	commaunde	vvb	command	command	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Country-man	Country-man	n1	Countryman	countryman	0
+and	and	cc	and	and	0
+a	a	dt	a	a	0
+Brittaine	Brittaine	np1	Brittaine	Britain	0
+.	.	.	.	.	1

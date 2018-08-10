@@ -1,0 +1,14 @@
+YOUR	YOUR	po22	YOUR	your	0
+MAJESTY's	MAJESTY's	ng1	MAJESTY's	majesty	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Philip	Philip	np1	Philip	Philip	0
+Falle	Falle	vvb	Fall	fall	0
+.	.	.	.	.	1

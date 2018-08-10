@@ -1,0 +1,5 @@
+The	The	dt	The	the	0
+LORD	LORD	n1	LORD	lord	0
+COLLINGTOƲN	COLLINGTOƲN	np1	COLLINGTOƲN	COLLINGTOƲN	0
+justice-CLERK	justice-CLERK	n1	justice-CLERK	justice-clerk	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Faithfully	Faithfully	av-j	Faithfully	faithful	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Worthines	Worthines	n1	Worthiness	worthiness	0
+of	of	pp-f	of	of	0
+you	you	pn22	you	you	0
+Both	Both	d	Both	both	0
+,	,	,	,	,	0
+The	The	av	The	then	0
+.	.	.	.	.	1
+Middleton	Middleton	np1	Middleton	Middleton	0
+.	.	.	.	.	1

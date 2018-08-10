@@ -1,0 +1,3 @@
+I.	I.	np1	I.	I.	0
+Suckling	Suckling	np1	Suckling	Suckling	0
+.	.	.	.	.	1

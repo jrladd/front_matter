@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worps	Worps	zz	Worps	worps	0
+.	.	.	.	.	0
+deservedly	deservedly	av-vvn	deservedly	deserve	0
+at	at	p-acp	at	at	0
+Command	Command	n1	Command	command	0
+,	,	,	,	,	0
+FRA	FRA	np1	FRA	Fra	0
+.	.	.	.	.	1
+QVARLES	QVARLES	np1	QVARLES	QVARLES	0
+.	.	.	.	.	1

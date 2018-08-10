@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+at	at	p-acp	at	at	0
+Commaundement	Commaundement	n1	Commandment	commandment	0
+William	William	np1	William	William	0
+Chauncy	Chauncy	np1	Chauncy	Chauncy	0
+.	.	.	.	.	1

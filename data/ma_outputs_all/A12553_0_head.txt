@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+every	every	d	every	every	0
+true	true	j	true	true	0
+lover	lover	n1	lover	lover	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+truth	truth	n1	truth	truth	0
+especially	especially	av-j	especially	especial	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Brethren	Brethren	n2	Brothers	brethren	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+seperation	seperation	n1	separation	separation	0
+:	:	:	:	:	0
+Salutations	Salutations	n2	Salutations	salutation	0
+.	.	.	.	.	1

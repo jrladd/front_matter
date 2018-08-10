@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maund	maund	n1	maund	maund	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+S.	S.	np1	S.	S.	1

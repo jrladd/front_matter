@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+PATRON	PATRON	n1	PATRON	patron	0
+.	.	.	.	.	1

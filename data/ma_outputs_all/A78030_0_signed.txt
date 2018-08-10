@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+ever	ever	av	ever	ever	0
+vowed	vowed	j-vvn	vowed	vow	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Burton	Burton	np1	Burton	Burton	0
+.	.	.	.	.	1

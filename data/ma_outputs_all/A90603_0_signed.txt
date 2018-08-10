@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+old	old	j	old	old	0
+Pastor	Pastor	n1	Pastor	pastor	0
+,	,	,	,	,	0
+Ephraim	Ephraim	np1	Ephraim	Ephraim	0
+Pagitt	Pagitt	np1	Pagitt	Pagitt	0
+.	.	.	.	.	1

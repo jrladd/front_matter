@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+Humblest	Humblest	js	Humblest	humble	0
+and	and	cc	and	and	0
+Deuoedst	Deuoedst	js	Deuoedst	deuoedst	0
+IOHN	IOHN	np1	IOHN	John	0
+DONNE	DONNE	vdn	DONE	do	0
+.	.	.	.	.	1

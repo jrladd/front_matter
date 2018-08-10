@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+Bennet	Bennet	np1	Bennet	Bennet	0
+LORD	LORD	n1	LORD	lord	0
+Sherard	Sherard	np1	Sherard	Sherard	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+sake	sake	n1	sake	sake	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Barton	Barton	np1	Barton	Barton	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+poore	poore	j	poor	poor	0
+orator	orator	n1	orator	orator	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+STONEHAM	STONEHAM	np1	STONEHAM	Stoneham	0
+.	.	.	.	.	1

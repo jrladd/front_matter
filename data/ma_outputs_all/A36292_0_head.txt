@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+LORD	LORD	n1	LORD	lord	0
+PHILLIP	PHILLIP	np1	PHILLIP	Phillip	0
+HARBERT	HARBERT	np1	HARBERT	Harbert	0
+.	.	.	.	.	1

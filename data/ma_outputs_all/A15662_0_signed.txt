@@ -1,0 +1,4 @@
+GEO	GEO	np1	GEO	Geo	0
+:	:	:	:	:	0
+WITHER	WITHER	vvb	WITHER	wither	0
+.	.	.	.	.	1

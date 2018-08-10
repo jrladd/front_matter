@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+humble	humble	j	humble	humble	0
+votary	votary	n1	votary	votary	0
+and	and	cc	and	and	0
+unfeigned	unfeigned	j	unfeigned	unfeigned	0
+Honourer	Honourer	n1	Honourer	honourer	0
+.	.	.	.	.	1
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+SPARKE	SPARKE	n1	SPARKE	spark	0
+.	.	.	.	.	1

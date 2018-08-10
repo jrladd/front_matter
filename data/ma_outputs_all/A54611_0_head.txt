@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+DUKE	DUKE	n1	DUKE	duke	0
+OF	OF	pp-f	OF	of	0
+NEWCASTLE	NEWCASTLE	np1	NEWCASTLE	Newcastle	0
+.	.	.	.	.	1

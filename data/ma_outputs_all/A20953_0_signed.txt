@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+and	and	cc	and	and	0
+euer	euer	av	ever	ever	0
+much	much	av-d	much	much	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+Ry.	Ry.	np1	Ry.	Ry.	0
+Goring	Goring	np1	Goring	Goring	0
+.	.	.	.	.	1

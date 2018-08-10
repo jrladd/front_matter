@@ -1,0 +1,9 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatorie	Dedicatorie	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+giddie	giddie	j	giddy	giddy	0
+multitude	multitude	n1	multitude	multitude	0
+.	.	.	.	.	1

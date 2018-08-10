@@ -1,0 +1,13 @@
+Written	Written	j-vvn	Written	write	0
+in	in	p-acp	in	in	0
+obedience	obedience	n1	obedience	obedience	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+By	By	p-acp	By	by	0
+his	his	po31	his	his	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Geo.	Geo.	np1	Geo.	Geo.	0
+Bishope	Bishope	n1	Bishop	bishop	0
+.	.	.	.	.	1

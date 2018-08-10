@@ -1,0 +1,9 @@
+Ostyngeiddiaf	Ostyngeiddiaf	np1	Ostyngeiddiaf	Ostyngeiddiaf	0
+ac	ac	fw-la	ac	ac	0
+Ufuddaf	Ufuddaf	n1	Ufuddaf	ufuddaf	0
+Wasanaethwr	Wasanaethwr	np1	Wasanaethwr	Wasanaethwr	0
+eich	eich	n1	eich	eich	0
+Anrhydedd	Anrhydedd	np1	Anrhydedd	Anrhydedd	0
+WILIAM	WILIAM	np1	WILIAM	Wiliam	0
+BEFERIDS	BEFERIDS	n2	BEFERIDS	beferid	0
+.	.	.	.	.	1

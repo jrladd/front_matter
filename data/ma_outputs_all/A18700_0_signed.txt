@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+hyghnes	hyghnes	n1	highness	highness	0
+Chapleyne	Chapleyne	vvi	Chapleyne	chapleyne	0
+and	and	cc	and	and	0
+daylye	daylye	av-j	daily	daily	0
+oratoure	oratoure	n1	orator	orator	0
+Iohn	Iohn	np1	Iohn	John	0
+Christoferson	Christoferson	np1	Christoferson	Christoferson	0
+.	.	.	.	.	1

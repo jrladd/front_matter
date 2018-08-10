@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RALPH	RALPH	np1	RALPH	Ralph	0
+CUDWORTH	CUDWORTH	np1	CUDWORTH	Cudworth	0
+.	.	.	.	.	1

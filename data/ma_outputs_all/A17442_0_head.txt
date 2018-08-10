@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+LEARNED	LEARNED	j	LEARNED	learned	0
+PROTESTANT	PROTESTANT	n1	PROTESTANT	protestant	0
+WRYTERS	WRYTERS	n2	WRYTERS	writer	0
+the	the	dt	the	the	0
+Authour	Authour	n1	Author	author	0
+of	of	pp-f	of	of	0
+this	this	d	this	this	0
+Treatise	Treatise	n1	Treatise	treatise	0
+vvisheth	vvisheth	vvz	wisheth	wish	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+Fayth	Fayth	n1	Faith	faith	0
+.	.	.	.	.	1

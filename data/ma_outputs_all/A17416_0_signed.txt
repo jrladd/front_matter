@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+according	according	p-acp	according	according	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+common	common	j	common	common	0
+faith	faith	n1	faith	faith	0
+.	.	.	.	.	1
+N.	N.	np1	N.	N.	0
+BYFIELD	BYFIELD	np1	BYFIELD	Byfield	0
+.	.	.	.	.	1

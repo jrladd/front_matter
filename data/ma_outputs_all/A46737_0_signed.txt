@@ -1,0 +1,13 @@
+So	So	np1	So	So	0
+prayeth	prayeth	vvz	prayeth	pray	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+JELINGER	JELINGER	np1	JELINGER	JELINGER	0
+.	.	.	.	.	1

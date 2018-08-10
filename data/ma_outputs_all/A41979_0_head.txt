@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+PATIENCE	PATIENCE	n1	PATIENCE	patience	0
+WARD	WARD	n1	WARD	ward	0
+,	,	,	,	,	0
+Lord-Mayor	Lord-Mayor	n1	Lord-Mayor	lord-mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

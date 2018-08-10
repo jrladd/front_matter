@@ -1,0 +1,9 @@
+Anagramma	Anagramma	n1	Anagramma	anagramma	0
+.	.	.	.	.	1
+You	You	pn22	You	you	0
+beare	beare	vvb	bear	bear	0
+a	a	dt	a	a	0
+heart	heart	n1	heart	heart	0
+true	true	j	true	true	0
+bent	bent	vvn	bent	bend	0
+.	.	.	.	.	1

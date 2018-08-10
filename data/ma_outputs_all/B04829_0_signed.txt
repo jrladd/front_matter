@@ -1,0 +1,9 @@
+Eich	Eich	n1	Eich	eich	0
+Gwasanaethwr	Gwasanaethwr	np1	Gwasanaethwr	Gwasanaethwr	0
+gostyng	gostyng	vvg	gostyng	gostyng	0
+∣	∣	sy	∣	∣	0
+edig	edig	fw-ge	edig	edig	0
+,	,	,	,	,	0
+Stephen	Stephen	np1	Stephen	Stephen	0
+Hughes	Hughes	np1	Hughes	Hughes	0
+.	.	.	.	.	1

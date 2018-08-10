@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Ralph	Ralph	np1	Ralph	Ralph	0
+Mabb	Mabb	np1	Mabb	Mabb	0
+.	.	.	.	.	1

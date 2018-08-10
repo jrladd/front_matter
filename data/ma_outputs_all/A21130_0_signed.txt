@@ -1,0 +1,7 @@
+Sacratissimae	Sacratissimae	fw-la	Sacratissimae	sacratissimae	0
+tuae	tuae	fw-la	tuae	tuus	0
+Majestati	Majestati	n1	Majestati	majestati	0
+deuotissima	deuotissima	fw-la	deuotissima	deuotissima	0
+ACADEMIA	ACADEMIA	np1	ACADEMIA	Academia	0
+EDINBVRGENSIS	EDINBVRGENSIS	np1	EDINBVRGENSIS	EDINBVRGENSIS	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+REVERENCE	REVERENCE	n1	REVERENCE	reverence	0
+,	,	,	,	,	0
+LEARNING	LEARNING	n1	LEARNING	learning	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+VERTUES	VERTUES	n2	VERTUES	virtue	0
+of	of	pp-f	of	of	0
+DR	DR	zz	DR	dr	0
+SHELDON	SHELDON	np1	SHELDON	Sheldon	0
+.	.	.	.	.	1

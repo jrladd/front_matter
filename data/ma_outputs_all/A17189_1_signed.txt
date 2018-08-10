@@ -1,0 +1,3 @@
+Bullingerus	Bullingerus	np1	Bullingerus	Bullingerus	0
+vester	vester	n1	vester	vester	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+faithfull	faithfull	j	faithful	faithful	0
+Seruant	Seruant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+ROB	ROB	vvb	ROB	rob	0
+:	:	:	:	:	0
+DABORNE	DABORNE	np1	DABORNE	DABORNE	0
+.	.	.	.	.	1

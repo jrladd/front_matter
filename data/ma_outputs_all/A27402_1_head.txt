@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+My	My	po11	My	my	0
+Lords	Lords	n2	Lords	lord	0
+The	The	dt	The	the	0
+Lords	Lords	n2	Lords	lord	0
+Deputy	Deputy	n1	Deputy	deputy	0
+Counsellors	Counsellors	n2	Counsellors	counselor	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+States	States	n2	States	state	0
+of	of	pp-f	of	of	0
+Holland	Holland	n1	Holland	holland	0
+AND	AND	cc	AND	and	0
+WEST-FRIEZLAND	WEST-FRIEZLAND	j	WEST-FRIEZLAND	west-friezland	0
+.	.	.	.	.	1

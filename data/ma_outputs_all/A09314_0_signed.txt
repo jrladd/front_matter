@@ -1,0 +1,11 @@
+Il	Il	fw-fr	Il	il	0
+più	più	fw-fr	più	più	0
+deuoto	deuoto	fw-la	deuoto	deuoto	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Affettionato	Affettionato	np1	Affettionato	Affettionato	0
+Seruitore	Seruitore	n1	Seruitore	seruitore	0
+,	,	,	,	,	0
+FRANCESCO	FRANCESCO	np1	FRANCESCO	Francisco	0
+PERETTO	PERETTO	np1	PERETTO	PERETTO	0
+.	.	.	.	.	1

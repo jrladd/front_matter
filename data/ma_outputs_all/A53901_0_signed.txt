@@ -1,0 +1,7 @@
+Paternitati	Paternitati	n1	Paternitati	paternitati	0
+tuoe	tuoe	vdb	tuoe	tuoe	0
+de	de	fw-fr	de	de	0
+votissimus	votissimus	fw-la	votissimus	votissimus	0
+JOANNES	JOANNES	np1	JOANNES	Joannes	0
+PEARSON	PEARSON	np1	PEARSON	Pearson	0
+,	,	,	,	,	1

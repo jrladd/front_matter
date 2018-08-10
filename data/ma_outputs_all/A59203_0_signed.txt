@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+illustrious	illustrious	j	illustrious	illustrious	0
+Highness's	Highness's	ng1	Highness's	highness	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+SENNERTUS	SENNERTUS	np1	SENNERTUS	SENNERTUS	0
+,	,	,	,	,	0
+Doctor	Doctor	n1	Doctor	doctor	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Patentees	Patentees	n2	Patentees	patentee	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Sharers	Sharers	n2	Sharers	sharer	0
+of	of	pp-f	of	of	0
+their	their	po32	their	their	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Theatre	Theatre	n1	Theatre	theatre	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+LordPs	LordPs	n2	LordPs	lordp	0
+.	.	.	.	.	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+doe	doe	n1	doe	doe	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+EDW	EDW	np1	EDW	Edw	0
+.	.	.	.	.	1
+GRIMESTON	GRIMESTON	np1	GRIMESTON	GRIMESTON	0
+.	.	.	.	.	1

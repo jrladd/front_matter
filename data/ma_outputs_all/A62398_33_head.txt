@@ -1,0 +1,15 @@
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+generous	generous	j	generous	generous	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+much	much	av-d	much	much	0
+respocted	respocted	vvn	respocted	respoct	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Walter	Walter	np1	Walter	Walter	0
+Scot	Scot	n1	Scot	scot	0
+of	of	pp-f	of	of	0
+Burn-foot	Burn-foot	n1	Burn-foot	burn-foot	0
+.	.	.	.	.	1

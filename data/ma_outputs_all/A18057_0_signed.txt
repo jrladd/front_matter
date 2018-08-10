@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+Florio	Florio	np1	Florio	Florio	0
+.	.	.	.	.	1

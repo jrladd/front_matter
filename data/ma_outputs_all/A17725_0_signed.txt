@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+ready	ready	j	ready	ready	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+.	.	.	.	.	1
+Anthony	Anthony	np1	Anthony	Anthony	0
+Munday	Munday	np1	Munday	Monday	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+The	The	dt	The	the	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Archbishop	Archbishop	n1	Archbishop	archbishop	0
+of	of	pp-f	of	of	0
+CANTERBURY	CANTERBURY	np1	CANTERBURY	Canterbury	0
+.	.	.	.	.	1

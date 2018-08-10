@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+faithfull	faithfull	j	faithful	faithful	0
+Observer	Observer	n1	Observer	observer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+worth	worth	n1	worth	worth	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+BARTON	BARTON	np1	BARTON	Barton	0
+.	.	.	.	.	1

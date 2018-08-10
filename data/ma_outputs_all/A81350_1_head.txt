@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+MARY	MARY	np1	MARY	MARY	0
+de	de	fw-fr	de	de	0
+LANOU	LANOU	np1	LANOU	LANOU	0
+,	,	,	,	,	0
+wife	wife	n1	wife	wife	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Marshall	Marshall	n1	Marshal	marshal	0
+of	of	pp-f	of	of	0
+THEMINIS	THEMINIS	np1	THEMINIS	THEMINIS	0
+.	.	.	.	.	1

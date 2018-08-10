@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+Knights	Knights	n2	Knights	knight	0
+,	,	,	,	,	0
+Citizens	Citizens	n2	Citizens	citizen	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Burgesses	Burgesses	n2	Burgesses	burgess	0
+IN	IN	p-acp	IN	in	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+.	.	.	.	.	1

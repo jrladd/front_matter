@@ -1,0 +1,13 @@
+YOUR	YOUR	po22	YOUR	your	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+and	and	cc	and	and	0
+Loyal	Loyal	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BLOME	BLOME	np1	BLOME	Blome	0
+.	.	.	.	.	1

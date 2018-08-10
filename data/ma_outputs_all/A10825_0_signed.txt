@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+loyall	loyall	j	loyal	loyal	0
+remembancer	remembancer	n1	remembancer	remembancer	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+throe	throe	n1	throe	throe	0
+of	of	pp-f	of	of	0
+grace	grace	n1	grace	grace	0
+,	,	,	,	,	0
+Barthl	Barthl	np1	Barthl	Barthl	0
+.	.	.	.	.	1
+Robertson	Robertson	np1	Robertson	Robertson	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+PET	PET	n1	PET	pet	0
+.	.	.	.	.	1
+HEYLYN	HEYLYN	np1	HEYLYN	HEYLYN	0
+.	.	.	.	.	1

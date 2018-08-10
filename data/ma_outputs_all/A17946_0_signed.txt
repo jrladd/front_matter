@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+readie	readie	j	ready	ready	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+,	,	,	,	,	0
+Dauid	Dauid	np1	Dauid	David	0
+Powel	Powel	np1	Powel	Powel	0
+.	.	.	.	.	1

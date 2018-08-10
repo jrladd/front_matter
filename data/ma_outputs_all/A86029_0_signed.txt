@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+affectionatly	affectionatly	av-j	affectionately	affectionate	0
+to	to	pc-acp	to	to	0
+love	love	vvi	love	love	0
+and	and	cc	and	and	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+J.	J.	np1	J.	J.	0
+F.	F.	np1	F.	F.	1

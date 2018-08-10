@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+moste	moste	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Digges	Digges	np1	Digges	Digges	0
+.	.	.	.	.	1

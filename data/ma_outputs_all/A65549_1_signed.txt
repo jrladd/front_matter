@@ -1,0 +1,3 @@
+Edvardus	Edvardus	np1	Edvardus	Edvardus	0
+Wetenhall	Wetenhall	np1	Wetenhall	Wetenhall	0
+.	.	.	.	.	1

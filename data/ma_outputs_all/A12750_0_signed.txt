@@ -1,0 +1,3 @@
+Rachel	Rachel	np1	Rachel	Rachel	0
+Speght	Speght	fw-mi	Speght	speght	0
+.	.	.	.	.	1

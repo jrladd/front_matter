@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+very	very	j	very	very	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Jacob	Jacob	np1	Jacob	Jacob	0
+Bury	Bury	vvb	Bury	bury	0
+.	.	.	.	.	1

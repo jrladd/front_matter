@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Hunts-men	Hunts-men	n2	Huntsmen	huntsman	0
+and	and	cc	and	and	0
+louers	louers	n2	lovers	lover	0
+of	of	pp-f	of	of	0
+Hunting	Hunting	vvg	Hunting	hunt	0
+.	.	.	.	.	1

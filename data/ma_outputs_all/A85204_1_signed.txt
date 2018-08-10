@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+FELTWEL	FELTWEL	np1	FELTWEL	FELTWEL	0
+.	.	.	.	.	1

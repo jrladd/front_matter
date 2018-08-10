@@ -1,0 +1,10 @@
+Love	Love	n1	Love	love	0
+,	,	,	,	,	0
+honour	honour	n1	honour	honour	0
+and	and	cc	and	and	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+.	.	.	.	.	1
+Sam.	Sam.	np1	Sam.	Sam	0
+Clark	Clark	np1	Clark	Clark	0
+.	.	.	.	.	1

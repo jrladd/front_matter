@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+WORTHY	WORTHY	j-jn	WORTHY	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Mr.	Mr.	n1	Mr.	mr.	1
+GIFFORD	GIFFORD	np1	GIFFORD	Gifford	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Meriting	Meriting	j-vvg	Meriting	merit	0
+Master	Master	n1	Master	master	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Counter	Counter	j	Counter	counter	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Poultry	Poultry	n1	Poultry	poultry	0
+.	.	.	.	.	1

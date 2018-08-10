@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Nephew	Nephew	n1	Nephew	nephew	0
+Seig	Seig	np1	Seig	Seig	0
+.	.	.	.	.	1
+Princisca	Princisca	np1	Princisca	Princisca	0
+Ganzar	Ganzar	np1	Ganzar	Ganzar	0
+Morretta	Morretta	np1	Morretta	Morretta	0
+.	.	.	.	.	1

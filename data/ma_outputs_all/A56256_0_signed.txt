@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+observance	observance	n1	observance	observance	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+H.	H.	np1	H.	H.	0
+P.	P.	np1	P.	P.	1

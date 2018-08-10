@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+WORSHIP	WORSHIP	n1	WORSHIP	worship	0
+FVLL	FVLL	j	FULL	full	1

@@ -1,0 +1,4 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+R.B.	R.B.	np1	R.B.	R.B.	1

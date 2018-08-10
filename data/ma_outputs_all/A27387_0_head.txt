@@ -1,0 +1,6 @@
+Ad	Ad	fw-la	Ad	ad	0
+piae	piae	fw-la	piae	piae	0
+Poesios	Poesios	npg1	Poesios	poesios	0
+Cultum	Cultum	fw-la	Cultum	cultum	0
+Invitatio	Invitatio	fw-la	Invitatio	invitatio	0
+.	.	.	.	.	1

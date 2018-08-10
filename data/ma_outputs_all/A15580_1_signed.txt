@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+vnfaynedly	vnfaynedly	av-j	unfeignedly	unfeigned	0
+,	,	,	,	,	0
+for	for	c-acp	for	for	0
+any	any	d	any	any	0
+good	good	j	good	good	0
+to	to	p-acp	to	to	0
+my	my	po11	my	my	0
+vtmost	vtmost	j	utmost	utmost	0
+ability	ability	n1	ability	ability	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+WING	WING	n1	WING	wing	0
+.	.	.	.	.	1

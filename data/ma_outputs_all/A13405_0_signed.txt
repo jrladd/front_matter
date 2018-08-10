@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+obseruance	obseruance	n1	observance	observance	0
+Francis	Francis	np1	Francis	Francis	0
+Tayler	Tayler	n1	Tailor	tailor	0
+.	.	.	.	.	1

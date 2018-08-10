@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOURNERS	MOURNERS	n2	MOURNERS	mourner	0
+IN	IN	p-acp	IN	in	0
+ZION	ZION	np1	ZION	Zion	0
+.	.	.	.	.	1

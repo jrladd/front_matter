@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+and	and	cc	and	and	0
+ready	ready	j	ready	ready	0
+reall	reall	j	real	real	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+MEIGHEN	MEIGHEN	np1	MEIGHEN	MEIGHEN	0
+.	.	.	.	.	1

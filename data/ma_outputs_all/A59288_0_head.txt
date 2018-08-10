@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+John	John	np1	John	John	0
+Bright	Bright	j	Bright	bright	0
+Esq	Esq	np1	Esq	Esq	1

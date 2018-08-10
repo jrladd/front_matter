@@ -1,0 +1,8 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
+studi	studi	fw-la	studi	studi	0
+∣	∣	sy	∣	∣	0
+osissimus	osissimus	fw-la	osissimus	osissimus	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Drâx	Drâx	fw-la	Drâx	drâx	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+KING	KING	n1	KING	king	0
+and	and	cc	and	and	0
+QƲEENS	QƲEENS	n2	QƲEENS	qʋeen	0
+most	most	av-ds	most	most	0
+Excellent	Excellent	j	Excellent	excellent	0
+MAJESTIES	MAJESTIES	n2	MAJESTIES	majesty	0
+.	.	.	.	.	1

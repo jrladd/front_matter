@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Hugh	Hugh	np1	Hugh	Hugh	0
+Worcester	Worcester	np1	Worcester	Worcester	0
+.	.	.	.	.	1

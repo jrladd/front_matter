@@ -1,0 +1,7 @@
+Youres	Youres	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+Paulfreyman	Paulfreyman	np1	Paulfreyman	Paulfreyman	0
+.	.	.	.	.	1

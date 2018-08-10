@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Pem	Pem	np1	Pem	Pem	0
+∣	∣	sy	∣	∣	0
+broke	broke	vvd	broke	break	0
+and	and	cc	and	and	0
+Mont	Mont	zz	Mont	mont	0
+∣	∣	sy	∣	∣	0
+gomery	gomery	uh	gomery	gomery	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

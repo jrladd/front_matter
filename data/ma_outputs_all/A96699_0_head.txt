@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+,	,	,	,	,	0
+Freedome	Freedome	n1	Freedom	freedom	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+desired	desired	vvd	desired	desire	0
+.	.	.	.	.	1

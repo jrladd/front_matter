@@ -1,0 +1,16 @@
+And	And	cc	And	and	0
+I	I	pns11	I	i	0
+shall	shall	vmb	shall	shall	0
+ever	ever	av	ever	ever	0
+pray	pray	vvi	pray	pray	0
+for	for	p-acp	for	for	0
+your	your	po22	your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+long	long	j	long	long	0
+and	and	cc	and	and	0
+happy	happy	j	happy	happy	0
+Reigne	Reigne	vvi	Reign	reign	0
+.	.	.	.	.	1
+HENRY	HENRY	np1	HENRY	Henry	0
+BELL	BELL	n1	BELL	bell	0
+.	.	.	.	.	1

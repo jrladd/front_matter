@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+ANNE	ANNE	zz	ANNE	anne	0
+,	,	,	,	,	0
+LADY	LADY	n1	LADY	lady	0
+WHARTON	WHARTON	np1	WHARTON	WHARTON	0
+.	.	.	.	.	1

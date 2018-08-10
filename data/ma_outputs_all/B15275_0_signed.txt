@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+ELIAS	ELIAS	np1	ELIAS	Elias	0
+PETLEY	PETLEY	np1	PETLEY	PETLEY	0
+.	.	.	.	.	1

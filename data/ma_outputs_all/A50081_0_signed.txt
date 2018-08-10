@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+Christopher	Christopher	np1	Christopher	Christopher	0
+Massey	Massey	np1	Massey	Massey	0
+.	.	.	.	.	1

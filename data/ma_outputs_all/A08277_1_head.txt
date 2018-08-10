@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+,	,	,	,	,	0
+Religious	Religious	j	Religious	religious	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+royally	royally	av-j	royally	royal	0
+borne	borne	vvn	born	bear	0
+Princesse	Princesse	n1	Princess	princess	0
+,	,	,	,	,	1

@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MOST	MOST	av-ds	MOST	most	0
+GRACIOVS	GRACIOVS	j	GRACIOUS	gracious	0
+dread	dread	j	dread	dread	0
+Soueraigne	Soueraigne	n-jn	Sovereign	sovereign	0
+.	.	.	.	.	1

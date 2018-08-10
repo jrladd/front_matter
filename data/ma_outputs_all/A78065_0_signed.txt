@@ -1,0 +1,3 @@
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+BANASTER	BANASTER	n1	BANASTER	banaster	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+JER	JER	np1	JER	JER	0
+.	.	.	.	.	1
+DYKE	DYKE	np1	DYKE	Dyke	0
+.	.	.	.	.	1

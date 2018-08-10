@@ -1,0 +1,7 @@
+Vesterrimum	Vesterrimum	fw-la	Vesterrimum	vesterrimum	0
+,	,	,	,	,	0
+Veterrimum	Veterrimum	fw-la	Veterrimum	veterrimum	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+GOVGE	GOVGE	np1	GOVGE	GOVGE	0
+.	.	.	.	.	1

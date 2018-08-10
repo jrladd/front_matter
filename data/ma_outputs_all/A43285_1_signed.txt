@@ -1,0 +1,6 @@
+JOHN	JOHN	np1	JOHN	John	0
+BAPTISTA	BAPTISTA	np1	BAPTISTA	Baptista	0
+Van	Van	fw-mi	Van	van	0
+HELMONT	HELMONT	np1	HELMONT	HELMONT	0
+desireth	desireth	vvz	desires	desire	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+AVTHORS	AVTHORS	ng1	AVTHORS	avthors	0
+ESPIST	ESPIST	n1	ESPIST	espist	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+KINGE	KINGE	n1	KINGE	king	0
+.	.	.	.	.	1

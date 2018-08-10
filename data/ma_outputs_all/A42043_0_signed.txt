@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+Engaged	Engaged	vvn	Engaged	engage	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+F.	F.	np1	F.	F.	0
+GREGORY	GREGORY	np1	GREGORY	Gregory	0
+.	.	.	.	.	1

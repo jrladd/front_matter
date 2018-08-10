@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+louing	louing	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Cilbert	Cilbert	np1	Cilbert	Cilbert	0
+.	.	.	.	.	1

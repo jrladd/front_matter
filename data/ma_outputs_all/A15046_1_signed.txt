@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+G.	G.	np1	G.	G.	0
+Whetstons	Whetstons	np1	Whetstons	Whetstons	0
+.	.	.	.	.	1

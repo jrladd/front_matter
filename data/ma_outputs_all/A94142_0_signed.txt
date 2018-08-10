@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+:	:	:	:	:	0
+SWADLIN	SWADLIN	np1	SWADLIN	SWADLIN	0
+.	.	.	.	.	1

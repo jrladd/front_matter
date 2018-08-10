@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+BELOVED	BELOVED	j-vvn	BELOVED	belove	0
+BRETHREN	BRETHREN	n2	BRETHREN	brethren	0
+AND	AND	cc	AND	and	0
+NEIGHBOVRS	NEIGHBOVRS	n2	NEIGHBOVRS	neighbovr	0
+in	in	p-acp	in	in	0
+TERLING	TERLING	np1	TERLING	Terling	0
+.	.	.	.	.	1

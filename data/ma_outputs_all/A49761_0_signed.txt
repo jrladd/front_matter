@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Sonne	Sonne	n1	Son	son	0
+&	&	cc	&	and	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+servant	servant	n1	servant	servant	0
+HENRY	HENRY	np1	HENRY	Henry	0
+LAWRENCE	LAWRENCE	np1	LAWRENCE	Laurence	0
+.	.	.	.	.	1

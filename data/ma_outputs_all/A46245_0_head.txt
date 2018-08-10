@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRUE	TRUE	j	TRUE	true	0
+LOVER	LOVER	n1	LOVER	lover	0
+AND	AND	cc	AND	and	0
+Cherisher	Cherisher	n1	Cherisher	cherisher	0
+of	of	pp-f	of	of	0
+Wit	Wit	n1	Wit	wit	0
+and	and	cc	and	and	0
+Learning	Learning	n1	Learning	learning	0
+.	.	.	.	.	1
+Mr.	Mr.	n1	Mr.	mr.	0
+Francis	Francis	np1	Francis	Francis	0
+Lenthall	Lenthall	np1	Lenthall	Lenthall	0
+,	,	,	,	,	0
+junior	junior	j-jn	junior	junior	0
+.	.	.	.	.	1

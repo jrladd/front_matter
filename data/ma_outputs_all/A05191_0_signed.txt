@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+and	and	cc	and	and	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+further	further	jc	further	further	0
+∣	∣	sy	∣	∣	0
+most	most	av-ds	most	most	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+power	power	n1	power	power	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+L.	L.	n1	L.	lord	1

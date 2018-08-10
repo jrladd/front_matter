@@ -1,0 +1,7 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+poore	poore	j	poor	poor	0
+seruante	seruante	n1	servant	servant	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Lancaster	Lancaster	np1	Lancaster	Lancaster	0
+.	.	.	.	.	1

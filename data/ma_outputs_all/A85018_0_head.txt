@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+Highness	Highness	n1	Highness	highness	0
+The	The	dt	The	the	0
+Lord	Lord	n1	Lord	lord	0
+General	General	n1	General	general	0
+MONCK	MONCK	np1	MONCK	Monck	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Smith	Smith	n1	Smith	smith	0
+.	.	.	.	.	1

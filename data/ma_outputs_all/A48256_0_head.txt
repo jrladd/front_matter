@@ -1,0 +1,7 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+BEAUX	BEAUX	fw-fr	BEAUX	beaux	0
+.	.	.	.	.	1

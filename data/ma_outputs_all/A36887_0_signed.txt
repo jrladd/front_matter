@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+Minister	Minister	n1	Minister	minister	0
+,	,	,	,	,	0
+Geo.	Geo.	np1	Geo.	Geo.	0
+Duncumb	Duncumb	np1	Duncumb	Duncumb	0
+.	.	.	.	.	1

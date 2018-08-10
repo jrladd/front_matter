@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+AND	AND	cc	AND	and	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+MARCHIONESS	MARCHIONESS	n1	MARCHIONESS	marchioness	0
+OF	OF	pp-f	OF	of	0
+WORCESTER	WORCESTER	np1	WORCESTER	Worcester	0
+.	.	.	.	.	1

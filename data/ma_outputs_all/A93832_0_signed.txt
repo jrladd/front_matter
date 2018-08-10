@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+and	and	cc	and	and	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+of	of	pp-f	of	of	0
+Lords	Lords	n2	Lords	lord	0
+:	:	:	:	:	0
+EDMUND	EDMUND	np1	EDMUND	Edmund	0
+STAUNTON	STAUNTON	np1	STAUNTON	Staunton	0
+.	.	.	.	.	1

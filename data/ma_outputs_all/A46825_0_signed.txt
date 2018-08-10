@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Obsequious	Obsequious	j	Obsequious	obsequious	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Jehu	Jehu	np1	Jehu	Jehu	0
+Jenny	Jenny	np1	Jenny	Jenny	0
+.	.	.	.	.	1

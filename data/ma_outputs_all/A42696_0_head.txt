@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Parents	Parents	n2	Parents	parent	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Deceased	Deceased	j-vvn	Deceased	decease	0
+.	.	.	.	.	1

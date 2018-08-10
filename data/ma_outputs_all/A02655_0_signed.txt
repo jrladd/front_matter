@@ -1,0 +1,3 @@
+Theodorvs	Theodorvs	np1	Theodorvs	Theodorvs	0
+de	de	fw-fr	de	de	0
+Bry.	Bry.	np1	Bry.	Bry.	1

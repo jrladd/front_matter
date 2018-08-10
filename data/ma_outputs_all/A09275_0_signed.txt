@@ -1,0 +1,4 @@
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+BERNARD	BERNARD	np1	BERNARD	Bernard	0
+.	.	.	.	.	1

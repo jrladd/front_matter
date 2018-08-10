@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Wor	Wor	zz	Wor	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Edward	Edward	np1	Edward	Edward	0
+Denie	Denie	vvb	Deny	deny	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

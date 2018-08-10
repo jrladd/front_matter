@@ -1,0 +1,17 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Service	Service	n1	Service	service	0
+and	and	cc	and	and	0
+Observance	Observance	n1	Observance	observance	0
+to	to	p-acp	to	to	0
+my	my	po11	my	my	0
+utmost	utmost	j	utmost	utmost	0
+power	power	n1	power	power	0
+,	,	,	,	,	0
+H.	H.	np1	H.	H.	0
+PARKER	PARKER	np1	PARKER	Parker	0
+.	.	.	.	.	1

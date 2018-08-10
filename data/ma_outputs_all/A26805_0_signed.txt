@@ -1,0 +1,3 @@
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BATES	BATES	vvz	BATES	bate	0
+.	.	.	.	.	1

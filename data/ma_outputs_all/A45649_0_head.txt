@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Sir	Sir	n1	Sir	sir	0
+John	John	np1	John	John	0
+Walter	Walter	np1	Walter	Walter	0
+,	,	,	,	,	0
+Bar.	Bar.	np1	Bar.	Bar.	1

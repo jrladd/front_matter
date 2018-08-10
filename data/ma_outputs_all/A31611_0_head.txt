@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+Madam	Madam	n1	Madam	madam	0
+Sarah	Sarah	np1	Sarah	Sarah	0
+Monday	Monday	np1	Monday	Monday	0
+.	.	.	.	.	1

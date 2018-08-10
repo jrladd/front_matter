@@ -1,0 +1,4 @@
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1
+HOLLINGWORTH	HOLLINGWORTH	np1	HOLLINGWORTH	Hollingworth	0
+.	.	.	.	.	1

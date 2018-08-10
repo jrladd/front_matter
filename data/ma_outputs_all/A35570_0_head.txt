@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+INGENIOUS	INGENIOUS	j	INGENIOUS	ingenious	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Tryon	Tryon	np1	Tryon	Tryon	0
+.	.	.	.	.	1

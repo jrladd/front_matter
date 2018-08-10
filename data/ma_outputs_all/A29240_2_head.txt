@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THAT	THAT	cst	THAT	that	0
+ABSOLVTE	ABSOLVTE	j	ABSOLUTE	absolute	0
+OWNER	OWNER	n1	OWNER	owner	0
+AND	AND	cc	AND	and	0
+HONOVR	HONOVR	n1	HONOVR	honovr	0
+OF	OF	pp-f	OF	of	0
+DISCREET	DISCREET	j	DISCREET	discreet	0
+FANCY	FANCY	n1	FANCY	fancy	0
+,	,	,	,	,	0
+Mris.	Mris.	n1	Mris.	mrs.	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+WESTBY	WESTBY	np1	WESTBY	Westby	0
+.	.	.	.	.	1

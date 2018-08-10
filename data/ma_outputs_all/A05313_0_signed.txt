@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+wholy	wholy	av-jn	wholly	whole	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Newton	Newton	np1	Newton	Newton	1

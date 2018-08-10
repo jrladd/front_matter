@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+very	very	j	very	very	0
+worthy	worthy	j	worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+MANLEY	MANLEY	np1	MANLEY	Manley	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

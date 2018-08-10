@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SPURSTOWE	SPURSTOWE	np1	SPURSTOWE	SPURSTOWE	0
+.	.	.	.	.	1

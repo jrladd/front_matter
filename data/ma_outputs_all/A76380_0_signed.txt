@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+younger	younger	jc	younger	young	0
+Brother	Brother	n1	Brother	brother	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Nephew	Nephew	n1	Nephew	nephew	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Flesh	Flesh	n1	Flesh	flesh	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+BENBRIGGE	BENBRIGGE	np1	BENBRIGGE	BENBRIGGE	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+good	good	j	good	good	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+infinitely	infinitely	av-j	infinitely	infinite	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+equaly	equaly	av-jn	equally	equal	0
+devote	devote	vvb	devote	devote	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1

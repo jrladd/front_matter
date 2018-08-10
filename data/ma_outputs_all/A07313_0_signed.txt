@@ -1,0 +1,11 @@
+Of	Of	pp-f	Of	of	0
+your	your	po22	your	your	0
+Highnesses	Highnesses	n2	Highnesses	highness	0
+The	The	dt	The	the	0
+right	right	j-jn	right	right	0
+humble	humble	j	humble	humble	0
+Seruant	Seruant	n1	Servant	servant	0
+:	:	:	:	:	0
+Iames	Iames	np1	Iames	Iames	0
+Maxwell	Maxwell	np1	Maxwell	Maxwell	0
+.	.	.	.	.	1

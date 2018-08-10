@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Truly	Truly	av-j	Truly	true	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+TROTTER	TROTTER	np1	TROTTER	Trotter	0
+.	.	.	.	.	1
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Hearty	Hearty	j	Hearty	hearty	0
+Well	Well	n1	Well	well	0
+wisher	wisher	n1	wisher	wisher	0
+And	And	cc	And	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+.	.	.	.	.	1
+A.P.	A.P.	np1	A.P.	A.P.	1

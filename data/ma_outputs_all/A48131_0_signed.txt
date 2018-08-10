@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladyship's	Ladyship's	ng1	Ladyship's	ladyship	0
+most	most	av-ds	most	most	0
+Observant	Observant	j	Observant	observant	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Admirer	Admirer	n1	Admirer	admirer	0
+.	.	.	.	.	1
+ADEISID	ADEISID	np1	ADEISID	ADEISID	0
+AEMON	AEMON	np1	AEMON	Haemon	0
+.	.	.	.	.	1

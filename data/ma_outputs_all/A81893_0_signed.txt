@@ -1,0 +1,16 @@
+Most	Most	ds	Most	most	0
+Noble	Noble	j	Noble	noble	0
+Ladies	Ladies	n2	Ladies	lady	0
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	ng1	Ladyships	ladyship	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+.	.	.	.	.	1
+J.	J.	np1	J.	J.	0
+C.	C.	np1	C.	C.	1

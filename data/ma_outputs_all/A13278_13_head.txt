@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+WRIOTHESLEY	WRIOTHESLEY	np1	WRIOTHESLEY	WRIOTHESLEY	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+South-hampton	South-hampton	j	Southampton	southampton	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

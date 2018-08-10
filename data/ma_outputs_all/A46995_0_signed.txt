@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Love	Love	n1	Love	love	0
+and	and	cc	and	and	0
+observance	observance	n1	observance	observance	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+JACKSON	JACKSON	np1	JACKSON	Jackson	0
+.	.	.	.	.	1

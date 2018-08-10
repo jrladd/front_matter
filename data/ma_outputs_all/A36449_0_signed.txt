@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+William	William	np1	William	William	0
+Dowglas	Dowglas	np1	Dowglas	Dowglas	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+AND	AND	cc	AND	and	0
+,	,	,	,	,	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+PIOVS	PIOVS	j	PIOUS	pious	0
+PRINCESSE	PRINCESSE	n1	PRINCESSE	princess	0
+KATHERINE	KATHERINE	np1	KATHERINE	Katherine	0
+,	,	,	,	,	0
+HIS	HIS	po31	HIS	his	0
+GRATIOVS	GRATIOVS	j	GRACIOUS	gracious	0
+DVCHESSE	DVCHESSE	n1	DVCHESSE	dvchesse	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

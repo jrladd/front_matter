@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+WALTER	WALTER	np1	WALTER	Walter	0
+GOSNOLD	GOSNOLD	np1	GOSNOLD	Gosnold	1

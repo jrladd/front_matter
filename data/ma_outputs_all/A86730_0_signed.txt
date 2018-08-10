@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+HEN	HEN	n1	HEN	hen	0
+:	:	:	:	:	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

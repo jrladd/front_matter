@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+reall	reall	j	real	real	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+WALKER	WALKER	np1	WALKER	Walker	0
+.	.	.	.	.	1

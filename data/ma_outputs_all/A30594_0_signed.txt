@@ -1,0 +1,4 @@
+JER	JER	np1	JER	JER	0
+.	.	.	.	.	1
+BURROUGHS	BURROUGHS	np1	BURROUGHS	Burroughs	0
+.	.	.	.	.	1

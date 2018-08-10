@@ -1,0 +1,5 @@
+OFVLAN	OFVLAN	np1	OFVLAN	OFVLAN	0
+yr	yr	n1	yr	yr	0
+eidoch	eidoch	n1	eidoch	eidoch	0
+G.	G.	np1	G.	G.	0
+R.	R.	np1	R.	R.	1

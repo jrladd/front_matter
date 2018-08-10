@@ -1,0 +1,7 @@
+Ampl.	Ampl.	np1	Ampl.	Ampl.	0
+tuae	tuae	fw-la	tuae	tuus	0
+deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
+,	,	,	,	,	0
+SIMON	SIMON	np1	SIMON	Simon	0
+HARWARD	HARWARD	np1	HARWARD	HARWARD	0
+.	.	.	.	.	1

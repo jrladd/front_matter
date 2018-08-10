@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Servant	Servant	n1	Servant	servant	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Ellis	Ellis	np1	Ellis	Ellis	0
+Weycoe	Weycoe	np1	Weycoe	Weycoe	0
+.	.	.	.	.	1

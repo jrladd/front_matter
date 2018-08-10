@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HIGH	HIGH	j	HIGH	high	0
+AND	AND	cc	AND	and	0
+EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
+LADY	LADY	n1	LADY	lady	0
+MARY	MARY	np1	MARY	MARY	0
+,	,	,	,	,	0
+Dutches	Dutches	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+RICHMOND	RICHMOND	np1	RICHMOND	Richmond	0
+and	and	cc	and	and	0
+LENNOX	LENNOX	np1	LENNOX	Lennox	0
+.	.	.	.	.	1

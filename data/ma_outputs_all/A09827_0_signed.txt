@@ -1,0 +1,14 @@
+who	who	q-crq	who	who	0
+haue	haue	vhb	have	have	0
+your	your	po22	your	your	0
+good	good	j	good	good	0
+Lordeshyp	Lordeshyp	n1	Lordship	lordship	0
+in	in	p-acp	in	in	0
+his	his	po31	his	his	0
+blessed	blessed	j-vvn	blessed	bless	0
+kepynge	kepynge	vvg	keeping	keep	0
+nowe	nowe	av	now	now	0
+and	and	cc	and	and	0
+euer	euer	av	ever	ever	0
+Amen	Amen	uh-n	Amen	amen	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+A	A	dt	A	a	0
+true	true	j	true	true	0
+Lover	Lover	n1	Lover	lover	0
+of	of	pp-f	of	of	0
+Commonwealths	Commonwealths	np1	Commonwealths	Commonwealths	0
+Government	Government	n1	Government	government	0
+,	,	,	,	,	0
+Peace	Peace	n1	Peace	peace	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Freedom	Freedom	n1	Freedom	freedom	0
+,	,	,	,	,	0
+Jerrard	Jerrard	np1	Jerrard	Jerrard	0
+Winstanley	Winstanley	np1	Winstanley	Winstanley	0
+.	.	.	.	.	1

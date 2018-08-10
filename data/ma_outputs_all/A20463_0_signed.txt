@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Dudly	Dudly	np1	Dudly	Dudley	0
+Digges	Digges	np1	Digges	Digges	0
+.	.	.	.	.	1

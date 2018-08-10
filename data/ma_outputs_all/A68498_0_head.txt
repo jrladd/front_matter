@@ -1,0 +1,11 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+verie	verie	j	very	very	0
+louing	louing	j-vvg	loving	love	0
+freend	freend	n1	friend	friend	0
+maister	maister	n1	master	master	0
+Henrie	Henrie	np1	Henrie	Henry	0
+Anderson	Anderson	np1	Anderson	Anderson	0
+Merchant	Merchant	n1	Merchant	merchant	0
+.	.	.	.	.	1

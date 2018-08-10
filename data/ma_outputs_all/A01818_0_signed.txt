@@ -1,0 +1,8 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
+omni	omni	fw-la	omni	omni	0
+obsequio	obsequio	fw-la	obsequio	obsequio	0
+observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+GODWINVS	GODWINVS	np1	GODWINVS	GODWINVS	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+assured	assured	j-vvn	assured	assure	0
+friend	friend	n1	friend	friend	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Hartlib	Hartlib	j	Hartlib	hartlib	0
+.	.	.	.	.	1

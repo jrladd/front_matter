@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+beloued	beloued	j-vvn	beloved	belove	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Chamberfellow	Chamberfellow	n1	Chamberfellow	chamber-fellow	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Edward	Edward	np1	Edward	Edward	0
+Heyward	Heyward	np1	Heyward	Heyward	0
+.	.	.	.	.	1

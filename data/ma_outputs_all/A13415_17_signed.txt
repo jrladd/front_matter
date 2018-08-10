@@ -1,0 +1,17 @@
+Yours	Yours	png22	Yours	you	0
+so	so	av	so	so	0
+farre	farre	j	far	far	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+no	no	dx	no	no	0
+fur	fur	n1	fur	fur	0
+∣	∣	sy	∣	∣	0
+ther	ther	dt	there	the	0
+then	then	cs	then	than	0
+you	you	pn22	you	you	0
+are	are	vbr	are	be	0
+mine	mine	png11	mine	i	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

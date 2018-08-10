@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+truly	truly	av-j	truly	true	0
+honored	honored	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+Sr	Sr	n1	Sir	sir	0
+W.	W.	np1	W.	W.	0
+Butler	Butler	n1	Butler	butler	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

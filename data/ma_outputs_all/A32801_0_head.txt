@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+ROVS	ROVS	np1	ROVS	ROVS	0
+Esq	Esq	np1	Esq	Esq	0
+The	The	dt	The	the	0
+learned	learned	j	learned	learned	0
+Provost	Provost	n1	Provost	provost	0
+of	of	pp-f	of	of	0
+Eaton	Eaton	np1	Eaton	Eaton	0
+College	College	n1	College	college	0
+.	.	.	.	.	1

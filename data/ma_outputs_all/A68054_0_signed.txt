@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+Eirenaeus	Eirenaeus	np1	Eirenaeus	Eirenaeus	0
+Orandus	Orandus	np1	Orandus	Orandus	0
+.	.	.	.	.	1

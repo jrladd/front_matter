@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+Command	Command	n1	Command	command	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+S.	S.	np1	S.	S.	1

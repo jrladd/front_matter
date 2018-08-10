@@ -1,0 +1,11 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+dear	dear	j-jn	dear	dear	0
+and	and	cc	and	and	0
+beloved	beloved	j-vvn	beloved	belove	0
+Wife	Wife	n1	Wife	wife	0
+.	.	.	.	.	1

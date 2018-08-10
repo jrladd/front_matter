@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Sacred	Sacred	j	Sacred	sacred	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Ex	Ex	fw-la	Ex	ex	0
+∣	∣	sy	∣	∣	0
+cellent	cellent	j	cellent	cellent	0
+Majesty	Majesty	n1	Majesty	majesty	0
+of	of	pp-f	of	of	0
+KING	KING	n1	KING	king	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+the	the	dt	the	the	0
+Second	Second	ord	Second	second	0
+.	.	.	.	.	1

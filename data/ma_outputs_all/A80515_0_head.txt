@@ -1,0 +1,14 @@
+Doctissimo	Doctissimo	fw-la	Doctissimo	doctissimo	0
+Domino	Domino	fw-la	Domino	domino	0
+ET	ET	fw-la	ET	et	0
+Amico	Amico	np1	Amico	Amico	0
+meo	meo	fw-la	meo	meo	0
+Multis	Multis	fw-la	Multis	multis	0
+nominibus	nominibus	fw-la	nominibus	nominibus	0
+observando	observando	fw-la	observando	observando	0
+,	,	,	,	,	0
+ELIAE	ELIAE	fw-la	ELIAE	eliae	0
+ASHMOLO	ASHMOLO	fw-la	ASHMOLO	ashmolo	0
+,	,	,	,	,	0
+Armigero	Armigero	fw-la	Armigero	armigero	0
+.	.	.	.	.	1

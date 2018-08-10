@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+NANTES	NANTES	np1	NANTES	Nantes	0
+.	.	.	.	.	1

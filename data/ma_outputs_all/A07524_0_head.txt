@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Comicke	Comicke	j	Comic	comic	0
+,	,	,	,	,	0
+Play-readers	Play-readers	n2	Play-readers	play-reader	0
+,	,	,	,	,	0
+Venery	Venery	n1	Venery	venery	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Laughter	Laughter	n1	Laughter	laughter	0
+.	.	.	.	.	1

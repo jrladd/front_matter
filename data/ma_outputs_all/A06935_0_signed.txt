@@ -1,0 +1,11 @@
+A	A	dt	A	a	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+and	and	cc	and	and	0
+true	true	j	true	true	0
+admirer	admirer	n1	admirer	admirer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+honourd	honourd	j-vvn	honoured	honour	0
+Vertues	Vertues	n2	Virtues	virtue	0
+G.	G.	np1	G.	G.	0
+M.	M.	n1	M.	m.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Church-Offices	Church-Offices	n2	Church-Offices	church-office	0
+,	,	,	,	,	0
+Ab.	Ab.	np1	Ab.	Ab.	0
+Wright	Wright	np1	Wright	Wright	0
+.	.	.	.	.	1

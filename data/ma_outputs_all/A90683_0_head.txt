@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+a	a	dt	a	a	0
+Person	Person	n1	Person	person	0
+of	of	pp-f	of	of	0
+Honour	Honour	n1	Honour	honour	0
+and	and	cc	and	and	0
+Integrity	Integrity	n1	Integrity	integrity	0
+.	.	.	.	.	1

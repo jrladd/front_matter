@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+LORDSHIP's	LORDSHIP's	ng1	LORDSHIP's	lordship	0
+Most	Most	av-ds	Most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BOULTON	BOULTON	np1	BOULTON	Boulton	0
+.	.	.	.	.	1

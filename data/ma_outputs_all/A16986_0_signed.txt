@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+M.	M.	n1	M.	m.	0
+m	m	sy	m	m	0
+.	.	.	.	.	1
+h	h	wd	h	h	0
+.	.	.	.	.	1
+H.	H.	np1	H.	H.	0
+Br.	Br.	np1	Br.	Br.	1

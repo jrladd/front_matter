@@ -1,0 +1,2 @@
+C	C	sy	C	c	0
+B	B	sy	B	b	1

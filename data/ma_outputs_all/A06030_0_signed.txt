@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+much	much	av-d	much	much	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+louing	louing	j-vvg	loving	love	0
+Nephew	Nephew	n1	Nephew	nephew	0
+.	.	.	.	.	1
+E.	E.	np1	E.	E.	0
+C.	C.	np1	C.	C.	1

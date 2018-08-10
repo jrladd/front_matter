@@ -1,0 +1,13 @@
+By	By	p-acp	By	by	0
+him	him	pno31	him	he	0
+whom	whom	ro-crq	whom	who	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+hath	hath	vhz	hath	have	0
+made	made	vvn	made	make	0
+your	your	po22	your	your	0
+Teacher	Teacher	n1	Teacher	teacher	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Wadsworth	Wadsworth	np1	Wadsworth	Wadsworth	0
+.	.	.	.	.	1

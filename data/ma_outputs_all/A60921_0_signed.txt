@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+DU	DU	np1	DU	Du	0
+PARC	PARC	np1	PARC	Parc	0
+.	.	.	.	.	1

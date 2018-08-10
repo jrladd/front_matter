@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+spirituall	spirituall	j	spiritual	spiritual	0
+deuotion	deuotion	n1	devotion	devotion	0
+assured	assured	vvn	assured	assure	0
+.	.	.	.	.	1
+Bar.	Bar.	np1	Bar.	Bar.	0
+Barnes	Barnes	np1	Barnes	Barnes	0
+.	.	.	.	.	1

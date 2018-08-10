@@ -1,0 +1,10 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+ryght	ryght	j-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+syr	syr	n1	sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Kemp	Kemp	np1	Kemp	Kemp	0
+Knyght	Knyght	n1	Knight	knight	0
+.	.	.	.	.	1

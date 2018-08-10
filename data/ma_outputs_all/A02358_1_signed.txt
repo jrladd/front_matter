@@ -1,0 +1,4 @@
+M.	M.	n1	M.	m.	0
+WALTER	WALTER	np1	WALTER	Walter	0
+FORBES	FORBES	np1	FORBES	Forbes	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+STEWARDS	STEWARDS	n2	STEWARDS	steward	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Oxfordshire-Feast	Oxfordshire-Feast	n1	Oxfordshire-Feast	oxfordshire-feast	0
+,	,	,	,	,	0
+For	For	c-acp	For	for	0
+the	the	dt	the	the	0
+Year	Year	n1	Year	year	0
+1694.	1694.	crd	1694.	1694.	1

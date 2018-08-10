@@ -1,0 +1,10 @@
+Comes	Comes	np1	Comes	Comes	0
+Illustrissime	Illustrissime	fw-la	Illustrissime	illustrissime	0
+Virtutum	Virtutum	fw-la	Virtutum	virtutum	0
+vestrarum	vestrarum	fw-la	vestrarum	vestrarum	0
+cultor	cultor	fw-la	cultor	cultor	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+Marmorum	Marmorum	fw-la	Marmorum	marmorum	0
+Oxoniensium	Oxoniensium	np1	Oxoniensium	Oxoniensium	0
+Editor	Editor	np1	Editor	Editor	0
+.	.	.	.	.	1

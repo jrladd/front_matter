@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+good	good	j	good	good	0
+YEOMEN	YEOMEN	n2	YEOMEN	yeoman	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Gentle-Craft	Gentle-Craft	n1	Gentle-Craft	gentle-craft	0
+.	.	.	.	.	1

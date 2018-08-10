@@ -1,0 +1,3 @@
+To	To	p-acp	To	to	0
+LOVE	LOVE	n1	LOVE	love	0
+.	.	.	.	.	1

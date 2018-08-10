@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dear	Dear	j-jn	Dear	dear	0
+Mother	Mother	n1	Mother	mother	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

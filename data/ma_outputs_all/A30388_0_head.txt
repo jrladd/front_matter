@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+HIGH	HIGH	j	HIGH	high	0
+&	&	cc	&	and	0
+EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+,	,	,	,	,	0
+Prince	Prince	n1	Prince	prince	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+.	.	.	.	.	1

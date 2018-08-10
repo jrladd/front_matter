@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+Frende	Frende	n1	Friend	friend	0
+:	:	:	:	:	0
+George	George	np1	George	George	0
+Whetstones	Whetstones	np1	Whetstones	Whetstone	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+GRACES	GRACES	n2	GRACES	grace	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+VETCH	VETCH	np1	VETCH	Vetch	0
+.	.	.	.	.	1

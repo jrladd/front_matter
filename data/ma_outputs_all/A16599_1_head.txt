@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+well	well	av	well	well	0
+beloued	beloued	j-vvn	beloved	belove	0
+brother	brother	n1	brother	brother	0
+,	,	,	,	,	0
+health	health	n1	health	health	0
+and	and	cc	and	and	0
+increase	increase	n1	increase	increase	0
+of	of	pp-f	of	of	0
+knowledge	knowledge	n1	knowledge	knowledge	0
+.	.	.	.	.	1

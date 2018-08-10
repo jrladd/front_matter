@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+real	real	j	real	real	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+Chr.	Chr.	np1	Chr.	Chr.	0
+Simpson	Simpson	np1	Simpson	Simpson	0
+.	.	.	.	.	1

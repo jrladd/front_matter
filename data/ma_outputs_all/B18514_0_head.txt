@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Merchants	Merchants	n2	Merchant's	merchant	0
+,	,	,	,	,	0
+Clothiers	Clothiers	n2	Clothiers	clothier	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Drapers	Drapers	n2	Drapers	draper	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

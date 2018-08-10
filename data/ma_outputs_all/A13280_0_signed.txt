@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+devoted	devoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+faithfull	faithfull	j	faithful	faithful	0
+and	and	cc	and	and	0
+obsequious	obsequious	j	obsequious	obsequious	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Sym.	Sym.	np1	Sym.	Sym.	1

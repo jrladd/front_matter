@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+FABIAN	FABIAN	np1	FABIAN	Fabian	0
+PHILIPPS	PHILIPPS	np1	PHILIPPS	Philipps	0
+.	.	.	.	.	1

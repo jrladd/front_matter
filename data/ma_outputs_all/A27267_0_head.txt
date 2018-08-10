@@ -1,0 +1,4 @@
+THE	THE	dt	THE	the	0
+Author's	Author's	ng1	Author's	author	0
+Dedication	Dedication	n1	Dedication	dedication	0
+,	,	,	,	,	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+HONOURED	HONOURED	vvn	HONOURED	honour	0
+and	and	cc	and	and	0
+RESPECTED	RESPECTED	j-vvn	RESPECTED	respect	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+MARY	MARY	np1	MARY	MARY	0
+LANE	LANE	n1	LANE	lane	0
+.	.	.	.	.	1

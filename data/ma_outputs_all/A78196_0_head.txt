@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+MADAM	MADAM	n1	MADAM	madam	0
+D.	D.	np1	D.	D.	0
+L.	L.	np1	L.	L.	0
+R.	R.	np1	R.	R.	0
+Most	Most	av-ds	Most	most	0
+Worthy	Worthy	j	Worthy	worthy	0
+Abbess	Abbess	n1	Abbess	abbess	0
+of	of	pp-f	of	of	0
+Loves	Loves	ng1	Loves	love	0
+Paradice	Paradice	n1	Paradise	paradise	0
+.	.	.	.	.	1

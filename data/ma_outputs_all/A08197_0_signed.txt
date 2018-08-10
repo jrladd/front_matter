@@ -1,0 +1,9 @@
+❧	❧	sy	❧	❧	0
+Tuae	Tuae	fw-la	Tuae	tuus	0
+Maiestatis	Maiestatis	fw-la	Maiestatis	maiestatis	0
+obedientissimus	obedientissimus	fw-la	obedientissimus	obedientissimus	0
+subditus	subditus	fw-la	subditus	subditus	0
+Ioannes	Ioannes	np1	Ioannes	Johannes	0
+Nicholaus	Nicholaus	np1	Nicholaus	Nicholaus	0
+Camberbritannus	Camberbritannus	np1	Camberbritannus	Camberbritannus	0
+.	.	.	.	.	1

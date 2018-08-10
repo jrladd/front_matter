@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+A.	A.	sy	A.	a	0
+B.	B.	sy	B.	b	1

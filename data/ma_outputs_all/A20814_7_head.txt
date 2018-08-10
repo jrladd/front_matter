@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Henrie	Henrie	np1	Henrie	Henry	0
+Goodere	Goodere	fw-la	Goodere	goodere	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Powlesworth	Powlesworth	np1	Powlesworth	Powlesworth	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

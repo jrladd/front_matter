@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+sonne	sonne	n1	son	son	0
+during	during	p-acp	during	during	0
+life	life	n1	life	life	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+B.	B.	np1	B.	B.	1

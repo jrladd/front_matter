@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+WORSHIP	WORSHIP	n1	WORSHIP	worship	0
+∣	∣	sy	∣	∣	0
+full	full	av-j	full	full	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+truely	truely	av-j	truly	true	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+MARY	MARY	np1	MARY	MARY	0
+FAREWELL	FAREWELL	n1	FAREWELL	farewell	0
+:	:	:	:	:	1

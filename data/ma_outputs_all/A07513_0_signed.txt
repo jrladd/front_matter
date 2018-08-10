@@ -1,0 +1,7 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honors	Honors	ng1	Honours	honour	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+M.	M.	n1	M.	m.	1

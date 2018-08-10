@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+Our	Our	po12	Our	our	0
+Dear	Dear	j-jn	Dear	dear	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Woodhouse	Woodhouse	np1	Woodhouse	Woodhouse	0
+.	.	.	.	.	1

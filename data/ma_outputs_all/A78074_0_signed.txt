@@ -1,0 +1,6 @@
+William	William	np1	William	William	0
+Lamboll	Lamboll	vvb	Lamboll	lamboll	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Buy	Buy	vvb	Buy	buy	0
+.	.	.	.	.	1

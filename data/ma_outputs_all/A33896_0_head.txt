@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthily	worthily	av-j	worthily	worthy	0
+accomplish	accomplish	vvi	accomplish	accomplish	0
+∣	∣	sy	∣	∣	0
+ed	ed	wd	ed	ed	0
+Mr.	Mr.	n1	Mr.	mr.	0
+VVilliam	VVilliam	np1	VVilliam	William	0
+Kiffiin	Kiffiin	n1	Kiffiin	kiffiin	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+,	,	,	,	,	0
+Merchant	Merchant	n1	Merchant	merchant	0
+.	.	.	.	.	1

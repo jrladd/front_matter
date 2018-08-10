@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+Sir	Sir	n1	Sir	sir	0
+Reynald	Reynald	np1	Reynald	Reynald	0
+Argal	Argal	np1	Argal	Argal	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

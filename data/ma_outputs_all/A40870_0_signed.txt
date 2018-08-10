@@ -1,0 +1,3 @@
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+FANE	FANE	n1	FANE	fane	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Lazarus	Lazarus	np1	Lazarus	Lazarus	0
+Haward	Haward	np1	Haward	Haward	0
+.	.	.	.	.	1

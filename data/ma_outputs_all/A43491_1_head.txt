@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Daughter	Daughter	n1	Daughter	daughter	0
+.	.	.	.	.	1

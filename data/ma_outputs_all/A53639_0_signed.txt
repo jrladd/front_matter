@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+obedient	obedient	j	obedient	obedient	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+FR.	FR.	np1	FR.	Fr.	0
+WOLFERSTON	WOLFERSTON	np1	WOLFERSTON	WOLFERSTON	0
+.	.	.	.	.	1

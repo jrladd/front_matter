@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duties	duties	n2	duties	duty	0
+much	much	av-d	much	much	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Whately	Whately	np1	Whately	Whately	0
+.	.	.	.	.	1

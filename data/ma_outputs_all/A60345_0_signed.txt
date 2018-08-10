@@ -1,0 +1,3 @@
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+SLATER	SLATER	np1	SLATER	Slater	0
+.	.	.	.	.	1

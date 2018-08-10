@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+Hamon	Hamon	np1	Hamon	Hamon	0
+L'estrange	L'estrange	np1	L'estrange	L'estrange	0
+.	.	.	.	.	1

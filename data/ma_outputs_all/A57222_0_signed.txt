@@ -1,0 +1,9 @@
+Ever	Ever	av	Ever	ever	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Worthy	Worthy	j	Worthy	worthy	0
+Virtues	Virtues	n2	Virtues	virtue	0
+NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
+RICHARDS	RICHARDS	npg1	RICHARDS	Richard	0
+.	.	.	.	.	1

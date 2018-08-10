@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+GOVERNESS	GOVERNESS	n1	GOVERNESS	governess	0
+.	.	.	.	.	1

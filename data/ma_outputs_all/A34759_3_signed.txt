@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+observant	observant	j	observant	observant	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+that	that	cst	that	that	0
+truely	truely	av-j	truly	true	0
+honoureth	honoureth	vvz	honoureth	honour	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+CARTER	CARTER	n1	CARTER	carter	0
+.	.	.	.	.	1

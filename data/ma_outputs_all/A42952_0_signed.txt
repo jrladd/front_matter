@@ -1,0 +1,13 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+and	and	cc	and	and	0
+meanest	meanest	js	meanest	mean	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Subjects	Subjects	n2-jn	Subject's	subject	0
+,	,	,	,	,	0
+MORGAN	MORGAN	np1	MORGAN	Morgan	0
+GODWYN	GODWYN	np1	GODWYN	GODWYN	0
+.	.	.	.	.	1

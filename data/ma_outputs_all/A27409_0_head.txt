@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+Lord	Lord	n1	Lord	lord	0
+JEFFERIES	JEFFERIES	np1	JEFFERIES	JEFFERIES	0
+LATE	LATE	j	LATE	late	0
+Lord	Lord	n1	Lord	lord	0
+CHANCELLOUR	CHANCELLOUR	n1	CHANCELLOUR	chancellor	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

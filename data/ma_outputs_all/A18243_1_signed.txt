@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+and	and	cc	and	and	0
+wel-wishing	wel-wishing	j	wellwishing	wellwishing	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+WALTER	WALTER	np1	WALTER	Walter	0
+GOSNOLD	GOSNOLD	np1	GOSNOLD	Gosnold	0
+.	.	.	.	.	1

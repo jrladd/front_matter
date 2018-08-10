@@ -1,0 +1,14 @@
+SANCTISSIMO	SANCTISSIMO	n1	SANCTISSIMO	sanctissimo	0
+PATRIAC	PATRIAC	jp	PATRIAC	patriac	0
+DOMINO	DOMINO	fw-la	DOMINO	domino	0
+,	,	,	,	,	0
+Clementi	Clementi	np1	Clementi	Clementi	0
+Viij	Viij	crd	Viij	viij	0
+.	.	.	.	.	1
+Pontifici	Pontifici	np1	Pontifici	Pontifici	0
+Maximo	Maximo	np1	Maximo	Maximo	0
+GVIL	GVIL	n1	GVIL	gvil	0
+.	.	.	.	.	1
+BARCLAIVS	BARCLAIVS	np1	BARCLAIVS	BARCLAIVS	0
+S.	S.	np1	S.	S.	0
+P.	P.	np1	P.	P.	1

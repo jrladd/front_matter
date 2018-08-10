@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+vertuous	vertuous	j	virtuous	virtuous	0
+and	and	cc	and	and	0
+nobly-des	nobly-des	j	nobly-des	nobly-des	0
+∣	∣	sy	∣	∣	0
+cended	cended	vvn	cended	cend	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Lucy	Lucy	np1	Lucy	Lucy	0
+the	the	dt	the	the	0
+younger	younger	jc	younger	young	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

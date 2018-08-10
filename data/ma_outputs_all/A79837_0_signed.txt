@@ -1,0 +1,12 @@
+The	The	dt	The	the	0
+least	least	ds	least	least	0
+and	and	cc	and	and	0
+unworthiest	unworthiest	js	unworthiest	unworthy	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+servants	servants	n2	servants	servant	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+Jonath	Jonath	np1	Jonath	Jonath	0
+Clapham	Clapham	np1	Clapham	Clapham	0
+.	.	.	.	.	1

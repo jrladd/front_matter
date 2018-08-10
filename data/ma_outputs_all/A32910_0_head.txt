@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+W	W	j	W	wonderful	0
+—	—	—	—	—	0
+ley	ley	zz	ley	ley	0
+.	.	.	.	.	1

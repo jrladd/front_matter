@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Sr.	Sr.	n1	Sr.	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ALEIN	ALEIN	np1	ALEIN	ALEIN	0
+Lord	Lord	n1	Lord	lord	0
+Major	Major	j	Major	major	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

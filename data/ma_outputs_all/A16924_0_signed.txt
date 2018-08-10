@@ -1,0 +1,9 @@
+Euer	Euer	av	Ever	ever	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+RIC	RIC	n1	RIC	ric	0
+.	.	.	.	.	1
+BROME	BROME	np1	BROME	Brome	0
+.	.	.	.	.	1

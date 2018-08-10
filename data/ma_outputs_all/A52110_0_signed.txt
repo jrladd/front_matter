@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+meanest	meanest	js	meanest	mean	0
+and	and	cc	and	and	0
+humblest	humblest	js	humblest	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+MARTIN	MARTIN	np1	MARTIN	Martin	0
+.	.	.	.	.	1

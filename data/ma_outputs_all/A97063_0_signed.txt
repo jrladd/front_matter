@@ -1,0 +1,7 @@
+At	At	p-acp	At	at	0
+Your	Your	po22	Your	your	0
+Command	Command	n1	Command	command	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+WALLIS	WALLIS	np1	WALLIS	Wallis	0
+.	.	.	.	.	1

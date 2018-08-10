@@ -1,0 +1,11 @@
+Frater	Frater	fw-la	Frater	frater	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+foelicitatis	foelicitatis	fw-la	foelicitatis	foelicitatis	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+:	:	:	:	:	0
+T.	T.	np1	T.	T.	0
+J.	J.	np1	J.	J.	1

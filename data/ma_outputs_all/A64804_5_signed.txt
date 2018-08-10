@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Captain	Captain	n1	Captain	captain	0
+,	,	,	,	,	0
+T.V.	T.V.	np1	T.V.	T.V.	1

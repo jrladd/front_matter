@@ -1,0 +1,3 @@
+GEORGE	GEORGE	np1	GEORGE	George	0
+STRODE	STRODE	vvd	STRODE	stride	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+RABBONI	RABBONI	np1	RABBONI	RABBONI	0
+:	:	:	:	:	0
+My	My	po11	My	my	0
+deare	deare	j-jn	deer	dear	0
+Lord	Lord	n1	Lord	lord	0
+and	and	cc	and	and	0
+Master	Master	n1	Master	master	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+soueraigne	soueraigne	j-jn	sovereign	sovereign	0
+Sauiour	Sauiour	n1	Saviour	saviour	0
+IESVS	IESVS	np1	IESVS	IESVS	0
+.	.	.	.	.	1

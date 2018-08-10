@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Vassall	Vassall	n1	Vassal	vassal	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+DAVIES	DAVIES	np1	DAVIES	Davies	0
+.	.	.	.	.	1

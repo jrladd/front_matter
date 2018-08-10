@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+subiect	subiect	n-jn	subject	subject	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+daylie	daylie	j	daily	daily	0
+orator	orator	n1	orator	orator	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+FVLKE	FVLKE	vvi	FULKE	fulke	0
+.	.	.	.	.	1

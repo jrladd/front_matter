@@ -1,0 +1,10 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+William	William	np1	William	William	0
+Wren	Wren	n1	Wren	wren	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	1

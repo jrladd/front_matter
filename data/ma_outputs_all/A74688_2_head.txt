@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+dear	dear	j-jn	dear	dear	0
+Consort	Consort	n1	Consort	consort	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+wel	wel	av	well	well	0
+∣	∣	sy	∣	∣	0
+beloved	beloved	n-vvn	beloved	belove	0
+Children	Children	n2	Children	child	0
+.	.	.	.	.	1

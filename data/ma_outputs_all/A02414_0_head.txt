@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+SIR	SIR	n1	SIR	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+LAKE	LAKE	n1	LAKE	lake	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+CANONS	CANONS	n2	CANONS	canon	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+Middlesex	Middlesex	np1	Middlesex	Middlesex	0
+.	.	.	.	.	1

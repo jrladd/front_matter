@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RGIHT	RGIHT	n1	RGIHT	rgiht	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Ha	Ha	uh	Would	ha	0
+∣	∣	sy	∣	∣	0
+rington	rington	fw-fr	rington	rington	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+ver	ver	fw-la	ver	ver	0
+∣	∣	sy	∣	∣	0
+tuous	tuous	j	tuous	tuous	0
+Ladie	Ladie	n1	Lady	lady	0
+.	.	.	.	.	1

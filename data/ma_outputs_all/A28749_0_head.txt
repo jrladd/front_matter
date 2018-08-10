@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Ho	Ho	uh	Ho	ho	0
+∣	∣	sy	∣	∣	0
+nourable	nourable	j	nourable	nourable	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABET	ELIZABET	np1	ELIZABET	ELIZABET	0
+,	,	,	,	,	0
+Viscountesse	Viscountesse	np1	Viscountesse	Viscountesse	0
+Say	Say	vvb	Say	say	0
+and	and	cc	and	and	0
+Seal	Seal	vvi	Seal	seal	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Faithful	Faithful	j	Faithful	faithful	0
+Serv	Serv	np1	Serv	Serv	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+D.	D.	np1	D.	D.	1

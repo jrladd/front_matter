@@ -1,0 +1,13 @@
+YOVR	YOVR	po22	YOUR	your	0
+HONOR'S	HONOR'S	ng1	HONOR'S	honour	0
+Humblest	Humblest	js	Humblest	humble	0
+seruant	seruant	n1	servant	servant	0
+will	will	vmb	will	will	0
+not	not	xx	not	not	0
+cease	cease	vvi	cease	cease	0
+to	to	pc-acp	to	to	0
+praie	praie	vvi	pray	pray	0
+,	,	,	,	,	0
+MILES	MILES	n2	MILES	mile	0
+CAR	CAR	n1	CAR	car	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Humfrey	Humfrey	np1	Humfrey	Humphrey	0
+Crowch	Crowch	vvb	Crouch	crouch	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Author	Author	n1	Author	author	0
+Master	Master	n1	Master	master	0
+Randulph	Randulph	np1	Randulph	Randulph	0
+Mayres	Mayres	zz	Mayres	mayres	0
+.	.	.	.	.	1

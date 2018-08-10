@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+loyall	loyall	j	loyal	loyal	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+S.	S.	np1	S.	S.	1

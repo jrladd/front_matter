@@ -1,0 +1,16 @@
+The	The	dt	The	the	0
+vnworthie	vnworthie	j	unworthy	unworthy	0
+Minister	Minister	n1	Minister	minister	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+your	your	po22	your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+subiect	subiect	n-jn	subject	subject	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Morton	Morton	np1	Morton	Morton	0
+.	.	.	.	.	1

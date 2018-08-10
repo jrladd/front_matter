@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+obsequious	obsequious	j	obsequious	obsequious	0
+Servants	Servants	n2	Servants	servant	0
+:	:	:	:	:	0
+And	And	cc	And	and	0
+will	will	vmb	will	will	0
+pray	pray	vvi	pray	pray	0
+For	For	p-acp	For	for	0
+your	your	po22	your	your	0
+eternal	eternal	j	eternal	eternal	0
+Happiness	Happiness	n1	Happiness	happiness	0
+George	George	np1	George	George	0
+May	May	vmb	May	may	0
+.	.	.	.	.	1

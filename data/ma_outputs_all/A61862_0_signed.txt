@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+STRYPE	STRYPE	n1	STRYPE	strype	0
+.	.	.	.	.	1

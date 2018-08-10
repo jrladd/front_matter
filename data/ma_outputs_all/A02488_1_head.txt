@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+his	his	po31	his	his	0
+Family	Family	n1	Family	family	0
+.	.	.	.	.	1

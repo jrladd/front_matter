@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honoured	Honoured	vvn	Honoured	honour	0
+the	the	dt	the	the	0
+Land	Land	n1	Land	land	0
+of	of	pp-f	of	of	0
+More	More	dc	More	more	0
+.	.	.	.	.	1

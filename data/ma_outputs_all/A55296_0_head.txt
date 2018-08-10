@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Horner	Horner	np1	Horner	Horner	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+Christian	Christian	njp	Christian	christian	0
+service	service	n1	service	service	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+power	power	n1	power	power	0
+;	;	;	;	;	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+BARNES	BARNES	np1	BARNES	Barnes	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Denne	Denne	n1	Den	den	0
+.	.	.	.	.	1

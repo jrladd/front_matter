@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+excellent	excellent	j	excellent	excellent	0
+highnes	highnes	n1	highness	highness	0
+his	his	po31	his	his	0
+most	most	av-ds	most	most	0
+boūden	boūden	vvn	bounden	bounden	0
+.	.	.	.	.	1
+Gasper	Gasper	np1	Gasper	Gasper	0
+Oleuian	Oleuian	j	Olevian	olevian	0
+,	,	,	,	,	0
+minister	minister	n1	minister	minister	0
+of	of	pp-f	of	of	0
+Gods	Gods	npg1	Gods	God	0
+worde	worde	n1	word	word	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+(	(	(	(	(	0
+tho'	tho'	cs	though	though	0
+unworthy	unworthy	j	unworthy	unworthy	0
+)	)	)	)	)	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+for	for	p-acp	for	for	0
+Christ's	Christ's	npg1	Christ's	Christ	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+Elias	Elias	np1	Elias	Elias	0
+Keach	Keach	np1	Keach	Keach	0
+.	.	.	.	.	1

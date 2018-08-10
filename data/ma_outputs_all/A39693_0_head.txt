@@ -1,0 +1,4 @@
+This	This	np1	This	This	0
+humbly	humbly	av-j	humbly	humble	0
+presented	presented	vvn	presented	present	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Bésa	Bésa	np1	Bésa	Bésa	0
+las	las	fw-la	las	las	0
+manos	manos	fw-la	manos	manos	0
+de	de	fw-fr	de	de	0
+v.m.	v.m.	n1	v.m.	v.m.	0
+su	su	n1	sum	sum	0
+servidór	servidór	n1	servidór	servidór	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+MINSHEU	MINSHEU	fw-la	MINSHEU	minsheu	0
+.	.	.	.	.	1

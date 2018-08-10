@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+THE	THE	dt	THE	the	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Lauderdale	Lauderdale	np1	Lauderdale	Lauderdale	0
+.	.	.	.	.	1

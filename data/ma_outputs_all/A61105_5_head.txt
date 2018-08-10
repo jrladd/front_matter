@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Stephen	Stephen	np1	Stephen	Stephen	0
+Lennard	Lennard	np1	Lennard	Lennard	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	1

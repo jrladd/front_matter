@@ -1,0 +1,11 @@
+Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
+ipsius	ipsius	fw-la	ipsius	ipsius	0
+humilimè	humilimè	fw-la	humilimè	humilimè	0
+deditus	deditus	fw-la	deditus	deditus	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+BARONIVS	BARONIVS	np1	BARONIVS	BARONIVS	0
+,	,	,	,	,	0
+Philosophiae	Philosophiae	np1	Philosophiae	Philosophiae	0
+Professor	Professor	n1	Professor	professor	0
+.	.	.	.	.	1

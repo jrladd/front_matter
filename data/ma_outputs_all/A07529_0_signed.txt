@@ -1,0 +1,13 @@
+Vester	Vester	np1	Vester	Vester	0
+in	in	p-acp	in	in	0
+Coelesti	Coelesti	fw-la	Coelesti	coelesti	0
+ministerio	ministerio	fw-la	ministerio	ministerio	0
+conseruus	conseruus	fw-la	conseruus	conseruus	0
+qualiscun	qualiscun	fw-fr	qualiscun	qualiscun	0
+{	{	{	{	{	0
+que	que	fw-fr	que	que	0
+}	}	}	}	}	0
+Guiliel	Guiliel	np1	Guiliel	Guiliel	0
+:	:	:	:	:	0
+Middleton	Middleton	np1	Middleton	Middleton	0
+.	.	.	.	.	1

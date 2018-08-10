@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+EARL	EARL	n1	EARL	earl	0
+of	of	pp-f	of	of	0
+ARRAN	ARRAN	np1	ARRAN	Arran	0
+,	,	,	,	,	0
+Eldest	Eldest	js-jn	Eldest	elder	0
+Son	Son	n1	Son	son	0
+to	to	p-acp	to	to	0
+Duke	Duke	n1	Duke	duke	0
+Hamilton	Hamilton	np1	Hamilton	Hamilton	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+willing	willing	j	willing	willing	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+STRICKLAND	STRICKLAND	np1	STRICKLAND	Strickland	0
+.	.	.	.	.	1

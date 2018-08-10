@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Philip	Philip	np1	Philip	Philip	0
+De	De	fw-fr	De	de	0
+Gols	Gols	n2	Gols	goll	0
+,	,	,	,	,	0
+Gent.	Gent.	n1	Gent.	gentleman	1

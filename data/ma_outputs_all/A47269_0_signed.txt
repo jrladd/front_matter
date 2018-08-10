@@ -1,0 +1,14 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+due	due	j-jn	due	due	0
+ways	ways	n2	ways	way	0
+,	,	,	,	,	0
+abundantly	abundantly	av-j	abundantly	abundant	0
+to	to	pc-acp	to	to	0
+Honour	Honour	vvi	Honour	honour	0
+and	and	cc	and	and	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+J.	J.	np1	J.	J.	1

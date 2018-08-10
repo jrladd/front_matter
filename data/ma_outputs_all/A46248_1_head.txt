@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+deservedly	deservedly	av-vvn	deservedly	deserve	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Ancient	Ancient	j	Ancient	ancient	0
+Corporation	Corporation	n1	Corporation	corporation	0
+and	and	cc	and	and	0
+Company	Company	n1	Company	company	0
+of	of	pp-f	of	of	0
+GROCERS	GROCERS	n2	GROCERS	grocer	0
+.	.	.	.	.	1

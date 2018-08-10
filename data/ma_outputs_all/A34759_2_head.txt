@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+wel-beloved	wel-beloved	j	well-beloved	well-beloved	0
+Country-men	Country-men	n2	Countrymen	countryman	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+BRAMFORD	BRAMFORD	np1	BRAMFORD	Brainford	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+BELSTED	BELSTED	np1	BELSTED	BELSTED	0
+in	in	p-acp	in	in	0
+Suffolk	Suffolk	np1	Suffolk	Suffolk	0
+.	.	.	.	.	1

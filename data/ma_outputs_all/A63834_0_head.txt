@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+HOWARD	HOWARD	np1	HOWARD	Howard	0
+,	,	,	,	,	0
+OF	OF	pp-f	OF	of	0
+NORFOLK	NORFOLK	np1	NORFOLK	Norfolk	0
+.	.	.	.	.	1

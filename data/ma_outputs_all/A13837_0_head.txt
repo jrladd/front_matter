@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+especiall	especiall	j	especial	especial	0
+good	good	j	good	good	0
+master	master	n1	master	master	0
+,	,	,	,	,	0
+Walter	Walter	np1	Walter	Walter	0
+Raleigh	Raleigh	np1	Raleigh	Raleigh	0
+esquier	esquier	n1	esquire	esquire	0
+.	.	.	.	.	1

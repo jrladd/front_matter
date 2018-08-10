@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Westerman	Westerman	np1	Westerman	Westerman	0
+.	.	.	.	.	1

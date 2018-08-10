@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordshyps	Lordshyps	n2	Lordships	lordship	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+:	:	:	:	:	0
+HVGH	HVGH	np1	HVGH	HVGH	0
+BROVGHTON	BROVGHTON	np1	BROVGHTON	BROVGHTON	0
+.	.	.	.	.	1

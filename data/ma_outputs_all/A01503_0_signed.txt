@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+euer	euer	av	ever	ever	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Edm.	Edm.	np1	Edm.	Edm.	0
+Garrard	Garrard	np1	Garrard	Garrard	0
+.	.	.	.	.	1

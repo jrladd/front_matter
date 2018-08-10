@@ -1,0 +1,10 @@
+Thy	Thy	po21	Thy	thy	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+I	I	pns11	I	i	0
+.	.	.	.	.	0
+FALL	FALL	vvb	FALLEN	fall	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+James	James	np1	James	James	0
+Brome	Brome	np1	Brome	Brome	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+Commaund	Commaund	vvi	Command	command	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+HEXHAM	HEXHAM	np1	HEXHAM	Hexham	0
+.	.	.	.	.	1

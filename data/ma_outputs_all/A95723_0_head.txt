@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+WORTHY	WORTHY	j-jn	WORTHY	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+MAJOR	MAJOR	j	MAJOR	major	0
+EDMUND	EDMUND	np1	EDMUND	Edmund	0
+WARING	WARING	np1	WARING	Waring	0
+.	.	.	.	.	1

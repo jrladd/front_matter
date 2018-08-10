@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+OVVEN	OVVEN	np1	OVVEN	OVVEN	0
+.	.	.	.	.	1

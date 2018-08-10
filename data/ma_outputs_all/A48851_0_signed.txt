@@ -1,0 +1,14 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Asaph	Asaph	np1	Asaph	Asaph	0
+.	.	.	.	.	1

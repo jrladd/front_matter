@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	n2	VVorships	worship	0
+euer	euer	av	ever	ever	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duety	duety	n1	duty	duty	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Playfere	Playfere	n1	Playfere	playfere	0
+.	.	.	.	.	1

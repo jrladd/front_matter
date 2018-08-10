@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Ladyship's	Ladyship's	ng1	Ladyship's	ladyship	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+Williams	Williams	np1	Williams	Williams	0
+.	.	.	.	.	1

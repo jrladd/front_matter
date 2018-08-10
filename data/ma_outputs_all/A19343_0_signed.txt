@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Corkine	Corkine	np1	Corkine	Corkine	0
+.	.	.	.	.	1

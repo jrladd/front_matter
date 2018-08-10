@@ -1,0 +1,6 @@
+VIRI	VIRI	fw-la	VIRI	viri	0
+HONORATISSIMI	HONORATISSIMI	fw-la	HONORATISSIMI	honoratissimi	0
+,	,	,	,	,	0
+VIRI	VIRI	fw-la	VIRI	viri	0
+ORNATISSIMI	ORNATISSIMI	fw-la	ORNATISSIMI	ornatissimi	0
+;	;	;	;	;	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Sams	Sams	np1	Sams	Sams	0
+:	:	:	:	:	0
+Lennard	Lennard	np1	Lennard	Lennard	0
+.	.	.	.	.	1

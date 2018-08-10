@@ -1,0 +1,8 @@
+Y	Y	zz	Y	y	0
+cyfieithydd	cyfieithydd	uh	cyfieithydd	cyfieithydd	0
+,	,	,	,	,	0
+ar	ar	vbr	are	be	0
+henw	henw	vvd	henw	henw	0
+y	y	p-acp	y	in	0
+llyfr	llyfr	n1	llyfr	llyfr	0
+.	.	.	.	.	1

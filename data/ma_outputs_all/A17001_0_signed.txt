@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+subject	subject	n-jn	subject	subject	0
+.	.	.	.	.	1
+Hugh	Hugh	np1	Hugh	Hugh	0
+Broughton	Broughton	np1	Broughton	Broughton	0
+.	.	.	.	.	1

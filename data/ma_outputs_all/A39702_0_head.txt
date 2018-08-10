@@ -1,0 +1,12 @@
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Richmond	Richmond	np1	Richmond	Richmond	0
+and	and	cc	and	and	0
+Lenox	Lenox	np1	Lenox	Lenox	0
+,	,	,	,	,	0
+her	her	po31	her	her	0
+Grace	Grace	n1	Grace	grace	0
+.	.	.	.	.	1

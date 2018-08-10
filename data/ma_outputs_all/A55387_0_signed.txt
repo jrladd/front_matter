@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Orator	Orator	n1	Orator	orator	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+MATTHEW	MATTHEW	np1	MATTHEW	Matthew	0
+POOLE	POOLE	n1	POOLE	pool	0
+.	.	.	.	.	1

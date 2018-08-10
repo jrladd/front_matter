@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+friend	friend	n1	friend	friend	0
+or	or	cc	or	or	0
+foe	foe	n1	foe	foe	0
+,	,	,	,	,	0
+as	as	c-acp	as	as	0
+you	you	pn22	you	you	0
+hereafter	hereafter	av	hereafter	hereafter	0
+vse	vse	vvi	use	use	0
+him	him	pno31	him	he	0
+,	,	,	,	,	0
+Chritmas	Chritmas	np1	Chritmas	Chritmas	0
+.	.	.	.	.	1

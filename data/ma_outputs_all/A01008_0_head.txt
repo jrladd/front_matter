@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MVCH	MVCH	d	MUCH	much	0
+HONOVRED	HONOVRED	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+best	best	js	best	best	0
+,	,	,	,	,	0
+that	that	cst	that	that	0
+is	is	vbz	is	be	0
+in	in	p-acp	in	in	0
+Christian	Christian	np1	Christian	Christian	0
+af	af	pp-f	of	of	0
+∣	∣	sy	∣	∣	0
+fection	fection	n1	fection	fection	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Rous.	Rous.	np1	Rous.	Rous.	1

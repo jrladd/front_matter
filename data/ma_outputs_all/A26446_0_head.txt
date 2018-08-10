@@ -1,0 +1,6 @@
+THE	THE	dt	THE	the	0
+PUBLISHER	PUBLISHER	n1	PUBLISHER	publisher	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+bothe	bothe	av-d	both	both	0
+now	now	av	now	now	0
+and	and	cc	and	and	0
+alwayes	alwayes	av	always	always	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+M.	M.	n1	M.	m.	1

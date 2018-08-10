@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+ready	ready	av-j	ready	ready	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+in	in	p-acp	in	in	0
+what	what	r-crq	what	what	0
+he	he	pns31	he	he	0
+may	may	vmb	may	may	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Meriton	Meriton	np1	Meriton	Meriton	0
+.	.	.	.	.	1

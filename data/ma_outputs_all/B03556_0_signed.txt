@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+respective	respective	j	respective	respective	0
+Services	Services	n2	Services	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+G.	G.	np1	G.	G.	1

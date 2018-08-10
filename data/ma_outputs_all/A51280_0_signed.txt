@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+and	and	cc	and	and	0
+faithful	faithful	j	faithful	faithful	0
+friend	friend	n1	friend	friend	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+F.	F.	np1	F.	F.	0
+G.	G.	np1	G.	G.	1

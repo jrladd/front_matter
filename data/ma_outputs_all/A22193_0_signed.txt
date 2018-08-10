@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+quotidian	quotidian	j-jn	quotidian	quotidian	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+RALPH	RALPH	np1	RALPH	Ralph	0
+IENNINGS	IENNINGS	np1	IENNINGS	IENNINGS	0
+.	.	.	.	.	1

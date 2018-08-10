@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+euer	euer	av	ever	ever	0
+bounden	bounden	vvn	bounden	bind	0
+Francis	Francis	np1	Francis	Francis	0
+Dillingham	Dillingham	np1	Dillingham	Dillingham	0
+.	.	.	.	.	1

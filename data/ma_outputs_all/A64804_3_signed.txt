@@ -1,0 +1,4 @@
+Yours	Yours	png22	Yours	you	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Venn	Venn	np1	Venn	Venn	0
+.	.	.	.	.	1

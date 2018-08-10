@@ -1,0 +1,10 @@
+Whose	Whose	rg-crq	Whose	who	0
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+L'ISLE	L'ISLE	np1	L'ISLE	L'ISLE	0
+.	.	.	.	.	1

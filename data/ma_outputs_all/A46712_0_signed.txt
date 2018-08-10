@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+JEFFERY	JEFFERY	np1	JEFFERY	Jeffery	0
+.	.	.	.	.	1

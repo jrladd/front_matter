@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Carew	Carew	np1	Carew	Carew	0
+Gorges	Gorges	vvz	Gorges	gorge	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+Worships	Worships	vvz	Worships	worship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+neerest	neerest	js	nearest	near	0
+bond	bond	n1	bound	bond	0
+.	.	.	.	.	1
+VVILLIAM	VVILLIAM	np1	VVILLIAM	VVILLIAM	0
+SCLATER	SCLATER	np1	SCLATER	Sclater	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Thomas	Thomas	np1	Thomas	Thomas	0
+Myriell	Myriell	np1	Myriell	Myriell	0
+.	.	.	.	.	1

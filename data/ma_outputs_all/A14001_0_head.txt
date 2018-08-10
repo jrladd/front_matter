@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+ver	ver	p-acp	for	for	0
+∣	∣	sy	∣	∣	0
+tuous	tuous	j	tuous	tuous	0
+and	and	cc	and	and	0
+Honoura	Honoura	fw-la	Honoura	honoura	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Alicia	Alicia	np1	Alicia	Alicia	0
+Dudley	Dudley	np1	Dudley	Dudley	0
+.	.	.	.	.	1

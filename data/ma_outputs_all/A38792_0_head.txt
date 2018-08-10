@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+ABRAHAM	ABRAHAM	np1	ABRAHAM	Abraham	0
+COWLEY	COWLEY	np1	COWLEY	Cowley	0
+Esq	Esq	np1	Esq	Esq	1

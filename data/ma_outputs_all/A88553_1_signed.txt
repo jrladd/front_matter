@@ -1,0 +1,7 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+partiall	partiall	j	partial	partial	0
+Servant	Servant	n1	Servant	servant	0
+Nicoló	Nicoló	np1	Nicoló	Nicoló	0
+Crasso	Crasso	np1	Crasso	Crasso	0
+.	.	.	.	.	1

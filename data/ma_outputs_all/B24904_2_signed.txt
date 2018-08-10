@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Countreyman	Countreyman	n1	Countryman	countryman	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+JACKSON	JACKSON	np1	JACKSON	Jackson	0
+.	.	.	.	.	1

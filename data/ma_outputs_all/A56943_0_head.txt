@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+most	most	av-ds	most	most	0
+Gracious	Gracious	j	Gracious	gracious	0
+SOVERAIGN	SOVERAIGN	j-jn	SOVEREIGN	sovereign	0
+King	King	n1	King	king	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+.	.	.	.	.	1

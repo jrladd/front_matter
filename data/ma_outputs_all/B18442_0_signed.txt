@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Much	Much	d	Much	much	0
+Oblig'd	Oblig'd	j-vvn	Obliged	oblige	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+CALAMY	CALAMY	np1	CALAMY	Calamy	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+and	and	cc	and	and	0
+affectionatly	affectionatly	av-j	affectionately	affectionate	0
+Devoted	Devoted	vvn	Devoted	devote	0
+,	,	,	,	,	0
+DA	DA	n1	DA	dam	0
+.	.	.	.	.	1
+FEATLEY	FEATLEY	np1	FEATLEY	FEATLEY	0
+.	.	.	.	.	1

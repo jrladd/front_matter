@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthy	worthy	j	worthy	worthy	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+much	much	d	much	much	0
+honoured	honoured	j-vvn	honoured	honour	0
+Kins	Kins	np1	Kins	Kins	0
+∣	∣	sy	∣	∣	0
+man	man	n1	man	man	0
+,	,	,	,	,	0
+Christopher	Christopher	np1	Christopher	Christopher	0
+Clapham	Clapham	np1	Clapham	Clapham	0
+of	of	pp-f	of	of	0
+Beamsly	Beamsly	av-j	Beamsly	beams	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

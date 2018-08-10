@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Christian	Christian	np1	Christian	Christian	0
+Brother	Brother	n1	Brother	brother	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+JOHN	JOHN	np1	JOHN	John	0
+CANNE	CANNE	vmb	CAN	can	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duety	duety	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+LEVER	LEVER	np1	LEVER	Lever	0
+.	.	.	.	.	1

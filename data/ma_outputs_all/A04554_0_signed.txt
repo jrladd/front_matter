@@ -1,0 +1,15 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+commaunde	commaunde	vvi	command	command	0
+∣	∣	sy	∣	∣	0
+ment	ment	fw-la	ment	ment	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Johnson	Johnson	np1	Johnson	Johnson	0
+.	.	.	.	.	1

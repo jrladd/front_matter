@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+hearty	hearty	j	hearty	hearty	0
+wel	wel	av	well	well	0
+∣	∣	sy	∣	∣	0
+wisher	wisher	n1	wisher	wisher	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Hubbert	Hubbert	np1	Hubbert	Hubbert	0
+.	.	.	.	.	1

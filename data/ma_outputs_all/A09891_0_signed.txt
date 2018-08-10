@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+VVorshippes	VVorshippes	ng1	VVorshippes	worship	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+blie	blie	fw-fr	blie	blie	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+.	.	.	.	.	1
+GABRIEL	GABRIEL	np1	GABRIEL	Gabriel	0
+POWEL	POWEL	np1	POWEL	Powel	0
+.	.	.	.	.	1

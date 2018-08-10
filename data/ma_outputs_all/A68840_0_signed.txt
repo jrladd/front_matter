@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+faithfull	faithfull	j	faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+re	re	zz	re	re	0
+∣	∣	sy	∣	∣	0
+dy	dy	zz	dy	dy	0
+seruaunt	seruaunt	n1	servant	servant	0
+Iohn	Iohn	np1	Iohn	John	0
+Daye	Daye	n1	Day	day	0
+.	.	.	.	.	1

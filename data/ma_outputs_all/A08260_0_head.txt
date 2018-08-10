@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+AND	AND	cc	AND	and	0
+Most	Most	av-ds	Most	most	0
+Noble	Noble	j	Noble	noble	0
+minded	minded	j-vvn	minded	mind	0
+louer	louer	n1	lover	lover	0
+of	of	pp-f	of	of	0
+Learning	Learning	n1	Learning	learning	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Mongomerie	Mongomerie	np1	Mongomerie	Mongomerie	0
+.	.	.	.	.	1

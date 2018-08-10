@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+worthy	worthy	j	worthy	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+Mrs	Mrs	n1	Mrs	mrs.	0
+A.D.	A.D.	np1	A.D.	A.D.	1

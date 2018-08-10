@@ -1,0 +1,15 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORIE	DEDICATORIE	j	DEDICATORY	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+nine	nine	crd	nine	nine	0
+Pernassian	Pernassian	np1	Pernassian	Pernassian	0
+Sisters	Sisters	n2	Sisters	sister	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Conseruers	Conseruers	n2	Conservers	conserver	0
+of	of	pp-f	of	of	0
+HELICON	HELICON	np1	HELICON	Helicon	0
+.	.	.	.	.	1

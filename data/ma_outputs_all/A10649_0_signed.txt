@@ -1,0 +1,8 @@
+Dominationi	Dominationi	fw-la	Dominationi	dominationi	0
+tuae	tuae	fw-la	tuae	tuus	0
+deuinctissi	deuinctissi	fw-fr	deuinctissi	deuinctissi	0
+∣	∣	sy	∣	∣	0
+mus	mus	fw-la	mus	mus	0
+Richardus	Richardus	fw-la	Richardus	richardus	0
+Raignoldus	Raignoldus	np1	Raignoldus	Raignoldus	0
+.	.	.	.	.	1

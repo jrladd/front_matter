@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+obedient	obedient	j	obedient	obedient	0
+Son	Son	n1	Son	son	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Bulwer	Bulwer	np1	Bulwer	Bulwer	0
+.	.	.	.	.	1

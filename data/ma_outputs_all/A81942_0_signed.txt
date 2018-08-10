@@ -1,0 +1,10 @@
+A	A	dt	A	a	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Du	Du	np1	Du	Du	0
+Vignau	Vignau	np1	Vignau	Vignau	0
+.	.	.	.	.	1

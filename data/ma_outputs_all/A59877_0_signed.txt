@@ -1,0 +1,13 @@
+My	My	po11	My	my	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WILL	WILL	n1	WILL	will	0
+.	.	.	.	.	1
+SHERLOCK	SHERLOCK	np1	SHERLOCK	Sherlock	0
+.	.	.	.	.	1

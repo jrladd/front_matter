@@ -1,0 +1,5 @@
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TORIES	TORIES	n2	TORIES	tory	0
+.	.	.	.	.	1

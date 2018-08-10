@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Manlove	Manlove	np1	Manlove	Manlove	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+Warden	Warden	n1	Warden	warden	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Fleet.	Fleet.	n1	Fleet.	fleet.	1

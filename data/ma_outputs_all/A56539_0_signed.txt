@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+ever	ever	av	ever	ever	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+Comanded	Comanded	vvn	Commanded	command	0
+,	,	,	,	,	0
+JOS	JOS	np1	JOS	Jos	0
+.	.	.	.	.	1
+WALKER	WALKER	np1	WALKER	Walker	0
+.	.	.	.	.	1

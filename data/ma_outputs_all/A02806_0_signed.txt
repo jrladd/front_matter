@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+vvorships	vvorships	ng1	worships	worship	0
+depe	depe	j-jn	deep	deep	0
+dettour	dettour	n1	debtor	debtor	0
+.	.	.	.	.	1
+Nicolas	Nicolas	np1	Nicolas	Nicolas	0
+Havvard	Havvard	np1	Havvard	Havvard	0
+,	,	,	,	,	1

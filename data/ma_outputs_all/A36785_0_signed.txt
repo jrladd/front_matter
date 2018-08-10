@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Dayly	Dayly	av-j	Daily	daily	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+RIC	RIC	n1	RIC	ric	0
+.	.	.	.	.	1
+DUGDALE	DUGDALE	np1	DUGDALE	Dugdale	0
+.	.	.	.	.	1

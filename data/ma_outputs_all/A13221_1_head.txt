@@ -1,0 +1,7 @@
+Ad	Ad	fw-la	Ad	ad	0
+Gustavum	Gustavum	np1	Gustavum	Gustavum	0
+Adolphum	Adolphum	fw-la	Adolphum	adolphum	0
+,	,	,	,	,	0
+Regem	Regem	fw-la	Regem	regem	0
+Suecorum	Suecorum	fw-la	Suecorum	suecorum	0
+.	.	.	.	.	1

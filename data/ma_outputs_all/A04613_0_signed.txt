@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+IONES	IONES	np1	IONES	Jones	0
+.	.	.	.	.	1

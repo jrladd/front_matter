@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+poore	poore	j	poor	poor	0
+Country-man	Country-man	n1	Countryman	countryman	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

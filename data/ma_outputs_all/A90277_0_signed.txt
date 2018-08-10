@@ -1,0 +1,3 @@
+JOH	JOH	np1	JOH	Joh	0
+:	:	:	:	:	0
+OVVEN	OVVEN	np1	OVVEN	OVVEN	1

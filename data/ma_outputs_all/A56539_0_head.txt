@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Robt	Robt	np1	Robt	Robt	0
+.	.	.	.	.	1
+Boyle	Boyle	np1	Boyle	Boyle	0
+,	,	,	,	,	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+,	,	,	,	,	0
+A	A	dt	A	a	0
+Member	Member	n1	Member	member	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Royal	Royal	j	Royal	royal	0
+Society	Society	n1	Society	society	0
+.	.	.	.	.	1

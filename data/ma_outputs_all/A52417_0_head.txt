@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+LEOPOLD	LEOPOLD	np1	LEOPOLD	Leopold	0
+-	-	-	-	-	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+FINCH	FINCH	np1	FINCH	Finch	0
+WARDEN	WARDEN	n1	WARDEN	warden	0
+OF	OF	pp-f	OF	of	0
+All-Souls	All-Souls	n2	All-Souls	all-soul	0
+Colledge	Colledge	n1	College	college	0
+.	.	.	.	.	1

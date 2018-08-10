@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+that	that	cst	that	that	0
+loves	loves	vvz	loves	love	0
+you	you	pn22	you	you	0
+for	for	p-acp	for	for	0
+loving	loving	vvg	loving	love	0
+Truth	Truth	n1	Truth	truth	0
+,	,	,	,	,	0
+Walter	Walter	np1	Walter	Walter	0
+Bridges	Bridges	np1	Bridges	Bridges	0
+.	.	.	.	.	1

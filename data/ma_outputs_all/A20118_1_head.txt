@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+courteous	courteous	j	courteous	courteous	0
+Readers	Readers	n2	Readers	reader	0
+,	,	,	,	,	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

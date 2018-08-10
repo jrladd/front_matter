@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+Humble	Humble	j	Humble	humble	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+D'URFEY	D'URFEY	np1	D'URFEY	D'URFEY	0
+.	.	.	.	.	1

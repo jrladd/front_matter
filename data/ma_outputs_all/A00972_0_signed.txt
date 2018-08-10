@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+IOSEPH	IOSEPH	np1	IOSEPH	Joseph	0
+FLETCHER	FLETCHER	np1	FLETCHER	Fletcher	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Congregation	Congregation	n1	Congregation	congregation	0
+to	to	p-acp	to	to	0
+whom	whom	ro-crq	whom	who	0
+these	these	d	these	these	0
+Sermons	Sermons	n2	Sermons	sermon	0
+do	do	vdb	do	do	0
+belong	belong	vvi	belong	belong	0
+,	,	,	,	,	0
+whether	whether	cs	whither	whether	0
+Bond	Bond	n1	Bound	bond	0
+or	or	cc	or	or	0
+Free	Free	j	Free	free	0
+.	.	.	.	.	1

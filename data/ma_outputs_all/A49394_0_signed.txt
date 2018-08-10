@@ -1,0 +1,4 @@
+Thy	Thy	po21	Thy	thy	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+R.	R.	np1	R.	R.	0
+L.	L.	n1	L.	lord	1

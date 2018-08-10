@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	ng1	VVorships	worship	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+MORE	MORE	av-dc	MORE	more	0
+.	.	.	.	.	1

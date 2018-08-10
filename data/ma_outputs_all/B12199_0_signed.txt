@@ -1,0 +1,15 @@
+Resting	Resting	j-vvg	Resting	rest	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+Your	Your	po22	Your	your	0
+Worshippes	Worshippes	n2	Worships	worship	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Churches	Churches	ng1	Churches	church	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Th.	Th.	np1	Th.	Th.	0
+Cooper	Cooper	np1	Cooper	Cooper	0
+.	.	.	.	.	1

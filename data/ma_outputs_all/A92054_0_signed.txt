@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+add	add	vvi	add	add	0
+observance	observance	n1	observance	observance	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+R.	R.	np1	R.	R.	1

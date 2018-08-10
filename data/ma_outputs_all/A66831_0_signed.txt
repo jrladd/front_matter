@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+WOLLEY	WOLLEY	np1	WOLLEY	WOLLEY	0
+,	,	,	,	,	0
+D.D.	D.D.	np1	D.D.	D.D.	1

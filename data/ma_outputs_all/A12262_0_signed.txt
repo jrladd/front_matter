@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+seruant	seruant	n1	servant	servant	0
+A.	A.	np1	A.	A.	0
+Symson	Symson	np1	Symson	Symson	0
+.	.	.	.	.	1

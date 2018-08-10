@@ -1,0 +1,14 @@
+MY	MY	po11	MY	my	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+HORNECK	HORNECK	np1	HORNECK	HORNECK	0
+.	.	.	.	.	1

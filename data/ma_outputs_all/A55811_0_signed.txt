@@ -1,0 +1,8 @@
+Eich	Eich	n1	Eich	eich	0
+Gwasanaethwr	Gwasanaethwr	np1	Gwasanaethwr	Gwasanaethwr	0
+tra	tra	fw-la	tra	tra	0
+rhwymedig	rhwymedig	fw-ge	rhwymedig	rhwymedig	0
+,	,	,	,	,	0
+Stephen	Stephen	np1	Stephen	Stephen	0
+Hughes	Hughes	np1	Hughes	Hughes	0
+.	.	.	.	.	1

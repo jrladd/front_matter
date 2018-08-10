@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Right	Right	j-jn	Right	right	0
+worthy	worthy	j	worthy	worthy	0
+Knight	Knight	n1	Knight	knight	0
+Sir	Sir	n1	Sir	sir	0
+Gyles	Gyles	np1	Gyles	Gyles	0
+Alington	Alington	np1	Alington	Alington	0
+.	.	.	.	.	1

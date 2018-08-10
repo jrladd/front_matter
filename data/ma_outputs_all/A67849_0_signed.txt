@@ -1,0 +1,17 @@
+Who	Who	q-crq	Who	who	0
+loves	loves	vvz	loves	love	0
+Thee	Thee	pno21	Thee	thou	0
+and	and	cc	and	and	0
+Thine	Thine	png21	Thine	thou	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+a	a	dt	a	a	0
+sincere	sincere	j	sincere	sincere	0
+Love	Love	n1	Love	love	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Theophilus	Theophilus	np1	Theophilus	Theophilus	0
+Philo-kuriaces	Philo-kuriaces	j	Philo-kuriaces	philo-kuriaces	0
+Loncardiensis	Loncardiensis	np1	Loncardiensis	Loncardiensis	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Eminentiae	Eminentiae	fw-la	Eminentiae	eminentiae	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+Humillimi	Humillimi	fw-la	Humillimi	humillimi	0
+&	&	cc	&	and	0
+obsequentissi	obsequentissi	fw-fr	obsequentissi	obsequentissi	0
+∣	∣	sy	∣	∣	0
+mi	mi	fw-mi	mi	mi	0
+serui	serui	fw-la	serui	serui	0
+Sacerdotes	Sacerdotes	np1	Sacerdotes	Sacerdotes	0
+Angli	Angli	np1	Angli	Angli	0
+Collegij	Collegij	np1	Collegij	Collegij	0
+Tornacensis	Tornacensis	np1	Tornacensis	Tornacensis	0
+.	.	.	.	.	1

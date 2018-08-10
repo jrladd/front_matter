@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+service	service	n1	service	service	0
+devote	devote	vvi	devote	devote	0
+.	.	.	.	.	1
+JOHN	JOHN	np1	JOHN	John	0
+DAY	DAY	n1	DAY	day	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Ja.	Ja.	np1	Ja.	Ja.	0
+Lowde	Lowde	av-j	Loud	loud	0
+.	.	.	.	.	1

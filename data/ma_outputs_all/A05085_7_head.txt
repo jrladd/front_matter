@@ -1,0 +1,11 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Katherine	Katherine	np1	Katherine	Katherine	0
+Coun	Coun	fw-mi	Coun	coun	0
+∣	∣	sy	∣	∣	0
+tesse	tesse	n1	tesse	tesse	0
+of	of	pp-f	of	of	0
+Suffolke	Suffolke	np1	Suffolke	Suffolk	0
+.	.	.	.	.	1

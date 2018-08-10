@@ -1,0 +1,7 @@
+Will	Will	n1	Will	will	0
+.	.	.	.	.	1
+Bagwell	Bagwell	np1	Bagwell	Bagwell	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Brockedon	Brockedon	np1	Brockedon	Brockedon	0
+.	.	.	.	.	1

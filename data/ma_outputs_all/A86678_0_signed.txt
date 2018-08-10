@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+MAIESTYES	MAIESTYES	ng1	MAIESTYES	maiestyes	0
+Most	Most	av-ds	Most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+subject	subject	n-jn	subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dutifully	dutifully	av-j	dutifully	dutiful	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Michael	Michael	np1	Michael	Michael	0
+Hudson	Hudson	np1	Hudson	Hudson	0
+.	.	.	.	.	1

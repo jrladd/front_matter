@@ -1,0 +1,7 @@
+Most	Most	ds	Most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+,	,	,	,	,	0
+RI	RI	zz	RI	ri	0
+.	.	.	.	.	1
+MOVNTAGV	MOVNTAGV	np1	MOVNTAGV	MOVNTAGV	0
+.	.	.	.	.	1

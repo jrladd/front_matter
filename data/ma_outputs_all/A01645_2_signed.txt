@@ -1,0 +1,11 @@
+At	At	p-acp	At	at	0
+whose	whose	rg-crq	whose	who	0
+service	service	n1	service	service	0
+GERARD	GERARD	np1	GERARD	Gerard	0
+is	is	vbz	is	be	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+Translatour	Translatour	n1	Translator	translator	0
+RALPH	RALPH	np1	RALPH	Ralph	0
+WINTERTON	WINTERTON	np1	WINTERTON	Winterton	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+ROYAL	ROYAL	j	ROYAL	royal	0
+HIGHNES	HIGHNES	n1	HIGHNES	highness	0
+The	The	dt	The	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+ALBANIE	ALBANIE	np1	ALBANIE	Albany	0
+.	.	.	.	.	1

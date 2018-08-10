@@ -1,0 +1,3 @@
+Cotton	Cotton	np1	Cotton	Cotton	0
+Mather	Mather	np1	Mather	Mather	0
+.	.	.	.	.	1

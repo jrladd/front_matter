@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+COPE	COPE	vvi	COPE	cope	0
+Knight	Knight	n1	Knight	knight	0
+and	and	cc	and	and	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

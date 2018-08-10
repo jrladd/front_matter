@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+Deans	Deans	np1	Deans	Deans	0
+and	and	cc	and	and	0
+Professors	Professors	n2	Professors	professor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Faculty	Faculty	n1	Faculty	faculty	0
+of	of	pp-f	of	of	0
+Caën	Caën	n2	Caën	caën	0
+.	.	.	.	.	1

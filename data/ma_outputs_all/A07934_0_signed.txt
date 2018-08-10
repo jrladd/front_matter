@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Ancient	Ancient	j	Ancient	ancient	0
+poore	poore	j	poor	poor	0
+Friend	Friend	n1	Friend	friend	0
+George	George	np1	George	George	0
+Chapman	Chapman	n1	Chapman	chapman	0
+.	.	.	.	.	1

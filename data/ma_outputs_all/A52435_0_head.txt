@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+HENRY	HENRY	np1	HENRY	Henry	0
+MORE	MORE	n1	MORE	moor	0
+of	of	pp-f	of	of	0
+Christ's	Christ's	npg1	Christ's	Christ	0
+College	College	n1	College	college	0
+in	in	p-acp	in	in	0
+CAMBRIDGE	CAMBRIDGE	np1	CAMBRIDGE	Cambridge	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+to	to	pc-acp	to	to	0
+cōmaund	cōmaund	vvi	command	command	0
+.	.	.	.	.	1
+Alexander	Alexander	np1	Alexander	Alexander	0
+Nuyle	Nuyle	n1	Nuyle	nuyle	0
+.	.	.	.	.	1

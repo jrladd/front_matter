@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honoures	Honoures	ng1	Honours	honour	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+duetie	duetie	n1	duty	duty	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+GVILD	GVILD	j	GVILD	gvild	0
+.	.	.	.	.	1

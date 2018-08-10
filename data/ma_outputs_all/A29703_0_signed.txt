@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+souls	souls	n2	souls	soul	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Dear	Dear	j-jn	Dear	dear	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+BROOKS	BROOKS	vvz	BROOKS	brook	0
+.	.	.	.	.	1

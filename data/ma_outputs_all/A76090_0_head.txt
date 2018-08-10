@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Royal	Royal	j	Royal	royal	0
+Bud	Bud	n1	Bud	bud	0
+Of	Of	pp-f	Of	of	0
+our	our	po12	our	our	0
+English	English	jp	English	english	0
+hopes	hopes	n2	hope's	hope	0
+,	,	,	,	,	0
+PRINCESSE	PRINCESSE	n1	PRINCESSE	princess	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+.	.	.	.	.	1

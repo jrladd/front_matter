@@ -1,0 +1,4 @@
+PET	PET	np1	PET	Pet	0
+.	.	.	.	.	1
+HEYLIN	HEYLIN	np1	HEYLIN	HEYLIN	0
+.	.	.	.	.	1

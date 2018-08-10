@@ -1,0 +1,6 @@
+Tobias	Tobias	np1	Tobias	Tobias	0
+Vennerus	Vennerus	np1	Vennerus	Vennerus	0
+,	,	,	,	,	0
+Medic.	Medic.	np1	Medic.	Medic.	0
+Doctor	Doctor	n1	Doctor	doctor	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Theyr	Theyr	po32	Their	their	0
+euer	euer	av	ever	ever	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+Faithfull	Faithfull	j	Faithful	faithful	0
+Ho	Ho	uh	Ho	ho	0
+∣	∣	sy	∣	∣	0
+nourer	nourer	n1	nourer	nourer	0
+.	.	.	.	.	1
+Rich.	Rich.	np1	Rich.	Richard	0
+Flecknoe	Flecknoe	np1	Flecknoe	Flecknoe	0
+.	.	.	.	.	1

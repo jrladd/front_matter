@@ -1,0 +1,6 @@
+Nobilissimo	Nobilissimo	fw-la	Nobilissimo	nobilissimo	0
+,	,	,	,	,	0
+Illustrissimoque	Illustrissimoque	fw-la	Illustrissimoque	illustrissimoque	0
+COMITI	COMITI	fw-la	COMITI	comiti	0
+MULGRAVIAE	MULGRAVIAE	np1	MULGRAVIAE	MULGRAVIAE	0
+,	,	,	,	,	1

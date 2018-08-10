@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+Souldier	Souldier	n1	Soldier	soldier	0
+by	by	p-acp	by	by	0
+word	word	n1	word	word	0
+and	and	cc	and	and	0
+deede	deede	n1	deed	deed	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+hazard	hazard	n1	hazard	hazard	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+life	life	n1	life	life	0
+LAZARVS	LAZARVS	np1	LAZARVS	LAZARVS	0
+HAVVARD	HAVVARD	np1	HAVVARD	HAVVARD	1

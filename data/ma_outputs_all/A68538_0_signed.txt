@@ -1,0 +1,4 @@
+D.	D.	np1	D.	D.	0
+Du	Du	np1	Du	Du	0
+Tr.	Tr.	np1	Tr.	Tr.	0
+Med.	Med.	np1	Med.	Med.	1

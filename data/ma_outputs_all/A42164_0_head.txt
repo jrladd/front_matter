@@ -1,0 +1,3 @@
+Courteous	Courteous	j	Courteous	courteous	0
+READER	READER	n1	READER	reader	0
+▪	▪	▪	▪	▪	1

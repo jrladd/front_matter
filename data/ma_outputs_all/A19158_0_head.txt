@@ -1,0 +1,4 @@
+A	A	dt	A	a	0
+la	la	fw-fr	la	la	0
+Royne	Royne	vvi	Royne	royne	0
+.	.	.	.	.	1

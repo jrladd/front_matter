@@ -1,0 +1,15 @@
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+tres-obeissant	tres-obeissant	j	tres-obeisant	tres-obeisant	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+uiteur	uiteur	fw-fr	uiteur	uiteur	0
+&	&	cc	&	and	0
+Subiect	Subiect	n-jn	Subject	subject	0
+.	.	.	.	.	1
+M.	M.	n1	M.	m.	0
+Zacharie	Zacharie	np1	Zacharie	Zacharie	0
+Boyd	Boyd	np1	Boyd	Boyd	0
+.	.	.	.	.	1

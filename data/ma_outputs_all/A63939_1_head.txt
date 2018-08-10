@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dear	Dear	j-jn	Dear	dear	0
+Friends	Friends	n2	Friends	friend	0
+and	and	cc	and	and	0
+Acquaintance	Acquaintance	n1	Acquaintance	acquaintance	0
+in	in	p-acp	in	in	0
+Flintshire	Flintshire	np1	Flintshire	Flintshire	0
+,	,	,	,	,	0
+Shropshire	Shropshire	np1	Shropshire	Shropshire	0
+and	and	cc	and	and	0
+Sussex	Sussex	np1	Sussex	Sussex	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

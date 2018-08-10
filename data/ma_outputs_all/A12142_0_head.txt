@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HONO	HONO	fw-it	HONO	hono	0
+∣	∣	sy	∣	∣	0
+RABLE	RABLE	n1	RABLE	rabble	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+LORD	LORD	n1	LORD	lord	0
+LOVELACE	LOVELACE	np1	LOVELACE	Lovelace	0
+of	of	pp-f	of	of	0
+Hurley	Hurley	np1	Hurley	Hurley	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+EDM	EDM	np1	EDM	EDM	0
+.	.	.	.	.	1
+BVNNY	BVNNY	np1	BVNNY	BVNNY	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+THE	THE	dt	THE	the	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honour'd	Honour'd	j-vvn	Honoured	honour	0
+,	,	,	,	,	0
+Few	Few	d	Few	few	0
+,	,	,	,	,	0
+Lovers	Lovers	n2	Lovers	lover	0
+of	of	pp-f	of	of	0
+Drammatick	Drammatick	j-jn	Drammatic	drammatic	0
+Poesie	Poesie	n1	Poesy	poesy	0
+.	.	.	.	.	1

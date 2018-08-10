@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+And	And	cc	And	and	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+RAWLIN	RAWLIN	fw-ge	RAWLIN	rawlin	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+souls	souls	n2	souls	soul	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+V.	V.	np1	V.	V.	1

@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+MARQƲISS	MARQƲISS	n1	MARQƲISS	marqʋiss	0
+of	of	pp-f	of	of	0
+HALLIFAX	HALLIFAX	np1	HALLIFAX	HALLIFAX	0
+.	.	.	.	.	1

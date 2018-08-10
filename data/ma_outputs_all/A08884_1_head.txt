@@ -1,0 +1,7 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+Maister	Maister	n1	Master	master	0
+Iohn	Iohn	np1	Iohn	John	0
+Swynnerton	Swynnerton	np1	Swynnerton	Swynnerton	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

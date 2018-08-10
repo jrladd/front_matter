@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+MY	MY	po11	MY	my	0
+Lord	Lord	n1	Lord	lord	0
+HAY	HAY	n1	HAY	hay	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Patterne	Patterne	n1	Pattern	pattern	0
+of	of	pp-f	of	of	0
+true	true	j	true	true	0
+Nobilitie	Nobilitie	n1	Nobility	nobility	0
+.	.	.	.	.	1

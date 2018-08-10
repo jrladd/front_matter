@@ -1,0 +1,15 @@
+In	In	p-acp	In	in	0
+Summum	Summum	fw-la	Summum	summum	0
+Virum	Virum	fw-la	Virum	virum	0
+Thomam	Thomam	n1	Thomam	thomam	0
+Bodleium	Bodleium	np1	Bodleium	Bodleium	0
+Equitem	Equitem	fw-la	Equitem	equitem	0
+Auratum	Auratum	np1	Auratum	Auratum	0
+,	,	,	,	,	0
+Bibliothecae	Bibliothecae	np1	Bibliothecae	Bibliothecae	0
+Oxo	Oxo	fw-la	Oxo	oxo	0
+∣	∣	sy	∣	∣	0
+niensis	niensis	fw-la	niensis	niensis	0
+Structorem	Structorem	fw-la	Structorem	structorem	0
+Magnificum	Magnificum	np1	Magnificum	Magnificum	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Amplissimae	Amplissimae	fw-la	Amplissimae	amplissimae	0
+Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
+Tuae	Tuae	fw-la	Tuae	tuus	0
+Devotissimus	Devotissimus	fw-la	Devotissimus	devotissimus	0
+&	&	cc	&	and	0
+Obsequentissimus	Obsequentissimus	fw-la	Obsequentissimus	obsequentissimus	0
+Cultor	Cultor	np1	Cultor	Cultor	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,16 @@
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+learned	learned	j	learned	learned	0
+and	and	cc	and	and	0
+well	well	av	well	well	0
+approved	approved	vvn	approved	approve	0
+generous	generous	j	generous	generous	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Andrew	Andrew	np1	Andrew	Andrew	0
+Plummer	Plummer	np1	Plummer	Plummer	0
+Laird	Laird	np1	Laird	Laird	0
+of	of	pp-f	of	of	0
+Midlestead	Midlestead	np1	Midlestead	Midlestead	0
+.	.	.	.	.	1

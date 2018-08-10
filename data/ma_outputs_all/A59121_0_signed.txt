@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+,	,	,	,	,	0
+hum	hum	uh	hum	humh	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+S.	S.	np1	S.	S.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Eternally	Eternally	av-j	Eternally	eternal	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PRYNNE	PRYNNE	np1	PRYNNE	Prynne	0
+.	.	.	.	.	1

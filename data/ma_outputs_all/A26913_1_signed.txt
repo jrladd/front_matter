@@ -1,0 +1,5 @@
+Published	Published	j-vvn	Published	publish	0
+by	by	p-acp	by	by	0
+I.	I.	np1	I.	I.	0
+B.	B.	np1	B.	B.	0
+Gent.	Gent.	n1	Gent.	gentleman	1

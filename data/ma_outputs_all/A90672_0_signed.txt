@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+faith	faith	n1	faith	faith	0
+∣	∣	sy	∣	∣	0
+full	full	j	full	full	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+BEN	BEN	zz	BEN	ben	0
+.	.	.	.	.	1
+PIKERING	PIKERING	np1	PIKERING	PIKERING	0
+.	.	.	.	.	1

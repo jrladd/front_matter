@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Slave	Slave	n1	Slave	slave	0
+and	and	cc	and	and	0
+Vassal	Vassal	n1	Vassal	vassal	0
+,	,	,	,	,	0
+A.	A.	sy	A.	a	0
+B.	B.	sy	B.	b	0
+C.	C.	sy	C.	c	0
+D.	D.	np1	D.	D.	0
+E.	E.	np1	E.	E.	0
+F.	F.	np1	F.	F.	0
+G.	G.	np1	G.	G.	1

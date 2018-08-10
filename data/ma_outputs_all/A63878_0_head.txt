@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Most	Most	av-ds	Most	most	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Princess	Princess	n1	Princess	princess	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+OF	OF	pp-f	OF	of	0
+ORMONDE	ORMONDE	np1	ORMONDE	Ormonde	0
+HER	HER	po31	HER	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+.	.	.	.	.	1

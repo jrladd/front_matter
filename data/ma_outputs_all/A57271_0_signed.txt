@@ -1,0 +1,3 @@
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+RIDER	RIDER	n1	RIDER	rider	0
+.	.	.	.	.	1

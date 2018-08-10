@@ -1,0 +1,11 @@
+CAROLUS	CAROLUS	np1	CAROLUS	Carolus	0
+Secundus	Secundus	fw-la	Secundus	secundus	0
+Dei	Dei	fw-la	Dei	dei	0
+gratia	gratia	fw-la	gratia	gratia	0
+Magna	Magna	fw-la	Magna	magna	0
+Britaniae	Britaniae	np1	Britaniae	Britaniae	0
+Franciae	Franciae	fw-la	Franciae	francia	0
+et	et	fw-la	et	et	0
+Hiberniae	Hiberniae	fw-la	Hiberniae	hiberniae	0
+Rex	Rex	fw-la	Rex	rex	0
+.	.	.	.	.	1

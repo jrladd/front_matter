@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+PETTIE	PETTIE	np1	PETTIE	Pettie	0
+.	.	.	.	.	1

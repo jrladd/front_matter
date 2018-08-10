@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+honorable	honorable	j	honourable	honourable	0
+,	,	,	,	,	0
+ver	ver	fw-la	ver	ver	0
+∣	∣	sy	∣	∣	0
+tuous	tuous	j	tuous	tuous	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+excellent	excellent	j	excellent	excellent	0
+:	:	:	:	:	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Mary	Mary	uh	Marry	mary	0
+Thinne	Thinne	j	Thin	thin	0
+.	.	.	.	.	1

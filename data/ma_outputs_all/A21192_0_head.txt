@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+DAVID	DAVID	np1	DAVID	David	0
+Lord	Lord	n1	Lord	lord	0
+BARRY	BARRY	np1	BARRY	Barry	0
+Earle	Earle	np1	Earle	Earle	0
+BARRIMORE	BARRIMORE	np1	BARRIMORE	BARRIMORE	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladps	Ladps	n2	Ladps	ladp	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Hamnet	Hamnet	n1	Hamnet	hamnet	0
+Warde	Warde	np1	Warde	Warde	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	ds	most	most	0
+obedi	obedi	n1	obedi	obedi	0
+∣	∣	sy	∣	∣	0
+ent	ent	j	ent	ent	0
+faithful	faithful	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Burbury	Burbury	np1	Burbury	Burbury	0
+.	.	.	.	.	1

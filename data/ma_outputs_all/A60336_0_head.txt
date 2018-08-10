@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Souldiers	Souldiers	n2	Soldiers	soldier	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+what	what	r-crq	what	what	0
+degree	degree	n1	degree	degree	0
+soever	soever	av	soever	soever	0
+,	,	,	,	,	0
+that	that	cst	that	that	0
+desire	desire	vvb	desire	desire	0
+to	to	pc-acp	to	to	0
+walk	walk	vvi	walk	walk	0
+Christianly	Christianly	av-jp	Christianly	christianly	0
+and	and	cc	and	and	0
+Circumspectly	Circumspectly	av-j	Circumspectly	circumspect	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+By	By	p-acp	By	by	0
+His	His	po31	His	his	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Command	Command	n1	Command	command	0
+.	.	.	.	.	1
+ED	ED	wd	ED	ed	0
+.	.	.	.	.	1
+NICHOLAS	NICHOLAS	np1	NICHOLAS	Nicholas	0
+.	.	.	.	.	1

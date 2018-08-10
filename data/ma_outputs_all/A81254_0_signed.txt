@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+,	,	,	,	,	0
+both	both	av-d	both	both	0
+in	in	p-acp	in	in	0
+Life	Life	n1	Life	life	0
+and	and	cc	and	and	0
+Death	Death	n1	Death	death	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+CASE	CASE	n1	CASE	case	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+ready	ready	j	ready	ready	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Cockeram	Cockeram	n1	Cockeram	cockeram	0
+.	.	.	.	.	1

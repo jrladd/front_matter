@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+affection	affection	n1	affection	affection	0
+and	and	cc	and	and	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+GEREE	GEREE	n1	GEREE	geree	0
+.	.	.	.	.	1

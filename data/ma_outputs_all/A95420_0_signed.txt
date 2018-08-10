@@ -1,0 +1,7 @@
+Lordships	Lordships	ng1	Lordship's	lordship	0
+unknowne	unknowne	j	unknown	unknown	0
+servant	servant	n1	servant	servant	0
+;	;	;	;	;	0
+Demophilus	Demophilus	np1	Demophilus	Demophilus	0
+Philanactos	Philanactos	np1	Philanactos	Philanactos	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+dutie	dutie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+ANTONY	ANTONY	np1	ANTONY	Antony	0
+FAWKENER	FAWKENER	np1	FAWKENER	FAWKENER	0
+.	.	.	.	.	1

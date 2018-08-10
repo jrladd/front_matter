@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Lord	Lord	n1	Lord	lord	0
+D.	D.	np1	D.	D.	0
+L.	L.	n1	L.	lord	0
+upon	upon	p-acp	upon	upon	0
+his	his	po31	his	his	0
+Mariage	Mariage	n1	Marriage	marriage	0
+.	.	.	.	.	1

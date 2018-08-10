@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Teacher	Teacher	n1	Teacher	teacher	0
+,	,	,	,	,	0
+Cuthbert	Cuthbert	np1	Cuthbert	Cuthbert	0
+Sidenham	Sidenham	np1	Sidenham	Sidenham	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+GENERALL	GENERALL	n1	GENERALL	general	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+excellent	excellent	j	excellent	excellent	0
+Counsell	Counsell	n1	Counsel	counsel	0
+of	of	pp-f	of	of	0
+Warre	Warre	n1	War	war	0
+.	.	.	.	.	1

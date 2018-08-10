@@ -1,0 +1,3 @@
+SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
+STURMY	STURMY	n1	STURMY	sturmy	0
+.	.	.	.	.	1

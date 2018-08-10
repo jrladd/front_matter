@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+PEREGRINE	PEREGRINE	np1	PEREGRINE	Peregrine	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Marquiss	Marquiss	n1	Marquis	marquis	0
+of	of	pp-f	of	of	0
+Carmarthen	Carmarthen	np1	Carmarthen	Carmarthen	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

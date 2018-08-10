@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+poore	poore	j	poor	poor	0
+Remembraucer	Remembraucer	np1	Remembraucer	Remembraucer	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throane	Throane	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+TH	TH	pns21	THAT	thou	0
+.	.	.	.	.	1
+COOPER	COOPER	np1	COOPER	Cooper	0
+.	.	.	.	.	1

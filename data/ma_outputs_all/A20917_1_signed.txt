@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Armin	Armin	np1	Armin	Armin	0
+.	.	.	.	.	1

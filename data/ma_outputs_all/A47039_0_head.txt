@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Friends	Friends	n2	Friends	friend	0
+the	the	dt	the	the	0
+Appren	Appren	n1	Appren	appren	0
+∣	∣	sy	∣	∣	0
+tices	tices	vvz	tices	tice	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+and	and	cc	and	and	0
+West	West	np1	West	West	0
+∣	∣	sy	∣	∣	0
+minster	minster	n1	minster	minster	0
+.	.	.	.	.	1

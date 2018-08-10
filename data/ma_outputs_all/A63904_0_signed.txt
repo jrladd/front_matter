@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+,	,	,	,	,	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+for	for	p-acp	for	for	0
+ever	ever	av	ever	ever	0
+most	most	av-ds	most	most	0
+Oblig'd	Oblig'd	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+TƲRNER	TƲRNER	n1	TƲRNER	tʋrner	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+your	your	po22	your	your	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+JORDAN	JORDAN	np1	JORDAN	Jordan	0
+.	.	.	.	.	1

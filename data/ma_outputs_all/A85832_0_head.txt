@@ -1,0 +1,17 @@
+Right	Right	av-jn	Right	right	0
+worthy	worthy	j	worthy	worthy	0
+,	,	,	,	,	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+rest	rest	n1	rest	rest	0
+most	most	av-ds	most	most	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+and	and	cc	and	and	0
+intyrely	intyrely	av-j	intyrely	entire	0
+beloved	beloved	j-vvn	beloved	belove	0
+Country-men	Country-men	n2	Countrymen	countryman	0
+and	and	cc	and	and	0
+Brethren	Brethren	n2	Brothers	brethren	0
+.	.	.	.	.	1

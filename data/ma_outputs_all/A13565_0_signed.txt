@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+highnes	highnes	n1	highness	highness	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dailie	dailie	j	daily	daily	0
+Orators	Orators	n2	Orators	orator	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Tedder	Tedder	np1	Tedder	Tedder	0
+.	.	.	.	.	1
+Anthonie	Anthonie	np1	Anthonie	Anthony	0
+Tyrrell	Tyrrell	np1	Tyrrell	Tyrrell	0
+.	.	.	.	.	1

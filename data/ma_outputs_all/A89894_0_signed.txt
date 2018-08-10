@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	n2	Majesties	majesty	0
+,	,	,	,	,	0
+Loyall	Loyall	j	Loyal	loyal	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+ABRAHAM	ABRAHAM	np1	ABRAHAM	Abraham	0
+NELSON	NELSON	np1	NELSON	Nelson	0
+.	.	.	.	.	1

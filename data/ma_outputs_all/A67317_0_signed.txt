@@ -1,0 +1,4 @@
+THO	THO	np1	THO	Tho	0
+.	.	.	.	.	1
+WALL	WALL	n1	WALL	wall	0
+.	.	.	.	.	1

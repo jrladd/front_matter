@@ -1,0 +1,7 @@
+THE	THE	dt	THE	the	0
+AUTHORS	AUTHORS	ng1	AUTHORS	author	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+TO	TO	p-acp	TO	to	0
+Dr	Dr	zz	Dr	dr	0
+BATHURST	BATHURST	np1	BATHURST	Bathurst	0
+.	.	.	.	.	1

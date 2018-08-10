@@ -1,0 +1,9 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+endeared	endeared	vvn	endeared	endear	0
+Brother	Brother	n1	Brother	brother	0
+JOHN	JOHN	np1	JOHN	John	0
+FLAVEL	FLAVEL	np1	FLAVEL	Flavel	0
+.	.	.	.	.	1

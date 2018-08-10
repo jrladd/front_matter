@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+moste	moste	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+William	William	np1	William	William	0
+Painter	Painter	n1	Painter	painter	0
+.	.	.	.	.	1

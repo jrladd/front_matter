@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Young	Young	j	Young	young	0
+Geometrician	Geometrician	n1	Geometrician	geometrician	0
+.	.	.	.	.	1

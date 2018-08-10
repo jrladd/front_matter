@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+bounden	bounden	vvn	bounden	bind	0
+and	and	cc	and	and	0
+readie	readie	j	ready	ready	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Wilcocks	Wilcocks	n2	Wilcocks	wilcock	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+vnworthie	vnworthie	j-u	unworthy	worthy	0
+.	.	.	.	.	1

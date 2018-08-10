@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Unworthy	Unworthy	j	Unworthy	unworthy	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+Jonathan	Jonathan	np1	Jonathan	Jonathan	0
+Owen	Owen	np1	Owen	Owen	0
+.	.	.	.	.	1

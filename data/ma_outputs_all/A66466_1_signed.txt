@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+ever	ever	av	ever	ever	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+William	William	np1	William	William	0
+Williams	Williams	np1	Williams	Williams	0
+.	.	.	.	.	1

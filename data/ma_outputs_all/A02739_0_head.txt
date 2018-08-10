@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOSTRE	MOSTRE	fw-fr	MOSTRE	mostre	0
+∣	∣	sy	∣	∣	0
+VEREND	VEREND	j	VEREND	verend	0
+FATHER	FATHER	n1	FATHER	father	0
+IN	IN	p-acp	IN	in	0
+God	God	np1	God	God	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+Chester	Chester	np1	Chester	Chester	0
+.	.	.	.	.	1

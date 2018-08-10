@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+most	most	av-ds	most	most	0
+louing	louing	j-vvg	loving	love	0
+brother	brother	n1	brother	brother	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+.	.	.	.	.	1
+Bro	Bro	np1	Bro	Bro	0
+:	:	:	:	:	0
+ANTONIE	ANTONIE	np1	ANTONIE	Antony	0
+BATT	BATT	np1	BATT	Batt	0
+.	.	.	.	.	1

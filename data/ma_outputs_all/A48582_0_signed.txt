@@ -1,0 +1,12 @@
+YOUR	YOUR	po22	YOUR	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Countrey-Man	Countrey-Man	n1	Countrey-Man	countryman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+LINDESAY	LINDESAY	np1	LINDESAY	Lindesay	0
+.	.	.	.	.	1

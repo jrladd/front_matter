@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+ready	ready	j	ready	ready	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	p-acp	to	to	0
+all	all	d	all	all	0
+good	good	j	good	good	0
+seruices	seruices	n2	services	service	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+C.	C.	np1	C.	C.	1

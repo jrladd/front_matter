@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+JAMES	JAMES	np1	JAMES	James	0
+BUTLER	BUTLER	n1	BUTLER	butler	0
+OF	OF	pp-f	OF	of	0
+Patcham	Patcham	np1	Patcham	Patcham	0
+in	in	p-acp	in	in	0
+Sussex	Sussex	np1	Sussex	Sussex	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+AND	AND	cc	AND	and	0
+HIS	HIS	po31	HIS	his	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+Consort	Consort	n1	Consort	consort	0
+.	.	.	.	.	1

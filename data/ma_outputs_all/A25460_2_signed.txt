@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Minister	Minister	n1	Minister	minister	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+.	.	.	.	.	1
+Will	Will	n1	Will	will	0
+.	.	.	.	.	1
+Annand	Annand	np1	Annand	Annand	0
+.	.	.	.	.	1

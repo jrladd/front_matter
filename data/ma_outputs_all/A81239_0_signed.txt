@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+while	while	cs	while	while	0
+you	you	pn22	you	you	0
+serve	serve	vvb	serve	serve	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Case	Case	n1	Case	case	0
+.	.	.	.	.	1

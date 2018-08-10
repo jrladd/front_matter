@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+that	that	cst	that	that	0
+Flock	Flock	vvb	Flock	flock	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+over	over	p-acp	over	over	0
+which	which	r-crq	which	which	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	1
+Annesley	Annesley	np1	Annesley	Annesley	0
+was	was	vbds	was	be	0
+lately	lately	av-j	lately	late	0
+Pastor	Pastor	n1	Pastor	pastor	0
+.	.	.	.	.	1

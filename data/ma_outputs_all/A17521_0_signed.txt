@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+alwais	alwais	av	always	always	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+Ar	Ar	vbr	are	be	0
+∣	∣	sy	∣	∣	0
+thur	thur	n1	thur	thur	0
+Golding	Golding	np1	Golding	Golding	0
+.	.	.	.	.	1

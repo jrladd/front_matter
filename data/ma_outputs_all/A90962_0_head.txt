@@ -1,0 +1,9 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+honour'd	honour'd	j-vvn	honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+Colonell	Colonell	n1	Colonel	colonel	0
+JOHN	JOHN	np1	JOHN	John	0
+BELLAMY	BELLAMY	np1	BELLAMY	Bellamy	0
+.	.	.	.	.	1

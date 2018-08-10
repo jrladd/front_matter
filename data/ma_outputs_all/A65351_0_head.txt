@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+SACRED	SACRED	j	SACRED	sacred	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+OF	OF	pp-f	OF	of	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+The	The	dt	The	the	0
+Second	Second	ord	Second	second	0
+.	.	.	.	.	1

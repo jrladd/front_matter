@@ -1,0 +1,13 @@
+No	No	dx	No	no	0
+way	way	n1	way	way	0
+your	your	po22	your	your	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+till	till	c-acp	till	till	0
+you	you	pn22	you	you	0
+mend	mend	vvb	mend	mend	0
+your	your	po22	your	your	0
+manners	manners	n2	manners	manner	0
+,	,	,	,	,	0
+Christmas	Christmas	np1	Christmas	Christmas	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+This	This	d	This	this	0
+Honourable	Honourable	j	Honourable	honourable	0
+Senate's	Senate's	ng1	Senate's	senate	0
+most	most	av-ds	most	most	0
+observant	observant	j	observant	observant	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+HARBY	HARBY	np1	HARBY	Harby	0
+.	.	.	.	.	1

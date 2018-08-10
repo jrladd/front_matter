@@ -1,0 +1,9 @@
+Alwaies	Alwaies	av	Always	always	0
+desirous	desirous	j	desirous	desirous	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+yours	yours	png22	yours	you	0
+ANDREVV	ANDREVV	np1	ANDREVV	ANDREVV	0
+BARKER	BARKER	np1	BARKER	Barker	0
+.	.	.	.	.	1

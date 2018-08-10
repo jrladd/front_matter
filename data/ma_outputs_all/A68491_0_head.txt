@@ -1,0 +1,15 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Maister	Maister	n1	Master	master	0
+Edward	Edward	np1	Edward	Edward	0
+Diar	Diar	np1	Diar	Diar	0
+,	,	,	,	,	0
+Esquier	Esquier	n1	Esquire	esquire	0
+:	:	:	:	:	0
+Listra	Listra	np1	Listra	Listra	0
+wisheth	wisheth	vvz	wishes	wish	0
+prosperity	prosperity	n1	prosperity	prosperity	0
+.	.	.	.	.	1

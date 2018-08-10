@@ -1,0 +1,12 @@
+A	A	dt	A	a	0
+LETTER	LETTER	n1	LETTER	letter	0
+OF	OF	pp-f	OF	of	0
+Francesco	Francesco	np1	Francesco	Francisco	0
+Portonari	Portonari	np1	Portonari	Portonari	0
+,	,	,	,	,	0
+Relating	Relating	vvg	Relating	relate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Ensuing	Ensuing	j-vvg	Ensuing	ensue	0
+BOOK	BOOK	n1	BOOK	book	0
+.	.	.	.	.	1

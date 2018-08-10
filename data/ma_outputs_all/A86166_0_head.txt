@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+honoured	honoured	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+Mr	Mr	n1	Mr	mr.	0
+R.	R.	np1	R.	R.	0
+H.	H.	np1	H.	H.	0
+on	on	p-acp	on	on	0
+his	his	po31	his	his	0
+rich	rich	j	rich	rich	0
+Poems	Poems	n2	Poems	poem	0
+and	and	cc	and	and	0
+Satyrs	Satyrs	n2	Satyrs	satyr	0
+.	.	.	.	.	1

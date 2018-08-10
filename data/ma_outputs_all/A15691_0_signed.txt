@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duty	duty	n1	duty	duty	0
+bound	bound	vvn	bound	bind	0
+and	and	cc	and	and	0
+ready	ready	j	ready	ready	0
+,	,	,	,	,	0
+RICMARD	RICMARD	np1	RICMARD	RICMARD	0
+WOODCOKE	WOODCOKE	np1	WOODCOKE	WOODCOKE	0
+.	.	.	.	.	1

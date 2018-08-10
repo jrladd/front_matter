@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+QUEEN	QUEEN	n1	QUEEN	queen	0
+.	.	.	.	.	1

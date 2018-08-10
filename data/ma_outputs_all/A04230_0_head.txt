@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+HENRY	HENRY	np1	HENRY	Henry	0
+MY	MY	po11	MY	my	0
+DEAREST	DEAREST	js-jn	DEAREST	dear	0
+SONNE	SONNE	n1	SONNE	son	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+NA	NA	uh-dx	NAM	no	0
+∣	∣	sy	∣	∣	0
+TVRALL	TVRALL	np1	TVRALL	TVRALL	0
+SYC	SYC	fw-mi	SYC	syc	0
+∣	∣	sy	∣	∣	0
+CESSOVR	CESSOVR	n1	CESSOVR	cessovr	0
+.	.	.	.	.	1

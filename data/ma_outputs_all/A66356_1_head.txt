@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Supreme	Supreme	j	Supreme	supreme	0
+Authority	Authority	n1	Authority	authority	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Nation	Nation	n1	Nation	nation	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Parliament	Parliament	n1	Parliament	parliament	0
+of	of	pp-f	of	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

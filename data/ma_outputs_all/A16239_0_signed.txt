@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+affected	affected	j-vvn	affected	affect	0
+friend	friend	n1	friend	friend	0
+HANS	HANS	np1	HANS	Hans	0
+WOVTNEEL	WOVTNEEL	vvi	WOVTNEEL	wovtneel	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Stephen	Stephen	np1	Stephen	Stephen	0
+Husnance	Husnance	n1	Husnance	husnance	0
+.	.	.	.	.	1

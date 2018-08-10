@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lorships	Lorships	ng1	Lordships	lordship	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+Luke	Luke	np1	Luke	Luke	0
+de	de	fw-fr	de	de	0
+Beaulieu	Beaulieu	np1	Beaulieu	Beaulieu	0
+.	.	.	.	.	1

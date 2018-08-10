@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+BRIDE	BRIDE	n1	BRIDE	bride	0
+THE	THE	dt	THE	the	0
+LAMBES	LAMBES	ng1	LAMBES	lamb	0
+WIFE	WIFE	n1	WIFE	wife	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+COVEN	COVEN	np1	COVEN	Coven	0
+.	.	.	.	.	1
+&	&	cc	&	and	0
+LICH	LICH	j	LICH	like	0
+.	.	.	.	.	1

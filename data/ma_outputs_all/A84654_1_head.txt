@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+Lord	Lord	n1	Lord	lord	0
+Digby	Digby	np1	Digby	Digby	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+Digby	Digby	np1	Digby	Digby	0
+OF	OF	pp-f	OF	of	0
+Geashil	Geashil	np1	Geashil	Geashil	0
+in	in	p-acp	in	in	0
+IRELAND	IRELAND	np1	IRELAND	Ireland	0
+.	.	.	.	.	1

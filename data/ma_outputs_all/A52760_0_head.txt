@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Noble	Noble	j	Noble	noble	0
+Lord	Lord	n1	Lord	lord	0
+MY	MY	po11	MY	my	0
+LORD	LORD	n1	LORD	lord	0
+Marquis	Marquis	n1	Marquis	marquis	0
+of	of	pp-f	of	of	0
+Dorchester	Dorchester	np1	Dorchester	Dorchester	0
+.	.	.	.	.	1

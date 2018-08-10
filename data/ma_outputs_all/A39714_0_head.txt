@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+Grace	Grace	n1	Grace	grace	0
+MARGARET	MARGARET	np1	MARGARET	Margaret	0
+Duchess	Duchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Newcastle	Newcastle	np1	Newcastle	Newcastle	0
+.	.	.	.	.	1

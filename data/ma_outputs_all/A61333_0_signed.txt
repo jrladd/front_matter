@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+real	real	j	real	real	0
+though	though	cs	though	though	0
+undeserving	undeserving	j	undeserving	undeserving	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Geo.	Geo.	np1	Geo.	Geo.	0
+Starkey	Starkey	np1	Starkey	Starkey	1

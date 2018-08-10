@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+wholy	wholy	av-jn	wholly	whole	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+W.	W.	np1	W.	W.	0
+Priest	Priest	n1	Priest	priest	0
+.	.	.	.	.	1

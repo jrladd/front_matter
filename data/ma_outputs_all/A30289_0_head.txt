@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Congregation	Congregation	n1	Congregation	congregation	0
+under	under	p-acp	under	under	0
+my	my	po11	my	my	0
+Care	Care	n1	Care	care	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Thine	Thine	png21	Thine	thou	0
+intirely	intirely	av-j	entirely	entire	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Nashe	Nashe	np1	Nashe	Nashe	0
+.	.	.	.	.	1

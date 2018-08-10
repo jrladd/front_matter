@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duties	duties	n2	duties	duty	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+W.	W.	np1	W.	W.	0
+of	of	pp-f	of	of	0
+Lathoquar	Lathoquar	fw-la	Lathoquar	lathoquar	0
+.	.	.	.	.	1

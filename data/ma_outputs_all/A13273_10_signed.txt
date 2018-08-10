@@ -1,0 +1,7 @@
+VESTER	VESTER	np1	VESTER	VESTER	0
+—	—	—	—	—	0
+SYL	SYL	np1	SYL	Syl	0
+—	—	—	—	—	0
+VESTER	VESTER	np1	VESTER	VESTER	0
+Deditissimus	Deditissimus	fw-la	Deditissimus	deditissimus	0
+.	.	.	.	.	1

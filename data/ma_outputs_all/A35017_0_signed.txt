@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Lp's	Lp's	ng1	Lp's	lp	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Jacob	Jacob	np1	Jacob	Jacob	0
+Curate	Curate	n1	Curate	curate	0
+.	.	.	.	.	1

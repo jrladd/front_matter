@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MVCH	MVCH	d	MUCH	much	0
+HONOR'D	HONOR'D	j-vvn	HONOURED	honour	0
+FREND	FREND	n1	FREND	friend	0
+Sr	Sr	n1	Sir	sir	0
+HENRY	HENRY	np1	HENRY	Henry	0
+BAKER	BAKER	np1	BAKER	Baker	0
+Knight	Knight	n1	Knight	knight	0
+&	&	cc	&	and	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

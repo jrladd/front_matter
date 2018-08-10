@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+reallest	reallest	vvn	realest	real	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+service	service	n1	service	service	0
+and	and	cc	and	and	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TRVSSELL	TRVSSELL	np1	TRVSSELL	TRVSSELL	0
+.	.	.	.	.	1

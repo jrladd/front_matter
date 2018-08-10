@@ -1,0 +1,11 @@
+Tibi	Tibi	fw-la	Tibi	tibi	0
+(	(	(	(	(	0
+vir	vir	fw-la	vir	vir	0
+Ornatissime	Ornatissime	fw-la	Ornatissime	ornatissime	0
+)	)	)	)	)	0
+omni	omni	fw-la	omni	omni	0
+observantià	observantià	fw-la	observantià	observantià	0
+addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
+JOSEPHUS	JOSEPHUS	np1	JOSEPHUS	Josephus	0
+CRABB	CRABB	np1	CRABB	Crabb	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+IA	IA	zz	IA	ia	0
+.	.	.	.	.	1
+WINTON	WINTON	np1	WINTON	Winton	0
+.	.	.	.	.	1

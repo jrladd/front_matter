@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+de	de	fw-fr	de	de	0
+∣	∣	sy	∣	∣	0
+uoted	uoted	vvn	voted	vote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+PA	PA	wd	PA	pa	0
+.	.	.	.	.	1
+SCOT	SCOT	np1	SCOT	Scot	0
+.	.	.	.	.	1

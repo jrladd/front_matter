@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Generous	Generous	j	Generous	generous	0
+LADY	LADY	n1	LADY	lady	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+ANNA	ANNA	np1	ANNA	Anna	0
+,	,	,	,	,	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Sunderland	Sunderland	np1	Sunderland	Sunderland	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

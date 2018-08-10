@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Hh.	Hh.	np1	Hh.	Hh.	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+Iohn	Iohn	np1	Iohn	John	0
+Stockwood	Stockwood	np1	Stockwood	Stockwood	0
+Minister	Minister	n1	Minister	minister	0
+and	and	cc	and	and	0
+Preacher	Preacher	n1	Preacher	preacher	0
+at	at	p-acp	at	at	0
+Tunbridge	Tunbridge	np1	Tunbridge	Tunbridge	0
+.	.	.	.	.	1

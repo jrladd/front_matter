@@ -1,0 +1,11 @@
+So	So	np1	So	So	0
+Prayeth	Prayeth	vvz	Prayeth	pray	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+as	as	c-acp	as	as	0
+you	you	pn22	you	you	0
+are	are	vbr	are	be	0
+Christs	Christs	npg1	Christs	Christ	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+C.	C.	np1	C.	C.	1

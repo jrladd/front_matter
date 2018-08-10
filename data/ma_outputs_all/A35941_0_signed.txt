@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+much	much	d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+.	.	.	.	.	1
+DAVID	DAVID	np1	DAVID	David	0
+DICKSON	DICKSON	np1	DICKSON	Dickson	0
+.	.	.	.	.	1

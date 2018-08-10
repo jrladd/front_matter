@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+poore	poore	j	poor	poor	0
+well-wisher	well-wisher	j	wellwisher	wellwish	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

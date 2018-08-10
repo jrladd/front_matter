@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+BARNABE	BARNABE	np1	BARNABE	Barnaby	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1

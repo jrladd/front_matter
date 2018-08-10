@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+vertues	vertues	n2	virtues	virtue	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+FITZ-GEFFREY	FITZ-GEFFREY	j	FITZGEOFFREY	fitzgeoffrey	0
+,	,	,	,	,	1

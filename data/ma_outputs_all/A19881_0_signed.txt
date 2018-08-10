@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humblest	humblest	js	humblest	humble	0
+Creature	Creature	n1	Creature	creature	0
+,	,	,	,	,	0
+D'auenant	D'auenant	n1	D'auenant	d'auenant	0
+.	.	.	.	.	1

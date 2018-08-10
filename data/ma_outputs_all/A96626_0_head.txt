@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+true	true	j	true	true	0
+Hearts	Hearts	n2	Hearts	heart	0
+.	.	.	.	.	1

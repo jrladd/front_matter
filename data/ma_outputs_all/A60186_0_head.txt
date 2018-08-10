@@ -1,0 +1,2 @@
+REGI	REGI	np1	REGI	REGI	0
+.	.	.	.	.	1

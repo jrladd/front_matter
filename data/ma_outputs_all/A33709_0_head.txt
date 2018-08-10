@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+HENRY	HENRY	np1	HENRY	Henry	0
+BELLASIS	BELLASIS	np1	BELLASIS	BELLASIS	0
+,	,	,	,	,	0
+Lieutenant-General	Lieutenant-General	n1	Lieutenant-General	lieutenant-general	0
+OF	OF	pp-f	OF	of	0
+His	His	po31	His	his	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Forces	Forces	n2	Forces	force	0
+.	.	.	.	.	1

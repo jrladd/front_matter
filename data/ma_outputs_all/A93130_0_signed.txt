@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+respective	respective	j	respective	respective	0
+Devotor	Devotor	n1	Devotor	devotor	0
+R.	R.	np1	R.	R.	0
+Sherlock	Sherlock	np1	Sherlock	Sherlock	0
+.	.	.	.	.	1

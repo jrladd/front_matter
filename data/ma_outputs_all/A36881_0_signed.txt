@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+PETER	PETER	np1	PETER	Peter	0
+DU	DU	np1	DU	Du	0
+MOULIN	MOULIN	np1	MOULIN	Moulin	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+deuotion	deuotion	n1	devotion	devotion	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Philip	Philip	n1	Philip	fillip	0
+Iones	Iones	np1	Iones	Jones	0
+.	.	.	.	.	1

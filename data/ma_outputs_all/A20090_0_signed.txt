@@ -1,0 +1,12 @@
+In	In	p-acp	In	in	0
+which	which	r-crq	which	which	0
+I	I	pns11	I	i	0
+stand	stand	vvb	stand	stand	0
+Bounden	Bounden	vvn	Bounden	bind	0
+To	To	p-acp	To	to	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+.	.	.	.	.	1
+Thomas	Thomas	np1	Thomas	Thomas	0
+Dekker	Dekker	np1	Dekker	Dekker	0
+.	.	.	.	.	1

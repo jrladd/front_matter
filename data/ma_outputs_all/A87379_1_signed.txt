@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Servants	Servants	n2	Servants	servant	0
+for	for	p-acp	for	for	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+sake	sake	n1	sake	sake	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Jacombe	Jacombe	np1	Jacombe	Jacombe	0
+.	.	.	.	.	1

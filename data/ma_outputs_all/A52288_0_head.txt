@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+very	very	av	very	very	0
+much	much	d	much	much	0
+HONOURED	HONOURED	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Grimbaldus	Grimbaldus	np1	Grimbaldus	Grimbaldus	0
+Pancforth	Pancforth	av	Pancforth	pancforth	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

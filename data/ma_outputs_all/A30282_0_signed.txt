@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Orator	Orator	n1	Orator	orator	0
+un	un	fw-fr	un	un	0
+∣	∣	sy	∣	∣	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Heavenly	Heavenly	j	Heavenly	heavenly	0
+Father	Father	n1	Father	father	0
+.	.	.	.	.	1
+D.	D.	np1	D.	D.	0
+Burgess	Burgess	np1	Burgess	Burgess	0
+.	.	.	.	.	1

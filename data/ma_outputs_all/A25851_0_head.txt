@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+honour'd	honour'd	j-vvn	honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+from	from	p-acp	from	from	0
+whom	whom	ro-crq	whom	who	0
+I	I	pns11	I	i	0
+received	received	vvd	received	receive	0
+the	the	dt	the	the	0
+Copy	Copy	n1	Copy	copy	0
+.	.	.	.	.	1

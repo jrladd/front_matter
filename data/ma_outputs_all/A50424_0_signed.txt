@@ -1,0 +1,10 @@
+YOUR	YOUR	po22	YOUR	your	0
+HONOURS	HONOURS	ng1	HONOURS	honour	0
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Mayne	Mayne	n1	Main	main	0
+.	.	.	.	.	1

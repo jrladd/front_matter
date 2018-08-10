@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+more	more	av-dc	more	more	0
+dutifully	dutifully	av-j	dutifully	dutiful	0
+affec	affec	fw-fr	affec	affec	0
+∣	∣	sy	∣	∣	0
+ted	ted	n1	ted	ted	0
+,	,	,	,	,	0
+then	then	av	then	then	0
+powerable	powerable	j	powerable	powerable	0
+to	to	pc-acp	to	to	0
+effect	effect	vvi	effect	effect	0
+it	it	pn31	it	it	0
+;	;	;	;	;	0
+Radford	Radford	np1	Radford	Radford	0
+Mauericke	Mauericke	np1	Mauericke	Mauericke	0
+.	.	.	.	.	1

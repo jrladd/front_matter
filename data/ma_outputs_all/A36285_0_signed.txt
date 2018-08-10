@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+F.	F.	np1	F.	F.	0
+SPENCE	SPENCE	np1	SPENCE	Spence	0
+.	.	.	.	.	1

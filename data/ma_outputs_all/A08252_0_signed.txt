@@ -1,0 +1,9 @@
+Deuoted	Deuoted	vvn	Devoted	devote	0
+vnto	vnto	p-acp	unto	unto	0
+your	your	po22	your	your	0
+worship	worship	n1	worship	worship	0
+,	,	,	,	,	0
+Anthe	Anthe	np1	Anthe	Anthe	0
+:	:	:	:	:	0
+Nyxon	Nyxon	np1	Nyxon	Nyxon	0
+.	.	.	.	.	1

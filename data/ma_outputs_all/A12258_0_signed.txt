@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Lad.	Lad.	n1	Lad.	lad	0
+seruitour	seruitour	n1	servitor	servitor	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+SYMSON	SYMSON	np1	SYMSON	Symson	0
+.	.	.	.	.	1

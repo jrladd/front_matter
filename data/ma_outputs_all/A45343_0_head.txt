@@ -1,0 +1,8 @@
+And	And	cc	And	and	0
+to	to	p-acp	to	to	0
+their	their	po32	their	their	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+and	and	cc	and	and	0
+Religious	Religious	j	Religious	religious	0
+Consorts	Consorts	n2	Consorts	consort	0
+:	:	:	:	:	1

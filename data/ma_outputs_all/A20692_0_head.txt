@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Lucie	Lucie	np1	Lucie	Lucy	0
+Comptesse	Comptesse	n1	Comptesse	comptesse	0
+of	of	pp-f	of	of	0
+BEDFORD	BEDFORD	np1	BEDFORD	Bedford	0
+.	.	.	.	.	1

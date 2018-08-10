@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Religious	Religious	j	Religious	religious	0
+and	and	cc	and	and	0
+Honourable	Honourable	j	Honourable	honourable	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+LETITIA	LETITIA	np1	LETITIA	Letitia	0
+POPHAM	POPHAM	np1	POPHAM	Popham	0
+;	;	;	;	;	0
+Wife	Wife	n1	Wife	wife	0
+to	to	p-acp	to	to	0
+Colonel	Colonel	n1	Colonel	colonel	0
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+POPHAM	POPHAM	np1	POPHAM	Popham	0
+.	.	.	.	.	1

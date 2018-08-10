@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+INGENIOVS	INGENIOVS	j	INGENIOUS	ingenious	0
+GEN	GEN	np1	GEN	Gen	0
+∣	∣	sy	∣	∣	0
+tleman	tleman	n1	tleman	tleman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+louing	louing	j-vvg	loving	love	0
+father	father	n1	father	father	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BVBB	BVBB	np1	BVBB	BVBB	0
+.	.	.	.	.	1

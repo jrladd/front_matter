@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Votarist	Votarist	n1	Votarist	votarist	0
+.	.	.	.	.	1
+Athanasius	Athanasius	np1	Athanasius	Athanasius	0
+Davies	Davies	np1	Davies	Davies	0
+.	.	.	.	.	1

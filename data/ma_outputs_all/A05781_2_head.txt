@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+Susan	Susan	np1	Susan	Susan	0
+Vera	Vera	fw-la	Vera	vera	0
+Mon	Mon	fw-fr	Mon	mon	0
+∣	∣	sy	∣	∣	0
+gomriana	gomriana	fw-it	gomriana	gomriana	0
+.	.	.	.	.	1

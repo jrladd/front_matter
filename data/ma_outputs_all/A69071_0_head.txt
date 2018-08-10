@@ -1,0 +1,17 @@
+The	The	dt	The	the	0
+spirit	spirit	n1	spirit	spirit	0
+of	of	pp-f	of	of	0
+Wisedome	Wisedome	n1	Wisdom	wisdom	0
+and	and	cc	and	and	0
+Power	Power	n1	Power	power	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+know	know	vvi	know	know	0
+and	and	cc	and	and	0
+execute	execute	vvi	execute	execute	0
+the	the	dt	the	the	0
+Actions	Actions	n2	Actions	action	0
+of	of	pp-f	of	of	0
+a	a	dt	a	a	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+.	.	.	.	.	1

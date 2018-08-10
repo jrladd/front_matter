@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+he	he	pns31	he	he	0
+faith	faith	n1	faith	faith	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

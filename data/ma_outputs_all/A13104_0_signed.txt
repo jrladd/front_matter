@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+Philip	Philip	np1	Philip	Philip	0
+.	.	.	.	.	1

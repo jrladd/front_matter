@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+seruant	seruant	n1	servant	servant	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+honour	honour	n1	honour	honour	0
+du	du	fw-fr	du	du	0
+∣	∣	sy	∣	∣	0
+tifully	tifully	av-j	tifully	tiful	0
+affected	affected	vvn	affected	affect	0
+.	.	.	.	.	1
+Timo.	Timo.	np1	Timo.	Timo.	0
+Pimm	Pimm	np1	Pimm	Pimm	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dear	Dear	j-jn	Dear	dear	0
+Kratiste	Kratiste	np1	Kratiste	Kratiste	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Author	Author	n1	Author	author	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Rebuke	Rebuke	n1	Rebuke	rebuke	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Vilifier	Vilifier	n1	Vilifier	vilifier	0
+of	of	pp-f	of	of	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Crisp.	Crisp.	np1	Crisp.	Crisp.	1

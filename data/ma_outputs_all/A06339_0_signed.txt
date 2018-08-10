@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Seruant	Seruant	n1	Servant	servant	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+,	,	,	,	,	0
+Abraham	Abraham	np1	Abraham	Abraham	0
+Hartwell	Hartwell	np1	Hartwell	Hartwell	0
+.	.	.	.	.	1

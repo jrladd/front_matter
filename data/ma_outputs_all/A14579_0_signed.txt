@@ -1,0 +1,5 @@
+Tui	Tui	fw-la	Tui	tui	0
+obseruantiss	obseruantiss	n1	obseruantiss	obseruantiss	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	0
+Ph.	Ph.	np1	Ph.	Ph.	1

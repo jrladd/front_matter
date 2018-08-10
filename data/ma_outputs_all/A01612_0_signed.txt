@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Frend	Frend	n1	Friend	friend	0
+,	,	,	,	,	0
+FR	FR	n1	FR	fr	0
+:	:	:	:	:	0
+St	St	zz	St	st	0
+ALBAN	ALBAN	np1	ALBAN	Alban	0
+.	.	.	.	.	1

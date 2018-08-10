@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+,	,	,	,	,	0
+Isaac	Isaac	np1	Isaac	Isaac	0
+Bargraue	Bargraue	np1	Bargraue	Bargraue	0
+.	.	.	.	.	1

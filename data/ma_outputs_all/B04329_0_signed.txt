@@ -1,0 +1,8 @@
+Eich	Eich	n1	Eich	eich	0
+ewythr	ewythr	j-jn	ewythr	ewythr	0
+anwyl	anwyl	n1	anwyl	anwyl	0
+ich	ich	fw-mi	ich	ich	0
+gwasanaeth	gwasanaeth	vvz	gwasanaeth	gwasana	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+V.	V.	np1	V.	V.	1

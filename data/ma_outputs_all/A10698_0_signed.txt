@@ -1,0 +1,8 @@
+Tuarum	Tuarum	np1	Tuarum	Tuarum	0
+virtutum	virtutum	fw-la	virtutum	virtutum	0
+obseruantis	obseruantis	fw-la	obseruantis	obseruantis	0
+∣	∣	sy	∣	∣	0
+simus	simus	fw-la	simus	simus	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+M.	M.	n1	M.	m.	1

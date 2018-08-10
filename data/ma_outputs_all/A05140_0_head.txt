@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+NOURABLE	NOURABLE	j	NOURABLE	nourable	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+LORD	LORD	n1	LORD	lord	0
+Bruce	Bruce	np1	Bruce	Bruce	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Elgin	Elgin	np1	Elgin	Elgin	0
+.	.	.	.	.	1

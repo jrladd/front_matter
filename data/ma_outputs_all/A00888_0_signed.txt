@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+Worships	Worships	vvz	Worships	worship	0
+in	in	p-acp	in	in	0
+my	my	po11	my	my	0
+best	best	js	best	best	0
+seruices	seruices	n2	services	service	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+ADAMS	ADAMS	np1	ADAMS	Adams	0
+.	.	.	.	.	1

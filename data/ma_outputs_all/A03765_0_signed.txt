@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+HOVVSON	HOVVSON	np1	HOVVSON	HOVVSON	0
+Vicecan	Vicecan	np1	Vicecan	Vicecan	0
+.	.	.	.	.	1
+Oxon.	Oxon.	np1	Oxon.	Oxon.	1

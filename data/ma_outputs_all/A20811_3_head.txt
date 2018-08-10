@@ -1,0 +1,12 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+my	my	po11	my	my	0
+worthy	worthy	j	worthy	worthy	0
+and	and	cc	and	and	0
+honoured	honoured	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Maister	Maister	n1	Master	master	0
+VValter	VValter	np1	VValter	VValter	0
+Aston	Aston	np1	Aston	Aston	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Devoted	Devoted	vvn	Devoted	devote	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+GRENFIELD	GRENFIELD	np1	GRENFIELD	GRENFIELD	0
+.	.	.	.	.	1

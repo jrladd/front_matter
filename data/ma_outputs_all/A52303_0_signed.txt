@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+due	due	j-jn	due	due	0
+observance	observance	n1	observance	observance	0
+WILL	WILL	vmb	WILL	will	0
+.	.	.	.	.	1
+GLOUCESTER	GLOUCESTER	np1	GLOUCESTER	Gloucester	0
+.	.	.	.	.	1

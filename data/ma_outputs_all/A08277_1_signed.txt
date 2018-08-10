@@ -1,0 +1,11 @@
+As	As	p-acp	As	as	0
+heartily	heartily	av-j	heartily	hearty	0
+wisheth	wisheth	vvz	wishes	wish	0
+her	her	po31	her	her	0
+Highnesse	Highnesse	n1	Highness	highness	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+Io.	Io.	np1	Io.	Io.	0
+Norden	Norden	np1	Norden	Norden	0
+.	.	.	.	.	1

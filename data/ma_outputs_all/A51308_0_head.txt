@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+Eugenius	Eugenius	np1	Eugenius	Eugenius	0
+Philalethes	Philalethes	np1	Philalethes	Philalethes	0
+the	the	dt	the	the	0
+Authour	Authour	n1	Author	author	0
+of	of	pp-f	of	of	0
+Anthro	Anthro	np1	Anthro	Anthro	0
+∣	∣	sy	∣	∣	0
+posophia	posophia	fw-la	posophia	posophia	0
+Theomagica	Theomagica	np1	Theomagica	Theomagica	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Anima	Anima	fw-la	Anima	anima	0
+Magica	Magica	np1	Magica	Magica	0
+Abscondita	Abscondita	fw-la	Abscondita	abscondita	0
+.	.	.	.	.	1

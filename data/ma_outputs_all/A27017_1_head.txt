@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Rous	Rous	np1	Rous	Rous	0
+Baronet	Baronet	n1	Baronet	baronet	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Jane	Jane	np1	Jane	Jane	0
+Rous	Rous	np1	Rous	Rous	0
+his	his	po31	his	his	0
+VVife	VVife	n1	VVife	wife	0
+.	.	.	.	.	1

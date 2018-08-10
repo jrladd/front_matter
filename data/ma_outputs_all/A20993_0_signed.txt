@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Highnes	Highnes	n1	Highness	highness	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+zeale	zeale	n1	zeal	zeal	0
+and	and	cc	and	and	0
+humility	humility	n1	humility	humility	0
+eternally	eternally	av-j	eternally	eternal	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Iohn	Iohn	np1	Iohn	John	0
+Reynolds	Reynolds	np1	Reynolds	Reynolds	0
+.	.	.	.	.	1

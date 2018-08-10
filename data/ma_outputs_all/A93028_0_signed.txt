@@ -1,0 +1,15 @@
+The	The	dt	The	the	0
+honourer	honourer	n1	honourer	honourer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Vertues	Vertues	n2	Virtues	virtue	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+JER	JER	np1	JER	JER	0
+.	.	.	.	.	1
+SHAKERLEY	SHAKERLEY	np1	SHAKERLEY	SHAKERLEY	0
+.	.	.	.	.	1

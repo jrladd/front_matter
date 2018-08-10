@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+well-wisher	well-wisher	j	wellwisher	wellwish	0
+Henry	Henry	np1	Henry	Henry	0
+Ʋaughan	Ʋaughan	np1	Ʋaughan	Ʋaughan	0
+.	.	.	.	.	1

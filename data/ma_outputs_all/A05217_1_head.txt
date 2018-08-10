@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+M.	M.	n1	M.	m.	0
+S.	S.	np1	S.	S.	0
+A.	A.	np1	A.	A.	1

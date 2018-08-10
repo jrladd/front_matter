@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+THE	THE	dt	THE	the	0
+WORSHJPFƲLL	WORSHJPFƲLL	n1	WORSHJPFƲLL	worshjpfʋll	0
+MY	MY	po11	MY	my	0
+worthy	worthy	j	worthy	worthy	0
+Freind	Freind	n1	Friend	friend	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+S.	S.	np1	S.	S.	0
+Esquire	Esquire	n1	Esquire	esquire	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+B.	B.	np1	B.	B.	0
+in	in	p-acp	in	in	0
+Hertford-shire	Hertford-shire	n1	Hertfordshire	hertfordshire	0
+.	.	.	.	.	1

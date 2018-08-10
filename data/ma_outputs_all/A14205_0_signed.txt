@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+allwayes	allwayes	av	always	always	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+,	,	,	,	,	0
+Ro.	Ro.	np1	Ro.	Ro.	0
+Vnderwood	Vnderwood	np1	Vnderwood	Vnderwood	0
+.	.	.	.	.	1

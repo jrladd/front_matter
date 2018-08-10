@@ -1,0 +1,3 @@
+STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
+MARSHALL	MARSHALL	j	MARSHAL	martial	0
+.	.	.	.	.	1

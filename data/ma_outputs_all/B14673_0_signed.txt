@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Macey	Macey	np1	Macey	Macey	0
+.	.	.	.	.	1

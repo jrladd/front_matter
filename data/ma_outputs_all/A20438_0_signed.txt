@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+obseruance	obseruance	n1	observance	observance	0
+for	for	c-acp	for	for	0
+euer	euer	av	ever	ever	0
+,	,	,	,	,	0
+Eurard	Eurard	np1	Eurard	Eurard	0
+Digbye	Digbye	np1	Digbye	Digbye	0
+.	.	.	.	.	1

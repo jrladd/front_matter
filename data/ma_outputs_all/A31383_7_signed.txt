@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+humblest	humblest	js	humblest	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HAWKINS	HAWKINS	np1	HAWKINS	Hawkins	0
+.	.	.	.	.	1

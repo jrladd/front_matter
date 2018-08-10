@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+truely	truely	av-j	truly	true	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Chapleine	Chapleine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+STEVEN	STEVEN	np1	STEVEN	Steven	0
+IEROME	IEROME	np1	IEROME	IEROME	0
+,	,	,	,	,	1

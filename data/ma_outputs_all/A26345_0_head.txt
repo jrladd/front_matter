@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+Wood-Church	Wood-Church	n1	Wood-Church	wood-church	0
+in	in	p-acp	in	in	0
+Wirral-Hundred	Wirral-Hundred	j	Wirral-Hundred	wirral-hundred	0
+in	in	p-acp	in	in	0
+Cheshire	Cheshire	np1	Cheshire	Cheshire	0
+.	.	.	.	.	1

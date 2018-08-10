@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Norton	Norton	np1	Norton	Norton	0
+in	in	p-acp	in	in	0
+Black-Friers	Black-Friers	np2	Black-Friers	Blackfriar	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	0
+P.	P.	np1	P.	P.	1

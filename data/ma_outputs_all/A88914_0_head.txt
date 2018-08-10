@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+lively	lively	j	lively	lively	0
+Patternes	Patternes	n2	Patterns	pattern	0
+of	of	pp-f	of	of	0
+reall	reall	j	real	real	0
+Christianity	Christianity	np1	Christianity	Christianity	0
+his	his	po31	his	his	0
+honoured	honoured	j-vvn	honoured	honour	0
+Parents	Parents	n2	Parents	parent	0
+.	.	.	.	.	1

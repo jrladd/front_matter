@@ -1,0 +1,12 @@
+To	To	pc-acp	To	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+by	by	p-acp	by	by	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+GATAKER	GATAKER	n1	GATAKER	gataker	0
+.	.	.	.	.	1

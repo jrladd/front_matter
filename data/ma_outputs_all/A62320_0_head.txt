@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
+AND	AND	cc	AND	and	0
+Most	Most	av-ds	Most	most	0
+Accomplish'd	Accomplish'd	vvn	Accomplished	accomplish	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+STANLEY	STANLEY	np1	STANLEY	Stanley	0
+Esq	Esq	np1	Esq	Esq	1

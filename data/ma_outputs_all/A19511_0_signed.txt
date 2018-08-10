@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Royall	Royall	j	Royal	royal	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+faithfull	faithfull	j	faithful	faithful	0
+and	and	cc	and	and	0
+ever	ever	av	ever	ever	0
+loyally	loyally	av-j	loyally	loyal	0
+de	de	dt	the	the	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+subiect	subiect	n-jn	subject	subject	0
+,	,	,	,	,	0
+Io.	Io.	np1	Io.	Io.	0
+ANDREWES	ANDREWES	npg1	ANDREWES	Andrew	0
+.	.	.	.	.	1

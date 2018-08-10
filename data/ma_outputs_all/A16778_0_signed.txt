@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Ladshippes	Ladshippes	n2	Ladshippes	ladshippe	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+named	named	vvn	nam	name	0
+poet	poet	n1	poet	poet	0
+NICHOLAS	NICHOLAS	np1	NICHOLAS	Nicholas	0
+BRETON	BRETON	np1	BRETON	Breton	0
+.	.	.	.	.	1

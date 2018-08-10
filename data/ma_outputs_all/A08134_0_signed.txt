@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+dutifully	dutifully	av-j	dutifully	dutiful	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
+tuae	tuae	fw-la	tuae	tuus	0
+cum	cum	fw-la	cum	cum	0
+salute	salute	vvb	salute	salute	0
+studiosus	studiosus	fw-la	studiosus	studiosus	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Newnham	Newnham	np1	Newnham	Newnham	0
+.	.	.	.	.	1

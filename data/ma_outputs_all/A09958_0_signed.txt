@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+loving	loving	n-vvg	loving	love	0
+and	and	cc	and	and	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Friends	Friends	n2	Friends	friend	0
+.	.	.	.	.	1
+Tho.	Tho.	np1	Tho.	Tho.	0
+Goodwin	Goodwin	np1	Goodwin	Goodwin	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Ball	Ball	n1	Ball	ball	0
+.	.	.	.	.	1

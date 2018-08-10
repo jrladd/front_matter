@@ -1,0 +1,15 @@
+My	My	po11	My	my	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+LORDSHIP'S	LORDSHIP'S	n1|vbz	LORDSHIP'S	lordship|be	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ROSS	ROSS	np1	ROSS	Ross	0
+.	.	.	.	.	1

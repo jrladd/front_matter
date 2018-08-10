@@ -1,0 +1,14 @@
+A	A	dt	A	a	0
+true	true	j	true	true	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+honourer	honourer	n1	honourer	honourer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+trans	trans	ng1	trans	trans	0
+∣	∣	sy	∣	∣	0
+parent	parent	n1	parent	parent	0
+Virtues	Virtues	n2	Virtues	virtue	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+J.	J.	np1	J.	J.	1

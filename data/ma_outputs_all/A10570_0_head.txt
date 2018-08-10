@@ -1,0 +1,15 @@
+¶	¶	¶	¶	¶	0
+Vrbanus	Vrbanus	np1	Vrbanus	Vrbanus	0
+Regius	Regius	np1	Regius	Regius	0
+to	to	p-acp	to	to	0
+a	a	dt	a	a	0
+certayne	certayne	j	certain	certain	0
+frende	frende	n1	friend	friend	0
+of	of	pp-f	of	of	0
+his	his	png31	his	he	0
+,	,	,	,	,	0
+wysheth	wysheth	vvz	wisheth	wish	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+oure	oure	po12	our	our	0
+ryghteousnesse	ryghteousnesse	n1	righteousness	righteousness	0
+.	.	.	.	.	1

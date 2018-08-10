@@ -1,0 +1,7 @@
+Labourer	Labourer	n1	Labourer	labourer	0
+in	in	p-acp	in	in	0
+Christ's	Christ's	npg1	Christ's	Christ	0
+Vineyard	Vineyard	n1	Vineyard	vineyard	0
+,	,	,	,	,	0
+P.	P.	np1	P.	P.	0
+N.	N.	np1	N.	N.	1

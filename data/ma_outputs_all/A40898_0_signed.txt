@@ -1,0 +1,4 @@
+RA	RA	zz	RA	ra	0
+.	.	.	.	.	1
+FARMER	FARMER	np1	FARMER	Farmer	0
+.	.	.	.	.	1

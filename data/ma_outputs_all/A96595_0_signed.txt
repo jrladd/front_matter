@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+devored	devored	j	devored	devored	0
+subject	subject	n-jn	subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+obliged	obliged	vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+GR	GR	zz	GR	gr	0
+.	.	.	.	.	1
+OSSORY	OSSORY	np1	OSSORY	Ossory	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+May	May	vmb	May	may	0
+it	it	pn31	it	it	0
+Please	Please	vvb	Please	please	0
+Your	Your	po22	Your	your	0
+MOST	MOST	av-ds	MOST	most	0
+EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+.	.	.	.	.	1

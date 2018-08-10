@@ -1,0 +1,3 @@
+Thomas	Thomas	np1	Thomas	Thomas	0
+Gregorius	Gregorius	np1	Gregorius	Gregorius	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Common-wealth	Common-wealth	n1	Commonwealth	commonwealth	0
+.	.	.	.	.	1

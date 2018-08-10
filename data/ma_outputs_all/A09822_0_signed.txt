@@ -1,0 +1,9 @@
+You	You	pn22	You	you	0
+Worships	Worships	n2	Worships	worship	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+seruant	seruant	n1	servant	servant	0
+and	and	cc	and	and	0
+Ortr	Ortr	n1	Ortr	ortr	0
+Roger	Roger	np1	Roger	Roger	0
+Gostwyke	Gostwyke	av-j	Gostwyke	gostwyke	0
+.	.	.	.	.	1

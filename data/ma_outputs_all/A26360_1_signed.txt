@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+SCOTT	SCOTT	np1	SCOTT	Scott	0
+.	.	.	.	.	1

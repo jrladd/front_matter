@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+PARLAMENT	PARLAMENT	n1	PARLAMENT	parliament	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+commonwealth	commonwealth	n1	commonwealth	commonwealth	0
+OF	OF	pp-f	OF	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+with	with	p-acp	with	with	0
+the	the	dt	the	the	0
+dominions	dominions	n2	dominions	dominion	0
+therof	therof	av	thereof	thereof	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+T.	T.	np1	T.	T.	0
+YALDEN	YALDEN	np1	YALDEN	Yalden	0
+.	.	.	.	.	1

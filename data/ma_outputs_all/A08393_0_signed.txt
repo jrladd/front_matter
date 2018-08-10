@@ -1,0 +1,11 @@
+Vestri	Vestri	np1	Vestri	Vestri	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+obseruan	obseruan	fw-mi	obseruan	obseruan	0
+∣	∣	sy	∣	∣	0
+tissimus	tissimus	fw-la	tissimus	tissimus	0
+{	{	{	{	{	0
+que	que	fw-fr	que	que	0
+}	}	}	}	}	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+N.	N.	np1	N.	N.	1

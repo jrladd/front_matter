@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+VVOR	VVOR	n1	VVOR	vvor	0
+∣	∣	sy	∣	∣	0
+shypfull	shypfull	j	shypfull	shypfull	0
+mayster	mayster	vvb	master	master	0
+Antony	Antony	np1	Antony	Antony	0
+Deny	Deny	vvb	Deny	deny	0
+esquier	esquier	n1	esquire	esquire	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Paynel	Paynel	np1	Paynel	Paynel	0
+sendeth	sendeth	vvz	sends	send	0
+gretynge	gretynge	n1	greeting	greeting	0
+.	.	.	.	.	1

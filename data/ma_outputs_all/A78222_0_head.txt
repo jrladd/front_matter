@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+WALTER	WALTER	np1	WALTER	Walter	0
+DOBELL	DOBELL	np1	DOBELL	Dobell	0
+Esquire	Esquire	n1	Esquire	esquire	0
+;	;	;	;	;	0
+my	my	po11	my	my	0
+respected	respected	j-vvn	respected	respect	0
+Brother	Brother	n1	Brother	brother	0
+.	.	.	.	.	1

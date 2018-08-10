@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+every	every	d	every	every	0
+Sea-man	Sea-man	n1	Seaman	seaman	0
+Sailing	Sailing	vvg	Sailing	sail	0
+Hea	Hea	zz	Hea	hea	0
+∣	∣	sy	∣	∣	0
+venward	venward	av	venward	venward	0
+.	.	.	.	.	1

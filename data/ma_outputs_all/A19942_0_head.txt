@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+norable	norable	j	norable	norable	0
+Lordes	Lordes	n2	Lords	lord	0
+of	of	pp-f	of	of	0
+her	her	pno31	her	she	0
+Maie	Maie	vmb	May	may	0
+∣	∣	sy	∣	∣	0
+sties	sties	ng1	sties	sties	0
+most	most	av-ds	most	most	0
+Honorable	Honorable	j	Honourable	honourable	0
+priuie	priuie	j	privy	privy	0
+Consayle	Consayle	n1	Consayle	consayle	0
+.	.	.	.	.	1

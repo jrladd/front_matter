@@ -1,0 +1,14 @@
+Most	Most	ds	Most	most	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+and	and	cc	and	and	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+HARRIS	HARRIS	np1	HARRIS	Harris	0
+.	.	.	.	.	1

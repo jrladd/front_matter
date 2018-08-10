@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+LADY	LADY	n1	LADY	lady	0
+the	the	dt	the	the	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+DORSET	DORSET	np1	DORSET	Dorset	0
+,	,	,	,	,	0
+Governesse	Governesse	n1	Governess	governess	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+DVKE	DVKE	n1	DVKE	dvke	0
+of	of	pp-f	of	of	0
+YORKE	YORKE	np1	YORKE	York	0
+.	.	.	.	.	1

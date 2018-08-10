@@ -1,0 +1,10 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+honours	honours	n2	honours	honour	0
+at	at	p-acp	at	at	0
+commaun	commaun	n1	command	command	0
+∣	∣	sy	∣	∣	0
+dement	dement	n1	dement	dement	0
+Arthur	Arthur	np1	Arthur	Arthur	0
+Goldyng	Goldyng	np1	Goldyng	Goldyng	0
+.	.	.	.	.	1

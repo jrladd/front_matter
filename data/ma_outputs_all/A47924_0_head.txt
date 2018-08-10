@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Matchless	Matchless	j	Matchless	matchless	0
+DON	DON	n1	DON	don	0
+CAROLO	CAROLO	np1	CAROLO	Carolo	0
+GOVERNOUR	GOVERNOUR	n1	GOVERNOUR	governor	0
+OF	OF	pp-f	OF	of	0
+THEOSEBIA	THEOSEBIA	np1	THEOSEBIA	Theosebia	0
+.	.	.	.	.	1

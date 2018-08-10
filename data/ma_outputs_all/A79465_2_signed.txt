@@ -1,0 +1,12 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+N.	N.	np1	N.	N.	0
+C.	C.	np1	C.	C.	1

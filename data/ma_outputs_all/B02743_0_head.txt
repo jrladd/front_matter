@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+and	and	cc	and	and	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+,	,	,	,	,	0
+CARDINAL	CARDINAL	n1	CARDINAL	cardinal	0
+de	de	fw-fr	de	de	0
+MONTE	MONTE	fw-fr	MONTE	monte	0
+.	.	.	.	.	1

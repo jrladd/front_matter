@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+L.	L.	n1	L.	lord	0
+most	most	av-ds	most	most	0
+bound	bound	vvn	bound	bind	0
+during	during	p-acp	during	during	0
+life	life	n1	life	life	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Swayne	Swayne	n1	Swain	swain	0
+.	.	.	.	.	1

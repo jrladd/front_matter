@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+COBBET	COBBET	np1	COBBET	Cobbet	0
+.	.	.	.	.	1

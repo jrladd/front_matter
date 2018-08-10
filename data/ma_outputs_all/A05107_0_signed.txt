@@ -1,0 +1,7 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+TEMPLE	TEMPLE	n1	TEMPLE	temple	0
+.	.	.	.	.	1

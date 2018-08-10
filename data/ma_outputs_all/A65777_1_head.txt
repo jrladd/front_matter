@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+SOMMERSET	SOMMERSET	np1	SOMMERSET	Somerset	0
+.	.	.	.	.	1

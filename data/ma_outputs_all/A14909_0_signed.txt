@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+submission	submission	n1	submission	submission	0
+IOHN	IOHN	np1	IOHN	John	0
+WEEMES	WEEMES	np1	WEEMES	WEEMES	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+VOOR-REDEN	VOOR-REDEN	j	VOOR-REDEN	voor-reden	0
+.	.	.	.	.	1
+Aen	Aen	av	Aen	aen	0
+hare	hare	n1	hare	hare	0
+Conincklicke	Conincklicke	j	Conincklicke	conincklicke	0
+Majesteydt	Majesteydt	np1	Majesteydt	Majesteydt	0
+,	,	,	,	,	0
+van	van	fw-mi	van	van	0
+Bohemen	Bohemen	n2	Bohemen	boheman	0
+.	.	.	.	.	1

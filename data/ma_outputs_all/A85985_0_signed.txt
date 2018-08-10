@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+on	on	p-acp	on	on	0
+the	the	dt	the	the	0
+best	best	js	best	best	0
+Terms	Terms	n2	Terms	term	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+Gospel-work	Gospel-work	n1	Gospel-work	gospel-work	0
+.	.	.	.	.	1
+Claudius	Claudius	np1	Claudius	Claudius	0
+Gilbert	Gilbert	np1	Gilbert	Gilbert	0
+.	.	.	.	.	1

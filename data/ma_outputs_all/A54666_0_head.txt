@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+LEARNED	LEARNED	j	LEARNED	learned	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Sr	Sr	n1	Sir	sir	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+WARWICK	WARWICK	np1	WARWICK	Warwick	0
+Of	Of	pp-f	Of	of	0
+Frog-Poole-Place	Frog-Poole-Place	n1	Frog-Poole-Place	frog-poole-place	0
+in	in	p-acp	in	in	0
+Kent	Kent	np1	Kent	Kent	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

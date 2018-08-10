@@ -1,0 +1,15 @@
+George	George	np1	George	George	0
+Starkey	Starkey	np1	Starkey	Starkey	0
+a	a	dt	a	a	0
+Philosopher	Philosopher	n1	Philosopher	philosopher	0
+by	by	p-acp	by	by	0
+the	the	dt	the	the	0
+Fire	Fire	n1	Fire	fire	0
+,	,	,	,	,	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+temporal	temporal	j	temporal	temporal	0
+and	and	cc	and	and	0
+eternal	eternal	j	eternal	eternal	0
+felicity	felicity	n1	felicity	felicity	0
+.	.	.	.	.	1

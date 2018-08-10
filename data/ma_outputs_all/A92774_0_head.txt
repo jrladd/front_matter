@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Manchester	Manchester	np1	Manchester	Manchester	0
+,	,	,	,	,	0
+Viscount	Viscount	np1	Viscount	Viscount	0
+Mandeville	Mandeville	np1	Mandeville	Mandeville	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Kimbolton	Kimbolton	np1	Kimbolton	Kimbolton	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionat	affectionat	j	affectionate	affectionate	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+seruiable	seruiable	j	seruiable	seruiable	0
+Vncle	Vncle	n1	Uncle	uncle	0
+W.	W.	np1	W.	W.	0
+Barclay	Barclay	np1	Barclay	Barclay	0
+Doctor	Doctor	n1	Doctor	doctor	0
+of	of	pp-f	of	of	0
+Medicine	Medicine	n1	Medicine	medicine	0
+.	.	.	.	.	1

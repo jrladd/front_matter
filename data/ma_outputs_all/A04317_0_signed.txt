@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+and	and	cc	and	and	0
+louing	louing	j-vvg	loving	love	0
+subiect	subiect	n-jn	subject	subject	0
+,	,	,	,	,	0
+without	without	p-acp	without	without	0
+any	any	d	any	any	0
+Acquiuocation	Acquiuocation	n1	Acquiuocation	acquiuocation	0
+.	.	.	.	.	1
+Vniuocè-catholicus	Vniuocè-catholicus	j	Vniuocè-catholicus	vniuocè-catholicus	0
+.	.	.	.	.	1

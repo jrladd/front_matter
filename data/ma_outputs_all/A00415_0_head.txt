@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+Anne	Anne	np1	Anne	Anne	0
+Drurie	Drurie	np1	Drurie	Drurie	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+things	things	n2	things	thing	0
+for	for	p-acp	for	for	0
+life	life	n1	life	life	0
+and	and	cc	and	and	0
+godlinesse	godlinesse	n1	godliness	godliness	0
+.	.	.	.	.	1

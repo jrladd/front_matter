@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+Will	Will	n1	Will	will	0
+.	.	.	.	.	1
+Davenant	Davenant	np1	Davenant	Davenant	0
+.	.	.	.	.	1

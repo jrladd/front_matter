@@ -1,0 +1,8 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honors	Honors	ng1	Honours	honour	0
+commaund	commaund	n1	command	command	0
+.	.	.	.	.	1
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+CROMPTON	CROMPTON	np1	CROMPTON	Crompton	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+those	those	d	those	those	0
+which	which	r-crq	which	which	0
+loue	loue	vvb	love	love	0
+their	their	po32	their	their	0
+ease	ease	n1	ease	ease	0
+in	in	p-acp	in	in	0
+trauelling	trauelling	vvg	travelling	travel	0
+.	.	.	.	.	1

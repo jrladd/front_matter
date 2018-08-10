@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Loving	Loving	vvg	Loving	love	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+St.	St.	n1	St.	saint	0
+Alban	Alban	np1	Alban	Alban	0
+.	.	.	.	.	1

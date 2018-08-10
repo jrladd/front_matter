@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+Io.	Io.	np1	Io.	Io.	0
+Smithe	Smithe	np1	Smithe	Smithe	0
+.	.	.	.	.	1

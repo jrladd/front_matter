@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+Lord	Lord	n1	Lord	lord	0
+DANVERS	DANVERS	np1	DANVERS	Danvers	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Dauntesey	Dauntesey	np1	Dauntesey	Dauntesey	0
+.	.	.	.	.	1

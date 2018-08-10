@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+Lewis	Lewis	np1	Lewis	Lewis	0
+Sharpe	Sharpe	j	Sharp	sharp	0
+.	.	.	.	.	1

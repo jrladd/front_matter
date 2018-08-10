@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+H.	H.	np1	H.	H.	1

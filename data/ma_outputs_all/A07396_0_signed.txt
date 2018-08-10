@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+highnes	highnes	n1	highness	highness	0
+most	most	av-ds	most	most	0
+lovvly	lovvly	j	lowly	lowly	0
+subiect	subiect	n-jn	subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+bounden	bounden	vvn	bounden	bind	0
+oratour	oratour	n1	orator	orator	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Stapleton	Stapleton	np1	Stapleton	Stapleton	0
+.	.	.	.	.	1

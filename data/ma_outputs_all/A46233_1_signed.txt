@@ -1,0 +1,11 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Honours	Honours	ng1	Honours	honour	0
+JOHN	JOHN	np1	JOHN	John	0
+JONSTON	JONSTON	np1	JONSTON	JONSTON	0
+.	.	.	.	.	1

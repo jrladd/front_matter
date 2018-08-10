@@ -1,0 +1,3 @@
+Ezekel	Ezekel	np1	Ezekel	Ezekel	0
+Culuerwell	Culuerwell	np1	Culuerwell	Culuerwell	0
+.	.	.	.	.	1

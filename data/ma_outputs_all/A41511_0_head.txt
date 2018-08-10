@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+truly	truly	av-j	truly	true	0
+Religious	Religious	j	Religious	religious	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+JANE	JANE	np1	JANE	JANE	0
+FITZ-WILLIAMS	FITZ-WILLIAMS	j	FITZWILLIAMS	fitzwilliams	0
+.	.	.	.	.	1

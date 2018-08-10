@@ -1,0 +1,6 @@
+Tui	Tui	fw-la	Tui	tui	0
+honoris	honoris	fw-la	honoris	honoris	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+W.	W.	np1	W.	W.	0
+West	West	n1	West	west	0
+.	.	.	.	.	1

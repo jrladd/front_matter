@@ -1,0 +1,4 @@
+HEN	HEN	n1	HEN	hen	0
+:	:	:	:	:	0
+PARKER	PARKER	np1	PARKER	Parker	0
+.	.	.	.	.	1

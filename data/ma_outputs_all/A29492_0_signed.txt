@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+Duty	Duty	n1	Duty	duty	0
+and	and	cc	and	and	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+Jos.	Jos.	np1	Jos.	Jos.	0
+Briggs	Briggs	np1	Briggs	Briggs	0
+.	.	.	.	.	1

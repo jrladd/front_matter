@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+honored	honored	j-vvn	honoured	honour	0
+and	and	cc	and	and	0
+constant	constant	j	constant	constant	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Maister	Maister	n1	Master	master	0
+IOHN	IOHN	np1	IOHN	John	0
+COVENTRY	COVENTRY	np1	COVENTRY	Coventry	0
+.	.	.	.	.	1

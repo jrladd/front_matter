@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Barnardi	Barnardi	fw-it	Barnardi	barnardi	0
+∣	∣	sy	∣	∣	0
+diston	diston	n1	diston	diston	0
+Baronet	Baronet	n1	Baronet	baronet	1

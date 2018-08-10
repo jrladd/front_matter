@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+SAM	SAM	np1	SAM	Sam	0
+.	.	.	.	.	1
+VINCENT	VINCENT	np1	VINCENT	Vincent	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+I.	I.	np1	I.	I.	0
+Anwick	Anwick	np1	Anwick	Anwick	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+QVEENE	QVEENE	n1	QVEENE	qveene	0
+,	,	,	,	,	0
+entertain'd	entertain'd	vvn	entertained	entertain	0
+at	at	p-acp	at	at	0
+night	night	n1	night	night	0
+by	by	p-acp	by	by	0
+the	the	dt	the	the	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Anglesey	Anglesey	np1	Anglesey	Anglesey	0
+.	.	.	.	.	1

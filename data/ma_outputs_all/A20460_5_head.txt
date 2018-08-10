@@ -1,0 +1,5 @@
+Of	Of	pp-f	Of	of	0
+Mercurie	Mercurie	np1	Mercurie	Mercury	0
+.	.	.	.	.	1
+☿	☿	sy	☿	☿	0
+.	.	.	.	.	1

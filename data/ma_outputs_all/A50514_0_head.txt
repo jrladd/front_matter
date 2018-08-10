@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+MIDDLETON	MIDDLETON	np1	MIDDLETON	MIDDLETON	0
+,	,	,	,	,	1

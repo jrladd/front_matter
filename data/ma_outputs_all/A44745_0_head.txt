@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+worthily	worthily	av-j	worthily	worthy	0
+honored	honored	j-vvn	honoured	honour	0
+Frend	Frend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+W.	W.	np1	W.	W.	0
+S.	S.	np1	S.	S.	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

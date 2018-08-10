@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+and	and	cc	and	and	0
+faithful	faithful	j	faithful	faithful	0
+Friend	Friend	n1	Friend	friend	0
+.	.	.	.	.	1

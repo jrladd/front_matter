@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+Offices	Offices	n2	Offices	office	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+BRINSLEY	BRINSLEY	np1	BRINSLEY	Brinsley	0
+.	.	.	.	.	1

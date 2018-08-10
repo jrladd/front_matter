@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+TƲRNER	TƲRNER	n1	TƲRNER	tʋrner	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+humble	humble	j	humble	humble	0
+Seruitoure	Seruitoure	n1	Seruitoure	seruitoure	0
+.	.	.	.	.	1
+F.	F.	np1	F.	F.	0
+VVilliam	VVilliam	np1	VVilliam	William	0
+Patersoune	Patersoune	np1	Patersoune	Patersoune	0
+Augustin	Augustin	np1	Augustin	Augustin	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+VV.	VV.	np1	VV.	VV.	0
+Crashawe	Crashawe	np1	Crashawe	Crashawe	0
+.	.	.	.	.	1

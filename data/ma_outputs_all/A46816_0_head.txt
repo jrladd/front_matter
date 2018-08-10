@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+VIRTUOUS	VIRTUOUS	j	VIRTUOUS	virtuous	0
+and	and	cc	and	and	0
+PIOUS	PIOUS	j	PIOUS	pious	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+My	My	po11	My	my	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mrs	Mrs	n1	Mrs	mrs.	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Beale	Beale	np1	Beale	Beale	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Their	Their	po32	Their	their	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel-service	Gospel-service	n1	Gospel-service	gospel-service	0
+,	,	,	,	,	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Skipp	Skipp	np1	Skipp	Skipp	0
+.	.	.	.	.	1

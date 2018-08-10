@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+&	&	cc	&	and	0
+True	True	j	True	true	0
+louer	louer	n1	lover	lover	0
+of	of	pp-f	of	of	0
+Musicke	Musicke	n1	Music	music	0
+,	,	,	,	,	0
+Syr	Syr	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Lennard	Lennard	np1	Lennard	Lennard	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+KINGS	KINGS	ng1	KINGS	king	0
+MOST	MOST	av-ds	MOST	most	0
+ECCEL	ECCEL	vvi	ECCEL	eccel	0
+∣	∣	sy	∣	∣	0
+LENT	LENT	np1	LENT	Lent	0
+MAIESTIE	MAIESTIE	n1	MAIESTIE	majesty	0
+:	:	:	:	:	0
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+wisheth	wisheth	vvz	wishes	wish	0
+all	all	d	all	all	0
+Content	Content	j	Content	content	0
+and	and	cc	and	and	0
+Happines	Happines	n1	Happiness	happiness	0
+.	.	.	.	.	1

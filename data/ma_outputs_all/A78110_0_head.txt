@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truely	truely	av-j	truly	true	0
+Honorable	Honorable	j	Honourable	honourable	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Major	Major	j	Major	major	0
+General	General	n1	General	general	0
+HARRISON	HARRISON	np1	HARRISON	Harrison	0
+.	.	.	.	.	1

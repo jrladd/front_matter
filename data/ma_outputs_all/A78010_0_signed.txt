@@ -1,0 +1,3 @@
+Cap.	Cap.	np1	Cap.	Cap.	0
+Nathanael	Nathanael	np1	Nathanael	Nathanael	0
+Burt.	Burt.	np1	Burt.	Burt.	1

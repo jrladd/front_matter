@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+R.	R.	np1	R.	R.	0
+DOLEMAN	DOLEMAN	np1	DOLEMAN	DOLEMAN	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+The	The	dt	The	the	0
+handie	handie	j	handy	handy	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+handes	handes	n2	hands	hand	0
+and	and	cc	and	and	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+you	you	pn22	you	you	0
+euer	euer	av	ever	ever	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+BEST	BEST	np1	BEST	Best	0
+.	.	.	.	.	1

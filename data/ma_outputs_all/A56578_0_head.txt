@@ -1,0 +1,9 @@
+Ad	Ad	fw-la	Ad	ad	0
+Illustrissimum	Illustrissimum	fw-la	Illustrissimum	illustrissimum	0
+Principem	Principem	fw-la	Principem	principem	0
+IACOBVM	IACOBVM	fw-la	IACOBVM	iacobvm	0
+ALBANIAE	ALBANIAE	np1	ALBANIAE	Albaniae	0
+Et	Et	fw-fr	Et	et	0
+Eboraci	Eboraci	np1	Eboraci	Eboraci	0
+Ducem	Ducem	fw-la	Ducem	ducem	0
+.	.	.	.	.	1

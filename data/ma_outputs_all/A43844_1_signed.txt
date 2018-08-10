@@ -1,0 +1,4 @@
+Jo	Jo	np1	Jo	Jo	0
+:	:	:	:	:	0
+Hinckley	Hinckley	np1	Hinckley	Hinckley	0
+.	.	.	.	.	1

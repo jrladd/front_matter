@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+and	and	cc	and	and	0
+Loyal	Loyal	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+Edward	Edward	np1	Edward	Edward	0
+Wolley	Wolley	np1	Wolley	Wolley	0
+.	.	.	.	.	1
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	1

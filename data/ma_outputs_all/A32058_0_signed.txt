@@ -1,0 +1,10 @@
+your	your	po22	your	your	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+spiritual	spiritual	j	spiritual	spiritual	0
+things	things	n2	things	thing	0
+EDM	EDM	vvi	EDM	edm	0
+.	.	.	.	.	1
+CALAMY	CALAMY	np1	CALAMY	Calamy	0
+.	.	.	.	.	1

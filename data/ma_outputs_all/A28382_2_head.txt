@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Husbandman	Husbandman	n1	Husbandman	husbandman	0
+,	,	,	,	,	0
+Farmer	Farmer	n1	Farmer	farmer	0
+,	,	,	,	,	0
+or	or	cc	or	or	0
+Tenant	Tenant	n1	Tenant	tenant	0
+.	.	.	.	.	1

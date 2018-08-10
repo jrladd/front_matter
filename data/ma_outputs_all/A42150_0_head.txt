@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+SOCIETIES	SOCIETIES	n2	SOCIETIES	society	0
+OF	OF	pp-f	OF	of	0
+Both	Both	d	Both	both	0
+the	the	dt	the	the	0
+TEMPLES	TEMPLES	n2	TEMPLES	temple	0
+.	.	.	.	.	1

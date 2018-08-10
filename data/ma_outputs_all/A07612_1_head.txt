@@ -1,0 +1,4 @@
+Catholike	Catholike	jp	Catholic	catholic	0
+Roiall	Roiall	j	Royal	royal	0
+Maiestie	Maiestie	n1	Majesty	majesty	0
+.	.	.	.	.	1

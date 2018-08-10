@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+dutiful	dutiful	j	dutiful	dutiful	0
+sonne	sonne	n1	son	son	0
+,	,	,	,	,	0
+Hezek	Hezek	np1	Hezek	Hezek	0
+.	.	.	.	.	1
+Holland	Holland	np1	Holland	Holland	0
+.	.	.	.	.	1

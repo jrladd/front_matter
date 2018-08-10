@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+HENEAGE	HENEAGE	np1	HENEAGE	Heneage	0
+,	,	,	,	,	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Nottingham	Nottingham	np1	Nottingham	Nottingham	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Chancellour	Chancellour	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+Eng	Eng	np1	Eng	Eng	0
+∣	∣	sy	∣	∣	0
+land	land	n1	land	land	0
+.	.	.	.	.	1

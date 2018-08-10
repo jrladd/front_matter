@@ -1,0 +1,16 @@
+Nobilissimo	Nobilissimo	fw-la	Nobilissimo	nobilissimo	0
+atque	atque	fw-la	atque	atque	0
+Amplissimo	Amplissimo	fw-la	Amplissimo	amplissimo	0
+Viro	Viro	fw-la	Viro	viro	0
+,	,	,	,	,	0
+Dno	Dno	fw-la	Dno	dno	0
+THOMAE	THOMAE	np1	THOMAE	Thomae	0
+Dno	Dno	fw-la	Dno	dno	0
+Vicecomiti	Vicecomiti	fw-la	Vicecomiti	vicecomiti	0
+FAUCONBERGIO	FAUCONBERGIO	np1	FAUCONBERGIO	FAUCONBERGIO	0
+,	,	,	,	,	0
+GUALTERUS	GUALTERUS	np1	GUALTERUS	Gualterus	0
+CHARLETON	CHARLETON	np1	CHARLETON	Charleton	0
+S.	S.	np1	S.	S.	0
+P.	P.	np1	P.	P.	0
+D.	D.	np1	D.	D.	1

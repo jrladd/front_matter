@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+HENRY	HENRY	np1	HENRY	Henry	0
+PAIN	PAIN	n1	PAIN	pain	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

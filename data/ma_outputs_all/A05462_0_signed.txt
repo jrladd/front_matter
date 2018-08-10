@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Lightfoote	Lightfoote	np1	Lightfoote	Lightfoot	0
+.	.	.	.	.	1

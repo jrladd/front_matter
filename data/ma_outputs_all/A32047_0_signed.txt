@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+much	much	d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+Spirituall	Spirituall	j	Spiritual	spiritual	0
+servant	servant	n1	servant	servant	0
+Edmund	Edmund	np1	Edmund	Edmund	0
+Calamy	Calamy	np1	Calamy	Calamy	0
+.	.	.	.	.	1

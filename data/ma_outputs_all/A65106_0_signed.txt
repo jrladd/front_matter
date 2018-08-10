@@ -1,0 +1,13 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Honourer	Honourer	n1	Honourer	honourer	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+Name	Name	n1	Name	name	0
+and	and	cc	and	and	0
+Ʋertue	Ʋertue	n1	Ʋertue	ʋertue	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+OGILBY	OGILBY	np1	OGILBY	OGILBY	0
+.	.	.	.	.	1

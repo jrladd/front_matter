@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+,	,	,	,	,	0
+thankfull	thankfull	j	thankful	thankful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+faithfull	faithfull	j	faithful	faithful	0
+poore	poore	j	poor	poor	0
+affectionate	affectionate	j	affectionate	affectionate	0
+,	,	,	,	,	0
+FERNANDO	FERNANDO	np1	FERNANDO	Fernando	0
+TEXEDA	TEXEDA	np1	TEXEDA	TEXEDA	0
+.	.	.	.	.	1

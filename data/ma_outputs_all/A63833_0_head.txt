@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+and	and	cc	and	and	0
+no	no	dx	no	no	0
+less	less	av-dc	less	less	0
+vertuous	vertuous	j	virtuous	virtuous	0
+MARY	MARY	np1	MARY	MARY	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+WARWICK	WARWICK	np1	WARWICK	Warwick	0
+.	.	.	.	.	1

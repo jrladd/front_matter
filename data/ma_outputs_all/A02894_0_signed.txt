@@ -1,0 +1,16 @@
+I	I	pns11	I	i	0
+euer	euer	av	ever	ever	0
+remaine	remaine	vvi	remain	remain	0
+,	,	,	,	,	0
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+whatsoeuer	whatsoeuer	r-crq	whatsoever	whatsoever	0
+,	,	,	,	,	0
+IO	IO	uh	IO	io	0
+:	:	:	:	:	0
+HARMAR	HARMAR	np1	HARMAR	Harmar	0
+.	.	.	.	.	1

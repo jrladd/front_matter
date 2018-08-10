@@ -1,0 +1,9 @@
+A	A	dt	A	a	0
+very	very	j	very	very	0
+Faithful	Faithful	j	Faithful	faithful	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+whilst	whilst	cs	while	while	0
+J.	J.	np1	J.	J.	0
+NEWTON	NEWTON	np1	NEWTON	Newton	0
+.	.	.	.	.	1

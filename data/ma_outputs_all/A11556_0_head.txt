@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Dutchesse	Dutchesse	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Nemours	Nemours	np1	Nemours	Nemours	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Queenes	Queenes	ng1	Queens	queen	0
+Gouernesse	Gouernesse	n1	Governess	governess	0
+.	.	.	.	.	1

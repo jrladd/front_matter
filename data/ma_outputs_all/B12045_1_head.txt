@@ -1,0 +1,7 @@
+The	The	dt	The	the	0
+Authors	Authors	ng1	Authors	author	0
+request	request	n1	request	request	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Phoenix	Phoenix	n1	Phoenix	phoenix	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+.	.	.	.	.	1
+Mris	Mris	n1	Mris	mistress	0
+IANE	IANE	np1	IANE	Jane	0
+DONE	DONE	vdi	DONE	do	0
+OF	OF	pp-f	OF	of	0
+Vtkinton	Vtkinton	np1	Vtkinton	Vtkinton	0
+in	in	p-acp	in	in	0
+Cheshire	Cheshire	np1	Cheshire	Cheshire	0
+.	.	.	.	.	1

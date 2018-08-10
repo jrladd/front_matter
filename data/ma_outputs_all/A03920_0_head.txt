@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+WORTHILY	WORTHILY	av-jn	WORTHILY	worthy	0
+Honor'd	Honor'd	j-vvn	Honoured	honour	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Timothy	Timothy	np1	Timothy	Timothy	0
+Hutton	Hutton	np1	Hutton	Hutton	0
+.	.	.	.	.	1

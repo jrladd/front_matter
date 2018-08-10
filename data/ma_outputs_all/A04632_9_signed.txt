@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lo	Lo	uh	Lo	lo	0
+:	:	:	:	:	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+honorer	honorer	n1	honorer	honourer	0
+,	,	,	,	,	0
+BEN	BEN	zz	BEN	ben	0
+.	.	.	.	.	1
+IONSON	IONSON	np1	IONSON	Jonson	0
+.	.	.	.	.	1

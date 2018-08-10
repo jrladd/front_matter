@@ -1,0 +1,11 @@
+In	In	p-acp	In	in	0
+these	these	d	these	these	0
+Prostrations	Prostrations	n2	Prostrations	prostration	0
+Rests	Rests	vvz	Rests	rest	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Humblest	Humblest	js	Humblest	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

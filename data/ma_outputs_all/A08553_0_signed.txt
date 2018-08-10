@@ -1,0 +1,9 @@
+Euermore	Euermore	av	Evermore	evermore	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Worships	Worships	ng1	Worships	worship	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+A.	A.	np1	A.	A.	1

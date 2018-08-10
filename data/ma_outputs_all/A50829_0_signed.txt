@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+servant	servant	n1	servant	servant	0
+G.	G.	np1	G.	G.	0
+M.	M.	n1	M.	m.	1

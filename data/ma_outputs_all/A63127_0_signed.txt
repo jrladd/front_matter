@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+so	so	av	so	so	0
+much	much	d	much	much	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Nephew	Nephew	n1	Nephew	nephew	0
+,	,	,	,	,	0
+Caleb	Caleb	np1	Caleb	Caleb	0
+Trenchfield	Trenchfield	np1	Trenchfield	Trenchfield	0
+.	.	.	.	.	1

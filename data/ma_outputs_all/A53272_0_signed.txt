@@ -1,0 +1,12 @@
+A	A	dt	A	a	0
+publike	publike	j	public	public	0
+Helper	Helper	n1	Helper	helper	0
+on	on	a-acp	on	on	0
+of	of	pp-f	of	of	0
+thy	thy	po21	thy	thy	0
+Faith	Faith	n1	Faith	faith	0
+and	and	cc	and	and	0
+happiness	happiness	n1	happiness	happiness	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+O.	O.	np1	O.	O.	1

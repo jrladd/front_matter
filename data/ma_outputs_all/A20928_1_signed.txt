@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+seruant	seruant	n1	servant	servant	0
+:	:	:	:	:	0
+ANDREAS	ANDREAS	np1	ANDREAS	Andreas	0
+LAVRENTIVS	LAVRENTIVS	np1	LAVRENTIVS	LAVRENTIVS	0
+.	.	.	.	.	1
+B	B	sy	B	b	1

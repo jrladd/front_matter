@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+NICHOLAS	NICHOLAS	np1	NICHOLAS	Nicholas	0
+LOCKYER	LOCKYER	np1	LOCKYER	Lockyer	0
+.	.	.	.	.	1

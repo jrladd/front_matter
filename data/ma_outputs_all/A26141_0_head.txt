@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+LORDS	LORDS	ng1	LORDS	lord	0
+Spiritual	Spiritual	j	Spiritual	spiritual	0
+and	and	cc	and	and	0
+Temporal	Temporal	j	Temporal	temporal	0
+IN	IN	p-acp	IN	in	0
+Parliament	Parliament	n1	Parliament	parliament	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+.	.	.	.	.	1

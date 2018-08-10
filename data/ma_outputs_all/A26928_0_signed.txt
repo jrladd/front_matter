@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+for	for	p-acp	for	for	0
+such	such	d	such	such	0
+ends	ends	vvz	ends	end	0
+Ri.	Ri.	np1	Ri.	Ri.	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

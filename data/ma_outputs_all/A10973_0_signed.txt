@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+alwaies	alwaies	av	always	always	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ROGERS	ROGERS	np1	ROGERS	Rogers	0
+.	.	.	.	.	1

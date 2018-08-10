@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+But	But	cc-acp	But	but	0
+most	most	ds	most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+Minister	Minister	n1	Minister	minister	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Willis	Willis	np1	Willis	Willis	0
+.	.	.	.	.	1

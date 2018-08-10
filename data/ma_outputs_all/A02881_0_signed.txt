@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+worshipps	worshipps	n2	worships	worship	0
+moste	moste	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lorde	Lorde	n1	Lord	lord	0
+,	,	,	,	,	0
+duryng	duryng	p-acp	during	during	0
+life	life	n1	life	life	0
+Ihon	Ihon	np1	Ihon	Ihon	0
+Hed	Hed	n1	head	head	0
+∣	∣	sy	∣	∣	0
+lambe	lambe	n1	lamb	lamb	0
+.	.	.	.	.	1

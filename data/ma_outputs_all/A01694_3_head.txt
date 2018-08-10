@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Anne	Anne	np1	Anne	Anne	0
+Russell	Russell	np1	Russell	Russell	0
+.	.	.	.	.	1

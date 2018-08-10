@@ -1,0 +1,11 @@
+Studious	Studious	j	Studious	studious	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+spi	spi	vvb	spi	spi	0
+∣	∣	sy	∣	∣	0
+rituall	rituall	j	ritual	ritual	0
+wellfare	wellfare	n1	welfare	welfare	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+WHATELY	WHATELY	np1	WHATELY	Whately	0
+.	.	.	.	.	1

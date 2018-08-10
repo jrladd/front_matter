@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+BOLSTRED	BOLSTRED	j-vvn	BOLSTERED	bolster	0
+WHITLOCKE	WHITLOCKE	np1	WHITLOCKE	WHITLOCKE	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Commissioner	Commissioner	n1	Commissioner	commissioner	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Great	Great	j	Great	great	0
+SEALE	SEALE	n1	SEALE	seal	0
+of	of	pp-f	of	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1

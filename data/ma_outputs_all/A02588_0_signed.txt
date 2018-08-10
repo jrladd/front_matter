@@ -1,0 +1,17 @@
+VVho	VVho	r-crq	Who	who	0
+vow	vow	n1	vow	vow	0
+my	my	po11	my	my	0
+selfe	selfe	n1	self	self	0
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+true	true	j	true	true	0
+duetie	duetie	n1	duty	duty	0
+,	,	,	,	,	0
+Ios.	Ios.	np1	Ios.	Ios.	0
+Hall	Hall	n1	Hall	hall	0
+.	.	.	.	.	1

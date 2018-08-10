@@ -1,0 +1,8 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+obseruances	obseruances	n2	observances	observance	0
+;	;	;	;	;	0
+THO	THO	av	THOUGH	tho	0
+:	:	:	:	:	0
+HEYVVOOD	HEYVVOOD	np1	HEYVVOOD	HEYVVOOD	0
+.	.	.	.	.	1

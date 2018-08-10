@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+BERKLEY	BERKLEY	np1	BERKLEY	Berkley	0
+Sole	Sole	j	Sole	sole	0
+Son	Son	n1	Son	son	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+BERKLEY	BERKLEY	np1	BERKLEY	Berkley	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Henry	Henry	np1	Henry	Henry	0
+Anderson	Anderson	np1	Anderson	Anderson	1

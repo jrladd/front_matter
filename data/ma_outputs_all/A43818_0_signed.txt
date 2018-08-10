@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Hill.	Hill.	n1	Hill.	hill	1

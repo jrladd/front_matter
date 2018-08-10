@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthily	worthily	av-j	worthily	worthy	0
+hono	hono	fw-la	hono	hono	0
+∣	∣	sy	∣	∣	0
+red	red	j-jn	read	red	0
+Mr.	Mr.	n1	Mr.	mr.	1
+MATTHEW	MATTHEW	np1	MATTHEW	Matthew	0
+SKINNER	SKINNER	np1	SKINNER	Skinner	0
+,	,	,	,	,	0
+Mer	Mer	uh	Mere	mer	0
+∣	∣	sy	∣	∣	0
+chant	chant	vvb	chant	chant	0
+in	in	p-acp	in	in	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+fellow-labourer	fellow-labourer	n1	fellow-labourer	fellow-labourer	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ministry	Ministry	n1	Ministry	ministry	0
+JOHN	JOHN	np1	JOHN	John	0
+MAYER	MAYER	np1	MAYER	Mayer	0
+.	.	.	.	.	1

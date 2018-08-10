@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Pregnant	Pregnant	j	Pregnant	pregnant	0
+Wits	Wits	n2	Wits	wit	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+two	two	crd	two	two	0
+Famous	Famous	j	Famous	famous	0
+Universities	Universities	n2	Universities	university	0
+of	of	pp-f	of	of	0
+Oxford	Oxford	np1	Oxford	Oxford	0
+and	and	cc	and	and	0
+Cambridge	Cambridge	np1	Cambridge	Cambridge	0
+.	.	.	.	.	1

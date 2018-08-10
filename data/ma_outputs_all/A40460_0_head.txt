@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+John	John	np1	John	John	0
+Lord	Lord	n1	Lord	lord	0
+Lovelace	Lovelace	np1	Lovelace	Lovelace	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

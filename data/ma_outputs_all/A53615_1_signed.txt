@@ -1,0 +1,6 @@
+So	So	np1	So	So	0
+wisheth	wisheth	vvz	wishes	wish	0
+,	,	,	,	,	0
+Wye	Wye	np1	Wye	Wye	0
+Saltonstall	Saltonstall	np1	Saltonstall	Saltonstall	0
+.	.	.	.	.	1

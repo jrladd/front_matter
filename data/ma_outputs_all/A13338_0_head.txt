@@ -1,0 +1,10 @@
+Al	Al	d	All	all	0
+molto	molto	fw-mi	molto	molto	0
+Illustre	Illustre	fw-it	Illustre	illustre	0
+Signore	Signore	np1	Signore	Signore	0
+.	.	.	.	.	1
+Il	Il	fw-fr	Il	il	0
+Signor	Signor	np1	Signor	Signor	0
+Roberto	Roberto	np1	Roberto	Roberto	0
+Sidneo	Sidneo	np1	Sidneo	Sidneo	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+YOƲR	YOƲR	j	YOƲR	yoʋr	0
+MAIESTIES	MAIESTIES	n2	MAIESTIES	majesty	0
+Thrice-humble	Thrice-humble	j	Thrice-humble	thrice-humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+thrice-obedient	thrice-obedient	j	thrice-obedient	thrice-obedient	0
+Subiect	Subiect	j-jn	Subject	subject	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+FILMER	FILMER	np1	FILMER	Filmer	0
+.	.	.	.	.	1

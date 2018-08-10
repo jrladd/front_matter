@@ -1,0 +1,10 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Yours	Yours	png22	Yours	you	0
+affectio	affectio	fw-la	affectio	affectio	0
+∣	∣	sy	∣	∣	0
+nately	nately	av-j	nately	nate	0
+.	.	.	.	.	1
+R.	R.	np1	R.	R.	0
+Vaughan	Vaughan	np1	Vaughan	Vaughan	0
+.	.	.	.	.	1

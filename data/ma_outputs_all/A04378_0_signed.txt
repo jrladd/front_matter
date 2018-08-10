@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+bonds	bonds	n2	bonds	bond	0
+and	and	cc	and	and	0
+offices	offices	n2	offices	office	0
+of	of	pp-f	of	of	0
+Christian	Christian	njp	Christian	christian	0
+loue	loue	n1	love	love	0
+and	and	cc	and	and	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+IENISON	IENISON	np1	IENISON	IENISON	0
+.	.	.	.	.	1

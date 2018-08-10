@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Compton	Compton	np1	Compton	Compton	0
+and	and	cc	and	and	0
+Mountegle	Mountegle	np1	Mountegle	Mountegle	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+very	very	j	very	very	0
+Passionate	Passionate	j	Passionate	passionate	0
+Adversary	Adversary	n1	Adversary	adversary	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	0
+HEALTH	HEALTH	n1	HEALTH	health	0
+and	and	cc	and	and	0
+PEACE	PEACE	n1	PEACE	peace	0
+.	.	.	.	.	1

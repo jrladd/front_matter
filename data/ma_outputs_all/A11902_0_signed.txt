@@ -1,0 +1,9 @@
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+commaundement	commaundement	n1	commandment	commandment	0
+.	.	.	.	.	1
+Arthur	Arthur	np1	Arthur	Arthur	0
+Golding	Golding	np1	Golding	Golding	0
+.	.	.	.	.	1

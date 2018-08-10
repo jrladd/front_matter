@@ -1,0 +1,13 @@
+VNTO	VNTO	p-acp	UNTO	unto	0
+THE	THE	dt	THE	the	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+and	and	cc	and	and	0
+honorable	honorable	j	honourable	honourable	0
+Lorde	Lorde	n1	Lord	lord	0
+Mychaell	Mychaell	np1	Mychaell	Mychaell	0
+de	de	fw-fr	de	de	0
+Sylua	Sylua	np1	Sylua	Sylva	0
+Bisshop	Bisshop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+viseo	viseo	n1	viseo	viseo	0
+.	.	.	.	.	1

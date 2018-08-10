@@ -1,0 +1,7 @@
+Paternitati	Paternitati	n1	Paternitati	paternitati	0
+Tuae	Tuae	fw-la	Tuae	tuus	0
+devotissimus	devotissimus	fw-la	devotissimus	devotissimus	0
+,	,	,	,	,	0
+JOANNES	JOANNES	np1	JOANNES	Joannes	0
+THANE	THANE	n1	THANE	thane	0
+.	.	.	.	.	1

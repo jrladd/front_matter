@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	n2	Majesties	majesty	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+loyally	loyally	av-j	loyally	loyal	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+More	More	av-dc	More	more	0
+.	.	.	.	.	1

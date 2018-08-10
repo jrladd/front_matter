@@ -1,0 +1,16 @@
+The	The	dt	The	the	0
+Dedication	Dedication	n1	Dedication	dedication	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Relator	Relator	n1	Relator	relater	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Profes	Profes	vvb	Profess	profess	0
+∣	∣	sy	∣	∣	0
+sors	sors	ng2	sors	sors	0
+in	in	p-acp	in	in	0
+England	England	np1	England	England	0
+of	of	pp-f	of	of	0
+THRIFT	THRIFT	n1	THRIFT	thrift	0
+.	.	.	.	.	1

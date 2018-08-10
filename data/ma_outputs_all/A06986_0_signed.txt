@@ -1,0 +1,12 @@
+YOVR	YOVR	po22	YOUR	your	0
+HONORS	HONORS	n2	HONORS	honour	0
+MOST	MOST	av-ds	MOST	most	0
+BOVNDEN	BOVNDEN	vvn	BOUNDEN	bounden	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+TYMME	TYMME	n1	TYMME	tymme	0
+.	.	.	.	.	1

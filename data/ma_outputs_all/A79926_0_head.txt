@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+GRACE	GRACE	n1	GRACE	grace	0
+NARCISSUS	NARCISSUS	np1	NARCISSUS	Narcissus	0
+Lord	Lord	n1	Lord	lord	0
+ARCH-BISHOP	ARCH-BISHOP	n1	ARCH-BISHOP	archbishop	0
+OF	OF	pp-f	OF	of	0
+DUBLIN	DUBLIN	np1	DUBLIN	Dublin	0
+.	.	.	.	.	1

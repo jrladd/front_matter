@@ -1,0 +1,15 @@
+Thy	Thy	po21	Thy	thy	0
+Gouernour	Gouernour	n1	Governor	governor	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+tyme	tyme	n1	time	time	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+thy	thy	po21	thy	thy	0
+friende	friende	n1	friend	friend	0
+for	for	c-acp	for	for	0
+euer	euer	av	ever	ever	0
+.	.	.	.	.	1
+HALY	HALY	np1	HALY	Haly	0
+HERON	HERON	np1	HERON	Heron	0
+.	.	.	.	.	1

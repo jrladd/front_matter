@@ -1,0 +1,3 @@
+AD	AD	fw-la	AD	ad	0
+REGEM	REGEM	fw-la	REGEM	regem	0
+.	.	.	.	.	1

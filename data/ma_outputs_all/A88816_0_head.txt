@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+EXCELLENCY	EXCELLENCY	n1	EXCELLENCY	excellency	0
+Charls	Charls	np1	Charls	Charles	0
+Fleetwood	Fleetwood	np1	Fleetwood	Fleetwood	0
+Esq	Esq	np1	Esq	Esq	0
+Lord	Lord	n1	Lord	lord	0
+Deputy	Deputy	n1	Deputy	deputy	0
+of	of	pp-f	of	of	0
+IRELAND	IRELAND	np1	IRELAND	Ireland	0
+.	.	.	.	.	1

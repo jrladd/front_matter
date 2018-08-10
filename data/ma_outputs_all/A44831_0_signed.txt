@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+most	most	av-ds	most	most	0
+de	de	fw-fr	de	de	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+and	and	cc	and	and	0
+for	for	p-acp	for	for	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Hubbert	Hubbert	np1	Hubbert	Hubbert	0
+.	.	.	.	.	1

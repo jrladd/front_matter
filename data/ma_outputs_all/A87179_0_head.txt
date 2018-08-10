@@ -1,0 +1,9 @@
+For	For	p-acp	For	for	0
+his	his	po31	his	his	0
+beloved	beloved	j-vvn	beloved	belove	0
+Cozen	Cozen	n1	Cozen	cousin	0
+,	,	,	,	,	0
+Captain	Captain	n1	Captain	captain	0
+Francis	Francis	np1	Francis	Francis	0
+Freeman	Freeman	n1	Freeman	freeman	0
+.	.	.	.	.	1

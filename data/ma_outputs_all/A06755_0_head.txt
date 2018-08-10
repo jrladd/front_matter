@@ -1,0 +1,7 @@
+AV	AV	j	AV	av	0
+ROY	ROY	fw-fr	ROY	roy	0
+de	de	fw-fr	de	de	0
+la	la	fw-fr	la	la	0
+Grande	Grande	fw-fr	Grande	grande	0
+Bretaigne	Bretaigne	np1	Bretaigne	Bretaigne	0
+.	.	.	.	.	1

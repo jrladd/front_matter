@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+HORN	HORN	n1	HORN	horn	0
+.	.	.	.	.	1

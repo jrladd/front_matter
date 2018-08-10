@@ -1,0 +1,15 @@
+By	By	p-acp	By	by	0
+the	the	dt	the	the	0
+true	true	j	true	true	0
+admirour	admirour	n1	admirour	admirour	0
+of	of	pp-f	of	of	0
+thy	thy	po21	thy	thy	0
+vertues	vertues	n2	virtues	virtue	0
+and	and	cc	and	and	0
+perfectly	perfectly	av-j	perfectly	perfect	0
+vowed	vowed	j-vvn	vowed	vow	0
+friend	friend	n1	friend	friend	0
+.	.	.	.	.	1
+G.	G.	np1	G.	G.	0
+CHAPMAN	CHAPMAN	n1	CHAPMAN	chapman	0
+.	.	.	.	.	1

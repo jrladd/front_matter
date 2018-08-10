@@ -1,0 +1,14 @@
+Viro	Viro	fw-la	Viro	viro	0
+Doctissimo	Doctissimo	fw-la	Doctissimo	doctissimo	0
+,	,	,	,	,	0
+Amico	Amico	np1	Amico	Amico	0
+suo	suo	fw-la	suo	suo	0
+singulari	singulari	fw-la	singulari	singulari	0
+D.	D.	np1	D.	D.	1
+Dri	Dri	zz	Dri	dri	0
+.	.	.	.	.	1
+Everardo	Everardo	np1	Everardo	Everardo	0
+Maynwaringe	Maynwaringe	vvg	Maynwaringe	maynwaringe	0
+Medico	Medico	np1	Medico	Medico	0
+Peritissimo	Peritissimo	fw-la	Peritissimo	peritissimo	0
+.	.	.	.	.	1

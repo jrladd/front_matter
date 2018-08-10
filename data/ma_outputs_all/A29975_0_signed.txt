@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+avowed	avowed	vvn	avowed	avow	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+GEO	GEO	np1	GEO	Geo	0
+:	:	:	:	:	0
+BUCK	BUCK	n1	BUCK	buck	0
+.	.	.	.	.	1

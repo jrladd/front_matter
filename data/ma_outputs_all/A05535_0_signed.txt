@@ -1,0 +1,3 @@
+Dauid	Dauid	np1	Dauid	David	0
+Brechen	Brechen	fw-ge	Brechen	brechen	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+and	and	cc	and	and	0
+Religious	Religious	j	Religious	religious	0
+Ladie	Ladie	n1	Lady	lady	0
+the	the	dt	the	the	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+DENBIGH	DENBIGH	np1	DENBIGH	Denbigh	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+PINNER	PINNER	n1	PINNER	pinner	0
+.	.	.	.	.	1

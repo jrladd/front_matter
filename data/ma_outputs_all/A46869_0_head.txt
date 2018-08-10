@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friends	Friends	n2	Friends	friend	0
+and	and	cc	and	and	0
+Patrons	Patrons	n2	Patrons	patron	0
+at	at	p-acp	at	at	0
+Lockets	Lockets	n2	Lockets	locket	0
+Ordinary	Ordinary	j	Ordinary	ordinary	0
+.	.	.	.	.	1

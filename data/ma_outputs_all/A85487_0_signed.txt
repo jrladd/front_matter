@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+daily	daily	j	daily	daily	0
+Oratour	Oratour	n1	Orator	orator	0
+William	William	np1	William	William	0
+Gouge	Gouge	np1	Gouge	Gouge	0
+.	.	.	.	.	1

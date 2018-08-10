@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+NATH	NATH	np1	NATH	Nath	0
+.	.	.	.	.	1
+BISBIE	BISBIE	np1	BISBIE	Bisbie	0
+.	.	.	.	.	1

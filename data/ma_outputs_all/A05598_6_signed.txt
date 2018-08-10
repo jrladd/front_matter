@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+low	low	av-j	low	low	0
+prostrate	prostrate	j	prostrate	prostrate	0
+Oratour	Oratour	n1	Orator	orator	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LITHGOW	LITHGOW	np1	LITHGOW	Lithgow	1

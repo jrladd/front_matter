@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+meanest	meanest	j	meanest	mean	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+most	most	av-ds	most	most	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+HOLLAND	HOLLAND	np1	HOLLAND	Holland	0
+.	.	.	.	.	1

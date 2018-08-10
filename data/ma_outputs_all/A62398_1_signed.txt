@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WALTER	WALTER	np1	WALTER	Walter	0
+SCOT	SCOT	n1	SCOT	scot	0
+Of	Of	pp-f	Of	of	0
+Satchels	Satchels	n2	Satchels	satchel	0
+.	.	.	.	.	1

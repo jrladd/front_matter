@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Reuben	Reuben	np1	Reuben	Reuben	0
+Bourne	Bourne	np1	Bourne	Bourne	0
+.	.	.	.	.	1

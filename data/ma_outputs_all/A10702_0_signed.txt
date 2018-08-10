@@ -1,0 +1,7 @@
+Alwaies	Alwaies	av	Always	always	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+disposition	disposition	n1	disposition	disposition	0
+BARNABE	BARNABE	np1	BARNABE	Barnaby	0
+RYCH	RYCH	j	RICH	rich	0
+.	.	.	.	.	1

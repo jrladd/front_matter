@@ -1,0 +1,8 @@
+His	His	po31	His	his	0
+louing	louing	j-vvg	loving	love	0
+brother	brother	n1	brother	brother	0
+Cutbert	Cutbert	np1	Cutbert	Cuthbert	0
+Curry-knaue	Curry-knaue	n1	Curry-knave	curry-knave	0
+sendeth	sendeth	vvz	sends	send	0
+Greeting	Greeting	vvg	Greeting	greet	0
+.	.	.	.	.	1

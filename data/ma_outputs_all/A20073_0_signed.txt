@@ -1,0 +1,9 @@
+Deuoted	Deuoted	vvn	Devoted	devote	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+Worships	Worships	ng1	Worships	worship	0
+disposing	disposing	n-vvg	disposing	dispose	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+L.	L.	np1	L.	L.	1

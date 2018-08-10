@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+seruaunt	seruaunt	n1	servant	servant	0
+and	and	cc	and	and	0
+Sol	Sol	fw-mi	Sol	sol	0
+∣	∣	sy	∣	∣	0
+diour	diour	n1	diour	diour	0
+alwaies	alwaies	av	always	always	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+,	,	,	,	,	0
+Barnabe	Barnabe	np1	Barnabe	Barnaby	0
+Riche	Riche	j	Rich	rich	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+COLONEL	COLONEL	n1	COLONEL	colonel	0
+STANHOPE	STANHOPE	np1	STANHOPE	Stanhope	0
+.	.	.	.	.	1

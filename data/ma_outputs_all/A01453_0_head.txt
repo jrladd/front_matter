@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+sir	sir	n1	sir	sir	0
+Hierome	Hierome	np1	Hierome	Hierome	0
+Bowes	Bowes	np1	Bowes	Bowes	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+externall	externall	j	external	external	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+eternall	eternall	j	eternal	eternal	0
+happinesse	happinesse	n1	happiness	happiness	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Ford	Ford	n1	Ford	ford	0
+.	.	.	.	.	1

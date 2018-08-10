@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+that	that	cst	that	that	0
+Flock	Flock	vvb	Flock	flock	0
+of	of	pp-f	of	of	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+which	which	r-crq	which	which	0
+Holy	Holy	j	Holy	holy	0
+Mr.	Mr.	n1	Mr.	mr.	1
+FINCHER	FINCHER	np1	FINCHER	Fincher	0
+was	was	vbds	was	be	0
+the	the	dt	the	the	0
+Faithful	Faithful	j	Faithful	faithful	0
+Pastor	Pastor	n1	Pastor	pastor	0
+.	.	.	.	.	1

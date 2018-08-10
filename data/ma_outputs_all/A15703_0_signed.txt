@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+worshippes	worshippes	n2	worships	worship	0
+humblie	humblie	av-j	humbly	humble	0
+Iohn	Iohn	np1	Iohn	John	0
+Woolton	Woolton	np1	Woolton	Woolton	0
+.	.	.	.	.	1

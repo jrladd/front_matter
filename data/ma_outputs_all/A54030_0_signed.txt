@@ -1,0 +1,8 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+T.	T.	np1	T.	T.	0
+P.	P.	np1	P.	P.	1

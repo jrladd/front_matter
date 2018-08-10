@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Highly	Highly	av-j	Highly	high	0
+Honour'd	Honour'd	vvn	Honoured	honour	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+M.	M.	n1	M.	m.	0
+S.	S.	np1	S.	S.	1

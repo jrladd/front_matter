@@ -1,0 +1,14 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+your	your	po22	your	your	0
+Lordship's	Lordship's	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+FRAN.	FRAN.	np1	FRAN.	FRAN.	0
+TURNER	TURNER	np1	TURNER	Turner	0
+.	.	.	.	.	1

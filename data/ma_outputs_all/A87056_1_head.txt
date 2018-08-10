@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+JƲSTICES	JƲSTICES	n2	JƲSTICES	jʋstice	0
+of	of	pp-f	of	of	0
+PEACE	PEACE	n1	PEACE	peace	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+NATION	NATION	n1	NATION	nation	0
+;	;	;	;	;	0
+Especially	Especially	av-j	Especially	especial	0
+these	these	d	these	these	0
+Northerne	Northerne	j	Northern	northern	0
+Parts	Parts	n2	Parts	part	0
+.	.	.	.	.	1

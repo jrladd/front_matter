@@ -1,0 +1,5 @@
+CHESTER	CHESTER	np1	CHESTER	Chester	0
+to	to	p-acp	to	to	0
+her	her	po31	her	her	0
+Prince	Prince	n1	Prince	prince	0
+.	.	.	.	.	1

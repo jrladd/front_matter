@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worsh	Worsh	zz	Worsh	worsh	0
+.	.	.	.	.	0
+humbly	humbly	av-j	humbly	humble	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+manner	manner	n1	manner	manner	0
+of	of	pp-f	of	of	0
+Christian	Christian	njp	Christian	christian	0
+affecti	affecti	n1	affection	affection	0
+∣	∣	sy	∣	∣	0
+on	on	p-acp	on	on	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Smith	Smith	n1	Smith	smith	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+DISCONSOLATE	DISCONSOLATE	j	DISCONSOLATE	disconsolate	0
+Sr.	Sr.	n1	Sr.	sir	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+SONDS	SONDS	n2	SONDS	sond	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

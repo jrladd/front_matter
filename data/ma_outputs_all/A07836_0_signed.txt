@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+alwaies	alwaies	av	always	always	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+MILES	MILES	np1	MILES	Miles	0
+MOSSE	MOSSE	n1	MOSSE	moss	0
+.	.	.	.	.	1

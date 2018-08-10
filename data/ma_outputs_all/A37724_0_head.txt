@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+the	the	dt	the	the	0
+DƲTCHESS	DƲTCHESS	n1	DƲTCHESS	dʋtchess	0
+OF	OF	pp-f	OF	of	0
+Monmouth	Monmouth	np1	Monmouth	Monmouth	0
+.	.	.	.	.	1

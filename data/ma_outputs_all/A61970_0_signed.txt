@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+faithful	faithful	j	faithful	faithful	0
+servitor	servitor	n1	servitor	servitor	0
+:	:	:	:	:	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Faireclough	Faireclough	np1	Faireclough	Faireclough	0
+.	.	.	.	.	1
+Jun.	Jun.	np1	Jun.	Jun.	1

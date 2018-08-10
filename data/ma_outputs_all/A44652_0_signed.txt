@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Majesty's	Majesty's	ng1	Majesty's	majesty	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+RO	RO	np1	RO	Ro	0
+.	.	.	.	.	1
+HOWARD	HOWARD	np1	HOWARD	Howard	0
+.	.	.	.	.	1

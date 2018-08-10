@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Smith	Smith	n1	Smith	smith	0
+.	.	.	.	.	1

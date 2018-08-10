@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+friend	friend	n1	friend	friend	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+Stoughton	Stoughton	np1	Stoughton	Stoughton	0
+.	.	.	.	.	1
+Student	Student	n1	Student	student	0
+.	.	.	.	.	1

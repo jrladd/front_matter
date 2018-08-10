@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+young	young	j	young	young	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+,	,	,	,	,	0
+Third	Third	ord	Third	three	0
+Son	Son	n1	Son	son	0
+to	to	p-acp	to	to	0
+her	her	po31	her	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+CLEVELAND	CLEVELAND	np1	CLEVELAND	Cleveland	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+NO	NO	av-dx	NO	no	0
+LESSE	LESSE	av-dc	LESS	less	0
+INGENIOVS	INGENIOVS	j	INGENIOUS	ingenious	0
+THEN	THEN	cs	THEN	than	0
+ZEALOVS	ZEALOVS	j	ZEALOUS	zealous	0
+fauourer	fauourer	n1	favourer	favourer	0
+of	of	pp-f	of	of	0
+ingenuity	ingenuity	n1	ingenuity	ingenuity	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+TCHBOVRNE	TCHBOVRNE	vvn	TCHBOVRNE	tchbovrne	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

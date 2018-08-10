@@ -1,0 +1,16 @@
+of	of	pp-f	of	of	0
+him	him	pno31	him	he	0
+who	who	r-crq	who	who	0
+is	is	vbz	is	be	0
+your	your	po22	your	your	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+good	good	j	good	good	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+souls	souls	n2	souls	soul	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+JENKYN	JENKYN	np1	JENKYN	JENKYN	0
+.	.	.	.	.	1

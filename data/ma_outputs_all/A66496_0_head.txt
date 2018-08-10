@@ -1,0 +1,5 @@
+The	The	dt	The	the	0
+Authours	Authours	n2	Authors	author	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+observance	observance	n1	observance	observance	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Haywood	Haywood	np1	Haywood	Haywood	0
+.	.	.	.	.	1

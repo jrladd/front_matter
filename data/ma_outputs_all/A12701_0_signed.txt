@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+alwaies	alwaies	av	always	always	0
+at	at	p-acp	at	at	0
+commaundment	commaundment	n1	commandment	commandment	0
+most	most	av-ds	most	most	0
+ready	ready	j	ready	ready	0
+:	:	:	:	:	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+SPARKE	SPARKE	n1	SPARKE	spark	0
+.	.	.	.	.	1

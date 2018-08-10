@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+vertues	vertues	ng1	virtues	virtue	0
+admiror	admiror	n1	admiror	admiror	0
+humblie	humblie	av-j	humbly	humble	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BRATHVVAYT	BRATHVVAYT	vvb	BRATHWAYT	brathwayt	0
+.	.	.	.	.	1

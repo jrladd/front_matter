@@ -1,0 +1,5 @@
+The	The	dt	The	the	0
+most	most	av-ds	most	most	0
+sorrowfull	sorrowfull	j	sorrowful	sorrowful	0
+G.	G.	np1	G.	G.	0
+W.	W.	np1	W.	W.	1

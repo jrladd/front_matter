@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+Tho	Tho	av	Though	tho	0
+:	:	:	:	:	0
+Lord	Lord	n1	Lord	lord	0
+Fairfax	Fairfax	np1	Fairfax	Fairfax	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Came	Came	np1	Came	Came	0
+∣	∣	sy	∣	∣	0
+ron	ron	fw-mi	ron	ron	0
+,	,	,	,	,	0
+Generall	Generall	n1	General	general	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+ARMY	ARMY	n1	ARMY	army	0
+.	.	.	.	.	1

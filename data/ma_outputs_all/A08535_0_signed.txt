@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Worships	Worships	n2	Worships	worship	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+vttmost	vttmost	j	vttmost	vttmost	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+power	power	n1	power	power	0
+,	,	,	,	,	0
+I	I	pns11	I	i	0
+.	.	.	.	.	0
+Orphinstrange	Orphinstrange	vvi	Orphinstrange	orphinstrange	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Devoted	Devoted	j-vvn	Devoted	devote	0
+unto	unto	p-acp	unto	unto	0
+you	you	pn22	you	you	0
+both	both	d	both	both	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+PEACHAM	PEACHAM	np1	PEACHAM	Peacham	0
+.	.	.	.	.	1

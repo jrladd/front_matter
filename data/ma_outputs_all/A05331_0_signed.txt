@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+alwaies	alwaies	av	always	always	0
+most	most	av-ds	most	most	0
+readie	readie	j	ready	ready	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+IOHN	IOHN	np1	IOHN	John	0
+PORY	PORY	np1	PORY	Pory	0
+.	.	.	.	.	1

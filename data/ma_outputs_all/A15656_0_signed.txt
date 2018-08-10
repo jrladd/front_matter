@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+GEO	GEO	np1	GEO	Geo	0
+.	.	.	.	.	1
+WYTHER	WYTHER	av-d	WYTHER	wyther	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVL	WORSHIPFVL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+SIR	SIR	n1	SIR	sir	0
+WIL	WIL	vmb	WILL	will	0
+∣	∣	sy	∣	∣	0
+LIAM	LIAM	np1	LIAM	LIAM	0
+BOWES	BOWES	n2	BOWES	bow	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+peace	peace	n1	peace	peace	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+P.	P.	np1	P.	P.	0
+Berault	Berault	np1	Berault	Berault	0
+.	.	.	.	.	1

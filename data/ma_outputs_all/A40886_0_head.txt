@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+MINSHULL	MINSHULL	np1	MINSHULL	MINSHULL	0
+,	,	,	,	,	0
+OF	OF	pp-f	OF	of	0
+BOURTON	BOURTON	np1	BOURTON	Bourton	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+the	the	dt	the	the	0
+COUNTY	COUNTY	n1	COUNTY	county	0
+of	of	pp-f	of	of	0
+BUCKS	BUCKS	np1	BUCKS	Bucks	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

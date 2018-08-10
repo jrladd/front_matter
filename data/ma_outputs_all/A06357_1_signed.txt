@@ -1,0 +1,12 @@
+Bound	Bound	vvn	Bound	bind	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Grace	Grace	n1	Grace	grace	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+obseruance	obseruance	n1	observance	observance	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+LORD	LORD	n1	LORD	lord	0
+.	.	.	.	.	1

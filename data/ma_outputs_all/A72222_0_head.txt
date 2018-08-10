@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Henry	Henry	np1	Henry	Henry	0
+Lee	Lee	np1	Lee	Lee	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+Maister	Maister	n1	Master	master	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Leasshe	Leasshe	n1	Leasshe	leasshe	0
+.	.	.	.	.	1

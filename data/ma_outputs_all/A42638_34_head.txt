@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+Sr.	Sr.	n1	Sr.	sir	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+WARWICK	WARWICK	np1	WARWICK	Warwick	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1

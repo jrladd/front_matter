@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maunded	maunded	j	manded	manded	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+COVEL	COVEL	np1	COVEL	COVEL	0
+.	.	.	.	.	1

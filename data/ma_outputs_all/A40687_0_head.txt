@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Friends	Friends	n2	Friends	friend	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+party	party	n1	party	party	0
+deceased	deceased	vvn	deceased	decease	0
+.	.	.	.	.	1

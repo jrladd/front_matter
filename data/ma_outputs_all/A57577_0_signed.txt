@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+L.	L.	n1	L.	lord	0
+Rogers	Rogers	np1	Rogers	Rogers	0
+.	.	.	.	.	1

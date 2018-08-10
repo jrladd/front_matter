@@ -1,0 +1,13 @@
+Al	Al	d	All	all	0
+molto	molto	fw-mi	molto	molto	0
+Nobile	Nobile	np1	Nobile	Nobile	0
+é	é	fw-fr	é	é	0
+Mag.	Mag.	np1	Mag.	Mag.	0
+co	co	vvn	counterfeit	continue	0
+Sig.	Sig.	n1	Sig.	signior	0
+re	re	fw-mi	re	re	0
+il	il	fw-it	il	il	0
+Signor	Signor	fw-it	Signor	signor	0
+Roberto	Roberto	np1	Roberto	Roberto	0
+Dudleio	Dudleio	np1	Dudleio	Dudleio	0
+.	.	.	.	.	1

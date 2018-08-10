@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+for	for	p-acp	for	for	0
+ever	ever	av	ever	ever	0
+IEREMY	IEREMY	np1	IEREMY	Jeremy	0
+CORDEROY	CORDEROY	n1	CORDEROY	corderoy	0
+.	.	.	.	.	1

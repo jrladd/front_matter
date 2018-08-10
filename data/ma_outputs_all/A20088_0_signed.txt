@@ -1,0 +1,9 @@
+Ever	Ever	av	Ever	ever	0
+,	,	,	,	,	0
+So	So	av	So	so	0
+devoted	devoted	vvn	devoted	devote	0
+.	.	.	.	.	1
+THO	THO	np1	THO	Tho	0
+:	:	:	:	:	0
+DEKKER	DEKKER	np1	DEKKER	Dekker	0
+.	.	.	.	.	1

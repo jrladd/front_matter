@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Father	Father	n1	Father	father	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Kirkman	Kirkman	np1	Kirkman	Kirkman	0
+.	.	.	.	.	1

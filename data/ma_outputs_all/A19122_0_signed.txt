@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Welbeloued	Welbeloued	j	Well-beloved	well-beloved	0
+cosin	cosin	n1	cousin	cousin	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Colclough	Colclough	np1	Colclough	Colclough	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+moste	moste	av-ds	most	most	0
+bounder	bounder	vvb	bounder	bounder	0
+R.	R.	np1	R.	R.	0
+V.	V.	np1	V.	V.	1

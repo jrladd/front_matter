@@ -1,0 +1,10 @@
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Walter	Walter	np1	Walter	Walter	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Tarras	Tarras	n1	Terrace	terrace	0
+.	.	.	.	.	1

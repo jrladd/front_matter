@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+yours	yours	png22	yours	you	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Seruice	Seruice	n1	Service	service	0
+.	.	.	.	.	1
+MICH	MICH	np1	MICH	Mich	0
+:	:	:	:	:	0
+BARET	BARET	np1	BARET	BARET	0
+.	.	.	.	.	1

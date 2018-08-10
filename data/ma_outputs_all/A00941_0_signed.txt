@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+at	at	p-acp	at	at	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maundement	maundement	zz	maundement	maundement	0
+and	and	cc	and	and	0
+ser	ser	zz	ser	ser	0
+∣	∣	sy	∣	∣	0
+uice	uice	n1	vice	vice	0
+.	.	.	.	.	1
+Abraham	Abraham	np1	Abraham	Abraham	0
+Flemming	Flemming	np1	Flemming	Fleming	0
+.	.	.	.	.	1

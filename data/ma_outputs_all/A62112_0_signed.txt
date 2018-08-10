@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+SYMONS	SYMONS	np1	SYMONS	Symons	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+RANDALL	RANDALL	np1	RANDALL	Randall	0
+CREVV	CREVV	n1	CREVV	crew	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+one	one	crd	one	one	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+Serieants	Serieants	n2	Sergeants	sergeant	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+LAVV.	LAVV.	np1	LAVV.	Law.	1

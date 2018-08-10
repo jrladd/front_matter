@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+ever	ever	av	ever	ever	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+LOVEDAY	LOVEDAY	np1	LOVEDAY	Loveday	0
+.	.	.	.	.	1

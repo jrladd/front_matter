@@ -1,0 +1,3 @@
+Thomas	Thomas	np1	Thomas	Thomas	0
+Nabbes	Nabbes	vvz	Nabbes	nabbe	0
+.	.	.	.	.	1

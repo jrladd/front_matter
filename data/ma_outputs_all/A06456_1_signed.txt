@@ -1,0 +1,5 @@
+I	I	pns11	I	i	0
+.	.	.	.	.	1
+DE	DE	fw-fr	DE	de	0
+LVNA	LVNA	fw-la	LVNA	lvna	0
+.	.	.	.	.	1

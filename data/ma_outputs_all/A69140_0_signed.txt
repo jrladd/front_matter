@@ -1,0 +1,9 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honors	Honors	n2	Honours	honour	0
+and	and	cc	and	and	0
+Worships	Worships	ng1	Worships	worship	0
+seruice	seruice	n1	service	service	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Cooper	Cooper	np1	Cooper	Cooper	0
+.	.	.	.	.	1

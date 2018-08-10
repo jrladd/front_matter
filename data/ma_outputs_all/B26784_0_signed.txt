@@ -1,0 +1,13 @@
+Thine	Thine	png21	Thine	thou	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+offices	offices	n2	offices	office	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Charity	Charity	n1	Charity	charity	0
+and	and	cc	and	and	0
+Service	Service	n1	Service	service	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+MERITON	MERITON	np1	MERITON	MERITON	0
+.	.	.	.	.	1

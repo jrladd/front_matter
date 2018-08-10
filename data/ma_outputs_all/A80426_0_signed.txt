@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+daily	daily	j	daily	daily	0
+Orator	Orator	n1	Orator	orator	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Cooper	Cooper	np1	Cooper	Cooper	1

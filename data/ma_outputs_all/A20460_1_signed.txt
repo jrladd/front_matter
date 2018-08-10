@@ -1,0 +1,8 @@
+Gratiae	Gratiae	np1	Gratiae	Gratiae	0
+tuae	tuae	fw-la	tuae	tuus	0
+et	et	fw-la	et	et	0
+summae	summae	fw-la	summae	summae	0
+pietati	pietati	n1	pietati	pietati	0
+deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
+Robertus	Robertus	np1	Robertus	Robertus	0
+Anton.	Anton.	np1	Anton.	Anton.	1

@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+a	a	dt	a	a	0
+more	more	av-dc	more	more	0
+acceptable	acceptable	j	acceptable	acceptable	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+WEBSTER	WEBSTER	np1	WEBSTER	Webster	0
+.	.	.	.	.	1

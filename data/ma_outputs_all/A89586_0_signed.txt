@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+wholly	wholly	av-jn	wholly	whole	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+Church	Church	n1	Church	church	0
+,	,	,	,	,	0
+STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
+MARSHALL	MARSHALL	np1	MARSHALL	Marshall	0
+.	.	.	.	.	1

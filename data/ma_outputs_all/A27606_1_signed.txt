@@ -1,0 +1,13 @@
+Herein	Herein	av	Herein	herein	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+BEVERLEY	BEVERLEY	np1	BEVERLEY	Beverley	0
+.	.	.	.	.	1

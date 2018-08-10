@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+SIBBEL	SIBBEL	np1	SIBBEL	SIBBEL	0
+BOTELER	BOTELER	np1	BOTELER	Boteler	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+ever	ever	av	ever	ever	0
+honoured	honoured	j-vvn	honoured	honour	0
+Mother	Mother	n1	Mother	mother	0
+.	.	.	.	.	1

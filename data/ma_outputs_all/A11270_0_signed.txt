@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+immoouable	immoouable	j	immovable	immovable	0
+votarie	votarie	n1	votary	votary	0
+.	.	.	.	.	1
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+SABIE	SABIE	np1	SABIE	SABIE	0
+.	.	.	.	.	1

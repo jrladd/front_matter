@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+devo	devo	n1	devo	devo	0
+∣	∣	sy	∣	∣	0
+ted	ted	j	ted	ted	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Flecknoe	Flecknoe	np1	Flecknoe	Flecknoe	0
+.	.	.	.	.	1

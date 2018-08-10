@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+Charity	Charity	n1	Charity	charity	0
+.	.	.	.	.	1
+N.	N.	np1	N.	N.	0
+N.	N.	np1	N.	N.	1

@@ -1,0 +1,4 @@
+Iesus	Iesus	np1	Iesus	Jesus	0
+preserue	preserue	vvb	preserve	preserve	0
+you	you	pn22	you	you	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+ever	ever	av	ever	ever	0
+obliged	obliged	vvn	obliged	oblige	0
+to	to	pc-acp	to	to	0
+do	do	vdi	do	do	0
+you	you	pn22	you	you	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+GARTHWAIT	GARTHWAIT	np1	GARTHWAIT	GARTHWAIT	0
+.	.	.	.	.	1

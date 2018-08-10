@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+President	President	n1	President	precedent	0
+and	and	cc	and	and	0
+other	other	j-jn	other	other	0
+Members	Members	n2	Members	member	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Royal	Royal	j	Royal	royal	0
+College	College	n1	College	college	0
+of	of	pp-f	of	of	0
+Physicians	Physicians	n2	Physicians	physician	0
+,	,	,	,	,	0
+Lon	Lon	zz	Lon	lon	0
+∣	∣	sy	∣	∣	0
+don	don	n1	dONE	don	0
+.	.	.	.	.	1

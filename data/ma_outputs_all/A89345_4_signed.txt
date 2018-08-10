@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+NICH	NICH	np1	NICH	NICH	0
+.	.	.	.	.	1
+MOSLEY	MOSLEY	np1	MOSLEY	Mosley	0
+.	.	.	.	.	1

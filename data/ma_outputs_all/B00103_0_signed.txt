@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	n2	VVorships	worship	0
+ever	ever	av	ever	ever	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+affectionate	affectionate	j	affectionate	affectionate	0
+obsequie	obsequie	n1	obsequy	obsequy	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+GVILD	GVILD	j	GVILD	gvild	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+ser	ser	n1	sir	sir	0
+∣	∣	sy	∣	∣	0
+vice	vice	n1	vice	vice	0
+that	that	cst	that	that	0
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+able	able	j	able	able	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+R.	R.	np1	R.	R.	1

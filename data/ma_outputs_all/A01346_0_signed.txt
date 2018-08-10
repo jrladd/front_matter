@@ -1,0 +1,8 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Seruice	Seruice	n1	Service	service	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+:	:	:	:	:	0
+FVLLER	FVLLER	np1	FVLLER	FVLLER	0
+.	.	.	.	.	1

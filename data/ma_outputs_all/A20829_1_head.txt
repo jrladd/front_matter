@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+Lucie	Lucie	np1	Lucie	Lucy	0
+Coun	Coun	fw-mi	Coun	coun	0
+∣	∣	sy	∣	∣	0
+tesse	tesse	n1	tesse	tesse	0
+of	of	pp-f	of	of	0
+Bedford	Bedford	np1	Bedford	Bedford	0
+.	.	.	.	.	1

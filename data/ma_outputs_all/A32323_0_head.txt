@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+VERTVOVS	VERTVOVS	j	VERTVOVS	vertvovs	0
+LADY	LADY	n1	LADY	lady	0
+TEMPERANCE	TEMPERANCE	np1-n	TEMPERANCE	temperance	1

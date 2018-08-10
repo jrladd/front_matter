@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+MANCHESTER	MANCHESTER	np1	MANCHESTER	Manchester	0
+.	.	.	.	.	1

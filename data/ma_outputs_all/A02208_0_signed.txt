@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+de	de	fw-fr	de	de	0
+∣	∣	sy	∣	∣	0
+uoted	uoted	vvn	voted	vote	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+daily	daily	j	daily	daily	0
+orator	orator	n1	orator	orator	0
+.	.	.	.	.	1
+P.	P.	np1	P.	P.	0
+VV.	VV.	np1	VV.	VV.	1

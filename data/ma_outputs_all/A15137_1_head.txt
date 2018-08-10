@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+vertuous	vertuous	j	virtuous	virtuous	0
+and	and	cc	and	and	0
+equally	equally	av-jn	equally	equal	0
+beautiful	beautiful	j	beautiful	beautiful	0
+,	,	,	,	,	0
+Sra	Sra	np1	Sra	Sra	0
+Inconstanza	Inconstanza	np1	Inconstanza	Inconstanza	0
+Bellarizza	Bellarizza	fw-mi	Bellarizza	bellarizza	0
+.	.	.	.	.	1

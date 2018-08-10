@@ -1,0 +1,10 @@
+Thine	Thine	png21	Thine	thou	0
+,	,	,	,	,	0
+as	as	c-acp	as	as	0
+thou	thou	pns21	thou	thou	0
+art	art	vb2r	art	be	0
+mine	mine	png11	mine	i	0
+,	,	,	,	,	0
+MICHAEL	MICHAEL	np1	MICHAEL	Michael	0
+DRAYTON	DRAYTON	np1	DRAYTON	Drayton	0
+.	.	.	.	.	1

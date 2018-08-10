@@ -1,0 +1,14 @@
+Most	Most	ds	Most	most	0
+Gracious	Gracious	j	Gracious	gracious	0
+Soveraigne	Soveraigne	n-jn	Sovereign	sovereign	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Old	Old	j	Old	old	0
+and	and	cc	and	and	0
+Faithfull	Faithfull	j	Faithful	faithful	0
+Subject	Subject	j-jn	Subject	subject	0
+,	,	,	,	,	0
+BARTEN	BARTEN	np1	BARTEN	Barten	0
+HOLYDAY	HOLYDAY	n1	HOLYDAY	holiday	0
+.	.	.	.	.	1

@@ -1,0 +1,3 @@
+PAUL	PAUL	np1	PAUL	Paul	0
+RYCAUT	RYCAUT	np1	RYCAUT	Rycaut	0
+.	.	.	.	.	1

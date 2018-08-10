@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+respective	respective	j	respective	respective	0
+Pastour	Pastour	n1	Pastor	pastor	0
+,	,	,	,	,	0
+Ric.	Ric.	np1	Ric.	Ric.	0
+Sherlock	Sherlock	np1	Sherlock	Sherlock	0
+.	.	.	.	.	1

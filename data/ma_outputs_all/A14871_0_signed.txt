@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+WEBSTER	WEBSTER	np1	WEBSTER	Webster	0
+.	.	.	.	.	1

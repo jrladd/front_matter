@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+olde	olde	j	old	old	0
+vvelvviller	vvelvviller	jc	vvelvviller	vvelvvill	0
+,	,	,	,	,	0
+bound	bound	vvn	bound	bind	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+alwaies	alwaies	av	always	always	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+commaundement	commaundement	n1	commandment	commandment	0
+.	.	.	.	.	1
+Thomas	Thomas	np1	Thomas	Thomas	0
+Blundeuille	Blundeuille	np1	Blundeuille	Blundeuille	0
+.	.	.	.	.	1

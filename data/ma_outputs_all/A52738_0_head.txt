@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+PATRON	PATRON	n1	PATRON	patron	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+GUIDE	GUIDE	n1	GUIDE	guide	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+INFERIOUR	INFERIOUR	j-jn	INFERIOR	inferior	0
+CLERGY	CLERGY	n1	CLERGY	clergy	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+reserved	reserved	j-vvn	reserved	reserve	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Roger	Roger	np1	Roger	Roger	0
+Crab.	Crab.	np1	Crab.	Crabb	1

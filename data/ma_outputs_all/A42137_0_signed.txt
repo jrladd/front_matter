@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+Services	Services	n2	Services	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+Commanded	Commanded	vvn	Commanded	command	0
+,	,	,	,	,	0
+Alex.	Alex.	np1	Alex.	Alex.	0
+Griffith	Griffith	np1	Griffith	Griffith	0
+.	.	.	.	.	1

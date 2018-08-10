@@ -1,0 +1,8 @@
+YOUR	YOUR	po22	YOUR	your	0
+HONORS	HONORS	n2	HONORS	honour	0
+Own	Own	d	Own	own	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Forbes	Forbes	np1	Forbes	Forbes	0
+.	.	.	.	.	1

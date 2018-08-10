@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+really	really	av-j	really	real	0
+respected	respected	j-vvn	respected	respect	0
+good	good	j	good	good	0
+friends	friends	n2	friends	friend	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Ioseph	Ioseph	np1	Ioseph	Joseph	0
+and	and	cc	and	and	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Humphrey	Humphrey	np1	Humphrey	Humphrey	0
+Primate	Primate	j-jn	Primate	primate	0
+Citizens	Citizens	n2	Citizens	citizen	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

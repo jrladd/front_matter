@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+intirely	intirely	av-j	entirely	entire	0
+devoted	devoted	vvn	devoted	devote	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+D'URFEY	D'URFEY	np1	D'URFEY	D'URFEY	0
+.	.	.	.	.	1

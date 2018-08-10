@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+must	must	vmb	must	must	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+PAVL	PAVL	np1	PAVL	PAVL	0
+or	or	cc	or	or	0
+St.	St.	n1	St.	saint	0
+VBALD	VBALD	np1	VBALD	VBALD	0
+alias	alias	av	alias	alias	0
+S.	S.	n1	S.	saint	0
+B.	B.	np1	B.	B.	1

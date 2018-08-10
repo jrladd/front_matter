@@ -1,0 +1,16 @@
+YOUR	YOUR	po22	YOUR	your	0
+HONOURS	HONOURS	ng1	HONOURS	honour	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOSHUA	JOSHUA	np1	JOSHUA	Joshua	0
+BONHOME	BONHOME	np1	BONHOME	BONHOME	0
+.	.	.	.	.	1

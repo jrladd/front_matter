@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Faithful	Faithful	j	Faithful	faithful	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Ryther	Ryther	np1	Ryther	Ryther	0
+.	.	.	.	.	1

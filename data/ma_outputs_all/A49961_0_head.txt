@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+unknown	unknown	j	unknown	unknown	0
+Dispenser	Dispenser	np1	Dispenser	Dispenser	0
+of	of	pp-f	of	of	0
+a	a	dt	a	a	0
+considerable	considerable	j	considerable	considerable	0
+Kindness	Kindness	n1	Kindness	kindness	0
+,	,	,	,	,	0
+on	on	p-acp	on	on	0
+Thursday	Thursday	np1	Thursday	Thursday	0
+Febr.	Febr.	np1	Febr.	Febr.	1
+4.	4.	crd	4.	4.	0
+1674.	1674.	crd	1674.	1674.	1

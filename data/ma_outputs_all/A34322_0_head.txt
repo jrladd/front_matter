@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+LADY	LADY	n1	LADY	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+BRƲCE	BRƲCE	n1	BRƲCE	brʋce	0
+.	.	.	.	.	1

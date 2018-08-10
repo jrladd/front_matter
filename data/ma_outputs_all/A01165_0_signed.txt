@@ -1,0 +1,12 @@
+Though	Though	cs	Though	though	0
+namelesse	namelesse	j	nameless	nameless	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+alwayes	alwayes	av	always	always	0
+by	by	p-acp	by	by	0
+your	your	po22	your	your	0
+worship	worship	n1	worship	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+bly	bly	zz	bly	bly	0
+devoted	devoted	vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Francesco	Francesco	np1	Francesco	Francisco	0
+Portonari	Portonari	np1	Portonari	Portonari	0
+.	.	.	.	.	1

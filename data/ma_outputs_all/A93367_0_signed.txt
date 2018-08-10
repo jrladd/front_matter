@@ -1,0 +1,12 @@
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Collier	Collier	n1	Collier	collier	0
+.	.	.	.	.	1

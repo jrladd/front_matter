@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+OBADIAH	OBADIAH	np1	OBADIAH	Obadiah	0
+SEDGVVICK	SEDGVVICK	np1	SEDGVVICK	SEDGVVICK	0
+.	.	.	.	.	1

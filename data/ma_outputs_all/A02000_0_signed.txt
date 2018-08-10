@@ -1,0 +1,16 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Highnesses	Highnesses	n2	Highnesses	highness	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+observance	observance	n1	observance	observance	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Style	Style	n1	Style	style	0
+.	.	.	.	.	1

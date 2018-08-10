@@ -1,0 +1,4 @@
+Ad	Ad	fw-la	Ad	ad	0
+CAROLVM	CAROLVM	np1	CAROLVM	CAROLVM	0
+Principem	Principem	fw-la	Principem	principem	0
+.	.	.	.	.	1

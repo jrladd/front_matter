@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Beadesman	Beadesman	n1	Beadsman	beadsman	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+F.	F.	np1	F.	F.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+THE	THE	dt	THE	the	0
+MAYOR	MAYOR	n1	MAYOR	mayor	0
+,	,	,	,	,	0
+ALDERMEN	ALDERMEN	n2	ALDERMEN	alderman	0
+and	and	cc	and	and	0
+SHERIFF	SHERIFF	n1	SHERIFF	sheriff	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	0
+of	of	pp-f	of	of	0
+New-Castle	New-Castle	np1	New-Castle	Newcastle	0
+upon	upon	p-acp	upon	upon	0
+Tyne	Tyne	np1	Tyne	Tyne	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Parishioners	Parishioners	n2	Parishioners	parishioner	0
+of	of	pp-f	of	of	0
+St.	St.	n1	St.	saint	0
+Martins	Martins	np1	Martins	Martins	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Fields	Fields	n2	Fields	field	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+St.	St.	n1	St.	saint	0
+James	James	np1	James	James	0
+Westminster	Westminster	np1	Westminster	Westminster	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+worthy	worthy	j	worthy	worthy	0
+friend	friend	n1	friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	1
+Hig	Hig	fw-la	Hig	hig	0
+∣	∣	sy	∣	∣	0
+gons	gons	ng1	gons	gons	0
+,	,	,	,	,	0
+upon	upon	p-acp	upon	upon	0
+his	his	po31	his	his	0
+Translation	Translation	n1	Translation	translation	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Venetian	Venetian	jp	Venetian	venetian	0
+Triumph	Triumph	n1	Triumph	triumph	0
+.	.	.	.	.	1

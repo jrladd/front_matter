@@ -1,0 +1,4 @@
+EDW	EDW	np1	EDW	Edw	0
+.	.	.	.	.	1
+PHILLIPS	PHILLIPS	np1	PHILLIPS	Phillips	0
+.	.	.	.	.	1

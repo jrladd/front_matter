@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Com	Com	vvi	Come	come	0
+∣	∣	sy	∣	∣	0
+mons	mons	fw-la	mons	mons	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+,	,	,	,	,	0
+assembled	assembled	vvn	assembled	assemble	0
+IN	IN	p-acp	IN	in	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+.	.	.	.	.	1

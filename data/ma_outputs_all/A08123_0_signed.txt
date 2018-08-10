@@ -1,0 +1,6 @@
+Thy	Thy	po21	Thy	thy	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+MOVRT	MOVRT	np1	MOVRT	MOVRT	0
+.	.	.	.	.	1

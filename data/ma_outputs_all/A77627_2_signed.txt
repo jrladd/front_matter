@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+our	our	po12	our	our	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+Io	Io	uh	Io	io	0
+:	:	:	:	:	0
+Brooksbank	Brooksbank	np1	Brooksbank	Brooksbank	0
+.	.	.	.	.	1

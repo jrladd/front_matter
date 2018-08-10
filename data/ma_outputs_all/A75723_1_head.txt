@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Christian	Christian	njp	Christian	christian	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Catholick	Catholick	njp	Catholic	catholic	0
+Reader	Reader	n1	Reader	reader	0
+.	.	.	.	.	1

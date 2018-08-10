@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+right	right	j-jn	right	right	0
+worshipfull	worshipfull	j	worshipful	worshipful	0
+suster	suster	n1	sister	sister	0
+dame	dame	n1	dame	dame	0
+Suzan	Suzan	np1	Suzan	Suzan	0
+Kyngestone	Kyngestone	np1	Kyngestone	Kyngestone	0
+.	.	.	.	.	1

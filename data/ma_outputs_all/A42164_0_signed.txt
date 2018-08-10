@@ -1,0 +1,2 @@
+Farewel	Farewel	n1	Farewell	farewell	0
+.	.	.	.	.	1

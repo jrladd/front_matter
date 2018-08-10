@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+ROYAL-HIGHNESS	ROYAL-HIGHNESS	n1	ROYAL-HIGHNESS	royal-highness	0
+Prince	Prince	n1	Prince	prince	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+OF	OF	pp-f	OF	of	0
+DENMARK	DENMARK	np1	DENMARK	Denmark	0
+.	.	.	.	.	1

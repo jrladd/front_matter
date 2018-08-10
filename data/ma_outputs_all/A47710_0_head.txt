@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Brittanick	Brittanick	n1	Brittanick	brittanick	0
+Majesty	Majesty	n1	Majesty	majesty	0
+.	.	.	.	.	1

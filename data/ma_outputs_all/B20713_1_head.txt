@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+AFFECTIONATE	AFFECTIONATE	j	AFFECTIONATE	affectionate	0
+,	,	,	,	,	0
+UNTO	UNTO	p-acp	UNTO	unto	0
+THE	THE	dt	THE	the	0
+Italian	Italian	jp	Italian	italian	0
+NATION	NATION	n1	NATION	nation	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+LANGUAGE	LANGUAGE	n1	LANGUAGE	language	0
+.	.	.	.	.	1

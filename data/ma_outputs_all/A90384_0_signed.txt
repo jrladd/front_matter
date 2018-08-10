@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Head	Head	n1	Head	head	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+COX	COX	np1	COX	Cox	1

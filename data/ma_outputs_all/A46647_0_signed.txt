@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Votarie	Votarie	n1	Votary	votary	0
+:	:	:	:	:	0
+and	and	cc	and	and	0
+Vassals	Vassals	n2	Vassals	vassal	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Garfeild	Garfeild	np1	Garfeild	Garfeild	0
+,	,	,	,	,	0
+Bibliopola	Bibliopola	np1	Bibliopola	Bibliopola	0
+.	.	.	.	.	1

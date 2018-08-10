@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+of	of	pp-f	of	of	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+WILL	WILL	n1	WILL	will	0
+.	.	.	.	.	1
+BRIDGE	BRIDGE	n1	BRIDGE	bridge	0
+.	.	.	.	.	1

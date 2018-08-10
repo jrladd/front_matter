@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+with	with	p-acp	with	with	0
+my	my	po11	my	my	0
+best	best	js	best	best	0
+wishes	wishes	n2	wishes	wish	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

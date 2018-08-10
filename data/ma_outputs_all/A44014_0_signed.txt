@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HOBBES	HOBBES	np1	HOBBES	Hobbes	0
+.	.	.	.	.	1

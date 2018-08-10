@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+COUNTS	COUNTS	n2	COUNTS	count	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+EMPIRE	EMPIRE	n1	EMPIRE	empire	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

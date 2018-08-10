@@ -1,0 +1,16 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+obseruance	obseruance	n1	observance	observance	0
+and	and	cc	and	and	0
+hearty	hearty	j	hearty	hearty	0
+prayer	prayer	n1	prayer	prayer	0
+to	to	p-acp	to	to	0
+God	God	np1	God	God	0
+for	for	p-acp	for	for	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+BRINSLEY	BRINSLEY	np1	BRINSLEY	Brinsley	0
+.	.	.	.	.	1

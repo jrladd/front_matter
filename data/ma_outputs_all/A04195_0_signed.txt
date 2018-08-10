@@ -1,0 +1,15 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+surest	surest	js	surest	sure	0
+bonds	bonds	n2	bonds	bond	0
+of	of	pp-f	of	of	0
+sincere	sincere	j	sincere	sincere	0
+loue	loue	n1	love	love	0
+and	and	cc	and	and	0
+obseruance	obseruance	n1	observance	observance	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+IACKSON	IACKSON	np1	IACKSON	IACKSON	0
+.	.	.	.	.	1

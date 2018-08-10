@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+very	very	j	very	very	0
+friends	friends	n2	friends	friend	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+Iames	Iames	np1	Iames	Iames	0
+Taylor	Taylor	np1	Taylor	Taylor	0
+&	&	cc	&	and	0
+M.	M.	n1	M.	m.	0
+Ranulph	Ranulph	np1	Ranulph	Ranulph	0
+Barlow	Barlow	np1	Barlow	Barlow	0
+.	.	.	.	.	1

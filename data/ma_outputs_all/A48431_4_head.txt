@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+dear	dear	j-jn	dear	dear	0
+Friends	Friends	n2	Friends	friend	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Students	Students	n2	Students	student	0
+of	of	pp-f	of	of	0
+Katharine-Hall	Katharine-Hall	n1	Katharine-Hall	katharine-hall	0
+,	,	,	,	,	0
+Health	Health	n1	Health	health	0
+.	.	.	.	.	1

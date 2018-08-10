@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+M.	M.	n1	M.	m.	1

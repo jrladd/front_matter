@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Blagraue	Blagraue	np1	Blagraue	Blagraue	0
+.	.	.	.	.	1

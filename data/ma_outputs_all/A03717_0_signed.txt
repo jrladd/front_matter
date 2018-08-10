@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+HOSKINS	HOSKINS	np1	HOSKINS	Hoskins	0
+.	.	.	.	.	1

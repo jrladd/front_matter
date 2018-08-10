@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+MILLER	MILLER	n1	MILLER	miller	0
+.	.	.	.	.	1

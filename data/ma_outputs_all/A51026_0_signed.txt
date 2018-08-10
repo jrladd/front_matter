@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Oblidged	Oblidged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Cordial	Cordial	j	Cordial	cordial	0
+Well-Wisher	Well-Wisher	j	Wellwisher	wellwish	0
+JO	JO	np1	JO	Jo	0
+:	:	:	:	:	0
+MACKQƲEEN	MACKQƲEEN	n1	MACKQƲEEN	mackqʋeen	0
+.	.	.	.	.	1

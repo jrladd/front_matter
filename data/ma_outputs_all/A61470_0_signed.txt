@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+lowest	lowest	js	lowest	low	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+:	:	:	:	:	0
+PETER	PETER	np1	PETER	Peter	0
+STERRY	STERRY	np1	STERRY	STERRY	0
+.	.	.	.	.	1

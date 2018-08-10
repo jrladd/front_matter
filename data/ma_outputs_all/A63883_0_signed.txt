@@ -1,0 +1,14 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Fran.	Fran.	np1	Fran.	Fran.	0
+Roffens	Roffens	vvz	Roffens	roffen	0
+.	.	.	.	.	1

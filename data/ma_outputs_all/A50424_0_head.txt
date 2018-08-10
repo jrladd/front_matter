@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+PEREGRENE	PEREGRENE	n1	PEREGRENE	peregrene	0
+BERTIE	BERTIE	np1	BERTIE	Bertie	0
+,	,	,	,	,	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+H.	H.	np1	H.	H.	0
+G.	G.	np1	G.	G.	1

@@ -1,0 +1,8 @@
+decorative	decorative	j	decorative	decorative	0
+headpiece	headpiece	n1	headpiece	headpiece	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Honour'd	Honour'd	j-vvn	Honoured	honour	0
+LUCINDA	LUCINDA	np1	LUCINDA	Lucinda	0
+.	.	.	.	.	1

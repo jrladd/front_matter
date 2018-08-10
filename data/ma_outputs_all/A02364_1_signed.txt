@@ -1,0 +1,15 @@
+Youre	Youre	pn22|vbr	Your	you|be	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	ds	most	most	0
+obe	obe	n1	obe	obe	0
+∣	∣	sy	∣	∣	0
+dient	dient	j	dient	dient	0
+subiecte	subiecte	n-jn	subject	subject	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+servitoure	servitoure	n1	servitoure	servitoure	0
+GVILLEMEAV	GVILLEMEAV	vvi	GVILLEMEAV	gvillemeav	0
+.	.	.	.	.	1

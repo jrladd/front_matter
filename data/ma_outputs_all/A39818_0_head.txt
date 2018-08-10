@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+William	William	np1	William	William	0
+Harris	Harris	np1	Harris	Harris	0
+D.D.	D.D.	np1	D.D.	D.D.	0
+Schoolmaster	Schoolmaster	n1	Schoolmaster	schoolmaster	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+College	College	n1	College	college	0
+near	near	av-j	near	near	0
+Winton	Winton	np1	Winton	Winton	0
+.	.	.	.	.	1

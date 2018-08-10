@@ -1,0 +1,5 @@
+THE	THE	dt	THE	the	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+TO	TO	p-acp	TO	to	0
+CELIA	CELIA	np1	CELIA	Celia	0
+.	.	.	.	.	1

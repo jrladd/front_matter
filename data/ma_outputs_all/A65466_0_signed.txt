@@ -1,0 +1,9 @@
+Their	Their	po32	Their	their	0
+hearty	hearty	j	hearty	hearty	0
+Well-wisher	Well-wisher	j	Wellwisher	wellwish	0
+And	And	cc	And	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+S.	S.	np1	S.	S.	0
+Wesley	Wesley	np1	Wesley	Wesley	0
+.	.	.	.	.	1

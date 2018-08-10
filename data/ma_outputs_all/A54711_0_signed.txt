@@ -1,0 +1,2 @@
+Ephelia	Ephelia	np1	Ephelia	Ephelia	0
+.	.	.	.	.	1

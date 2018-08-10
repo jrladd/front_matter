@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+comman	comman	j	commn	common	0
+∣	∣	sy	∣	∣	0
+ded	ded	j	dead	dead	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+M.	M.	n1	M.	m.	1

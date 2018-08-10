@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+Cousin	Cousin	n1	Cousin	cousin	0
+,	,	,	,	,	0
+Master	Master	n1	Master	master	0
+Ambrose	Ambrose	np1	Ambrose	Ambrose	0
+Hargreves	Hargreves	np1	Hargreves	Hargreves	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

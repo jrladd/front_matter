@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+Iohn	Iohn	np1	Iohn	John	0
+Frampton	Frampton	np1	Frampton	Frampton	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Hienes	Hienes	n1	Hienes	hienes	0
+maist	maist	vm2	mayest	may	0
+humble	humble	vvi	humble	humble	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commandit	commandit	n1	commandit	commandit	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+BVREL	BVREL	n1	BVREL	bvrel	0
+.	.	.	.	.	1

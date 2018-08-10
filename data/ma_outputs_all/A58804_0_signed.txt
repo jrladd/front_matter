@@ -1,0 +1,14 @@
+Her	Her	po31	Her	her	0
+Honours	Honours	ng1	Honours	honour	0
+,	,	,	,	,	0
+Most	Most	ds	Most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Humphrey	Humphrey	np1	Humphrey	Humphrey	0
+Zouch	Zouch	vvb	Zouch	zouch	0
+.	.	.	.	.	1

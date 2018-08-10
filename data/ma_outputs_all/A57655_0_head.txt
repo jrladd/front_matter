@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+LUCY	LUCY	np1	LUCY	Lucy	0
+Esq	Esq	np1	Esq	Esq	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+OBADIAH	OBADIAH	np1	OBADIAH	Obadiah	0
+SEDGWICK	SEDGWICK	np1	SEDGWICK	Sedgwick	0
+.	.	.	.	.	1

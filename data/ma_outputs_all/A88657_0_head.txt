@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+honored	honored	j-vvn	honoured	honour	0
+Vncle	Vncle	n1	Uncle	uncle	0
+,	,	,	,	,	0
+MICHAEL	MICHAEL	np1	MICHAEL	Michael	0
+MALET	MALET	np1	MALET	Malet	0
+of	of	pp-f	of	of	0
+Poyntington	Poyntington	np1	Poyntington	Poyntington	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+Sommerset	Sommerset	np1	Sommerset	Somerset	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

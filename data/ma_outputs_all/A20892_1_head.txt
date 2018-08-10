@@ -1,0 +1,8 @@
+The	The	dt	The	the	0
+Authors	Authors	ng1	Authors	author	0
+Dedication	Dedication	n1	Dedication	dedication	0
+TO	TO	p-acp	TO	to	0
+MADAM	MADAM	n1	MADAM	madam	0
+DE	DE	fw-fr	DE	de	0
+PISIEVX	PISIEVX	np1	PISIEVX	PISIEVX	0
+.	.	.	.	.	1

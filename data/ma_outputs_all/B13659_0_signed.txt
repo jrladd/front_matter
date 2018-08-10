@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+hum	hum	n1	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+:	:	:	:	:	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+FVLBECKE	FVLBECKE	np1	FVLBECKE	FVLBECKE	0
+.	.	.	.	.	1

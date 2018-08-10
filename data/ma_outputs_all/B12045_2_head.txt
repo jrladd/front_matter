@@ -1,0 +1,7 @@
+INVOCATIO	INVOCATIO	np1	INVOCATIO	INVOCATIO	0
+,	,	,	,	,	0
+Ad	Ad	fw-la	Ad	ad	0
+Apollinem	Apollinem	fw-la	Apollinem	apollo	0
+&	&	cc	&	and	0
+Pierides	Pierides	np1	Pierides	Pierides	0
+.	.	.	.	.	1

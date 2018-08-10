@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+GRACE	GRACE	n1	GRACE	grace	0
+THE	THE	dt	THE	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Beauford	Beauford	np1	Beauford	Beauford	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

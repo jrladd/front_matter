@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+CAPTAINES	CAPTAINES	n2	CAPTAINES	captain	0
+.	.	.	.	.	1

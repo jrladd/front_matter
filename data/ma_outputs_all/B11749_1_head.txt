@@ -1,0 +1,7 @@
+Anag	Anag	np1	Anag	Anag	0
+.	.	.	.	.	1
+Heere	Heere	av	Here	here	0
+a	a	dt	a	a	0
+blest	blest	j-vvn	blessed	bless	0
+birth	birth	n1	birth	birth	0
+.	.	.	.	.	1

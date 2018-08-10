@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+NESS	NESS	np1	NESS	Ness	0
+.	.	.	.	.	1

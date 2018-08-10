@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Swadlin	Swadlin	np1	Swadlin	Swadlin	0
+.	.	.	.	.	1

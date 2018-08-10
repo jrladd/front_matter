@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humbl	humbl	j	humbl	humbl	0
+devo	devo	n1	devo	devo	0
+and	and	cc	and	and	0
+ection	ection	n1	ection	ection	0
+,	,	,	,	,	0
+A.	A.	np1	A.	A.	0
+D.	D.	np1	D.	D.	0
+B.	B.	sy	B.	b	1

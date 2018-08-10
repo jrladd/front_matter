@@ -1,0 +1,5 @@
+Well-beloved	Well-beloved	j	Well-beloved	well-beloved	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1

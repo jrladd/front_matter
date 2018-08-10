@@ -1,0 +1,14 @@
+YOVR	YOVR	po22	YOUR	your	0
+MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
+MOst	MOst	ds	MOst	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+vnworthie	vnworthie	j	unworthy	unworthy	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+uant	uant	n1	uant	vaunt	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+LEVER	LEVER	np1	LEVER	Lever	0
+;	;	;	;	;	1

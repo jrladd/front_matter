@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+JOHN	JOHN	np1	JOHN	John	0
+LORD	LORD	n1	LORD	lord	0
+CUTTS	CUTTS	vvz	CUTS	cut	0
+,	,	,	,	,	0
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+GOWRAN	GOWRAN	np1	GOWRAN	Gowran	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

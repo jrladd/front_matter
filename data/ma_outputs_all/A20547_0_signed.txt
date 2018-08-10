@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+duties	duties	n2	duties	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Dod	Dod	np1	Dod	Dod	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Cleauer	Cleauer	np1	Cleauer	Cleauer	0
+.	.	.	.	.	1

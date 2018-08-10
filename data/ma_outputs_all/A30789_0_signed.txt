@@ -1,0 +1,3 @@
+IOHN	IOHN	np1	IOHN	John	0
+BANCROFT	BANCROFT	np1	BANCROFT	Bancroft	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+Richard	Richard	np1	Richard	Richard	0
+Wilkinson	Wilkinson	np1	Wilkinson	Wilkinson	0
+.	.	.	.	.	1

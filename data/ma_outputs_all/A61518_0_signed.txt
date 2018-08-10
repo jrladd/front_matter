@@ -1,0 +1,11 @@
+Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
+vestrae	vestrae	fw-la	vestrae	vestrae	0
+Humillimo	Humillimo	fw-la	Humillimo	humillimo	0
+Cultori	Cultori	fw-la	Cultori	cultori	0
+,	,	,	,	,	0
+Clientum	Clientum	fw-la	Clientum	clientum	0
+infimo	infimo	fw-la	infimo	infimo	0
+,	,	,	,	,	0
+JOANNI	JOANNI	np1	JOANNI	JOANNI	0
+STILEMAN	STILEMAN	np1	STILEMAN	STILEMAN	0
+.	.	.	.	.	1

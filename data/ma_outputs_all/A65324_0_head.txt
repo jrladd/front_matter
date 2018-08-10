@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+ever	ever	av	ever	ever	0
+Honour'd	Honour'd	j-vvn	Honoured	honour	0
+Friends	Friends	n2	Friends	friend	0
+,	,	,	,	,	0
+Benefactors	Benefactors	n2	Benefactors	benefactor	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Loving	Loving	j-vvg	Loving	love	0
+Neighbours	Neighbours	n2	Neighbours	neighbour	0
+.	.	.	.	.	1

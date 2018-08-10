@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+dayly	dayly	j	daily	daily	0
+welwisher	welwisher	n1	wellwisher	wellwisher	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Haywarde	Haywarde	j	Haywarde	haywarde	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+These	These	np1	These	Theise	0
+12.	12.	crd	12.	12.	0
+bee	bee	vbb	be	be	0
+called	called	vvn	called	call	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+small	small	j	small	small	0
+Prophets	Prophets	n2	Prophets	prophet	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+Iosiah	Iosiah	np1	Iosiah	Iosiah	0
+Church	Church	n1	Church	church	0
+.	.	.	.	.	1

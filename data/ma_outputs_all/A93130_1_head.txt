@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRULY	TRULY	av-j	TRULY	true	0
+VERTUOUS	VERTUOUS	j	VIRTUOUS	virtuous	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+Rebecca	Rebecca	np1	Rebecca	Rebecca	0
+Bingdloss	Bingdloss	n1	Bingdloss	bingdloss	0
+.	.	.	.	.	1

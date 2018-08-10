@@ -1,0 +1,12 @@
+Ad	Ad	fw-la	Ad	ad	0
+fratres	fratres	fw-la	fratres	fratres	0
+in	in	p-acp	in	in	0
+Ministerio	Ministerio	np1	Ministerio	Ministerio	0
+de	de	fw-fr	de	de	0
+hoc	hoc	fw-la	hoc	hoc	0
+Autorum	Autorum	fw-la	Autorum	autorum	0
+Catalogo	Catalogo	np1	Catalogo	Catalogo	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+sequentibus	sequentibus	fw-la	sequentibus	sequentibus	0
+.	.	.	.	.	1

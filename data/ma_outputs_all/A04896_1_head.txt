@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+much	much	d	much	much	0
+respected	respected	j-vvn	respected	respect	0
+friends	friends	n2	friends	friend	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Society	Society	n1	Society	society	0
+of	of	pp-f	of	of	0
+Florists	Florists	n2	Florists	florist	0
+.	.	.	.	.	1

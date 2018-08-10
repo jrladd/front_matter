@@ -1,0 +1,8 @@
+your	your	po22	your	your	0
+Sonne	Sonne	n1	Son	son	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospell	Gospell	n1	Gospel	gospel	0
+J.	J.	np1	J.	J.	0
+TICKELL	TICKELL	np1	TICKELL	Tickell	0
+.	.	.	.	.	1

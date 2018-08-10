@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Incomparably	Incomparably	av-j	Incomparably	incomparable	0
+Excellent	Excellent	j	Excellent	excellent	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+DELARIVIER	DELARIVIER	np1	DELARIVIER	DELARIVIER	0
+MANLEY	MANLEY	np1	MANLEY	Manley	0
+.	.	.	.	.	1

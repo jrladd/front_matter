@@ -1,0 +1,3 @@
+MARTIN	MARTIN	np1	MARTIN	Martin	0
+PEERSON	PEERSON	n1	PEERSON	peerson	0
+.	.	.	.	.	1

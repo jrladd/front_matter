@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+respective	respective	j	respective	respective	0
+friend	friend	n1	friend	friend	0
+Edward	Edward	np1	Edward	Edward	0
+Albiston	Albiston	np1	Albiston	Albiston	0
+.	.	.	.	.	1

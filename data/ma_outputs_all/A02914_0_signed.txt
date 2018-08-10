@@ -1,0 +1,4 @@
+Tho	Tho	np1	Tho	Tho	0
+:	:	:	:	:	0
+Helvvys	Helvvys	np1	Helvvys	Helvvys	0
+.	.	.	.	.	1

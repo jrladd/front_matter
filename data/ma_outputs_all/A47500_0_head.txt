@@ -1,0 +1,6 @@
+I	I	pns11	I	i	0
+Dedicate	Dedicate	j	Dedicate	dedicate	0
+this	this	d	this	this	0
+Little	Little	j	Little	little	0
+Book	Book	n1	Book	book	0
+.	.	.	.	.	1

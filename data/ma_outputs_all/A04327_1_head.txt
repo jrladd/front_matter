@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+my	my	po11	my	my	0
+good	good	j	good	good	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+William	William	np1	William	William	0
+Barlow	Barlow	np1	Barlow	Barlow	0
+at	at	p-acp	at	at	0
+Easton	Easton	np1	Easton	Easton	0
+by	by	p-acp	by	by	0
+Winchester	Winchester	np1	Winchester	Winchester	0
+.	.	.	.	.	1

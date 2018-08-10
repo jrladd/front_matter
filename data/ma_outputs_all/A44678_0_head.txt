@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Henry	Henry	np1	Henry	Henry	0
+Sampson	Sampson	np1	Sampson	Samson	0
+.	.	.	.	.	1

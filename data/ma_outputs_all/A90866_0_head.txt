@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+Lord	Lord	n1	Lord	lord	0
+Coventry	Coventry	np1	Coventry	Coventry	0
+,	,	,	,	,	0
+Bron	Bron	np1	Bron	Bron	0
+of	of	pp-f	of	of	0
+Ailesbury	Ailesbury	np1	Ailesbury	Ailesbury	0
+,	,	,	,	,	0
+Peace	Peace	n1	Peace	peace	0
+and	and	cc	and	and	0
+Truth	Truth	n1	Truth	truth	0
+.	.	.	.	.	1

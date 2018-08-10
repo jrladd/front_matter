@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+that	that	d	that	that	0
+Kingdom	Kingdom	n1	Kingdom	kingdom	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+BEVERLEY	BEVERLEY	np1	BEVERLEY	Beverley	0
+.	.	.	.	.	1

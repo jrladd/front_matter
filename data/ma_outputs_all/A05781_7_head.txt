@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Iohn	Iohn	np1	Iohn	John	0
+Smith	Smith	n1	Smith	smith	0
+of	of	pp-f	of	of	0
+Olde-Hunger	Olde-Hunger	n1	Olde-Hunger	olde-hunger	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+worthie	worthie	j	worthy	worthy	0
+fauourer	fauourer	n1	favourer	favourer	0
+of	of	pp-f	of	of	0
+learning	learning	n1	learning	learning	0
+.	.	.	.	.	1

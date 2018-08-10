@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+JAMES	JAMES	np1	JAMES	James	0
+,	,	,	,	,	0
+EARL	EARL	n1	EARL	earl	0
+of	of	pp-f	of	of	0
+ABINGDON	ABINGDON	np1	ABINGDON	Abingdon	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

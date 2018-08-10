@@ -1,0 +1,12 @@
+REVERENDISSIMO	REVERENDISSIMO	n1	REVERENDISSIMO	reverendissimo	0
+IN	IN	p-acp	IN	in	0
+Christo	Christo	fw-la	Christo	christo	0
+patri	patri	fw-la	patri	patri	0
+Domino	Domino	fw-la	Domino	domino	0
+Iohanni	Iohanni	np1	Iohanni	Iohanni	0
+Londinensi	Londinensi	fw-la	Londinensi	londinensi	0
+Episcopo	Episcopo	np1	Episcopo	Episcopo	0
+vigi	vigi	fw-la	vigi	vigi	0
+∣	∣	sy	∣	∣	0
+lantissimo	lantissimo	n1	lantissimo	lantissimo	0
+.	.	.	.	.	1

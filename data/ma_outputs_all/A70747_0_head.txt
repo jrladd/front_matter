@@ -1,0 +1,6 @@
+ORIGEN's	ORIGEN's	npg1	ORIGEN's	origen	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+Ambrosius	Ambrosius	np1	Ambrosius	Ambrose	0
+.	.	.	.	.	1

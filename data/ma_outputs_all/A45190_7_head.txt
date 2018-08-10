@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+them	them	pno32	them	they	0
+who	who	r-crq	who	who	0
+through	through	p-acp	through	through	0
+the	the	dt	the	the	0
+whole	whole	j-jn	whole	whole	0
+Israel	Israel	np1	Israel	Israel	0
+of	of	pp-f	of	of	0
+God	God	np1	God	God	0
+follow	follow	vvb	follow	follow	0
+Absolom	Absolom	np1	Absolom	Absolom	0
+with	with	p-acp	with	with	0
+a	a	dt	a	a	0
+simple	simple	j	simple	simple	0
+heart	heart	n1	heart	heart	0
+.	.	.	.	.	1

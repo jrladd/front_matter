@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Hearty	Hearty	j	Hearty	hearty	0
+and	and	cc	and	and	0
+Well	Well	av	Well	well	0
+∣	∣	sy	∣	∣	0
+wishing	wishing	vvg	wishing	wish	0
+Friend	Friend	n1	Friend	friend	0
+GEO	GEO	np1	GEO	Geo	0
+.	.	.	.	.	1
+WITHER	WITHER	np1	WITHER	Wither	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+most	most	av-ds	most	most	0
+obseruant	obseruant	j	observant	observant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Marcelline	Marcelline	np1	Marcelline	Marcelline	0
+.	.	.	.	.	1

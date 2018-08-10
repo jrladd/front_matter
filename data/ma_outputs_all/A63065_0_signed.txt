@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+obsequious	obsequious	j	obsequious	obsequious	0
+son	son	n1	son	son	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Trapp	Trapp	np1	Trapp	Trapp	0
+.	.	.	.	.	1

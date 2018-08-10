@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+Mris.	Mris.	n1	Mris.	mrs.	0
+Reynolds	Reynolds	np1	Reynolds	Reynolds	0
+.	.	.	.	.	1

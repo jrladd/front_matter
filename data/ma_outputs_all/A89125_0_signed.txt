@@ -1,0 +1,12 @@
+Devoted	Devoted	j-vvn	Devoted	devote	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Gospell	Gospell	n1	Gospel	gospel	0
+offices	offices	n2	offices	office	0
+,	,	,	,	,	0
+STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
+MIDHOPE	MIDHOPE	np1	MIDHOPE	MIDHOPE	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+euer	euer	av	ever	ever	0
+at	at	p-acp	at	at	0
+commaunde	commaunde	vvi	command	command	0
+Frauncis	Frauncis	np1	Frauncis	Francis	0
+Riuers	Riuers	n2	Rivers	river	0
+.	.	.	.	.	1

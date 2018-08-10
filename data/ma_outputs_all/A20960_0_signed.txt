@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+affectio	affectio	fw-la	affectio	affectio	0
+∣	∣	sy	∣	∣	0
+nate	nate	fw-fr	nate	nate	0
+and	and	cc	and	and	0
+much	much	av-d	much	much	0
+bounden	bounden	vvn	bounden	bind	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Goring	Goring	np1	Goring	Goring	0
+.	.	.	.	.	1

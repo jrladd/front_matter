@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Kins	Kins	np1	Kins	Kins	0
+∣	∣	sy	∣	∣	0
+man	man	n1	man	man	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+.	.	.	.	.	1
+ISAAC	ISAAC	np1	ISAAC	Isaac	0
+LOEFFS	LOEFFS	np1	LOEFFS	LOEFFS	0
+.	.	.	.	.	1

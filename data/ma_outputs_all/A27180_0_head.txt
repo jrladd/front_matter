@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+LORD	LORD	n1	LORD	lord	0
+JEFFEREYS	JEFFEREYS	vvz	JEFFEREYS	jefferey	0
+,	,	,	,	,	0
+BARON	BARON	n1	BARON	baron	0
+of	of	pp-f	of	of	0
+WEM	WEM	np1	WEM	Wem	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

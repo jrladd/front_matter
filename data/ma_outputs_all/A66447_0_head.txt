@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Vane	Vane	np1	Vane	Vane	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Younger	Younger	jc	Younger	young	0
+.	.	.	.	.	1

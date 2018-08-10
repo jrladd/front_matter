@@ -1,0 +1,6 @@
+G.	G.	np1	G.	G.	0
+Buchannani	Buchannani	np1	Buchannani	Buchannani	0
+Baptistes	Baptistes	np1	Baptistes	Baptistes	0
+,	,	,	,	,	0
+Chorus	Chorus	n1	Chorus	chorus	0
+1.	1.	crd	1.	1.	1

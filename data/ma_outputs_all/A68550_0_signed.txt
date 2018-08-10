@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+loyally	loyally	av-j	loyally	loyal	0
+devoted	devoted	vvn	devoted	devote	0
+Subiect	Subiect	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+:	:	:	:	:	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BERNARD	BERNARD	np1	BERNARD	Bernard	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Royal	Royal	j	Royal	royal	0
+Highnesse	Highnesse	n1	Highness	highness	0
+the	the	dt	the	the	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Yorke	Yorke	np1	Yorke	York	0
+.	.	.	.	.	1

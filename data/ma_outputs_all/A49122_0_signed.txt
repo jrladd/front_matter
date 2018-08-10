@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+Most	Most	av-ds	Most	most	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+LONG	LONG	j	LONG	long	0
+.	.	.	.	.	1

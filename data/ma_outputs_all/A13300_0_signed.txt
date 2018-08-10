@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+Raph	Raph	np1	Raph	Ralph	0
+Blower	Blower	n1	Blower	blower	0
+.	.	.	.	.	1

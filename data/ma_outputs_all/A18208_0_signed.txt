@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+seruant	seruant	n1	servant	servant	0
+euer	euer	av	ever	ever	0
+during	during	p-acp	during	during	0
+his	his	po31	his	his	0
+life	life	n1	life	life	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+HEIGHAM	HEIGHAM	np1	HEIGHAM	HEIGHAM	0
+▪	▪	▪	▪	▪	1

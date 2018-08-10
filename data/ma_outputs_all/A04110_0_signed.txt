@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+honourable	honourable	j	honourable	honourable	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+deuo	deuo	fw-la	deuo	deuo	0
+∣	∣	sy	∣	∣	0
+ted	ted	j	ted	ted	0
+remembrancer	remembrancer	n1	remembrancer	remembrancer	0
+in	in	p-acp	in	in	0
+his	his	po31	his	his	0
+praiers	praiers	n2	prayers	prayer	0
+.	.	.	.	.	1
+LAVRENCE	LAVRENCE	np1	LAVRENCE	LAVRENCE	0
+BARKER	BARKER	np1	BARKER	Barker	0
+.	.	.	.	.	1

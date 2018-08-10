@@ -1,0 +1,3 @@
+Semper	Semper	fw-la	Semper	semper	0
+Arcto-phylos	Arcto-phylos	j	Arcto-phylos	arcto-phylos	0
+.	.	.	.	.	1

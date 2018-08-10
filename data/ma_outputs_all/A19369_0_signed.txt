@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+poore	poore	j	poor	poor	0
+freend	freend	n1	friend	friend	0
+and	and	cc	and	and	0
+fellow	fellow	n1	fellow	fellow	0
+in	in	p-acp	in	in	0
+armes	armes	n2	arms	arm	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+Bedingfield	Bedingfield	np1	Bedingfield	Bedingfield	0
+.	.	.	.	.	1

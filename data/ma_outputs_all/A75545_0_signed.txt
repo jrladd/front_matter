@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+Johannes	Johannes	np1	Johannes	Johannes	0
+Ponteus	Ponteus	np1	Ponteus	Ponteus	0
+.	.	.	.	.	1

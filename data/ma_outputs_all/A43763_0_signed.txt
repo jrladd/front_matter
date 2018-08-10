@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+and	and	cc	and	and	0
+grateful	grateful	j	grateful	grateful	0
+Beneficiary	Beneficiary	n1	Beneficiary	beneficiary	0
+JOHN	JOHN	np1	JOHN	John	0
+HIGHAM	HIGHAM	np1	HIGHAM	Higham	0
+.	.	.	.	.	1

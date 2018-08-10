@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+Ioseph	Ioseph	np1	Ioseph	Joseph	0
+Caryl	Caryl	np1	Caryl	Caryl	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+MOST	MOST	av-ds	MOST	most	0
+HONOR'D	HONOR'D	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Mr	Mr	n1	Mr	mr.	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+GODOLPHIN	GODOLPHIN	np1	GODOLPHIN	Godolphin	0
+of	of	pp-f	of	of	0
+Godolphin	Godolphin	np1	Godolphin	Godolphin	0
+.	.	.	.	.	1

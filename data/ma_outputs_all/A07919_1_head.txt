@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Seminarie	Seminarie	n1	Seminary	seminary	0
+Priests	Priests	n2	Priests	priest	0
+in	in	p-acp	in	in	0
+Wisbich	Wisbich	np1	Wisbich	Wisbich	0
+Castle	Castle	n1	Castle	castle	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+else-where	else-where	av	elsewhere	elsewhere	0
+dispersed	dispersed	vvn	dispersed	disperse	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+Realme	Realme	n1	Realm	realm	0
+.	.	.	.	.	1

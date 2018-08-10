@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+JAMES	JAMES	np1	JAMES	James	0
+BOTELER	BOTELER	np1	BOTELER	Boteler	0
+,	,	,	,	,	0
+EARL	EARL	n1	EARL	earl	0
+OF	OF	pp-f	OF	of	0
+OSSERY	OSSERY	np1	OSSERY	OSSERY	0
+AND	AND	cc	AND	and	0
+VISCOUNT	VISCOUNT	np1	VISCOUNT	Viscount	0
+THORLE	THORLE	n1	THORLE	thorle	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

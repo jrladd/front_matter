@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+IO	IO	uh	IO	io	0
+.	.	.	.	.	1
+LA	LA	fw-fr	LA	la	0
+.	.	.	.	.	1

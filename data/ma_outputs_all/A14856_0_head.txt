@@ -1,0 +1,13 @@
+An	An	dt	And	a	0
+Epistle	Epistle	n1	Epistle	epistle	0
+written	written	vvn	written	write	0
+by	by	p-acp	by	by	0
+a	a	dt	a	a	0
+Friend	Friend	n1	Friend	friend	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Author	Author	n1	Author	author	0
+in	in	p-acp	in	in	0
+his	his	po31	his	his	0
+absence	absence	n1	absence	absence	0
+.	.	.	.	.	1

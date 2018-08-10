@@ -1,0 +1,3 @@
+GEORGE	GEORGE	np1	GEORGE	George	0
+PALMER	PALMER	n1	PALMER	palmer	0
+.	.	.	.	.	1

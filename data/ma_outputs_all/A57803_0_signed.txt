@@ -1,0 +1,16 @@
+Gentlemen	Gentlemen	np1	Gentlemen	Gentlemen	0
+and	and	cc	and	and	0
+Brethren	Brethren	n2	Brothers	brethren	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+Brother	Brother	n1	Brother	brother	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Ramsay	Ramsay	np1	Ramsay	Ramsay	0
+.	.	.	.	.	1

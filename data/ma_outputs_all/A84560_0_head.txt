@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+ALL	ALL	av-d	ALL	all	0
+MEN	MEN	n2	MEN	man	0
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+:	:	:	:	:	1

@@ -1,0 +1,13 @@
+Who	Who	q-crq	Who	who	0
+is	is	vbz	is	be	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Service	Service	n1	Service	service	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Strong	Strong	j	Strong	strong	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+your	your	po22	your	your	0
+obliged	obliged	j-vvn	obliged	oblige	0
+servant	servant	n1	servant	servant	0
+RA	RA	uh	RA	ra	0
+:	:	:	:	:	0
+AUSTEN	AUSTEN	np1	AUSTEN	Austen	0
+.	.	.	.	.	1

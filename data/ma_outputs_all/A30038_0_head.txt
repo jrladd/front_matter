@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+Gloucester	Gloucester	np1	Gloucester	Gloucester	0
+.	.	.	.	.	1

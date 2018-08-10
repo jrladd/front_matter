@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+poore	poore	j	poor	poor	0
+but	but	p-acp	but	but	0
+loyall	loyall	j	loyal	loyal	0
+and	and	cc	and	and	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+HAGTHORPE	HAGTHORPE	np1	HAGTHORPE	HAGTHORPE	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+DE	DE	fw-fr	DE	de	0
+CROY	CROY	fw-fr	CROY	croy	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Oblidged	Oblidged	vvn	Obliged	oblige	0
+Faithful	Faithful	j	Faithful	faithful	0
+Creature	Creature	n1	Creature	creature	0
+,	,	,	,	,	0
+Alexander	Alexander	np1	Alexander	Alexander	0
+Gordon	Gordon	np1	Gordon	Gordon	0
+.	.	.	.	.	1

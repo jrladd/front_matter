@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+very	very	j	very	very	0
+Servant	Servant	n1	Servant	servant	0
+George	George	np1	George	George	0
+Starkey	Starkey	np1	Starkey	Starkey	0
+.	.	.	.	.	1

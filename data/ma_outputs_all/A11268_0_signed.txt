@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+at	at	p-acp	at	at	0
+commandment	commandment	n1	commandment	commandment	0
+.	.	.	.	.	1
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+SABIE	SABIE	np1	SABIE	SABIE	0
+.	.	.	.	.	1

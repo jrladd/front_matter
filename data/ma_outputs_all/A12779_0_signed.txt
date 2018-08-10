@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+Ed.	Ed.	np1	Ed.	Ed.	0
+Sp.	Sp.	np1	Sp.	Sp.	1

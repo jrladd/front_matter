@@ -1,0 +1,15 @@
+Esse	Esse	fw-la	Esse	esse	0
+sui	sui	fw-la	sui	svi	0
+voluit	voluit	fw-la	voluit	voluit	0
+Monumentum	Monumentum	np1	Monumentum	Monumentum	0
+&	&	cc	&	and	0
+pignus	pignus	fw-la	pignus	pignus	0
+amoris	amoris	fw-la	amoris	amoris	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+pignus	pignus	fw-la	pignus	pignus	0
+observantiae	observantiae	fw-la	observantiae	observantiae	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+EVANCE	EVANCE	n1	EVANCE	evance	0
+.	.	.	.	.	1

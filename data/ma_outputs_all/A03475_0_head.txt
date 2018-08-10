@@ -1,0 +1,14 @@
+REVERENDO	REVERENDO	fw-la	REVERENDO	reverendo	0
+IN	IN	p-acp	IN	in	0
+CHRISTO	CHRISTO	fw-la	CHRISTO	christo	0
+PA	PA	wd	PA	pa	0
+∣	∣	sy	∣	∣	0
+tri	tri	fw-la	tri	tri	0
+RICHARDO	RICHARDO	np1	RICHARDO	Richardo	0
+BANCROFTO	BANCROFTO	np1	BANCROFTO	BANCROFTO	0
+,	,	,	,	,	0
+Episco	Episco	np1	Episco	Episco	0
+∣	∣	sy	∣	∣	0
+po	po	fw-la	po	po	0
+Londinensi	Londinensi	fw-la	Londinensi	londinensi	0
+.	.	.	.	.	1

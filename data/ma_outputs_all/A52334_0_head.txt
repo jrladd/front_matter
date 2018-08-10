@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+the	the	dt	the	the	0
+Heads	Heads	n2	Heads	head	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ʋniversitie	Ʋniversitie	n1	Ʋniversitie	ʋniversitie	0
+of	of	pp-f	of	of	0
+CAMBRIDGE	CAMBRIDGE	np1	CAMBRIDGE	Cambridge	0
+.	.	.	.	.	1

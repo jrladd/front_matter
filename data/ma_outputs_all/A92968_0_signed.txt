@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+really	really	av-j	really	real	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Turner	Turner	np1	Turner	Turner	0
+.	.	.	.	.	1

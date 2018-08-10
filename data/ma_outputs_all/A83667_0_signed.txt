@@ -1,0 +1,9 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+your	your	po22	your	your	0
+humblest	humblest	js	humblest	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+EGLESFIELD	EGLESFIELD	np1	EGLESFIELD	EGLESFIELD	0
+.	.	.	.	.	1

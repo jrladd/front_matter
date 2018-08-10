@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+vse	vse	vvi	use	use	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+Mundy	Mundy	np1	Mundy	Mundy	0
+.	.	.	.	.	1

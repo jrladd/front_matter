@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+worships	worships	ng1	worships	worship	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+worthely	worthely	av-j	worthily	worthy	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+ROCHE	ROCHE	np1	ROCHE	Roche	0
+.	.	.	.	.	1

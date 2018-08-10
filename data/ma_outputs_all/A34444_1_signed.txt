@@ -1,0 +1,11 @@
+Most	Most	av-ds	Most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Creature	Creature	n1	Creature	creature	0
+EDMUND	EDMUND	np1	EDMUND	Edmund	0
+COOPER	COOPER	np1	COOPER	Cooper	0
+,	,	,	,	,	0
+Med.	Med.	np1	Med.	Med.	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Coll.	Coll.	np1	Coll.	Coll.	0
+Lond.	Lond.	np1	Lond.	Lond.	1

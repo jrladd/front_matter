@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+James	James	np1	James	James	0
+Salter	Salter	np1	Salter	Salter	0
+.	.	.	.	.	1

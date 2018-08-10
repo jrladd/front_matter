@@ -1,0 +1,15 @@
+Iohn	Iohn	np1	Iohn	John	0
+Caluine	Caluine	np1	Caluine	Caluine	0
+vnto	vnto	p-acp	unto	unto	0
+Gryney	Gryney	np1	Gryney	Gryney	0
+a	a	dt	a	a	0
+man	man	n1	man	man	0
+very	very	av	very	very	0
+worthie	worthie	j	worthy	worthy	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+honoured	honoured	vvn	honoured	honour	0
+,	,	,	,	,	0
+wisheth	wisheth	vvz	wishes	wish	0
+prosperitie	prosperitie	n1	prosperity	prosperity	0
+.	.	.	.	.	1

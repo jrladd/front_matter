@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Ever	Ever	av	Ever	ever	0
+honoured	honoured	j-vvn	honoured	honour	0
+MOTHER	MOTHER	n1	MOTHER	mother	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+UNIVERSITY	UNIVERSITY	n1	UNIVERSITY	university	0
+OF	OF	pp-f	OF	of	0
+OXFORD	OXFORD	np1	OXFORD	Oxford	1

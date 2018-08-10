@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+IOHN	IOHN	np1	IOHN	John	0
+WHITE	WHITE	j-jn	WHITE	white	0
+.	.	.	.	.	1

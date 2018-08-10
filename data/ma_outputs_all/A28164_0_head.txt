@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Vertuous	Vertuous	j	Virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+.	.	.	.	.	1
+Mris.	Mris.	n1	Mris.	mrs.	0
+D.	D.	np1	D.	D.	0
+C.	C.	np1	C.	C.	1

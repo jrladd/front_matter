@@ -1,0 +1,8 @@
+Their	Their	po32	Their	their	0
+Excellencies	Excellencies	n2	Excellencies	excellency	0
+Most	Most	av-ds	Most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+John	John	np1	John	John	0
+Stearne	Stearne	j	Stern	stern	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+honourer	honourer	n1	honourer	honourer	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+FRA	FRA	np1	FRA	Fra	0
+:	:	:	:	:	0
+WOOD	WOOD	n1	WOOD	wood	0
+COCKE	COCKE	n1	COCKE	cock	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Euer	Euer	av	Ever	ever	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+seruice	seruice	n1	service	service	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+LOVGHER	LOVGHER	np1	LOVGHER	LOVGHER	0
+.	.	.	.	.	1

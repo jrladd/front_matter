@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+Pastour	Pastour	n1	Pastor	pastor	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Yarmouth	Yarmouth	np1	Yarmouth	Yarmouth	0
+,	,	,	,	,	0
+TREASURER	TREASURER	n1	TREASURER	treasurer	0
+OF	OF	pp-f	OF	of	0
+His	His	po31	His	his	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+HOUSHOLD	HOUSHOLD	n1	HOUSHOLD	household	0
+.	.	.	.	.	1

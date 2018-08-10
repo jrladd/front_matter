@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Lorships	Lorships	ng1	Lordships	lordship	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Bridgis	Bridgis	np1	Bridgis	Bridgis	0
+Nanfan	Nanfan	np1	Nanfan	Nanfan	0
+▪	▪	▪	▪	▪	1

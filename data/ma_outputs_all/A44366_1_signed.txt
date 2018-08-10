@@ -1,0 +1,15 @@
+VALE	VALE	n1	VALE	vale	0
+.	.	.	.	.	1
+Amplissimo	Amplissimo	fw-la	Amplissimo	amplissimo	0
+nomini	nomini	fw-la	nomini	nomini	0
+vestro	vestro	n1	vestro	vestro	0
+perpetua	perpetua	fw-la	perpetua	perpetua	0
+observantia	observantia	fw-la	observantia	observantia	0
+&	&	cc	&	and	0
+officio	officio	fw-la	officio	officio	0
+devotis	devotis	fw-la	devotis	devotis	0
+∣	∣	sy	∣	∣	0
+simus	simus	j	simus	simus	0
+.	.	.	.	.	1
+N.	N.	np1	N.	N.	0
+H.	H.	np1	H.	H.	1

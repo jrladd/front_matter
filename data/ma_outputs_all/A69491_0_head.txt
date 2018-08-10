@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFƲLL	WORSHIPFƲLL	av	WORSHIPFƲLL	worshipfʋll	0
+His	His	po31	His	his	0
+Worthily	Worthily	av-j	Worthily	worthy	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Patron	Patron	n1	Patron	patron	0
+,	,	,	,	,	0
+SR	SR	n1	SR	sir	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+COPE	COPE	n1	COPE	cope	0
+Of	Of	pp-f	Of	of	0
+HANWELL	HANWELL	np1	HANWELL	Hanwell	0
+,	,	,	,	,	0
+BARONET	BARONET	n1	BARONET	baronet	0
+.	.	.	.	.	1

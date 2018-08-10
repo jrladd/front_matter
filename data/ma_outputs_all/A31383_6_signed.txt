@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+our	our	po12	our	our	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+CAUSSIN	CAUSSIN	np1	CAUSSIN	CAUSSIN	0
+.	.	.	.	.	1
+S.	S.	np1	S.	S.	0
+J.	J.	np1	J.	J.	1

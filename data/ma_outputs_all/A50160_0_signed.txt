@@ -1,0 +1,2 @@
+Cotton	Cotton	np1	Cotton	Cotton	0
+Matr	Matr	vvb	Matr	matr	1

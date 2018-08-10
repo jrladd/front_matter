@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+duetifully	duetifully	av-j	dutifully	dutiful	0
+at	at	p-acp	at	at	0
+commaund	commaund	n1	command	command	0
+,	,	,	,	,	0
+Aegremont	Aegremont	np1	Aegremont	Aegremont	0
+Ratcliffe	Ratcliffe	np1	Ratcliffe	Ratcliff	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+F.	F.	np1	F.	F.	0
+Fuller	Fuller	np1	Fuller	Fuller	0
+.	.	.	.	.	1

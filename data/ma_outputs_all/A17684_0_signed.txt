@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordshippes	Lordshippes	n2	Lordships	lordship	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+,	,	,	,	,	0
+Arthur	Arthur	np1	Arthur	Arthur	0
+Goldinge	Goldinge	np1	Goldinge	Goldinge	0
+.	.	.	.	.	1

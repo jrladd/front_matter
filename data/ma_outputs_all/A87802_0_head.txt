@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+JOHN	JOHN	np1	JOHN	John	0
+DETHICK	DETHICK	np1	DETHICK	DETHICK	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Happiness	Happiness	n1	Happiness	happiness	0
+.	.	.	.	.	1

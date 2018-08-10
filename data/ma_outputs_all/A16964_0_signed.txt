@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+HVGH	HVGH	j	HUGH	hugh	0
+BROVGHTON	BROVGHTON	np1	BROVGHTON	BROVGHTON	0
+.	.	.	.	.	1

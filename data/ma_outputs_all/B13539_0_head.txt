@@ -1,0 +1,11 @@
+R.	R.	np1	R.	R.	0
+F.	F.	np1	F.	F.	0
+Wisheth	Wisheth	n2	Wishes	wish	0
+the	the	dt	the	the	0
+increase	increase	n1	increase	increase	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+peace	peace	n1	peace	peace	0
+and	and	cc	and	and	0
+happinesse	happinesse	n1	happiness	happiness	0
+.	.	.	.	.	1

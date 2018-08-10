@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Brother	Brother	n1	Brother	brother	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+NATH	NATH	np1	NATH	Nath	0
+:	:	:	:	:	0
+HARDY	HARDY	j	HARDY	hardy	0
+.	.	.	.	.	1

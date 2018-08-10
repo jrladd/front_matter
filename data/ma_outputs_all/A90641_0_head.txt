@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Respected	Respected	j-vvn	Respected	respect	0
+and	and	cc	and	and	0
+Worthy	Worthy	j	Worthy	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	1

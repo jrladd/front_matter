@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Writer	Writer	n1	Writer	writer	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+ENSUING	ENSUING	j-vvg	ENSUING	ensue	0
+TRANSLATION	TRANSLATION	n1	TRANSLATION	translation	0
+.	.	.	.	.	1

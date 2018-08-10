@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+John	John	np1	John	John	0
+Frederick	Frederick	np1	Frederick	Frederick	0
+Helvetius	Helvetius	np1	Helvetius	Helvetius	0
+▪	▪	▪	▪	▪	1

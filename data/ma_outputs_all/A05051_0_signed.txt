@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+W.	W.	np1	W.	W.	0
+Phillip	Phillip	np1	Phillip	Phillip	0
+.	.	.	.	.	1

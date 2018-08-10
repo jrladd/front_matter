@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+To	To	pc-acp	To	to	0
+be	be	vbi	be	be	0
+Commanded	Commanded	vvn	Commanded	command	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SCLATER	SCLATER	np1	SCLATER	Sclater	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+Countryman	Countryman	n1	Countryman	countryman	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+MERITON	MERITON	np1	MERITON	MERITON	0
+.	.	.	.	.	1

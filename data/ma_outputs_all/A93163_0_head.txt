@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+very	very	j	very	very	0
+good	good	j	good	good	0
+Mother	Mother	n1	Mother	mother	0
+,	,	,	,	,	0
+Mis.	Mis.	np1	Mis.	Mis.	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Shipton	Shipton	np1	Shipton	Shipton	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+which	which	r-crq	which	which	0
+,	,	,	,	,	0
+I	I	pns11	I	i	0
+returned	returned	vvd	returned	return	0
+this	this	d	this	this	0
+Answer	Answer	n1	Answer	answer	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Vnlearned	Vnlearned	j-u	Unlearned	learned	0
+(	(	(	(	(	0
+but	but	cc-acp	but	but	0
+vvell-meaning	vvell-meaning	n1	wellmeaning	wellmeaning	0
+)	)	)	)	)	0
+Puritans	Puritans	np2	Puritans	Puritan	0
+.	.	.	.	.	1

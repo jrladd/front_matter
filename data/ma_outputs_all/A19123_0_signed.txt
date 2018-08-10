@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+well-wishing	well-wishing	j	wellwishing	wellwishing	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+DIERICK	DIERICK	np1	DIERICK	DIERICK	0
+HOSTE	HOSTE	n1	HOSTE	host	0
+.	.	.	.	.	1

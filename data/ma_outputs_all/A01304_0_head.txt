@@ -1,0 +1,16 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+honourable	honourable	j	honourable	honourable	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Ladie	Ladie	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Mar	Mar	vvb	Mar	mar	0
+∣	∣	sy	∣	∣	0
+garet	garet	n1	garet	garet	0
+Strange	Strange	j	Strange	strange	0
+.	.	.	.	.	1

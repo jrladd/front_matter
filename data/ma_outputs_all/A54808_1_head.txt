@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Algernon	Algernon	np1	Algernon	Algernon	0
+Percie	Percie	np1	Percie	Percy	0
+,	,	,	,	,	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Northumberland	Northumberland	np1	Northumberland	Northumberland	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

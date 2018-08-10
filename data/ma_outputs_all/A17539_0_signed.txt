@@ -1,0 +1,6 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+dignitati	dignitati	n1	dignitati	dignitati	0
+deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
+Abrahamus	Abrahamus	fw-la	Abrahamus	abrahamus	0
+Flemingus	Flemingus	np1	Flemingus	Flemingus	0
+.	.	.	.	.	1

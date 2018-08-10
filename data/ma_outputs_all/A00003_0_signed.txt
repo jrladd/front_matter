@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+vnfainedly	vnfainedly	av-j	unfeignedly	unfeigned	0
+devoted	devoted	j-vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+obseruance	obseruance	n1	observance	observance	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+AILESBVRY	AILESBVRY	np1	AILESBVRY	AILESBVRY	0
+.	.	.	.	.	1

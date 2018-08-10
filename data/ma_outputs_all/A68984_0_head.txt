@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+norable	norable	j	norable	norable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+of	of	pp-f	of	of	0
+his	his	po31	his	his	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Honorable	Honorable	j	Honourable	honourable	0
+priuie	priuie	j	privy	privy	0
+Counsell	Counsell	n1	Counsel	counsel	0
+.	.	.	.	.	1

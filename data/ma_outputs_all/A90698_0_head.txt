@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Grace	Grace	n1	Grace	grace	0
+Charles	Charles	np1	Charles	Charles	0
+Seamour	Seamour	n1	Seamour	seamour	0
+,	,	,	,	,	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Somerset	Somerset	np1	Somerset	Somerset	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

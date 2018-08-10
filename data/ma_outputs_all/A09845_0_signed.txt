@@ -1,0 +1,13 @@
+Tui	Tui	fw-la	Tui	tui	0
+Honoris	Honoris	fw-la	Honoris	honoris	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+à	à	fw-fr	à	à	0
+sacris	sacris	fw-la	sacris	sacris	0
+concionibus	concionibus	fw-la	concionibus	concionibus	0
+domesticus	domesticus	fw-la	domesticus	domesticus	0
+,	,	,	,	,	0
+Dauid	Dauid	np1	Dauid	David	0
+Pouelus	Pouelus	np1	Pouelus	Pouelus	0
+.	.	.	.	.	1

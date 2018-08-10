@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+obedient	obedient	j	obedient	obedient	0
+eldest	eldest	js	eldest	old	0
+Sonne	Sonne	n1	Son	son	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+but	but	p-acp	but	but	0
+a	a	dt	a	a	0
+poore	poore	j	poor	poor	0
+planter	planter	n-jn	planter	plant	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+kind	kind	n1	kind	kind	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+HATTON	HATTON	np1	HATTON	Hatton	0
+.	.	.	.	.	1

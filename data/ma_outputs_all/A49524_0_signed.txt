@@ -1,0 +1,12 @@
+The	The	dt	The	the	0
+unfeigned	unfeigned	j	unfeigned	unfeigned	0
+desirer	desirer	n1	desirer	desirer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Continuance	Continuance	n1	Continuance	continuance	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Ministry	Ministry	n1	Ministry	ministry	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+L.	L.	np1	L.	L.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+high	high	j	high	high	0
+excellencyes	excellencyes	n2	excellencies	excellency	0
+Deuoted	Deuoted	vvn	Devoted	devote	0
+Suppliant	Suppliant	j-jn	Suppliant	suppliant	0
+.	.	.	.	.	1
+Henry	Henry	np1	Henry	Henry	0
+Arthington	Arthington	np1	Arthington	Arthington	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+NEWTON	NEWTON	np1	NEWTON	Newton	0
+.	.	.	.	.	1

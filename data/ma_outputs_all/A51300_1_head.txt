@@ -1,0 +1,4 @@
+To	To	p-acp	To	to	0
+Eugenius	Eugenius	np1	Eugenius	Eugenius	0
+Philalethes	Philalethes	np1	Philalethes	Philalethes	0
+.	.	.	.	.	1

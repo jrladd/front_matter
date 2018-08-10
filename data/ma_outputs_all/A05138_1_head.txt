@@ -1,0 +1,17 @@
+An	An	dt	And	a	0
+acknowledgment	acknowledgment	n1	acknowledgment	acknowledgement	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Au	Au	fw-fr	Au	au	0
+∣	∣	sy	∣	∣	0
+thors	thors	n2	thors	thor	0
+loue	loue	n1	love	love	0
+and	and	cc	and	and	0
+thankefullnesse	thankefullnesse	n1	thankefullnesse	thankfulness	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+first	first	ord	first	first	0
+Maister	Maister	n1	Master	master	0
+and	and	cc	and	and	0
+founder	founder	n1	founder	founder	0
+.	.	.	.	.	1

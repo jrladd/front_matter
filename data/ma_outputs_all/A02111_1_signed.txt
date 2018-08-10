@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+adopted	adopted	j-vvn	adopted	adopt	0
+sonne	sonne	n1	son	son	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+du	du	fw-fr	du	du	0
+∣	∣	sy	∣	∣	0
+tie	tie	vvb	tie	tie	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+.	.	.	.	.	1
+Robert	Robert	np1	Robert	Robert	0
+Greene	Greene	j-jn	Green	green	0
+.	.	.	.	.	1

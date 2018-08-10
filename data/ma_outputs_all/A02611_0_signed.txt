@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+,	,	,	,	,	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+HAMPTON	HAMPTON	np1	HAMPTON	Hampton	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+ROB	ROB	vvi	ROB	rob	0
+:	:	:	:	:	0
+VAUGHAN	VAUGHAN	np1	VAUGHAN	Vaughan	1

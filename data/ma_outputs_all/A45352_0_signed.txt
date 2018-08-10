@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Grace's	Grace's	ng1	Grace's	grace	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Grateful	Grateful	j	Grateful	grateful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+HALLEY	HALLEY	np1	HALLEY	Halley	0
+.	.	.	.	.	1

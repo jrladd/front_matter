@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
+,	,	,	,	,	0
+Schollers	Schollers	n2	Scholars	scholar	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Stu	Stu	np1	Stu	Stuffe	0
+∣	∣	sy	∣	∣	0
+dents	dents	n2-jn	dents	dent	0
+,	,	,	,	,	0
+whatsoeuer	whatsoeuer	r-crq	whatsoever	whatsoever	0
+.	.	.	.	.	1

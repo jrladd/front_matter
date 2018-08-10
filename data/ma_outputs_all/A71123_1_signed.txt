@@ -1,0 +1,10 @@
+Sacellanus	Sacellanus	np1	Sacellanus	Sacellanus	0
+ejus	ejus	fw-la	ejus	ejus	0
+indignus	indignus	fw-la	indignus	indignus	0
+,	,	,	,	,	0
+Humillimus	Humillimus	np1	Humillimus	Humillimus	0
+Servus	Servus	np1	Servus	Servus	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Torshel	Torshel	np1	Torshel	Torshel	0
+.	.	.	.	.	1

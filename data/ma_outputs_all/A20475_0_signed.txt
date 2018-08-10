@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+euer	euer	av	ever	ever	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+Dillingham	Dillingham	np1	Dillingham	Dillingham	0
+.	.	.	.	.	1

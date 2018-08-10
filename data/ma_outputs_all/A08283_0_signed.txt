@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+bound	bound	vvn	bound	bind	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+uaunt	uaunt	n1	vaunt	vaunt	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Norden	Norden	np1	Norden	Norden	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+Most	Most	av-ds	Most	most	0
+Excellent	Excellent	j	Excellent	excellent	0
+Majesty	Majesty	n1	Majesty	majesty	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+III	III	np1	III	Iii	0
+.	.	.	.	.	1
+King	King	n1	King	king	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+Britain	Britain	np1	Britain	Britain	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

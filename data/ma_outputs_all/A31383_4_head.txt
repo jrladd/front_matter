@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+NOBILITIE	NOBILITIE	n1	NOBILITIE	nobility	0
+,	,	,	,	,	0
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+CHURCH	CHURCH	n1	CHURCH	church	0
+.	.	.	.	.	1

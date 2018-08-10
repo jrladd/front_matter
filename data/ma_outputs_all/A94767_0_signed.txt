@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+Subject	Subject	j-jn	Subject	subject	0
+by	by	p-acp	by	by	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Ties	Ties	n2	Ties	tie	0
+of	of	pp-f	of	of	0
+Religion	Religion	n1	Religion	religion	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Towers	Towers	n2	Towers	tower	0
+.	.	.	.	.	1

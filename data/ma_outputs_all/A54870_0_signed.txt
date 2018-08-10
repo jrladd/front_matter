@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+observant	observant	j	observant	observant	0
+duty	duty	n1	duty	duty	0
+unfeignedly	unfeignedly	av-j	unfeignedly	unfeigned	0
+devoted	devoted	j-vvn	devoted	devote	0
+CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
+HARVEY	HARVEY	np1	HARVEY	Harvey	0
+.	.	.	.	.	1

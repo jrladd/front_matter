@@ -1,0 +1,11 @@
+By	By	p-acp	By	by	0
+the	the	dt	the	the	0
+Humble	Humble	j	Humble	humble	0
+Admirer	Admirer	n1	Admirer	admirer	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+your	your	po22	your	your	0
+Vertues	Vertues	n2	Virtues	virtue	0
+,	,	,	,	,	0
+FIDELITY	FIDELITY	n1	FIDELITY	fidelity	0
+.	.	.	.	.	1

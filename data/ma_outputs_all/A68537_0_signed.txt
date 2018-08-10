@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+DAVID	DAVID	np1	DAVID	David	0
+OVVEN	OVVEN	np1	OVVEN	OVVEN	0
+.	.	.	.	.	1

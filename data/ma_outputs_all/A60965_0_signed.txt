@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Grace's	Grace's	ng1	Grace's	grace	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Thankful	Thankful	j	Thankful	thankful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+SOUTHERNE	SOUTHERNE	j	SOUTHERN	southern	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honourable	Honourable	j	Honourable	honourable	0
+Collonel	Collonel	n1	Colonel	colonel	0
+Rich.	Rich.	np1	Rich.	Richard	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+ever	ever	av	ever	ever	0
+to	to	pc-acp	to	to	0
+Command	Command	vvi	Command	command	0
+.	.	.	.	.	1
+JONAS	JONAS	np1	JONAS	Jonas	0
+DELL	DELL	n1	DELL	dell	0
+.	.	.	.	.	1

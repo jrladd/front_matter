@@ -1,0 +1,9 @@
+Thine	Thine	png21	Thine	thou	0
+at	at	p-acp	at	at	0
+a	a	dt	a	a	0
+pot	pot	n1	pot	pot	0
+and	and	cc	and	and	0
+a	a	dt	a	a	0
+pipe	pipe	n1	pipe	pipe	0
+,	,	,	,	,	0
+M.P.	M.P.	np1	M.P.	M.P.	1

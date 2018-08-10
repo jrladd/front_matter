@@ -1,0 +1,16 @@
+This	This	d	This	this	0
+is	is	vbz	is	be	0
+the	the	dt	the	the	0
+prayer	prayer	n1	prayer	prayer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Whincop	Whincop	np1	Whincop	Whincop	0
+.	.	.	.	.	1

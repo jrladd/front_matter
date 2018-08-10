@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+B.	B.	np1	B.	B.	1

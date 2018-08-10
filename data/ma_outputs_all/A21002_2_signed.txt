@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+ANDREVV	ANDREVV	np1	ANDREVV	ANDREVV	0
+COVRT	COVRT	n1	COVRT	covrt	0
+.	.	.	.	.	1

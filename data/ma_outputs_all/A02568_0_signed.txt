@@ -1,0 +1,10 @@
+Highnesses	Highnesses	ng1	Highnesses	highness	0
+Vnworthy	Vnworthy	j	Unworthy	unworthy	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+loyall	loyall	j	loyal	loyal	0
+seruant	seruant	n1	servant	servant	0
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

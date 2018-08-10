@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+firmly	firmly	av-j	firmly	firm	0
+bounden	bounden	vvn	bounden	bind	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+strongest	strongest	js	strongest	strong	0
+bonds	bonds	n2	bonds	bond	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+C.	C.	np1	C.	C.	0
+BVRGES	BVRGES	vvz	BVRGES	bvrge	0
+.	.	.	.	.	1

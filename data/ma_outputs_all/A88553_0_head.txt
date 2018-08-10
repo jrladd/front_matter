@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+INCOMPARABLE	INCOMPARABLE	j	INCOMPARABLE	incomparable	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+S.	S.	n1	S.	saint	0
+B.	B.	np1	B.	B.	1

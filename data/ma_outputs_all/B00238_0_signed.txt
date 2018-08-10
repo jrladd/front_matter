@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+as	as	p-acp	as	as	0
+you	you	pn22	you	you	0
+know	know	vvb	know	know	0
+,	,	,	,	,	0
+assured	assured	vvn	assured	assure	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Fielde	Fielde	n1	Field	field	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Remem	Remem	np1	Remem	Remem	0
+∣	∣	sy	∣	∣	0
+brancer	brancer	n1	brancer	brancer	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+GILBERT	GILBERT	np1	GILBERT	Gilbert	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Honori	Honori	fw-la	Honori	honori	0
+tuo	tuo	fw-la	tuo	tuo	0
+deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+HAYVVARDE	HAYVVARDE	n1	HAYVVARDE	hayvvarde	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+SIR	SIR	n1	SIR	sir	0
+ANDREVV	ANDREVV	np1	ANDREVV	ANDREVV	0
+GRAIE	GRAIE	j-jn	GRAY	grey	0
+.	.	.	.	.	1
+Anagramma	Anagramma	n1	Anagramma	anagramma	0
+.	.	.	.	.	1
+I	I	pns11	I	i	0
+GARDE	GARDE	n1	GARDE	guard	0
+IN	IN	p-acp	IN	in	0
+WARRES	WARRES	n2	WARRES	war	0
+.	.	.	.	.	1

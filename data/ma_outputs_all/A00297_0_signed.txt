@@ -1,0 +1,11 @@
+A	A	dt	A	a	0
+well	well	av	well	well	0
+willer	willer	n1	willer	willer	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+Countrey	Countrey	n1	Country	country	0
+and	and	cc	and	and	0
+Countrey-men	Countrey-men	n2	Countrymen	countryman	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+B.	B.	np1	B.	B.	1

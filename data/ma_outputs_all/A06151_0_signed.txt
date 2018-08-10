@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+beadsman	beadsman	n1	beadsman	beadsman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+dutiful	dutiful	j	dutiful	dutiful	0
+frende	frende	n1	friend	friend	0
+for	for	c-acp	for	for	0
+euer	euer	av	ever	ever	0
+.	.	.	.	.	1
+Iamer	Iamer	np1	Iamer	Iamer	0
+Sancer	Sancer	n1	Sancer	sancer	0
+.	.	.	.	.	1

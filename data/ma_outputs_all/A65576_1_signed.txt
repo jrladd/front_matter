@@ -1,0 +1,12 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Astrologers	Astrologers	n2	Astrologers	astrologer	0
+Votary	Votary	n1	Votary	votary	0
+,	,	,	,	,	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+GADBVRY	GADBVRY	np1	GADBVRY	GADBVRY	0
+.	.	.	.	.	1

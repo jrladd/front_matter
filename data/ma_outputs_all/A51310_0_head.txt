@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+dear	dear	j-jn	dear	dear	0
+Father	Father	n1	Father	father	0
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+MORE	MORE	av-dc	MORE	more	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+Viscount	Viscount	np1	Viscount	Viscount	0
+Fitz-Harding	Fitz-Harding	np1	Fitz-Harding	Fitz-Harding	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Falmouth	Falmouth	np1	Falmouth	Falmouth	0
+.	.	.	.	.	1

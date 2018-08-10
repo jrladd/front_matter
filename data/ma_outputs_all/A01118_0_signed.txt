@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worshyps	worshyps	n2	worships	worship	0
+too	too	av	too	too	0
+commaunde	commaunde	vvi	command	command	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Daye	Daye	n1	Day	day	0
+.	.	.	.	.	1

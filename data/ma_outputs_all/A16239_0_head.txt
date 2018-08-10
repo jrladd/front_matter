@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+especiall	especiall	j	especial	especial	0
+and	and	cc	and	and	0
+kind	kind	j	kind	kind	0
+Friend	Friend	n1	Friend	friend	0
+M.	M.	n1	M.	m.	0
+John	John	np1	John	John	0
+Land	Land	n1	Land	land	0
+,	,	,	,	,	0
+Merchant	Merchant	n1	Merchant	merchant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+true	true	j	true	true	0
+favour	favour	n1	favour	favour	0
+of	of	pp-f	of	of	0
+Art.	Art.	n1	Art.	art	1

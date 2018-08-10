@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+louing	louing	j-vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+Listra	Listra	np1	Listra	Listra	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+Corinth	Corinth	np1	Corinth	Corinth	0
+.	.	.	.	.	1

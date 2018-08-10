@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+fellow	fellow	n1	fellow	fellow	0
+labourer	labourer	n1	labourer	labourer	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+GILES	GILES	np1	GILES	Giles	0
+FIRMIN	FIRMIN	np1	FIRMIN	Firmin	0
+.	.	.	.	.	1

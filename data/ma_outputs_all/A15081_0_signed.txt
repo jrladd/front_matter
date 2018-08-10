@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+my	my	po11	my	my	0
+best	best	js	best	best	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Francis	Francis	np1	Francis	Francis	0
+White	White	j-jn	White	white	0
+.	.	.	.	.	1

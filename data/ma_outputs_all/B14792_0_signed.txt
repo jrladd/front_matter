@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Namelesse	Namelesse	j	Nameless	nameless	0
+Well-willer	Well-willer	n1	Well-willer	well-willer	0
+,	,	,	,	,	0
+desirous	desirous	j	desirous	desirous	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+knowne	knowne	vvn	known	know	0
+to	to	p-acp	to	to	0
+none	none	pix	none	none	0
+but	but	cc-acp	but	but	0
+your	your	po22	your	your	0
+Selfe	Selfe	n1	Self	self	0
+,	,	,	,	,	1

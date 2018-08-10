@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+Honourable	Honourable	j	Honourable	honourable	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1

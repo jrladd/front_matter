@@ -1,0 +1,3 @@
+H.	H.	np1	H.	H.	0
+I.	I.	uh	I	i	0
+H.	H.	np1	H.	H.	1

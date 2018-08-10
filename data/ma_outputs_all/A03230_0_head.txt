@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Honour	Honour	n1	Honour	honour	0
+∣	∣	sy	∣	∣	0
+able	able	j	able	able	0
+Richard	Richard	np1	Richard	Richard	0
+Fenn	Fenn	np1	Fenn	Fenn	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Maior	Maior	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+this	this	d	this	this	0
+Renowned	Renowned	j-vvn	Renowned	renown	0
+Metropolis	Metropolis	n1	Metropolis	metropolis	0
+LONDON	LONDON	np1	LONDON	London	0
+.	.	.	.	.	1

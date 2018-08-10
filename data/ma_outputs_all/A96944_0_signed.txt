@@ -1,0 +1,6 @@
+your	your	po22	your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+Wortley	Wortley	np1	Wortley	Wortley	0
+.	.	.	.	.	1

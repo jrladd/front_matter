@@ -1,0 +1,8 @@
+Celsitudini	Celsitudini	np1	Celsitudini	Celsitudini	0
+Tuae	Tuae	fw-la	Tuae	tuus	0
+ad	ad	fw-la	ad	ad	0
+∣	∣	sy	∣	∣	0
+dictissimus	dictissimus	fw-la	dictissimus	dictissimus	0
+ROBERTVS	ROBERTVS	fw-la	ROBERTVS	robertvs	0
+FARLAEVS	FARLAEVS	np1	FARLAEVS	FARLAEVS	0
+.	.	.	.	.	1

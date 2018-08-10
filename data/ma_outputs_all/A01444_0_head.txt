@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+Ed	Ed	wd	Ed	ed	0
+∣	∣	sy	∣	∣	0
+mond	mond	n1	mond	mond	0
+Carey	Carey	np1	Carey	Carey	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Pro	Pro	np1	Pro	Pro	0
+Domino	Domino	fw-la	Domino	domino	0
+suo	suo	fw-la	suo	suo	0
+Honoratissimo	Honoratissimo	fw-la	Honoratissimo	honoratissimo	0
+Domino	Domino	fw-la	Domino	domino	0
+Windesor	Windesor	np1	Windesor	Windesor	0
+.	.	.	.	.	1

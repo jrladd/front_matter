@@ -1,0 +1,7 @@
+THIS	THIS	d	THIS	this	0
+Discourse	Discourse	n1	Discourse	discourse	0
+is	is	vbz	is	be	0
+humbly	humbly	av-j	humbly	humble	0
+De	De	fw-fr	De	de	0
+∣	∣	sy	∣	∣	0
+dicated	dicated	vvn	dicated	dicate	1

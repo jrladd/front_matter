@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+REGINALD	REGINALD	np1	REGINALD	Reginald	0
+SCOT	SCOT	np1	SCOT	Scot	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONble	HONble	n1	HONble	honble	0
+.	.	.	.	.	1
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+ENGLEFIELD	ENGLEFIELD	np1	ENGLEFIELD	Englefield	0
+THE	THE	dt	THE	the	0
+ELDER	ELDER	n-jn	ELDER	elder	0
+,	,	,	,	,	0
+all	all	d	all	all	0
+happines	happines	n1	happiness	happiness	0
+temporall	temporall	j	temporal	temporal	0
+&	&	cc	&	and	0
+eternall	eternall	j	eternal	eternal	0
+.	.	.	.	.	1

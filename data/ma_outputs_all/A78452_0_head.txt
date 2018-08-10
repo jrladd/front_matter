@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+COUNTESSE	COUNTESSE	n1	COUNTESSE	countess	0
+OF	OF	pp-f	OF	of	0
+CHALAIS	CHALAIS	np1	CHALAIS	CHALAIS	0
+.	.	.	.	.	1

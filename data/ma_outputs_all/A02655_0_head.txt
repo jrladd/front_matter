@@ -1,0 +1,3 @@
+AMORE	AMORE	fw-la	AMORE	amore	0
+ET	ET	fw-la	ET	et	0
+VIRTVE	VIRTVE	n1	VIRTVE	virtve	1

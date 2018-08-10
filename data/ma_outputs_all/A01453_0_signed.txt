@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
+GARDINER	GARDINER	np1	GARDINER	Gardiner	0
+.	.	.	.	.	1

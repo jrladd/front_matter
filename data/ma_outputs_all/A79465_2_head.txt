@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sr	Sr	n1	Sir	sir	0
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Crisp	Crisp	j	Crisp	crisp	0
+Knt	Knt	n1	Knt	knt	0
+of	of	pp-f	of	of	0
+Queax	Queax	np1	Queax	Queax	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Isle	Isle	n1	Isle	isle	0
+of	of	pp-f	of	of	0
+Thannet	Thannet	np1	Thannet	Thannet	0
+.	.	.	.	.	1

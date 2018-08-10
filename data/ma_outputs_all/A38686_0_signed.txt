@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Obedient	Obedient	j	Obedient	obedient	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+ESTWICK	ESTWICK	np1	ESTWICK	Estwick	0
+.	.	.	.	.	1

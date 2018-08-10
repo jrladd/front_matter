@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+deuote	deuote	vvb	devote	devote	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+MER	MER	np1	MER	Mer	1

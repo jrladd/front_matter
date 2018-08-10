@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+duetifully	duetifully	av-j	dutifully	dutiful	0
+to	to	pc-acp	to	to	0
+obey	obey	vvi	obey	obey	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+moste	moste	av-ds	most	most	0
+willingly	willingly	av-j	willingly	willing	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+S.	S.	np1	S.	S.	1

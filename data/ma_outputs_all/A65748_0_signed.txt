@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+Honour	Honour	n1	Honour	honour	0
+and	and	cc	and	and	0
+Serve	Serve	vvb	Serve	serve	0
+You	You	pn22	You	you	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+White	White	j-jn	White	white	0
+.	.	.	.	.	1

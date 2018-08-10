@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+EDW	EDW	np1	EDW	Edw	0
+.	.	.	.	.	1
+HƲBBALD	HƲBBALD	np1	HƲBBALD	HƲBBALD	0
+Gent.	Gent.	n1	Gent.	gentleman	1

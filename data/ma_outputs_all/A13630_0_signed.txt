@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+LORDSHIPPES	LORDSHIPPES	n2	LORDSHIPPES	lordship	0
+,	,	,	,	,	0
+as	as	c-acp	as	as	0
+dutie	dutie	n1	duty	duty	0
+bindeth	bindeth	vvz	binds	bind	0
+me	me	pno11	me	i	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+IOHN	IOHN	np1	IOHN	John	0
+TERRY	TERRY	np1	TERRY	Terry	0
+.	.	.	.	.	1

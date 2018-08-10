@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+DAVID	DAVID	np1	DAVID	David	0
+JENNER	JENNER	np1	JENNER	Jenner	0
+.	.	.	.	.	1

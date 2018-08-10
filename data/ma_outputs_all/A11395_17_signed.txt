@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Vertue's	Vertue's	n1|vbz	Virtue's	virtue|be	0
+euer-vowed	euer-vowed	j	ever-vowed	ever-vowed	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+IOSVAH	IOSVAH	np1	IOSVAH	IOSVAH	0
+SYLVESTER	SYLVESTER	np1	SYLVESTER	Sylvester	0
+.	.	.	.	.	1

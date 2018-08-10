@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+readie	readie	j	ready	ready	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+real	real	j	real	real	0
+servantR	servantR	n1	servantR	servantr	0
+.	.	.	.	.	1
+W.	W.	np1	W.	W.	1

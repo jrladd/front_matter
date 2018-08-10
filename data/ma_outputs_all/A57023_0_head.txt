@@ -1,0 +1,6 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+HUGH	HUGH	j	HUGH	huge	0
+HARE	HARE	n1	HARE	hare	0
+Esq	Esq	np1	Esq	Esq	1

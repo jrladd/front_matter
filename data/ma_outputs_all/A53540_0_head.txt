@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+IMMORTAL	IMMORTAL	j	IMMORTAL	immortal	0
+FAME	FAME	n1	FAME	fame	0
+OF	OF	pp-f	OF	of	0
+Our	Our	po12	Our	our	0
+Late	Late	j	Late	late	0
+Dread	Dread	j	Dread	dread	0
+Sovereign	Sovereign	j-jn	Sovereign	sovereign	0
+K.	K.	n1	K.	king	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+II.	II.	crd	II	ii	1

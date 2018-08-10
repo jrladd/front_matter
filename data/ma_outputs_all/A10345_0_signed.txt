@@ -1,0 +1,10 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Rainoldes	Rainoldes	vvz	Rainolds	rainold	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+seruant	seruant	n1	servant	servant	0
+.	.	.	.	.	1
+Giacomo	Giacomo	np1	Giacomo	Giacomo	0
+di	di	zz	di	di	0
+Grassi	Grassi	np1	Grassi	Grassi	0
+of	of	pp-f	of	of	0
+Modena	Modena	np1	Modena	Modena	0
+.	.	.	.	.	1

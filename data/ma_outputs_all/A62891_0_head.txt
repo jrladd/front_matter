@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+IOHN	IOHN	np1	IOHN	John	0
+MEREDITH	MEREDITH	np1	MEREDITH	Meredith	0
+Doctor	Doctor	n1	Doctor	doctor	0
+of	of	pp-f	of	of	0
+Divinity	Divinity	n1	Divinity	divinity	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Warden	Warden	n1	Warden	warden	0
+of	of	pp-f	of	of	0
+All-Souls	All-Souls	n2	All-Souls	all-soul	0
+Colledge	Colledge	n1	College	college	0
+in	in	p-acp	in	in	0
+Oxford	Oxford	np1	Oxford	Oxford	0
+.	.	.	.	.	1

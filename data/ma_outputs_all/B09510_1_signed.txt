@@ -1,0 +1,8 @@
+by	by	p-acp	by	by	0
+your	your	po22	your	your	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Pastor	Pastor	n1	Pastor	pastor	0
+,	,	,	,	,	0
+Cotton	Cotton	n1	Cotton	cotton	0
+Mather	Mather	np1	Mather	Mather	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+One	One	crd	One	one	0
+unworthy	unworthy	j	unworthy	unworthy	0
+to	to	pc-acp	to	to	0
+call	call	vvi	call	call	0
+you	you	pn22	you	you	0
+Brethren	Brethren	n2	Brothers	brethren	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Bagshaw	Bagshaw	np1	Bagshaw	Bagshaw	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Claudius	Claudius	np1	Claudius	Claudius	0
+Gilbert	Gilbert	np1	Gilbert	Gilbert	0
+.	.	.	.	.	1

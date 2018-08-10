@@ -1,0 +1,6 @@
+Honoris	Honoris	np1	Honoris	Honoris	0
+tui	tui	fw-la	tui	tui	0
+studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Watsonus	Watsonus	np1	Watsonus	Watsonus	0
+.	.	.	.	.	1

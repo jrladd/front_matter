@@ -1,0 +1,12 @@
+So	So	np1	So	So	0
+wisheth	wisheth	vvz	wishes	wish	0
+and	and	cc	and	and	0
+prayeth	prayeth	vvz	prayeth	pray	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+daily	daily	j	daily	daily	0
+Oratour	Oratour	n1	Orator	orator	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+JONES	JONES	np1	JONES	Jones	0
+.	.	.	.	.	1

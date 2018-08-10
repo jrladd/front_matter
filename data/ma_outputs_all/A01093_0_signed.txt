@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+eternally	eternally	av-j	eternally	eternal	0
+obliged	obliged	vvn	obliged	oblige	0
+friend	friend	n1	friend	friend	0
+to	to	pc-acp	to	to	0
+serue	serue	vvi	serve	serve	0
+you	you	pn22	you	you	0
+:	:	:	:	:	0
+MARN	MARN	np1	MARN	MARN	0
+SARVM	SARVM	np1	SARVM	SARVM	0
+▪	▪	▪	▪	▪	1

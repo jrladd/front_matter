@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+GEO	GEO	np1	GEO	Geo	0
+.	.	.	.	.	1
+CAREVV	CAREVV	np1	CAREVV	CAREVV	0
+.	.	.	.	.	1

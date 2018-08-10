@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	1
+NI	NI	fw-fr	NI	ni	0
+∣	∣	sy	∣	∣	0
+CHOLAS	CHOLAS	np1	CHOLAS	CHOLAS	0
+BACON	BACON	n1	BACON	bacon	0
+of	of	pp-f	of	of	0
+Gillingham	Gillingham	np1	Gillingham	Gillingham	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

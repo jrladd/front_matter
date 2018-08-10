@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+PETER	PETER	np1	PETER	Peter	0
+WESTON	WESTON	np1	WESTON	Weston	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Society	Society	n1	Society	society	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+INNER-TEMPLE	INNER-TEMPLE	n1	INNER-TEMPLE	inner-temple	0
+.	.	.	.	.	1

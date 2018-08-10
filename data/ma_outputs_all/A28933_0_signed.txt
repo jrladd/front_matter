@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+Most	Most	av-ds	Most	most	0
+Faithful	Faithful	j	Faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+P.	P.	np1	P.	P.	0
+Boyer	Boyer	np1	Boyer	Boyer	0
+.	.	.	.	.	1

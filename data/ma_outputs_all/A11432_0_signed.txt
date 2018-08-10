@@ -1,0 +1,4 @@
+LAME	LAME	j	LAME	lame	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Sampson	Sampson	np1	Sampson	Samson	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+right	right	n-jn	right	right	0
+honourable	honourable	j	honourable	honourable	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+VISCOUNTESSE	VISCOUNTESSE	np1	VISCOUNTESSE	VISCOUNTESSE	0
+of	of	pp-f	of	of	0
+STORMONT	STORMONT	np1	STORMONT	Stormont	0
+.	.	.	.	.	1

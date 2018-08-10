@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+faithfull	faithfull	j	faithful	faithful	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+hum	hum	uh	hum	humh	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Bulstrode	Bulstrode	np1	Bulstrode	Bulstrode	0
+.	.	.	.	.	1

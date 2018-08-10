@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Ingenuous	Ingenuous	j	Ingenuous	ingenuous	0
+Souldiery	Souldiery	n1	Soldiery	soldiery	0
+.	.	.	.	.	1

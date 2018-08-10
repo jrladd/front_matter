@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+and	and	cc	and	and	0
+well	well	av	well	well	0
+accom	accom	j-jn	accom	accom	0
+∣	∣	sy	∣	∣	0
+plished	plished	j	plished	plished	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Maister	Maister	n1	Master	master	0
+Simon	Simon	np1	Simon	Simon	0
+Smith	Smith	n1	Smith	smith	0
+.	.	.	.	.	1

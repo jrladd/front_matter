@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+Dedication	Dedication	n1	Dedication	dedication	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+booke	booke	n1	book	book	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Queenes	Queenes	ng1	Queens	queen	0
+Maiestie	Maiestie	n1	Majesty	majesty	0
+.	.	.	.	.	1

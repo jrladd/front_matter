@@ -1,0 +1,8 @@
+A	A	dt	A	a	0
+Second	Second	ord	Second	second	0
+DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+same	same	d	same	same	0
+Person	Person	n1	Person	person	0
+.	.	.	.	.	1

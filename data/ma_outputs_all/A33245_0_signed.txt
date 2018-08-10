@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+for	for	p-acp	for	for	0
+Christs	Christs	npg1	Christs	Christ	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Russel	Russel	np1	Russel	Russel	0
+.	.	.	.	.	1

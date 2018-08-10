@@ -1,0 +1,7 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+PESTELL	PESTELL	np1	PESTELL	PESTELL	0
+:	:	:	:	:	1

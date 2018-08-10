@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worshippes	Worshippes	n2	Worships	worship	0
+by	by	p-acp	by	by	0
+dutie	dutie	n1	duty	duty	0
+bounde	bounde	vvn	bound	bind	0
+Abraham	Abraham	np1	Abraham	Abraham	0
+Fleming	Fleming	np1	Fleming	Fleming	0
+.	.	.	.	.	1

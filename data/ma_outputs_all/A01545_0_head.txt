@@ -1,0 +1,4 @@
+SERVIENTIBVS	SERVIENTIBVS	fw-la	SERVIENTIBVS	servientibvs	0
+AD	AD	fw-la	AD	ad	0
+LEGEM	LEGEM	fw-la	LEGEM	legem	0
+:	:	:	:	:	1

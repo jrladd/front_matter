@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+Lovers	Lovers	n2	Lovers	lover	0
+of	of	pp-f	of	of	0
+DARBY-ALE	DARBY-ALE	n1	DARBY-ALE	darby-ale	0
+.	.	.	.	.	1

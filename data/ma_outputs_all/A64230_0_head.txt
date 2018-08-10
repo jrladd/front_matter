@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dissenting	Dissenting	vvg	Dissenting	dissent	0
+Brethren	Brethren	n2	Brothers	brethren	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Anabaptists	Anabaptists	np1	Anabaptists	Anabaptists	0
+in	in	p-acp	in	in	0
+England	England	np1	England	England	0
+,	,	,	,	,	0
+A	A	dt	A	a	0
+perfect	perfect	j	perfect	perfect	0
+understanding	understanding	n1	understanding	understanding	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+things	things	n2	things	thing	0
+.	.	.	.	.	1

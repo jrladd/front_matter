@@ -1,0 +1,14 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Burlington	Burlington	np1	Burlington	Burlington	0
+.	.	.	.	.	1

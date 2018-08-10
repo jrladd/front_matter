@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+IAMES	IAMES	np1	IAMES	Iames	0
+SHIRLEY	SHIRLEY	np1	SHIRLEY	Shirley	0
+.	.	.	.	.	1

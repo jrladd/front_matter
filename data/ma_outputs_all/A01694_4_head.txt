@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Margaret	Margaret	np1	Margaret	Margaret	0
+Ratcliffe	Ratcliffe	np1	Ratcliffe	Ratcliff	0
+.	.	.	.	.	1

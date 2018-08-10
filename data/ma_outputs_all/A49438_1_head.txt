@@ -1,0 +1,6 @@
+The	The	dt	The	the	0
+Booksellers	Booksellers	n2	Booksellers	bookseller	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

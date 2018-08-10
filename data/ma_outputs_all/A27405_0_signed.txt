@@ -1,0 +1,2 @@
+G.	G.	np1	G.	G.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,16 @@
+¶	¶	¶	¶	¶	0
+To	To	pc-acp	To	to	0
+the	the	dt	the	the	0
+moste	moste	av-ds	most	most	0
+myghtie	myghtie	j	mighty	mighty	0
+and	and	cc	and	and	0
+excellent	excellent	j	excellent	excellent	0
+Prince	Prince	n1	Prince	prince	0
+Cosimo	Cosimo	np1	Cosimo	Cosimo	0
+de	de	fw-fr	de	de	0
+Medici	Medici	np1	Medici	Medici	0
+,	,	,	,	,	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Florence	Florence	np1	Florence	Florence	0
+.	.	.	.	.	1

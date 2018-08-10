@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+truly	truly	av-j	truly	true	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+HENRY	HENRY	np1	HENRY	Henry	0
+JEANES	JEANES	np1	JEANES	JEANES	0
+.	.	.	.	.	1

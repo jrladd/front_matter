@@ -1,0 +1,16 @@
+The	The	dt	The	the	0
+meanest	meanest	js	meanest	mean	0
+of	of	pp-f	of	of	0
+those	those	d	those	those	0
+that	that	cst	that	that	0
+honor	honor	vvb	honour	honour	0
+your	your	po22	your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+for	for	p-acp	for	for	0
+vertues	vertues	ng1	virtues	virtue	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+Geo	Geo	np1	Geo	Geo	0
+:	:	:	:	:	0
+Masterson	Masterson	np1	Masterson	Masterson	0
+.	.	.	.	.	1

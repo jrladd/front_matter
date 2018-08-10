@@ -1,0 +1,3 @@
+THEODORUS	THEODORUS	np1	THEODORUS	Theodorus	0
+VERAX	VERAX	np1	VERAX	Verax	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Charles	Charles	np1	Charles	Charles	0
+Mountague	Mountague	np1	Mountague	Montague	0
+,	,	,	,	,	0
+ONE	ONE	crd	ONE	one	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+Lords	Lords	n2	Lords	lord	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+TREASURY	TREASURY	n1	TREASURY	treasury	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+H.	H.	np1	H.	H.	0
+H.	H.	np1	H.	H.	0
+H.	H.	np1	H.	H.	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+obseruancy	obseruancy	n1	observancy	observancy	0
+,	,	,	,	,	0
+Wilhelm	Wilhelm	np1	Wilhelm	Wilhelm	0
+Bedwell	Bedwell	np1	Bedwell	Bedwell	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+G.	G.	np1	G.	G.	1

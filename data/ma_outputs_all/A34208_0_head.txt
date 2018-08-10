@@ -1,0 +1,17 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+TO	TO	p-acp	TO	to	0
+John	John	np1	John	John	0
+Butler	Butler	n1	Butler	butler	0
+,	,	,	,	,	0
+B.	B.	np1	B.	B.	0
+D.	D.	np1	D.	D.	0
+Asserter	Asserter	n1	Asserter	asserter	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lawfuluess	Lawfuluess	n1	Lawfuluess	lawfuluess	0
+of	of	pp-f	of	of	0
+Concubinage	Concubinage	n1	Concubinage	concubinage	0
+.	.	.	.	.	1

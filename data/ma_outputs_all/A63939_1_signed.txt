@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Real	Real	j	Real	real	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+TURNER	TURNER	np1	TURNER	Turner	0
+.	.	.	.	.	1

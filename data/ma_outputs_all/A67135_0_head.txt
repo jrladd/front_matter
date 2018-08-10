@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+NOTTINGHAM	NOTTINGHAM	np1	NOTTINGHAM	Nottingham	0
+,	,	,	,	,	0
+Baron	Baron	fw-fr	Baron	baron	0
+FINCH	FINCH	n1	FINCH	finch	0
+of	of	pp-f	of	of	0
+DAVENTRY	DAVENTRY	np1	DAVENTRY	Daventry	0
+.	.	.	.	.	1

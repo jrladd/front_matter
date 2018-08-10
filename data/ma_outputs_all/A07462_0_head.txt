@@ -1,0 +1,15 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+woorshipfull	woorshipfull	j	worshipful	worshipful	0
+Maister	Maister	n1	Master	master	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Fowler	Fowler	np1	Fowler	Fowler	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1
+T.	T.	np1	T.	T.	0
+N.	N.	np1	N.	N.	1
+VVisheth	VVisheth	vvz	Wisheth	wish	0
+hearts	hearts	n2	hearts	heart	0
+desyre	desyre	vvi	desire	desire	0
+.	.	.	.	.	1

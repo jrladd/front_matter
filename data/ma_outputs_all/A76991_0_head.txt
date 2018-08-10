@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+EDVVARD	EDVVARD	np1	EDVVARD	EDVVARD	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Manchester	Manchester	np1	Manchester	Manchester	0
+.	.	.	.	.	1

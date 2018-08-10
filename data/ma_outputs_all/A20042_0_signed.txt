@@ -1,0 +1,11 @@
+Deuoted	Deuoted	vvn	Devoted	devote	0
+night	night	n1	night	night	0
+and	and	cc	and	and	0
+day	day	n1	day	day	0
+yours	yours	png22	yours	you	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Belman	Belman	n1	Belman	bellman	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

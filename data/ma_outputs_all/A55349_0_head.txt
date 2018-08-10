@@ -1,0 +1,7 @@
+PONCE	PONCE	np1	PONCE	Ponce	0
+de	de	fw-fr	de	de	0
+LEON	LEON	np1	LEON	Leon	0
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+ALMAHIDE	ALMAHIDE	n1	ALMAHIDE	almahide	0
+.	.	.	.	.	1

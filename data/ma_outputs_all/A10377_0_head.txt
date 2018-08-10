@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+whole	whole	j-jn	whole	whole	0
+World	World	n1	World	world	0
+.	.	.	.	.	1

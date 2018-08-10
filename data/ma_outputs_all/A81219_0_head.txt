@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+HOVSE	HOVSE	n1	HOVSE	hovse	0
+of	of	pp-f	of	of	0
+COMMONS	COMMONS	n2	COMMONS	commons	0
+assembled	assembled	vvn	assembled	assemble	0
+in	in	p-acp	in	in	0
+Par	Par	fw-fr	Par	par	0
+∣	∣	sy	∣	∣	0
+liament	liament	n1	liament	liament	0
+at	at	p-acp	at	at	0
+Westminster	Westminster	np1	Westminster	Westminster	0
+.	.	.	.	.	1

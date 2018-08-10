@@ -1,0 +1,13 @@
+A	A	dt	A	a	0
+Willing	Willing	j	Willing	willing	0
+(	(	(	(	(	0
+tho	tho	cs	though	though	0
+weak	weak	j	weak	weak	0
+)	)	)	)	)	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+Bagshaw	Bagshaw	np1	Bagshaw	Bagshaw	0
+,	,	,	,	,	1

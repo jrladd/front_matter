@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HONO	HONO	fw-it	HONO	hono	0
+∣	∣	sy	∣	∣	0
+RABLE	RABLE	n1	RABLE	rabble	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+SARAH	SARAH	np1	SARAH	Sarah	0
+Countesse	Countesse	n1	Countess	countess	0
+Dowager	Dowager	n1	Dowager	dowager	0
+of	of	pp-f	of	of	0
+Leicester	Leicester	np1	Leicester	Leicester	0
+.	.	.	.	.	1

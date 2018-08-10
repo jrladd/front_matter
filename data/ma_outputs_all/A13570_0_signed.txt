@@ -1,0 +1,14 @@
+euer	euer	av	ever	ever	0
+remaining	remaining	vvg	remaining	remain	0
+your	your	po22	your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+in	in	p-acp	in	in	0
+whatsoeuer	whatsoeuer	r-crq	whatsoever	whatsoever	0
+,	,	,	,	,	0
+C	C	sy	C	c	0
+:	:	:	:	:	0
+HARMAR	HARMAR	np1	HARMAR	Harmar	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+his	his	po31	his	his	0
+dearely	dearely	av-jn	dearly	dear	0
+respected	respected	j-vvn	respected	respect	0
+Patron	Patron	n1	Patron	patron	0
+,	,	,	,	,	0
+Syr	Syr	n1	Sir	sir	0
+VVilliam	VVilliam	np1	VVilliam	William	0
+Hide	Hide	vvb	Hide	hide	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

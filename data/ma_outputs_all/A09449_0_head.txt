@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+SIR	SIR	n1	SIR	sir	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+ARMIN	ARMIN	np1	ARMIN	ARMIN	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

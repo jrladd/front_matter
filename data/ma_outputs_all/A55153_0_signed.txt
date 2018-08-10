@@ -1,0 +1,10 @@
+Beneficiarius	Beneficiarius	np1	Beneficiarius	Beneficiarius	0
+tuus	tuus	fw-la	tuus	tuus	0
+gratissimus	gratissimus	fw-la	gratissimus	gratissimus	0
+&	&	cc	&	and	0
+Cliens	Cliens	n2-jn	Cliens	clien	0
+humillimus	humillimus	j	humillimus	humillimus	0
+ROB	ROB	vvi	ROB	rob	0
+.	.	.	.	.	1
+PLOT	PLOT	n1	PLOT	plot	0
+.	.	.	.	.	1

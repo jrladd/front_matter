@@ -1,0 +1,14 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+TO	TO	p-acp	TO	to	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+CAESAR	CAESAR	np1	CAESAR	Caesar	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+OF	OF	pp-f	OF	of	0
+Bonnington	Bonnington	np1	Bonnington	Bonnington	0
+in	in	p-acp	in	in	0
+Hertfordshire	Hertfordshire	np1	Hertfordshire	Hertfordshire	0
+.	.	.	.	.	1

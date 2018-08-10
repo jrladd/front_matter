@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Playfore	Playfore	av	Playfore	playfore	0
+.	.	.	.	.	1

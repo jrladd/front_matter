@@ -1,0 +1,10 @@
+Which	Which	r-crq	Which	which	0
+will	will	vmb	will	will	0
+also	also	av	also	also	0
+be	be	vbi	be	be	0
+the	the	dt	the	the	0
+Happiness	Happiness	n1	Happiness	happiness	0
+of	of	pp-f	of	of	0
+John	John	np1	John	John	0
+Playford	Playford	np1	Playford	Playford	0
+.	.	.	.	.	1

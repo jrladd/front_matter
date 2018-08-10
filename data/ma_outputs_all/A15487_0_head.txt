@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+constant	constant	j	constant	constant	0
+Ladies	Ladies	n2	Ladies	lady	0
+&	&	cc	&	and	0
+Gen	Gen	fw-la	Gen	gen	0
+∣	∣	sy	∣	∣	0
+tlewomen	tlewomen	n2	tlewomen	tlewoman	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+that	that	cst	that	that	0
+feare	feare	n1	fear	fear	0
+God	God	np1	God	God	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+Yor.	Yor.	np1	Yor.	Yor.	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+William	William	np1	William	William	0
+EARLE	EARLE	n1	EARLE	earl	0
+of	of	pp-f	of	of	0
+BEDFORD	BEDFORD	np1	BEDFORD	Bedford	0
+Barron	Barron	n1	Barron	baron	0
+of	of	pp-f	of	of	0
+Thornaugh	Thornaugh	np1	Thornaugh	Thornaugh	0
+.	.	.	.	.	1

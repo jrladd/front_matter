@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+Humble	Humble	j	Humble	humble	0
+Petition	Petition	vvb	Petition	petition	0
+of	of	pp-f	of	of	0
+John	John	np1	John	John	0
+Jones	Jones	np1	Jones	Jones	0
+Gent.	Gent.	n1	Gent.	gentleman	0
+and	and	cc	and	and	0
+others	others	n2-jn	others	other	0
+.	.	.	.	.	1

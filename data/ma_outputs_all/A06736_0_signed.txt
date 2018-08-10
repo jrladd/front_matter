@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+to	to	p-acp	to	to	0
+commaund	commaund	n1	command	command	0
+.	.	.	.	.	1
+H.	H.	np1	H.	H.	0
+H.	H.	np1	H.	H.	1

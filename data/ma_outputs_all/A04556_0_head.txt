@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+LORDE	LORDE	n1	LORDE	lord	0
+WILIAM	WILIAM	np1	WILIAM	Wiliam	0
+HOWARD	HOWARD	np1	HOWARD	Howard	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Iohnson	Iohnson	np1	Iohnson	Johnson	0
+wisheth	wisheth	vvz	wishes	wish	0
+encrease	encrease	n1	increase	increase	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+prosperity	prosperity	n1	prosperity	prosperity	0
+.	.	.	.	.	1

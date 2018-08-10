@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+much	much	d	much	much	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+DVNTON	DVNTON	np1	DVNTON	DVNTON	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Worll	Worll	np1	Worll	Worll	0
+John	John	np1	John	John	0
+Mann	Mann	np1	Mann	Mann	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+Norwich	Norwich	np1	Norwich	Norwich	0
+.	.	.	.	.	1

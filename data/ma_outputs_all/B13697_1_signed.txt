@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+affections	affections	n2	affections	affection	0
+during	during	p-acp	during	during	0
+life	life	n1	life	life	0
+,	,	,	,	,	0
+SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
+GARDINER	GARDINER	np1	GARDINER	Gardiner	0
+.	.	.	.	.	1

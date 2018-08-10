@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+truly	truly	av-j	truly	true	0
+heroick	heroick	j	heroic	heroic	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+BENLOWES	BENLOWES	vvz	BENLOWES	benlowe	0
+.	.	.	.	.	1
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

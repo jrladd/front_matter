@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+HANDY-CRAFTS	HANDY-CRAFTS	n2	HANDY-CRAFTS	handy-craft	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+Christ	Christ	np1	Christ	Christ	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+S.	S.	n1	S.	saint	0
+BOLTON	BOLTON	np1	BOLTON	Bolton	0
+.	.	.	.	.	1

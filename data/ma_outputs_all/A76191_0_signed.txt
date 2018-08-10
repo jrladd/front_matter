@@ -1,0 +1,13 @@
+A	A	dt	A	a	0
+great	great	j	great	great	0
+Esteemer	Esteemer	n1	Esteemer	esteemer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+Piety	Piety	n1	Piety	piety	0
+and	and	cc	and	and	0
+many	many	d	many	many	0
+Labors	Labors	n2	Labors	labour	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

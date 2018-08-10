@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+ACCOMPLISH'D	ACCOMPLISH'D	vvn	ACCOMPLISHED	accomplish	0
+AND	AND	cc	AND	and	0
+EMINENTLY	EMINENTLY	av-j	EMINENTLY	eminent	0
+LEARNED	LEARNED	vvn	LEARNED	learn	0
+DR	DR	zz	DR	dr	0
+.	.	.	.	.	1
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+COX	COX	np1	COX	Cox	0
+Doctor	Doctor	n1	Doctor	doctor	0
+of	of	pp-f	of	of	0
+PHYSICK	PHYSICK	n1	PHYSICK	physic	1

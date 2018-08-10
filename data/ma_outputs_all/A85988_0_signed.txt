@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+for	for	p-acp	for	for	0
+his	his	po31	his	his	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Gospel-work	Gospel-work	n1	Gospel-work	gospel-work	0
+,	,	,	,	,	0
+CLAUDIUS	CLAUDIUS	np1	CLAUDIUS	Claudius	0
+GILBERT	GILBERT	np1	GILBERT	Gilbert	0
+.	.	.	.	.	1

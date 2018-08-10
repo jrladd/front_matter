@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+loving	loving	j-vvg	loving	love	0
+Brother	Brother	n1	Brother	brother	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+and	and	cc	and	and	0
+honour	honour	vvi	honour	honour	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BAKER	BAKER	np1	BAKER	Baker	0
+.	.	.	.	.	1

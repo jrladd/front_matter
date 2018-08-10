@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+to	to	p-acp	to	to	0
+all	all	d	all	all	0
+duty	duty	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+euer	euer	av	ever	ever	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+:	:	:	:	:	0
+ARTHVR	ARTHVR	np1	ARTHVR	ARTHVR	0
+HILDERSAM	HILDERSAM	np1	HILDERSAM	Hildersham	0
+.	.	.	.	.	1

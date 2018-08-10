@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+whom	whom	ro-crq	whom	who	0
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+a	a	dt	a	a	0
+dayly	dayly	j	daily	daily	0
+Orator	Orator	n1	Orator	orator	0
+George	George	np1	George	George	0
+Turberuyle	Turberuyle	j	Turberuyle	turberuyle	0
+.	.	.	.	.	1

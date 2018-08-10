@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Reverned	Reverned	vvn	Reverned	revern	0
+Father	Father	n1	Father	father	0
+in	in	p-acp	in	in	0
+GOD	GOD	np1	GOD	God	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+Lord	Lord	n1	Lord	lord	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+Bathe	Bathe	n1	bath	bath	0
+and	and	cc	and	and	0
+Wells	Wells	n2	Wells	well	0
+.	.	.	.	.	1

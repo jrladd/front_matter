@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+PUGH	PUGH	np1	PUGH	Pugh	0
+.	.	.	.	.	1

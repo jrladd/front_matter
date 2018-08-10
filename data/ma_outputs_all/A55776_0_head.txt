@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+Noble	Noble	j	Noble	noble	0
+and	and	cc	and	and	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+,	,	,	,	,	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+Sommerset	Sommerset	np1	Sommerset	Somerset	0
+.	.	.	.	.	1

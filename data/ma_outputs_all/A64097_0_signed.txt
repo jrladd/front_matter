@@ -1,0 +1,10 @@
+One	One	crd	One	one	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+Edw.	Edw.	np1	Edw.	Edw.	0
+Tyson	Tyson	np1	Tyson	Tyson	0
+.	.	.	.	.	1

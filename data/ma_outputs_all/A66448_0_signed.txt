@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Majestyes	Majestyes	ng1	Majesties	majesties	0
+most	most	av-ds	most	most	0
+loyal	loyal	j	loyal	loyal	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Orator	Orator	n1	Orator	orator	0
+at	at	p-acp	at	at	0
+the	the	dt	the	the	0
+Throne	Throne	n1	Throne	throne	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+.	.	.	.	.	1
+Roger	Roger	np1	Roger	Roger	0
+Williams	Williams	np1	Williams	Williams	0
+.	.	.	.	.	1

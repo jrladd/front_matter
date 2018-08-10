@@ -1,0 +1,3 @@
+George	George	np1	George	George	0
+North	North	n1	North	north	0
+.	.	.	.	.	1

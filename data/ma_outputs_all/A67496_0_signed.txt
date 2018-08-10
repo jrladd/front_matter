@@ -1,0 +1,9 @@
+YOUR	YOUR	po22	YOUR	your	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+to	to	p-acp	to	to	0
+all	all	d	all	all	0
+Posterity	Posterity	n1	Posterity	posterity	0
+,	,	,	,	,	0
+Philopolites	Philopolites	np1	Philopolites	Philopolites	0
+.	.	.	.	.	1

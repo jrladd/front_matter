@@ -1,0 +1,9 @@
+Honoris	Honoris	np1	Honoris	Honoris	0
+ui	ui	crd	ui	ui	0
+servus	servus	fw-la	servus	servus	0
+humillimus	humillimus	fw-la	humillimus	humillimus	0
+ac	ac	fw-la	ac	ac	0
+fidelissimus	fidelissimus	fw-la	fidelissimus	fidelissimus	0
+GULIELMUS	GULIELMUS	fw-la	GULIELMUS	gulielmus	0
+BATESIUS	BATESIUS	np1	BATESIUS	BATESIUS	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HO	HO	uh	HO	ho	0
+∣	∣	sy	∣	∣	0
+NORABLE	NORABLE	j	NORABLE	norable	0
+THE	THE	dt	THE	the	0
+LL.	LL.	np1	LL.	Ll.	1
+OF	OF	pp-f	OF	of	0
+HER	HER	po31	HER	her	0
+M.	M.	n1	M.	m.	1
+MOST	MOST	av-ds	MOST	most	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+PRIVIE	PRIVIE	j	PRIVY	privy	0
+COVNSEL	COVNSEL	n1	COVNSEL	covnsel	0
+.	.	.	.	.	1

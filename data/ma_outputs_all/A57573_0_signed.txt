@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladyship's	Ladyship's	ng1	Ladyship's	ladyship	0
+Most	Most	av-ds	Most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+TIMOTHY	TIMOTHY	np1	TIMOTHY	Timothy	0
+ROGERS	ROGERS	np1	ROGERS	Rogers	0
+.	.	.	.	.	1

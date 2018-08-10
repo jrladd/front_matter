@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+DV	DV	crd	DV	dv	0
+MOVLIN	MOVLIN	np1	MOVLIN	MOVLIN	0
+.	.	.	.	.	1

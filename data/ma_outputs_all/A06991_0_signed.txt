@@ -1,0 +1,6 @@
+Tuissmus	Tuissmus	np1	Tuissmus	Tuissmus	0
+:	:	:	:	:	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+HEYVVOOD	HEYVVOOD	np1	HEYVVOOD	HEYVVOOD	0
+.	.	.	.	.	1

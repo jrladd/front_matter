@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Excellently	Excellently	av-j	Excellently	excellent	0
+Learned	Learned	vvn	Learned	learn	0
+,	,	,	,	,	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+BENLOWES	BENLOWES	vvz	BENLOWES	benlowe	0
+OF	OF	pp-f	OF	of	0
+Brenthall	Brenthall	np1	Brenthall	Brenthall	0
+in	in	p-acp	in	in	0
+Essex	Essex	np1	Essex	Essex	0
+Esquire	Esquire	n1	Esquire	esquire	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

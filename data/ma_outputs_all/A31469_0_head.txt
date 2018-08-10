@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Grace	Grace	n1	Grace	grace	0
+WRIOTHESLY	WRIOTHESLY	av-j	WRIOTHESLY	wriothes	0
+,	,	,	,	,	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Bedford	Bedford	np1	Bedford	Bedford	0
+.	.	.	.	.	1

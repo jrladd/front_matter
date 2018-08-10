@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+His	His	po31	His	his	0
+Excellency	Excellency	n1	Excellency	excellency	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Lord	Lord	n1	Lord	lord	0
+Fairfax	Fairfax	np1	Fairfax	Fairfax	0
+,	,	,	,	,	0
+Generall	Generall	n1	General	general	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+English	English	jp	English	english	0
+Army	Army	n1	Army	army	0
+.	.	.	.	.	1

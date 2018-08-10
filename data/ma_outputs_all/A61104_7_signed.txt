@@ -1,0 +1,9 @@
+Yours	Yours	png22	Yours	you	0
+engaged	engaged	j-vvn	engaged	engage	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+Benjamin	Benjamin	np1	Benjamin	Benjamin	0
+Spencer	Spencer	np1	Spencer	Spencer	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+The	The	dt	The	the	0
+affectionate	affectionate	j	affectionate	affectionate	0
+honourer	honourer	n1	honourer	honourer	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+perfections	perfections	n2	perfections	perfection	0
+Henry	Henry	np1	Henry	Henry	0
+Burnell	Burnell	np1	Burnell	Burnell	0
+.	.	.	.	.	1

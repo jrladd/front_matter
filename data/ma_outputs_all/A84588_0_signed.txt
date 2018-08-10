@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Laurence	Laurence	np1	Laurence	Laurence	0
+Eason	Eason	np1	Eason	Eason	0
+.	.	.	.	.	1

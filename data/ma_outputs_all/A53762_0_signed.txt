@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Majestyes	Majestyes	ng1	Majesties	majesties	0
+faythful	faythful	j	faithful	faithful	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+subject	subject	n-jn	subject	subject	0
+during	during	p-acp	during	during	0
+lyfe	lyfe	n1	life	life	0
+.	.	.	.	.	1
+Wendy	Wendy	np1	Wendy	Wendy	0
+Oxford	Oxford	np1	Oxford	Oxford	0
+.	.	.	.	.	1

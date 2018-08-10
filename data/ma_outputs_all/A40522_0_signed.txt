@@ -1,0 +1,4 @@
+BY	BY	p-acp	BY	by	0
+JOHN	JOHN	np1	JOHN	John	0
+FRYER	FRYER	n1	FRYER	friar	0
+.	.	.	.	.	1

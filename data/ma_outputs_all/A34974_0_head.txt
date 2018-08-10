@@ -1,0 +1,4 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Queen-Mother	Queen-Mother	n1	Queen-Mother	queen-mother	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+honorable	honorable	j	honourable	honourable	0
+com	com	vvb	come	come	0
+∣	∣	sy	∣	∣	0
+maundement	maundement	zz	maundement	maundement	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

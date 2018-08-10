@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	p-acp	to	to	0
+doo	doo	vdi	do	do	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+George	George	np1	George	George	0
+VVhetstones	VVhetstones	np1	VVhetstones	VVhetstones	0
+.	.	.	.	.	1

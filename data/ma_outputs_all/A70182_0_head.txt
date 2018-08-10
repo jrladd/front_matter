@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Sir	Sir	n1	Sir	sir	0
+JOHN	JOHN	np1	JOHN	John	0
+FINCH	FINCH	np1	FINCH	Finch	1

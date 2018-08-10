@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+C.	C.	np1	C.	C.	1

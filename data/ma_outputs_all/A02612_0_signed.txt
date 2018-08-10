@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+obseruant	obseruant	j	observant	observant	0
+Seruant	Seruant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+William	William	np1	William	William	0
+Hampton	Hampton	np1	Hampton	Hampton	1

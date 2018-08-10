@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+devouted	devouted	j-vvn	devouted	devout	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Wil.	Wil.	np1	Wil.	Wil.	0
+Colvill	Colvill	np1	Colvill	Colvill	0
+.	.	.	.	.	1

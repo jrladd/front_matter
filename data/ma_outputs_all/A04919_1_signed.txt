@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+unworthy	unworthy	j	unworthy	unworthy	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+obedient	obedient	j	obedient	obedient	0
+Lievetenant	Lievetenant	n1	Lieutenant	lieutenant	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BARRIFF	BARRIFF	np1	BARRIFF	BARRIFF	0
+.	.	.	.	.	1

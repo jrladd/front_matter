@@ -1,0 +1,16 @@
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+,	,	,	,	,	0
+Yours	Yours	png22	Yours	you	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+of	of	pp-f	of	of	0
+Salvation	Salvation	n1	Salvation	salvation	0
+,	,	,	,	,	0
+Rob.	Rob.	np1	Rob.	Rob.	0
+Todd	Todd	np1	Todd	Todd	0
+.	.	.	.	.	1

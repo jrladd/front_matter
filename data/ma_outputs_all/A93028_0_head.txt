@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Major	Major	j	Major	major	0
+Generall	Generall	n1	General	general	0
+LAMBERT	LAMBERT	np1	LAMBERT	Lambert	0
+:	:	:	:	:	0
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+wisheth	wisheth	vvz	wishes	wish	0
+Felicity	Felicity	np1	Felicity	Felicity	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+The	The	dt	The	the	0
+Stationer	Stationer	n1	Stationer	stationer	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Reader	Reader	n1	Reader	reader	0
+.	.	.	.	.	1

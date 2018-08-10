@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+honorable	honorable	j	honourable	honourable	0
+Company	Company	n1	Company	company	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Adventurers	Adventurers	n2	Adventurers	adventurer	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+Sommer	Sommer	n1	Summer	summer	0
+(	(	(	(	(	0
+alias	alias	av	alias	alias	0
+Bermudas	Bermudas	np1	Bermudas	Bermudas	0
+)	)	)	)	)	0
+Islands	Islands	n2	Islands	island	0
+.	.	.	.	.	1

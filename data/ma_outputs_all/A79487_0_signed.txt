@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Chidley	Chidley	np1	Chidley	Chidley	0
+.	.	.	.	.	1

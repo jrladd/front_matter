@@ -1,0 +1,16 @@
+ILLVSTRISSIMAE	ILLVSTRISSIMAE	fw-la	ILLVSTRISSIMAE	illvstrissimae	0
+,	,	,	,	,	0
+ET	ET	fw-la	ET	et	0
+omni	omni	fw-la	omni	omni	0
+laudis	laudis	fw-la	laudis	laudis	0
+genere	genere	fw-la	genere	genere	0
+Ornatissimae	Ornatissimae	fw-la	Ornatissimae	ornatissimae	0
+Dominae	Dominae	fw-la	Dominae	dominae	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+ARABELLAE	ARABELLAE	np1	ARABELLAE	ARABELLAE	0
+STVARTAE	STVARTAE	np1	STVARTAE	STVARTAE	0
+:	:	:	:	:	0
+omnimodam	omnimodam	fw-la	omnimodam	omnimodam	0
+foelicitatem	foelicitatem	fw-la	foelicitatem	foelicitatem	0
+.	.	.	.	.	1

@@ -1,0 +1,4 @@
+RA	RA	uh	RA	ra	0
+:	:	:	:	:	0
+FFARMER	FFARMER	n1	FFARMER	ffarmer	0
+.	.	.	.	.	1

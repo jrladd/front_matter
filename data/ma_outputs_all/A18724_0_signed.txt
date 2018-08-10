@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Churchyard	Churchyard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

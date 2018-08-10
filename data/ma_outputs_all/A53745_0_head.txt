@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+Capt.	Capt.	np1	Capt.	Capt.	0
+Anthony	Anthony	np1	Anthony	Anthony	0
+Clifford	Clifford	np1	Clifford	Clifford	0
+,	,	,	,	,	0
+At	At	p-acp	At	at	0
+Peckham	Peckham	np1	Peckham	Peckham	0
+near	near	j	near	near	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

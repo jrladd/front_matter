@@ -1,0 +1,6 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

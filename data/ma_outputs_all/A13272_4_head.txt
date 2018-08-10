@@ -1,0 +1,15 @@
+TOMY	TOMY	n1	TOMY	tomy	0
+HIGHLY	HIGHLY	av-j	HIGHLY	high	0
+HONOUR'D	HONOUR'D	j-vvn	HONOURED	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Sr.	Sr.	n1	Sr.	sir	1
+JOHN	JOHN	np1	JOHN	John	0
+STAVVELL	STAVVELL	av	STAVVELL	stavvell	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+BATH	BATH	n1	BATH	bath	0
+,	,	,	,	,	0
+THIS	THIS	d	THIS	this	0
+.	.	.	.	.	1

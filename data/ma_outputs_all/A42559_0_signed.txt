@@ -1,0 +1,6 @@
+Vestrae	Vestrae	np1	Vestrae	Vestrae	0
+Reverentiae	Reverentiae	fw-la	Reverentiae	reverentiae	0
+Observantissimus	Observantissimus	fw-la	Observantissimus	observantissimus	0
+.	.	.	.	.	1
+G.	G.	np1	G.	G.	0
+G.	G.	np1	G.	G.	1

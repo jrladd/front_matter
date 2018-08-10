@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+,	,	,	,	,	0
+firmely	firmely	av-j	firmly	firm	0
+and	and	cc	and	and	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+obliged	obliged	vvn	obliged	oblige	0
+;	;	;	;	;	0
+Ambrose	Ambrose	np1	Ambrose	Ambrose	0
+Purchas	Purchas	np1	Purchas	Purchas	0
+.	.	.	.	.	1

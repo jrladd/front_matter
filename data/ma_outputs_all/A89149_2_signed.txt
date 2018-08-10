@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+as	as	c-acp	as	as	0
+much	much	d	much	much	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+as	as	c-acp	as	as	0
+any	any	d	any	any	0
+of	of	pp-f	of	of	0
+longer	longer	jc	longer	long	0
+dateHenry	dateHenry	np1	dateHenry	dateHenry	0
+Wootton	Wootton	np1	Wootton	Wootton	0
+.	.	.	.	.	1

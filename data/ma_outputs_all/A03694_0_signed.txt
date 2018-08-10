@@ -1,0 +1,16 @@
+At	At	p-acp	At	at	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+mandements	mandements	n2	mandments	mandment	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+HORN	HORN	n1	HORN	horn	0
+.	.	.	.	.	1

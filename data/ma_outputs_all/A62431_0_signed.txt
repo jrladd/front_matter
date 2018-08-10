@@ -1,0 +1,6 @@
+Vestrum	Vestrum	np1	Vestrum	Vestrum	0
+Observantissimus	Observantissimus	fw-la	Observantissimus	observantissimus	0
+.	.	.	.	.	1
+Geo.	Geo.	np1	Geo.	Geo.	0
+Thomsonus	Thomsonus	np1	Thomsonus	Thomsonus	0
+.	.	.	.	.	1

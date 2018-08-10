@@ -1,0 +1,3 @@
+Il	Il	fw-fr	Il	il	0
+Candido	Candido	np1	Candido	Candido	0
+.	.	.	.	.	1

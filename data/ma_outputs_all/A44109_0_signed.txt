@@ -1,0 +1,8 @@
+Sum	Sum	n1	Sum	sum	0
+servus	servus	fw-la	servus	servus	0
+tibi	tibi	fw-la	tibi	tibi	0
+devinctissimus	devinctissimus	fw-la	devinctissimus	devinctissimus	0
+;	;	;	;	;	0
+G.	G.	np1	G.	G.	0
+HOGAEUS	HOGAEUS	np1	HOGAEUS	HOGAEUS	0
+.	.	.	.	.	1

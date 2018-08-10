@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Crosse	Crosse	n1	Cross	cross	0
+.	.	.	.	.	1

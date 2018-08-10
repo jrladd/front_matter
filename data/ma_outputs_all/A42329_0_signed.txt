@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+Most	Most	av-ds	Most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+GUMBLE	GUMBLE	j	GUMBLE	gumble	0
+.	.	.	.	.	1

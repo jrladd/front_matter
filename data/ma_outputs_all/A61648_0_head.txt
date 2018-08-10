@@ -1,0 +1,17 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+worthily	worthily	av-j	worthily	worthy	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+John	John	np1	John	John	0
+Clarke	Clarke	n1	Clarke	clarke	0
+Of	Of	pp-f	Of	of	0
+Bury	Bury	np1	Bury	Bury	0
+in	in	p-acp	in	in	0
+Suffolk	Suffolk	np1	Suffolk	Suffolk	0
+,	,	,	,	,	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

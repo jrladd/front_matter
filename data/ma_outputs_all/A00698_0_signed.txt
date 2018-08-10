@@ -1,0 +1,14 @@
+YOVR	YOVR	po22	YOUR	your	0
+highnes	highnes	n1	highness	highness	0
+moste	moste	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+subiecte	subiecte	n-jn	subject	subject	0
+.	.	.	.	.	1
+w	w	j	w	wonderful	0
+.	.	.	.	.	1
+Bauande	Bauande	n1	Bauande	bauande	0
+.	.	.	.	.	1

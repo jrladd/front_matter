@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+ADAMS	ADAMS	npg1	ADAMS	Adam	0
+,	,	,	,	,	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

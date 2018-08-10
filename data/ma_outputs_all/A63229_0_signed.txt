@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+JOHN	JOHN	np1	JOHN	John	0
+TATHAM	TATHAM	np1	TATHAM	Tatham	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+Reginald	Reginald	np1	Reginald	Reginald	0
+Scot	Scot	np1	Scot	Scot	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Grace	Grace	n1	Grace	grace	0
+JOHN	JOHN	np1	JOHN	John	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+Newcastle	Newcastle	np1	Newcastle	Newcastle	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

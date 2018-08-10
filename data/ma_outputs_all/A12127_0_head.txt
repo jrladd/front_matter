@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	j-jn	right	right	0
+wor	wor	zz	wor	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+Sir	Sir	n1	Sir	sir	0
+Kenelme	Kenelme	np1	Kenelme	Kenelme	0
+Digby	Digby	np1	Digby	Digby	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+.	.	.	.	.	1

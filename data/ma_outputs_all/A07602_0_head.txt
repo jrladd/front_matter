@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+renowned	renowned	j-vvn	renowned	renown	0
+Patronesse	Patronesse	n1	Patroness	patroness	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+noble	noble	j	noble	noble	0
+Nurse	Nurse	n1	Nurse	nurse	0
+of	of	pp-f	of	of	0
+Learning	Learning	n1	Learning	learning	0
+MARIE	MARIE	uh	MARRY	marie	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+Penbrooke	Penbrooke	np1	Penbrooke	Pembroke	0
+.	.	.	.	.	1

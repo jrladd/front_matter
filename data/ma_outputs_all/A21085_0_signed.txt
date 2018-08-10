@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+VVorshippe	VVorshippe	n1	VVorshippe	vvorshippe	0
+as	as	p-acp	as	as	0
+his	his	po31	his	his	0
+ovvne	ovvne	d	own	own	0
+Pe.	Pe.	np1	Pe.	Pe.	0
+Beuerley	Beuerley	np1	Beuerley	Beverley	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+Sam.	Sam.	np1	Sam.	Sam	0
+Briscoe	Briscoe	np1	Briscoe	Briscoe	0
+,	,	,	,	,	0
+Bookseller	Bookseller	n1	Bookseller	bookseller	0
+.	.	.	.	.	1

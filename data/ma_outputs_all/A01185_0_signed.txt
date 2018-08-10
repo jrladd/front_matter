@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+most	most	av-ds	most	most	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Seruant	Seruant	n1	Servant	servant	0
+Arthur	Arthur	np1	Arthur	Arthur	0
+Gorges	Gorges	np1	Gorges	Gorges	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+good	good	j	good	good	0
+will	will	n1	will	will	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+SPACKMAN	SPACKMAN	np1	SPACKMAN	SPACKMAN	0
+.	.	.	.	.	1

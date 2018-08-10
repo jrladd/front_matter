@@ -1,0 +1,6 @@
+Thine	Thine	png21	Thine	thou	0
+Eternally	Eternally	av-j	Eternally	eternal	0
+,	,	,	,	,	0
+Nathanael	Nathanael	np1	Nathanael	Nathanael	0
+Vincent	Vincent	np1	Vincent	Vincent	0
+.	.	.	.	.	1

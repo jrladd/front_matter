@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+.	.	.	.	.	1
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+THE	THE	dt	THE	the	0
+PRINCESS	PRINCESS	n1	PRINCESS	princess	0
+ANN	ANN	np1	ANN	Ann	0
+Of	Of	pp-f	Of	of	0
+Denmark	Denmark	np1	Denmark	Denmark	0
+.	.	.	.	.	1

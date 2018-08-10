@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Friend	Friend	n1	Friend	friend	0
+Mr.	Mr.	n1	Mr.	mr.	0
+I.	I.	uh	I	i	0
+B.	B.	np1	B.	B.	0
+at	at	p-acp	at	at	0
+his	his	po31	his	his	0
+lodging	lodging	n1	lodging	lodging	0
+in	in	p-acp	in	in	0
+Saint	Saint	n1	Saint	saint	0
+Paul's	Paul's	npg1	Paul's	Paul	0
+Church-yard	Church-yard	n1	Churchyard	churchyard	0
+.	.	.	.	.	1

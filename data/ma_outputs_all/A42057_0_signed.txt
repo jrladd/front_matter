@@ -1,0 +1,3 @@
+JOHN	JOHN	np1	JOHN	John	0
+GAMMON	GAMMON	n1	GAMMON	gammon	0
+.	.	.	.	.	1

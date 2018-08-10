@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+HVGH	HVGH	np1	HVGH	HVGH	0
+PERRY	PERRY	np1	PERRY	Perry	0
+.	.	.	.	.	1

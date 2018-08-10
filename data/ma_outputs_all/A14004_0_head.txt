@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+WOR	WOR	zz	WOR	wor	0
+∣	∣	sy	∣	∣	0
+shipfull	shipfull	j	shipfull	shipfull	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Ioan	Ioan	np1	Ioan	Joan	0
+Leuenthorpe	Leuenthorpe	np1	Leuenthorpe	Leuenthorpe	0
+.	.	.	.	.	1

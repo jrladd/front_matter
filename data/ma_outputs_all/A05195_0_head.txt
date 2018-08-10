@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+VVORSHIPFVLL	VVORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+SIR	SIR	n1	SIR	sir	0
+HENRY	HENRY	np1	HENRY	Henry	0
+BELOSSES	BELOSSES	n2	BELOSSES	beloss	0
+.	.	.	.	.	1
+Knight	Knight	n1	Knight	knight	0
+and	and	cc	and	and	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

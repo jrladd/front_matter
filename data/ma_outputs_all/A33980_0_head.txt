@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Dear	Dear	j-jn	Dear	dear	0
+Sister	Sister	n1	Sister	sister	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+Mary	Mary	uh	Marry	mary	0
+Mitchel	Mitchel	np1	Mitchel	Mitchel	0
+.	.	.	.	.	1

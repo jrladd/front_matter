@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Sympathizing	Sympathizing	vvg	Sympathizing	sympathize	0
+Brother	Brother	n1	Brother	brother	0
+Theophilus	Theophilus	np1	Theophilus	Theophilus	0
+Philadelphus	Philadelphus	np1	Philadelphus	Philadelphus	0
+.	.	.	.	.	1

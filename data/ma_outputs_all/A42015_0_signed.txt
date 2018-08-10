@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+G.	G.	np1	G.	G.	1

@@ -1,0 +1,3 @@
+Iohn	Iohn	np1	Iohn	John	0
+Jones	Jones	np1	Jones	Jones	0
+.	.	.	.	.	1

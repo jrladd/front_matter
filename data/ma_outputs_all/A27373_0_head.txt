@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+VERTUOUS	VERTUOUS	j	VIRTUOUS	virtuous	0
+ACCOMPLISHED	ACCOMPLISHED	vvn	ACCOMPLISHED	accomplish	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+MADAM	MADAM	n1	MADAM	madam	0
+S.	S.	np1	S.	S.	0
+C.	C.	np1	C.	C.	1

@@ -1,0 +1,3 @@
+THE	THE	dt	THE	the	0
+INDVCTION	INDVCTION	n1	INDVCTION	indvction	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Of	Of	pp-f	Of	of	0
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+JACKSON	JACKSON	np1	JACKSON	Jackson	0
+.	.	.	.	.	1

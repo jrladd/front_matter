@@ -1,0 +1,7 @@
+Chara	Chara	np1	Chara	Chara	0
+dei	dei	fw-la	dei	dei	0
+Soboles	Soboles	n2	Soboles	sobole	0
+magnum	magnum	fw-la	magnum	magnum	0
+Jovis	Jovis	fw-la	Jovis	jovis	0
+incrementum	incrementum	fw-la	incrementum	incrementum	0
+.	.	.	.	.	1

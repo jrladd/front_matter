@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+VVOR	VVOR	n1	VVOR	vvor	0
+THIE	THIE	j-jn	THIE	thie	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+All-accomplisht	All-accomplisht	j	All-accomplisht	all-accomplisht	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+FINCH	FINCH	np1	FINCH	Finch	0
+,	,	,	,	,	0
+Knight	Knight	n1	Knight	knight	0
+BARONET	BARONET	n1	BARONET	baronet	0
+.	.	.	.	.	1

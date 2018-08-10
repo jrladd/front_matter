@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+JER	JER	np1	JER	JER	0
+.	.	.	.	.	1
+STEPHENS	STEPHENS	np1	STEPHENS	Stephens	0
+.	.	.	.	.	1

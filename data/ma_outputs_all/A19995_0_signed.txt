@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+honours	honours	n2	honours	honour	0
+humbly	humbly	av-j	humbly	humble	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+VALENTINE	VALENTINE	np1	VALENTINE	Valentine	0
+DAY	DAY	n1	DAY	day	0
+.	.	.	.	.	1

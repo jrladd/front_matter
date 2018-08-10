@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+NEWDIGATE	NEWDIGATE	np1	NEWDIGATE	Newdigate	0
+,	,	,	,	,	0
+Wife	Wife	n1	Wife	wife	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+Richard	Richard	np1	Richard	Richard	0
+Newdigate	Newdigate	np1	Newdigate	Newdigate	0
+,	,	,	,	,	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

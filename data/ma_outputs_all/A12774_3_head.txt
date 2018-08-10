@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+worthy	worthy	j	worthy	worthy	0
+and	and	cc	and	and	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Ladie	Ladie	n1	Lady	lady	0
+;	;	;	;	;	0
+the	the	dt	the	the	0
+La	La	fw-fr	La	la	0
+:	:	:	:	:	0
+Carey	Carey	np1	Carey	Carey	0
+.	.	.	.	.	1

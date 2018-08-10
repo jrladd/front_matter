@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+CARDINALL	CARDINALL	n1	CARDINALL	cardinal	0
+of	of	pp-f	of	of	0
+Richelieu	Richelieu	np1	Richelieu	Richelieu	0
+.	.	.	.	.	1

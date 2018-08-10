@@ -1,0 +1,12 @@
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+∣	∣	sy	∣	∣	0
+obeissant	obeissant	j	obeisant	obeisant	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+,	,	,	,	,	0
+JA	JA	fw-la	JA	ja	0
+:	:	:	:	:	0
+SARTRE	SARTRE	n1	SARTRE	sartre	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+THE	THE	dt	THE	the	0
+AUTHORS	AUTHORS	ng1	AUTHORS	author	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+(	(	(	(	(	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Treatise	Treatise	n1	Treatise	treatise	0
+of	of	pp-f	of	of	0
+Urines	Urines	n2	Urines	urine	0
+)	)	)	)	)	0
+TO	TO	p-acp	TO	to	0
+Dr.	Dr.	n1	Dr.	dr.	0
+Bathurst	Bathurst	np1	Bathurst	Bathurst	0
+.	.	.	.	.	1

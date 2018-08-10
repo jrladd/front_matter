@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+much	much	d	much	much	0
+Esteemed	Esteemed	j-vvn	Esteemed	esteem	0
+and	and	cc	and	and	0
+Worthy	Worthy	j	Worthy	worthy	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+ALICE	ALICE	np1	ALICE	Alice	0
+WALTER	WALTER	np1	WALTER	Walter	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+vowd	vowd	vvn	vowed	vow	0
+in	in	p-acp	in	in	0
+most	most	ds	most	most	0
+wished	wished	j-vvn	wished	wish	0
+seruice	seruice	n1	service	service	0
+:	:	:	:	:	0
+George	George	np1	George	George	0
+Chapman	Chapman	n1	Chapman	chapman	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Lord	Lord	n1	Lord	lord	0
+Lievtenant	Lievtenant	n1	Lieutenant	lieutenant	0
+of	of	pp-f	of	of	0
+Ireland	Ireland	np1	Ireland	Ireland	0
+.	.	.	.	.	1

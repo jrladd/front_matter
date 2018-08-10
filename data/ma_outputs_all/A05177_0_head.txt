@@ -1,0 +1,3 @@
+TO	TO	p-acp	TO	to	0
+SCOTLAND	SCOTLAND	np1	SCOTLAND	Scotland	0
+.	.	.	.	.	1

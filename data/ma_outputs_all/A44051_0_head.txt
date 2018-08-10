@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+worthily	worthily	av-j	worthily	worthy	0
+most	most	av-ds	most	most	0
+ho	ho	uh	ho	ho	0
+∣	∣	sy	∣	∣	0
+noured	noured	vvn	noured	nour	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+C.	C.	np1	C.	C.	0
+HODDESDON	HODDESDON	np1	HODDESDON	Hoddesdon	0
+Esq	Esq	np1	Esq	Esq	1

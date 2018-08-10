@@ -1,0 +1,2 @@
+G.	G.	np1	G.	G.	0
+S.	S.	np1	S.	S.	1

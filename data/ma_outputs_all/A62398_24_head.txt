@@ -1,0 +1,14 @@
+Dedicated	Dedicated	vvn	Dedicated	dedicate	0
+to	to	p-acp	to	to	0
+that	that	d	that	that	0
+worthy	worthy	j	worthy	worthy	0
+and	and	cc	and	and	0
+compleat	compleat	j	complete	complete	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Elliot	Elliot	np1	Elliot	Elliot	0
+appearant	appearant	j	apparent	apparent	0
+of	of	pp-f	of	of	0
+Dunlibire	Dunlibire	n1	Dunlibire	dunlibire	0
+.	.	.	.	.	1

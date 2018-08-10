@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
+most	most	av-ds	most	most	0
+thankefull	thankefull	j	thankful	thankful	0
+Scholler	Scholler	n1	Scholar	scholar	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+Edm.	Edm.	np1	Edm.	Edm.	0
+Gunter	Gunter	np1	Gunter	Gunter	0
+.	.	.	.	.	1

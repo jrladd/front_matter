@@ -1,0 +1,10 @@
+Vostre	Vostre	fw-fr	Vostre	vostre	0
+tres	tres	fw-fr	tres	tres	0
+humble	humble	j	humble	humble	0
+&	&	cc	&	and	0
+tres	tres	fw-la	tres	tres	0
+obeissant	obeissant	j	obeisant	obeisant	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+,	,	,	,	,	0
+P.	P.	np1	P.	P.	1
+Motteux	Motteux	fw-fr	Motteux	motteux	1

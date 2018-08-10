@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordship	Lordship	n1	Lordship	lordship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Alsop	Alsop	np1	Alsop	Alsop	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Gospel-Services	Gospel-Services	n2	Gospel-Services	gospel-service	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+GEARING	GEARING	np1	GEARING	GEARING	0
+.	.	.	.	.	1

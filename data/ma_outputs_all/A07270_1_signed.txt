@@ -1,0 +1,3 @@
+P.	P.	np1	P.	P.	0
+MATHIEU	MATHIEU	np1	MATHIEU	Mathieu	0
+.	.	.	.	.	1

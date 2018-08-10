@@ -1,0 +1,17 @@
+L'AVTHEVR	L'AVTHEVR	n1	L'AVTHEVR	l'avthevr	0
+AV	AV	j	AV	av	0
+ROY	ROY	fw-fr	ROY	roy	0
+TRES-CHRESTIEN	TRES-CHRESTIEN	j	TRES-CHRESTIEN	tres-chrestien	0
+,	,	,	,	,	0
+AVX	AVX	np1	AVX	AVX	0
+Princes	Princes	n2	Princes	prince	0
+,	,	,	,	,	0
+Potentats	Potentats	n2	Potentates	potentate	0
+&	&	cc	&	and	0
+Republiques	Republiques	n2	Republics	republic	0
+de	de	dt	the	the	0
+l'Europe	l'Europe	n1	l'Europe	l'europe	0
+,	,	,	,	,	0
+tres-humble	tres-humble	j	tres-humble	tres-humble	0
+Salut	Salut	n1	Salut	salut	0
+.	.	.	.	.	1

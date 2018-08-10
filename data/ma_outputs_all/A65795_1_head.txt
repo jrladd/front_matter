@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	ds	most	most	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+F.	F.	np1	F.	F.	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+,	,	,	,	,	0
+Ld.	Ld.	np1	Ld.	Ld.	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+Calcedon	Calcedon	np1	Calcedon	Chalcedon	0
+.	.	.	.	.	1

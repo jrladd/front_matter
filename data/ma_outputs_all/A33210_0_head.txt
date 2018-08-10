@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Father	Father	n1	Father	father	0
+the	the	dt	the	the	0
+Vindicator	Vindicator	n1	Vindicator	vindicator	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Bishop	Bishop	n1	Bishop	bishop	0
+of	of	pp-f	of	of	0
+Condom's	Condom's	ng1	Condom's	condom	0
+Expo	Expo	n1	Expo	expo	0
+∣	∣	sy	∣	∣	0
+sition	sition	n1	sition	sition	0
+.	.	.	.	.	1

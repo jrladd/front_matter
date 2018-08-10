@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+ACCOMPLISHD	ACCOMPLISHD	j-vvn	ACCOMPLISHD	accomplish	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+Constance	Constance	np1	Constance	Constance	0
+Enyon	Enyon	np1	Enyon	Enyon	0
+.	.	.	.	.	1

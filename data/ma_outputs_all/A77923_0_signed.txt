@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+Servant	Servant	n1	Servant	servant	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BALL	BALL	n1	BALL	ball	0
+,	,	,	,	,	0
+alias	alias	av	alias	alias	0
+BENNET	BENNET	np1	BENNET	Bennet	0
+.	.	.	.	.	1

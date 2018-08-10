@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+in	in	p-acp	in	in	0
+what	what	r-crq	what	what	0
+I	I	pns11	I	i	0
+may	may	vmb	may	may	0
+,	,	,	,	,	0
+I.	I.	uh	I	i	0
+G.	G.	np1	G.	G.	1

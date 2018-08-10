@@ -1,0 +1,13 @@
+Tuae	Tuae	fw-la	Tuae	tuus	0
+Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
+humilimus	humilimus	fw-la	humilimus	humilimus	0
+Stu	Stu	np1	Stu	Stuffe	0
+∣	∣	sy	∣	∣	0
+diosissimusque	diosissimusque	fw-la	diosissimusque	diosissimusque	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+Ricardus	Ricardus	np1	Ricardus	Ricardus	0
+Robinsonus	Robinsonus	np1	Robinsonus	Robinsonus	0
+.	.	.	.	.	1
+Londinensis	Londinensis	fw-la	Londinensis	londinensis	0
+.	.	.	.	.	1

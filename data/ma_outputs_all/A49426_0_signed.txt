@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Excellencie's	Excellencie's	ng1	Excellency's	excellency	0
+reall	reall	j	real	real	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+much	much	d	much	much	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+IASPER	IASPER	np1	IASPER	Jasper	0
+MAYNE	MAYNE	n1	MAYNE	main	0
+.	.	.	.	.	1

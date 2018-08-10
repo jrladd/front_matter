@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+vertuous	vertuous	j	virtuous	virtuous	0
+and	and	cc	and	and	0
+his	his	po31	his	his	0
+much	much	d	much	much	0
+Honored	Honored	j-vvn	Honoured	honour	0
+,	,	,	,	,	0
+Mistris	Mistris	n1	Mistress	mistress	0
+Anne	Anne	np1	Anne	Anne	0
+Walcot	Walcot	np1	Walcot	Walcot	0
+of	of	pp-f	of	of	0
+Walcot	Walcot	np1	Walcot	Walcot	0
+.	.	.	.	.	1

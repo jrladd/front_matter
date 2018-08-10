@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+obliged	obliged	j-vvn	obliged	oblige	0
+and	and	cc	and	and	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+COPLESTON	COPLESTON	np1	COPLESTON	Copleston	0
+.	.	.	.	.	1

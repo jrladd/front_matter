@@ -1,0 +1,8 @@
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+be	be	vbb	be	be	0
+multi	multi	fw-la	multi	multi	0
+∣	∣	sy	∣	∣	0
+plyed	plyed	vvd	plied	ply	0
+.	.	.	.	.	1

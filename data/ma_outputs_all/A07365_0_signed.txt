@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+seruice	seruice	n1	service	service	0
+Iohn	Iohn	np1	Iohn	John	0
+Maynard	Maynard	np1	Maynard	Maynard	0
+.	.	.	.	.	1

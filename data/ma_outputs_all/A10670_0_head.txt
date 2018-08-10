@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+GREAT	GREAT	j	GREAT	great	0
+BRITTAYNES	BRITTAYNES	n2	BRITTAYNES	brittayne	0
+GREAT	GREAT	j	GREAT	great	0
+HOAPE	HOAPE	vvb	HOAPE	hope	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+,	,	,	,	,	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+OF	OF	pp-f	OF	of	0
+WALES	WALES	np1	WALES	Wales	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,3 @@
+Wholly	Wholly	av-jn	Wholly	whole	0
+Devoted	Devoted	vvn	Devoted	devote	0
+.	.	.	.	.	1

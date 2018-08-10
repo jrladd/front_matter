@@ -1,0 +1,10 @@
+Graces	Graces	ng1	Graces	grace	0
+and	and	cc	and	and	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Garey	Garey	np1	Garey	Garey	0
+.	.	.	.	.	1

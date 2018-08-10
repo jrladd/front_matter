@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
+poore	poore	j	poor	poor	0
+Chaplein	Chaplein	n1	Chaplein	chaplein	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+deuoutely	deuoutely	av-j	devoutly	devout	0
+bound	bound	vvn	bound	bind	0
+VV.	VV.	np1	VV.	VV.	0
+ROFFENS	ROFFENS	np1	ROFFENS	ROFFENS	0
+.	.	.	.	.	1

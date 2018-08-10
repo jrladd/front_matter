@@ -1,0 +1,16 @@
+Decemb.	Decemb.	np1	Decemb.	Decemb.	0
+8.	8.	crd	8.	8.	0
+1653.	1653.	crd	1653.	1653.	1
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+READING	READING	np1	READING	Reading	0
+.	.	.	.	.	1

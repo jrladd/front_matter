@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+THE	THE	dt	THE	the	0
+DUTCHESSE	DUTCHESSE	n1	DUTCHESSE	duchess	0
+OF	OF	pp-f	OF	of	0
+RICHMOND	RICHMOND	np1	RICHMOND	Richmond	0
+and	and	cc	and	and	0
+LENOX	LENOX	np1	LENOX	Lenox	0
+.	.	.	.	.	1

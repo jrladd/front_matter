@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+JOHN	JOHN	np1	JOHN	John	0
+BRADSHAW	BRADSHAW	np1	BRADSHAW	Bradshaw	0
+LORD	LORD	n1	LORD	lord	0
+PRESIDENT	PRESIDENT	n1	PRESIDENT	precedent	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+COUNCIL	COUNCIL	n1	COUNCIL	council	0
+of	of	pp-f	of	of	0
+STATE	STATE	n1	STATE	state	0
+.	.	.	.	.	1

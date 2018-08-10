@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+Satyrical	Satyrical	j	Satyrical	satirical	0
+Dick	Dick	np1	Dick	Dick	0
+.	.	.	.	.	1

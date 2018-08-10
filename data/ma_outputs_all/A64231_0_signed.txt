@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+Obedient	Obedient	j	Obedient	obedient	0
+Son	Son	n1	Son	son	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Nathanael	Nathanael	np1	Nathanael	Nathanael	0
+Taylor	Taylor	np1	Taylor	Taylor	0
+.	.	.	.	.	1

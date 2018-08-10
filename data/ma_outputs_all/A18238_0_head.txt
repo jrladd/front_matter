@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+REVE	REVE	np1	REVE	REVE	0
+∣	∣	sy	∣	∣	0
+rend	rend	vvi	rend	rend	0
+and	and	cc	and	and	0
+worthy	worthy	j	worthy	worthy	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+Doc	Doc	fw-fr	Doc	doc	0
+∣	∣	sy	∣	∣	0
+tour	tour	fw-fr	tour	tour	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

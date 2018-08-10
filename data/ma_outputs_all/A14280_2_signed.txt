@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Edw.	Edw.	np1	Edw.	Edw.	0
+Ʋaughan	Ʋaughan	np1	Ʋaughan	Ʋaughan	0
+.	.	.	.	.	1

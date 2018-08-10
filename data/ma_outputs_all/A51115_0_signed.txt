@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Royal	Royal	j	Royal	royal	0
+Highness's	Highness's	ng1	Highness's	highness	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+obedient	obedient	j	obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Ravenscroft	Ravenscroft	np1	Ravenscroft	Ravenscroft	0
+.	.	.	.	.	1

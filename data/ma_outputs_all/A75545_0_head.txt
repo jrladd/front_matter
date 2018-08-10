@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+SIR	SIR	n1	SIR	sir	0
+JOHN	JOHN	np1	JOHN	John	0
+BASHFORD	BASHFORD	np1	BASHFORD	Bashford	0
+OF	OF	pp-f	OF	of	0
+Brass-Hall	Brass-Hall	n1	Brass-Hall	brass-hall	0
+,	,	,	,	,	0
+Barr.	Barr.	np1	Barr.	Barr.	1

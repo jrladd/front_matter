@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obliged	obliged	j-vvn	obliged	oblige	0
+l'en-man	l'en-man	n1	l'en-man	l'en-man	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+CARPENTER	CARPENTER	n1	CARPENTER	carpenter	0
+.	.	.	.	.	1

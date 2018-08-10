@@ -1,0 +1,8 @@
+Thine	Thine	png21	Thine	thou	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+not	not	xx	not	not	0
+thine	thine	png21	thine	thou	0
+,	,	,	,	,	0
+R	R	zz	R	r	0
+R.	R.	np1	R.	R.	1

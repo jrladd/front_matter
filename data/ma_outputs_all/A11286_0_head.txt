@@ -1,0 +1,11 @@
+AV	AV	j	AV	av	0
+TRES-HONORABLE	TRES-HONORABLE	j	TRES-HONORABLE	tres-honorable	0
+,	,	,	,	,	0
+ET	ET	fw-la	ET	et	0
+TRES-GENEREVX	TRES-GENEREVX	j	TRES-GENEREVX	tres-generevx	0
+CHEVALIER	CHEVALIER	fw-fr	CHEVALIER	chevalier	0
+,	,	,	,	,	0
+Monsieur	Monsieur	fw-fr	Monsieur	monsieur	0
+Edoward	Edoward	n1	Edoward	edoward	0
+Osburne	Osburne	np1	Osburne	Osburne	0
+.	.	.	.	.	1

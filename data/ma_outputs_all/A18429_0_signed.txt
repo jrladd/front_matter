@@ -1,0 +1,11 @@
+Yours	Yours	png22	Yours	you	0
+ever	ever	av	ever	ever	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+CHAPMAN	CHAPMAN	n1	CHAPMAN	chapman	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+loving	loving	j-vvg	loving	love	0
+brother	brother	n1	brother	brother	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+fellow	fellow	n1	fellow	fellow	0
+labourer	labourer	n1	labourer	labourer	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+SIMEON	SIMEON	np1	SIMEON	Simeon	0
+ASHE	ASHE	np1	ASHE	Ashe	0
+.	.	.	.	.	1

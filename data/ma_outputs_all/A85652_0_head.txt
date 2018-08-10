@@ -1,0 +1,14 @@
+Card.	Card.	np1	Card.	Card.	0
+Baron	Baron	n1	Baron	baron	0
+.	.	.	.	.	0
+lib	lib	n1	lib	lib	0
+.	.	.	.	.	1
+Anal.	Anal.	np1	Anal.	Anal.	0
+Tom.	Tom.	np1	Tom.	Tom	0
+8.	8.	crd	8.	8.	0
+post	post	n1	post	post	0
+Epist.	Epist.	np1	Epist.	Epist.	0
+Dedicat.	Dedicat.	np1	Dedicat.	Dedicat.	0
+Clem.	Clem.	np1	Clem.	Clem	0
+VIII	VIII	np1	VIII	Viii	0
+.	.	.	.	.	1

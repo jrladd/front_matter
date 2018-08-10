@@ -1,0 +1,17 @@
+who	who	r-crq	who	who	0
+is	is	vbz	is	be	0
+Lesse	Lesse	av-dc	Less	less	0
+then	then	cs	then	than	0
+the	the	dt	the	the	0
+least	least	ds	least	least	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+Gods	Gods	ng1	Gods	god	0
+mercies	mercies	n2	mercies	mercy	0
+and	and	cc	and	and	0
+Employments	Employments	n2	Employments	employment	0
+,	,	,	,	,	0
+MATTH	MATTH	av	MATTH	matth	0
+.	.	.	.	.	1
+NEVVCOMEN	NEVVCOMEN	vvn	NEVVCOMEN	nevvcomen	0
+.	.	.	.	.	1

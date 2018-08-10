@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Sir	Sir	n1	Sir	sir	0
+HENRY	HENRY	np1	HENRY	Henry	0
+ANDREWS	ANDREWS	np1	ANDREWS	Andrews	0
+BARONET	BARONET	n1	BARONET	baronet	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+His	His	po31	His	his	0
+Wife	Wife	n1	Wife	wife	0
+.	.	.	.	.	1

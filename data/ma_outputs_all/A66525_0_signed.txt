@@ -1,0 +1,9 @@
+At	At	p-acp	At	at	0
+the	the	dt	the	the	0
+door	door	n1	door	door	0
+of	of	pp-f	of	of	0
+Eternity	Eternity	n1	Eternity	eternity	0
+,	,	,	,	,	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

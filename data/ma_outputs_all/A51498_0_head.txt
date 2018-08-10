@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+Sir	Sir	n1	Sir	sir	0
+Theodore	Theodore	np1	Theodore	Theodore	0
+Janssen	Janssen	np1	Janssen	Janssen	0
+.	.	.	.	.	1

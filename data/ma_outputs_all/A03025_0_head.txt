@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	j-jn	Right	right	0
+Honoura	Honoura	fw-fr	Honoura	honoura	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+LADIE	LADIE	n1	LADIE	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LADIE	LADIE	n1	LADIE	lady	0
+ANNE	ANNE	np1	ANNE	ANNE	0
+COTTINGTON	COTTINGTON	np1	COTTINGTON	COTTINGTON	0
+.	.	.	.	.	1

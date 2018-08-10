@@ -1,0 +1,4 @@
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

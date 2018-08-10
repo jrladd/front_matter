@@ -1,0 +1,9 @@
+Verses	Verses	n2	Verses	verse	0
+on	on	p-acp	on	on	0
+the	the	dt	the	the	0
+name	name	n1	name	name	0
+of	of	pp-f	of	of	0
+Mistresse	Mistresse	n1	Mistress	mistress	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Reynovvls	Reynovvls	vvz	Reynovvls	reynovvl	0
+.	.	.	.	.	1

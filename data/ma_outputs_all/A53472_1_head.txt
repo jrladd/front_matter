@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Lady	Lady	n1	Lady	lady	0
+SUNDERLAND	SUNDERLAND	np1	SUNDERLAND	Sunderland	0
+.	.	.	.	.	1

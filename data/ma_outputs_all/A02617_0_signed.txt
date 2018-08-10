@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+at	at	p-acp	at	at	0
+commaundement	commaundement	n1	commandment	commandment	0
+.	.	.	.	.	1
+Meredith	Meredith	np1	Meredith	Meredith	0
+Hanmer	Hanmer	np1	Hanmer	Hanmer	0
+.	.	.	.	.	1

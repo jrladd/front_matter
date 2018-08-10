@@ -1,0 +1,6 @@
+Monsieur	Monsieur	np1	Monsieur	Monsieur	0
+Sorbeir	Sorbeir	np1	Sorbeir	Sorbeir	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+READER	READER	n1	READER	reader	0
+.	.	.	.	.	1

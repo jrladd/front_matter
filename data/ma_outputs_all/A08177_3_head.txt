@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+Lady	Lady	n1	Lady	lady	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+.	.	.	.	.	1

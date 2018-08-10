@@ -1,0 +1,14 @@
+By	By	p-acp	By	by	0
+him	him	pno31	him	he	0
+that	that	cst	that	that	0
+is	is	vbz	is	be	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+La	La	fw-fr	La	la	0
+∣	∣	sy	∣	∣	0
+diships	diships	ng1	diships	diships	0
+seruice	seruice	n1	service	service	0
+IO	IO	uh	IO	io	0
+.	.	.	.	.	1
+WHITE	WHITE	np1	WHITE	White	0
+.	.	.	.	.	1

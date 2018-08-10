@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+GREAT	GREAT	j	GREAT	great	0
+EXAMPLE	EXAMPLE	n1	EXAMPLE	example	0
+of	of	pp-f	of	of	0
+Vertue	Vertue	n1	Virtue	virtue	0
+and	and	cc	and	and	0
+Nobility	Nobility	n1	Nobility	nobility	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Katherine	Katherine	np1	Katherine	Katherine	0
+Abergauenny	Abergauenny	n1	Abergauenny	abergauenny	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+His	His	po31	His	his	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+JOHN	JOHN	np1	JOHN	John	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+;	;	;	;	;	0
+Serjeant	Serjeant	n1	Sergeant	sergeant	0
+Chirurgeon	Chirurgeon	n1	Chirurgeon	surgeon	0
+to	to	p-acp	to	to	0
+His	His	po31	His	his	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+.	.	.	.	.	1

@@ -1,0 +1,10 @@
+A	A	dt	A	a	0
+real	real	j	real	real	0
+well-wisher	well-wisher	j	wellwisher	wellwish	0
+to	to	p-acp	to	to	0
+you	you	pn22	you	you	0
+all	all	d	all	all	0
+,	,	,	,	,	0
+Wiliam	Wiliam	np1	Wiliam	Wiliam	0
+De	De	fw-fr	De	de	0
+Rand.	Rand.	np1	Rand.	Rand.	1

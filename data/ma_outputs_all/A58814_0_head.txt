@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Truly	Truly	av-j	Truly	true	0
+Pious	Pious	j	Pious	pious	0
+and	and	cc	and	and	0
+Virtuous	Virtuous	j	Virtuous	virtuous	0
+Mrs	Mrs	n1	Mrs	mrs.	0
+CROUN	CROUN	n1	CROUN	croun	0
+.	.	.	.	.	1

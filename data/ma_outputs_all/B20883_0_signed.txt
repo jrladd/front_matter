@@ -1,0 +1,8 @@
+Yours	Yours	png22	Yours	you	0
+and	and	cc	and	and	0
+his	his	png31	his	he	0
+Countries	Countries	ng1	Countries	country	0
+servant	servant	n1	servant	servant	0
+John	John	np1	John	John	0
+Crosbie	Crosbie	np1	Crosbie	Crosbie	0
+.	.	.	.	.	1

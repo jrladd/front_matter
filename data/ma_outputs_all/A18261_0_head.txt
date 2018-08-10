@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+protection	protection	n1	protection	protection	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Ladie	Ladie	n1	Lady	lady	0
+Arbella	Arbella	np1	Arbella	Arbella	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+vertuous	vertuous	j	virtuous	virtuous	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lady	Lady	n1	Lady	lady	0
+ANNE	ANNE	np1	ANNE	ANNE	0
+INGOLDSBY	INGOLDSBY	np1	INGOLDSBY	Ingoldsby	0
+.	.	.	.	.	1

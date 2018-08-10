@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Dissenting	Dissenting	vvg	Dissenting	dissent	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Diocese	Diocese	n1	Diocese	diocese	0
+of	of	pp-f	of	of	0
+DERRY	DERRY	np1	DERRY	Derry	0
+.	.	.	.	.	1

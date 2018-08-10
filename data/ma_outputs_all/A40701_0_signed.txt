@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+FULLER	FULLER	np1	FULLER	Fuller	0
+.	.	.	.	.	1

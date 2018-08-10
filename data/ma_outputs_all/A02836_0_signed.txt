@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	n2	Majesties	majesty	0
+well	well	av	well	well	0
+meaning	meaning	vvg	meaning	mean	0
+and	and	cc	and	and	0
+loyall	loyall	j	loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+HAYMAN	HAYMAN	np1	HAYMAN	Hayman	0
+.	.	.	.	.	1

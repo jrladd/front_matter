@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+Nephew	Nephew	n1	Nephew	nephew	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SVTTON	SVTTON	np1	SVTTON	SVTTON	0
+.	.	.	.	.	1

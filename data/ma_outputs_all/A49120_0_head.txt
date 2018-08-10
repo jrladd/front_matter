@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+CARY	CARY	vvi	CARRY	carry	0
+,	,	,	,	,	0
+D.	D.	np1	D.	D.	0
+D.	D.	np1	D.	D.	1
+AND	AND	cc	AND	and	0
+DEAN	DEAN	n1	DEAN	dean	0
+of	of	pp-f	of	of	0
+EXETER	EXETER	np1	EXETER	Exeter	0
+.	.	.	.	.	1

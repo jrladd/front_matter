@@ -1,0 +1,15 @@
+Hee	Hee	pns31	He	he	0
+whose	whose	rg-crq	whose	who	0
+meaning	meaning	n1	meaning	meaning	0
+,	,	,	,	,	0
+writing	writing	vvg	writing	write	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+speaking	speaking	vvg	speaking	speak	0
+,	,	,	,	,	0
+are	are	vbr	are	be	0
+one	one	crd	one	one	0
+:	:	:	:	:	0
+IOHN	IOHN	np1	IOHN	John	0
+TAYLOR	TAYLOR	n1	TAYLOR	tailor	0
+.	.	.	.	.	1

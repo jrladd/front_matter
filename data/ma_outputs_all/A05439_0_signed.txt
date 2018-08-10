@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+B.	B.	np1	B.	B.	1

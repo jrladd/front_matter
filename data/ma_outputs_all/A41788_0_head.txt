@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Parents	Parents	n2	Parents	parent	0
+and	and	cc	and	and	0
+Masters	Masters	n2	Master's	master	0
+of	of	pp-f	of	of	0
+Christian	Christian	np1	Christian	Christian	0
+Fa	Fa	uh	Fa	fa	0
+∣	∣	sy	∣	∣	0
+milies	milies	n2	milies	mily	0
+.	.	.	.	.	1
+Grace	Grace	n1	Grace	grace	0
+be	be	vbb	be	be	0
+multiplied	multiplied	vvn	multiplied	multiply	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT-WORSHIPFVLL	RIGHT-WORSHIPFVLL	j	RIGHT-WORSHIPFVLL	right-worshipfvll	0
+MY	MY	po11	MY	my	0
+WORTHIE	WORTHIE	j	WORTHY	worthy	0
+FREIND	FREIND	n1	FREIND	friend	0
+M.	M.	n1	M.	m.	0
+S.	S.	np1	S.	S.	0
+N.	N.	np1	N.	N.	1

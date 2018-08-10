@@ -1,0 +1,11 @@
+Devoted	Devoted	j-vvn	Devoted	devote	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Honour	Honour	n1	Honour	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humilitie	humilitie	n1	humility	humility	0
+,	,	,	,	,	0
+IUSTINIAN	IUSTINIAN	np1	IUSTINIAN	Justinian	0
+STUBBS	STUBBS	np1	STUBBS	Stubbs	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+The	The	dt	The	the	0
+Authors	Authors	n2	Authors	author	0
+Epi	Epi	fw-la	Epi	epi	0
+∣	∣	sy	∣	∣	0
+stle	stle	n1	stle	stle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+brethren	brethren	n2	brothers	brethren	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Mini	Mini	np1	Mini	Mini	0
+∣	∣	sy	∣	∣	0
+stry	stry	n1	stry	stry	0
+.	.	.	.	.	1

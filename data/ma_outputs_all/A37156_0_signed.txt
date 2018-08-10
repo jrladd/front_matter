@@ -1,0 +1,4 @@
+ED	ED	wd	ED	ed	0
+.	.	.	.	.	1
+D'AUVERGNE	D'AUVERGNE	np1	D'AUVERGNE	D'Auvergne	0
+.	.	.	.	.	1

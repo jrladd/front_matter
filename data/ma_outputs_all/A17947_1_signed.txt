@@ -1,0 +1,10 @@
+By	By	p-acp	By	by	0
+your	your	po22	your	your	0
+louinge	louinge	j-vvg	loving	love	0
+and	and	cc	and	and	0
+assured	assured	j-vvn	assured	assure	0
+frende	frende	n1	friend	friend	0
+.	.	.	.	.	1
+E.	E.	np1	E.	E.	0
+Oxenford	Oxenford	np1	Oxenford	Oxenford	0
+.	.	.	.	.	1

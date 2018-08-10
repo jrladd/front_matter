@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	n2	Ladyships	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+spiritual	spiritual	j	spiritual	spiritual	0
+employment	employment	n1	employment	employment	0
+,	,	,	,	,	0
+JOH	JOH	np1	JOH	Joh	0
+:	:	:	:	:	0
+RIDLEY	RIDLEY	np1	RIDLEY	Ridley	0
+.	.	.	.	.	1

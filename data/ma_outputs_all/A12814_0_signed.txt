@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+affectionately	affectionately	av-j	affectionately	affectionate	0
+devoted	devoted	vvn	devoted	devote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+hearty	hearty	j	hearty	hearty	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+SQUIER	SQUIER	np1	SQUIER	Squier	0
+.	.	.	.	.	1

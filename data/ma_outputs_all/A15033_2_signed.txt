@@ -1,0 +1,10 @@
+At	At	p-acp	At	at	0
+whose	whose	rg-crq	whose	who	0
+commaundement	commaundement	n1	commandment	commandment	0
+I	I	pns11	I	i	0
+reuerently	reuerently	av-j	reverently	reverent	0
+remaine	remaine	vvb	remain	remain	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Whetstone	Whetstone	n1	Whetstone	whetstone	0
+.	.	.	.	.	1

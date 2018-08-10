@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+Most	Most	ds	Most	most	0
+Excel	Excel	vvb	Excel	excel	0
+∣	∣	sy	∣	∣	0
+lent	lent	np1	lent	Lent	0
+Majesty	Majesty	n1	Majesty	majesty	0
+,	,	,	,	,	0
+Mary	Mary	uh	Marry	mary	0
+,	,	,	,	,	0
+Queen	Queen	n1	Queen	queen	0
+of	of	pp-f	of	of	0
+Great	Great	j	Great	great	0
+Britan.	Britan.	np1	Britan.	Britan.	1

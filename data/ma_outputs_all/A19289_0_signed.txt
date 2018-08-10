@@ -1,0 +1,12 @@
+Resting	Resting	j-vvg	Resting	rest	0
+in	in	p-acp	in	in	0
+him	him	pno31	him	he	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+euer	euer	av	ever	ever	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Cooper	Cooper	np1	Cooper	Cooper	0
+.	.	.	.	.	1

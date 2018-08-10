@@ -1,0 +1,6 @@
+Preludium	Preludium	fw-la	Preludium	praeludium	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+first	first	ord	first	first	0
+Verses	Verses	n2	Verses	verse	0
+.	.	.	.	.	1

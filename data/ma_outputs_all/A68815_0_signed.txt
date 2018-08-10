@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Oratour	Oratour	n1	Orator	orator	0
+.	.	.	.	.	1
+Edwarde	Edwarde	np1	Edwarde	Edward	0
+Hake	Hake	np1	Hake	Hake	0
+.	.	.	.	.	1

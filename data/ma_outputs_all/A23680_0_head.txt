@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Queen	Queen	n1	Queen	queen	0
+Regent	Regent	n1	Regent	regent	0
+.	.	.	.	.	1

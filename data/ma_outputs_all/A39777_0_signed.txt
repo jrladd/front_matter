@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Ladyships	Ladyships	n2	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+bounden	bounden	vvn	bounden	bind	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+John	John	np1	John	John	0
+Fairfax	Fairfax	np1	Fairfax	Fairfax	0
+.	.	.	.	.	1

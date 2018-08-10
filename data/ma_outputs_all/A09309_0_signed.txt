@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+bound	bound	n1	bound	bound	0
+and	and	cc	and	and	0
+assured	assured	j-vvn	assured	assure	0
+IOHN	IOHN	np1	IOHN	John	0
+MINSHEU	MINSHEU	fw-la	MINSHEU	minsheu	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+accomplisht	accomplisht	j-vvn	accomplished	accomplish	0
+Lady	Lady	n1	Lady	lady	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+FRANCES	FRANCES	np1	FRANCES	Frances	0
+WILDEGOSS	WILDEGOSS	n1	WILDEGOSS	wildegoss	0
+.	.	.	.	.	1

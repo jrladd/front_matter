@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Serene	Serene	np1	Serene	Serena	0
+Highnesses	Highnesses	ng1	Highnesses	highness	0
+most	most	av-ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Galeazzo	Galeazzo	np1	Galeazzo	Galeazzo	0
+Gualdo	Gualdo	np1	Gualdo	Gualdo	0
+Priorato	Priorato	fw-mi	Priorato	priorato	0
+.	.	.	.	.	1

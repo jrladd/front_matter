@@ -1,0 +1,8 @@
+Thy	Thy	po21	Thy	thy	0
+welwiller	welwiller	n1	wellwiller	wellwiller	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+GEE	GEE	np1	GEE	Gee	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Duty	Duty	n1	Duty	duty	0
+and	and	cc	and	and	0
+Service	Service	n1	Service	service	0
+,	,	,	,	,	0
+Obadiah	Obadiah	np1	Obadiah	Obadiah	0
+Howe	Howe	np1	Howe	Howe	0
+.	.	.	.	.	1

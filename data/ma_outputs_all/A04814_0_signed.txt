@@ -1,0 +1,8 @@
+Vestrae	Vestrae	np1	Vestrae	Vestrae	0
+Amplit	Amplit	vvn	Amplit	amplit	0
+.	.	.	.	.	0
+addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
+.	.	.	.	.	1
+ROERTUS	ROERTUS	np1	ROERTUS	ROERTUS	0
+BARONIU	BARONIU	fw-la	BARONIU	baroniu	0
+.	.	.	.	.	1

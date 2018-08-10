@@ -1,0 +1,16 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+labours	labours	n2	labours	labour	0
+,	,	,	,	,	0
+travels	travels	n2	travels	travel	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+bonds	bonds	n2	bonds	bond	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Gospel	Gospel	n1	Gospel	gospel	0
+,	,	,	,	,	0
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Lockyer	Lockyer	np1	Lockyer	Lockyer	0
+.	.	.	.	.	1

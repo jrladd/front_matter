@@ -1,0 +1,8 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+Worshyps	Worshyps	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+comaunde	comaunde	vvi	command	command	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+P.	P.	np1	P.	P.	1

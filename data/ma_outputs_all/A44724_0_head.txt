@@ -1,0 +1,11 @@
+A	A	dt	A	a	0
+parallell	parallell	n1	parallel	parallel	0
+'twixt	'twixt	p-acp	betwixt	betwixt	0
+His	His	po31	His	his	0
+Highnesse	Highnesse	n1	Highness	highness	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Black	Black	j-jn	Black	black	0
+Prince	Prince	n1	Prince	prince	0
+.	.	.	.	.	1

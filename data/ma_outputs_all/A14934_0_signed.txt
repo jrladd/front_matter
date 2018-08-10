@@ -1,0 +1,10 @@
+Be	Be	vbb	Be	be	0
+your	your	po22	your	your	0
+M.	M.	n1	M.	m.	0
+maist	maist	vm2	mayest	may	0
+humble	humble	vvi	humble	humble	0
+Subject	Subject	j-jn	Subject	subject	0
+M.	M.	n1	M.	m.	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+WELVOD	WELVOD	np1	WELVOD	WELVOD	0
+.	.	.	.	.	1

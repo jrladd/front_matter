@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+AND	AND	cc	AND	and	0
+VERY	VERY	j	VERY	very	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+COUNTESSE	COUNTESSE	n1	COUNTESSE	countess	0
+Dowager	Dowager	n1	Dowager	dowager	0
+of	of	pp-f	of	of	0
+GLENCAIRN	GLENCAIRN	np1	GLENCAIRN	Glencairn	0
+.	.	.	.	.	1

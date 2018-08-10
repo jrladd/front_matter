@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+DOD	DOD	np1	DOD	Dod	0
+.	.	.	.	.	1
+ROBERT	ROBERT	np1	ROBERT	Robert	0
+CLEAVER	CLEAVER	np1	CLEAVER	Cleaver	0
+.	.	.	.	.	1

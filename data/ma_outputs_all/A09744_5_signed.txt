@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+disposition	disposition	n1	disposition	disposition	0
+.	.	.	.	.	1
+D.	D.	np1	D.	D.	0
+C.	C.	np1	C.	C.	1

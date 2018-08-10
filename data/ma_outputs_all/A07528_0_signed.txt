@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+euer	euer	av	ever	ever	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Rowley	Rowley	np1	Rowley	Rowley	0
+.	.	.	.	.	1

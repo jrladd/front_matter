@@ -1,0 +1,5 @@
+YOURS	YOURS	png22	YOURS	you	0
+most	most	av-ds	most	most	0
+observantly	observantly	av-j	observantly	observant	0
+Joh.	Joh.	np1	Joh.	Joh.	0
+F.	F.	np1	F.	F.	1

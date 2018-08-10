@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectio	affectio	fw-la	affectio	affectio	0
+∣	∣	sy	∣	∣	0
+nate	nate	fw-fr	nate	nate	0
+and	and	cc	and	and	0
+most	most	ds	most	most	0
+hum	hum	vvi	hum	hum	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Pittis	Pittis	ng1	Pittis	pittis	0
+.	.	.	.	.	1

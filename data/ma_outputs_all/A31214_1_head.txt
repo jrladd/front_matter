@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+MONSIGNORE	MONSIGNORE	np1	MONSIGNORE	Monsignore	0
+D.	D.	np1	D.	D.	0
+Ferrante	Ferrante	np1	Ferrante	Ferrante	0
+Cesarini	Cesarini	np1	Cesarini	Cesarini	0
+.	.	.	.	.	1

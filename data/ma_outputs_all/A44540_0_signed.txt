@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+LADYSHIPS	LADYSHIPS	n2	LADYSHIPS	ladyship	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+HORNECK	HORNECK	np1	HORNECK	HORNECK	0
+.	.	.	.	.	1

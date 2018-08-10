@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Friend	Friend	n1	Friend	friend	0
+NATH	NATH	np1	NATH	Nath	0
+.	.	.	.	.	1
+HARDY	HARDY	j	HARDY	hardy	0
+.	.	.	.	.	1

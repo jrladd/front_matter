@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+,	,	,	,	,	0
+In	In	p-acp	In	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SPURSTOWE	SPURSTOWE	np1	SPURSTOWE	SPURSTOWE	0
+.	.	.	.	.	1

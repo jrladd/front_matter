@@ -1,0 +1,9 @@
+Vôtre	Vôtre	n1	Vôtre	vôtre	0
+trés-humble	trés-humble	j	trés-humble	trés-humble	0
+&	&	cc	&	and	0
+trés-obeissant	trés-obeissant	j	trés-obeissant	trés-obeissant	0
+Serviteur	Serviteur	fw-fr	Serviteur	serviteur	0
+.	.	.	.	.	1
+S.	S.	np1	S.	S.	0
+BREMOND	BREMOND	np1	BREMOND	BREMOND	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Haworth	Haworth	np1	Haworth	Haworth	0
+.	.	.	.	.	1

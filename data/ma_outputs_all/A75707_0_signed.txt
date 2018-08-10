@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+for	for	p-acp	for	for	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+SIMEON	SIMEON	np1	SIMEON	Simeon	0
+ASH	ASH	n1	ASH	ash	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+and	and	cc	and	and	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+Henry	Henry	np1	Henry	Henry	0
+Hallywell	Hallywell	np1	Hallywell	Hallywell	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+most	most	av-ds	most	most	0
+deere	deere	j-jn	deer	dear	0
+friend	friend	n1	friend	friend	0
+Mai	Mai	zz	Mai	mai	0
+∣	∣	sy	∣	∣	0
+ster	ster	vvz	ster	star	0
+Henry	Henry	np1	Henry	Henry	0
+Lucas	Lucas	np1	Lucas	Lucas	0
+,	,	,	,	,	0
+sonne	sonne	n1	son	son	0
+to	to	p-acp	to	to	0
+Edward	Edward	np1	Edward	Edward	0
+Lucas	Lucas	np1	Lucas	Lucas	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipful	Worshipful	j	Worshipful	worshipful	0
+Mr.	Mr.	n1	Mr.	mr.	0
+William	William	np1	William	William	0
+Snell	Snell	np1	Snell	Snell	0
+,	,	,	,	,	0
+ALDERMAN	ALDERMAN	n1	ALDERMAN	alderman	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+COVENTRY	COVENTRY	np1	COVENTRY	Coventry	0
+.	.	.	.	.	1

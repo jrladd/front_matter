@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+AND	AND	cc	AND	and	0
+MOST	MOST	av-ds	MOST	most	0
+DEARE	DEARE	j-jn	DEER	dear	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+S.	S.	n1	S.	saint	0
+A.	A.	np1	A.	A.	1

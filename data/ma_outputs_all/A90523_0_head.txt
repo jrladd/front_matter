@@ -1,0 +1,10 @@
+AN	AN	dt	AND	a	0
+Humble	Humble	j	Humble	humble	0
+Advertisment	Advertisment	n1	Advertisement	advertisement	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+high	high	j	high	high	0
+Court	Court	n1	Court	court	0
+OF	OF	pp-f	OF	of	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutie	dutie	n1	duty	duty	0
+bounden	bounden	vvn	bounden	bind	0
+,	,	,	,	,	0
+GERRARD	GERRARD	np1	GERRARD	Gerrard	0
+DE	DE	fw-fr	DE	de	0
+MALYNES	MALYNES	n1	MALYNES	malynes	0
+.	.	.	.	.	1

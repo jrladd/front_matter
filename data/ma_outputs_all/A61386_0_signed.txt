@@ -1,0 +1,5 @@
+Thine	Thine	po21	Thine	thy	0
+own	own	d	own	own	0
+Richard	Richard	np1	Richard	Richard	0
+Steele	Steele	n1	Steel	steel	0
+.	.	.	.	.	1

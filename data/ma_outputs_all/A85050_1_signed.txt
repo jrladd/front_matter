@@ -1,0 +1,13 @@
+That	That	cst	That	that	0
+loveth	loveth	vvz	loves	love	0
+you	you	pn22	you	you	0
+with	with	p-acp	with	with	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+brotherly	brotherly	av-j	brotherly	brotherly	0
+love	love	vvi	love	love	0
+:	:	:	:	:	0
+FR	FR	n1	FR	fr	0
+:	:	:	:	:	0
+FƲLLWOOD	FƲLLWOOD	np1	FƲLLWOOD	FƲLLWOOD	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+honourer	honourer	n1	honourer	honourer	0
+,	,	,	,	,	0
+devoted	devoted	vvn	devoted	devote	0
+to	to	pc-acp	to	to	0
+doe	doe	vdi	do	do	0
+you	you	pn22	you	you	0
+service	service	n1	service	service	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SCLATER	SCLATER	np1	SCLATER	Sclater	0
+.	.	.	.	.	1

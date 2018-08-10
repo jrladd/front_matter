@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+my	my	po11	my	my	0
+Ingenious	Ingenious	j	Ingenious	ingenious	0
+Acquain	Acquain	np1	Acquain	Acquain	0
+∣	∣	sy	∣	∣	0
+tance	tance	n1	tance	tance	0
+at	at	p-acp	at	at	0
+Will's	Will's	n1|vbz	Will's	will|be	0
+Coffee-House	Coffee-House	n1	Coffee-House	coffee-house	0
+.	.	.	.	.	1

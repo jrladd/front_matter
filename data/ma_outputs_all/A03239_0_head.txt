@@ -1,0 +1,8 @@
+GEORGE	GEORGE	np1	GEORGE	George	0
+DONNE	DONNE	np1	DONNE	Donne	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+industrious	industrious	j	industrious	industrious	0
+Friend	Friend	n1	Friend	friend	0
+.	.	.	.	.	1

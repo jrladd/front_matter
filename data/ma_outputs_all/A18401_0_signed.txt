@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+euer	euer	av	ever	ever	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+and	and	cc	and	and	0
+faithfully	faithfully	av-j	faithfully	faithful	0
+vowd	vowd	vvn	vowed	vow	0
+.	.	.	.	.	1
+Geo.	Geo.	np1	Geo.	Geo.	0
+Chapman	Chapman	n1	Chapman	chapman	0
+.	.	.	.	.	1

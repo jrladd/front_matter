@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Edw.	Edw.	np1	Edw.	Edw.	0
+Boteler	Boteler	np1	Boteler	Boteler	0
+.	.	.	.	.	1

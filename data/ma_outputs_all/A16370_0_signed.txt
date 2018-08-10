@@ -1,0 +1,12 @@
+by	by	p-acp	by	by	0
+Your	Your	po22	Your	your	0
+obedyent	obedyent	j	obedient	obedient	0
+Dio	Dio	np1	Dio	Dio	0
+∣	∣	sy	∣	∣	0
+cesen	cesen	fw-ge	cesen	cesen	0
+and	and	cc	and	and	0
+dayly	dayly	j	daily	daily	0
+orator	orator	n1	orator	orator	0
+Rycharde	Rycharde	np1	Rycharde	Rycharde	0
+Bonner	Bonner	np1	Bonner	Bonner	0
+.	.	.	.	.	1

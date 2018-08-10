@@ -1,0 +1,4 @@
+T.	T.	np1	T.	T.	0
+G.	G.	np1	G.	G.	0
+Esquire	Esquire	n1	Esquire	esquire	0
+.	.	.	.	.	1

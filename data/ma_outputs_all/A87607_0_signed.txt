@@ -1,0 +1,4 @@
+YoursRobert	YoursRobert	np1	YoursRobert	YoursRobert	0
+Iohn	Iohn	np1	Iohn	John	0
+son	son	n1	son	son	0
+.	.	.	.	.	1

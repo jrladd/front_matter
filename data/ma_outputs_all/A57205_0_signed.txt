@@ -1,0 +1,3 @@
+JEREMIAH	JEREMIAH	np1	JEREMIAH	Jeremiah	0
+RICH	RICH	j	RICH	rich	0
+.	.	.	.	.	1

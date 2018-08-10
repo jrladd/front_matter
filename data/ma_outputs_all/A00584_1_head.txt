@@ -1,0 +1,16 @@
+EGREGIO	EGREGIO	fw-la	EGREGIO	egregio	0
+VIRO	VIRO	fw-la	VIRO	viro	0
+PETRO	PETRO	fw-la	PETRO	petro	0
+TRYON	TRYON	np1	TRYON	Tryon	0
+,	,	,	,	,	0
+OR	OR	cc	OR	or	0
+∣	∣	sy	∣	∣	0
+NATISSIMI	NATISSIMI	fw-la	NATISSIMI	natissimi	0
+VIRI	VIRI	fw-la	VIRI	viri	0
+MOSIS	MOSIS	np1	MOSIS	MOSIS	0
+TRYON	TRYON	np1	TRYON	Tryon	0
+Armigeri	Armigeri	np1	Armigeri	Armigeri	0
+filio	filio	fw-la	filio	filio	0
+natu	natu	fw-la	natu	natu	0
+maximo	maximo	fw-la	maximo	maximo	0
+.	.	.	.	.	1

@@ -1,0 +1,7 @@
+Yur	Yur	po22	Yur	your	0
+worships	worships	ng1	worships	worship	0
+louing	louing	vvg	loving	love	0
+friend	friend	n1	friend	friend	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+B.	B.	np1	B.	B.	1

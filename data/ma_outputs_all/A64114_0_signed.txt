@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+IER	IER	np1	IER	IER	0
+:	:	:	:	:	0
+TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
+.	.	.	.	.	1

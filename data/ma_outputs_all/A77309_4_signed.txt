@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+Bagshaw	Bagshaw	np1	Bagshaw	Bagshaw	0
+.	.	.	.	.	1

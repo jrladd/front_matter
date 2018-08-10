@@ -1,0 +1,16 @@
+the	the	dt	the	the	0
+humblest	humblest	js	humblest	humble	0
+of	of	pp-f	of	of	0
+all	all	d	all	all	0
+Your	Your	po22	Your	your	0
+Servants	Servants	n2	Servants	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+devoutest	devoutest	js	devoutest	devout	0
+of	of	pp-f	of	of	0
+Your	Your	po22	Your	your	0
+honourers	honourers	n2	honourers	honourer	0
+T.	T.	np1	T.	T.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

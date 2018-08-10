@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+Loyal	Loyal	j	Loyal	loyal	0
+and	and	cc	and	and	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Subject	Subject	j-jn	Subject	subject	0
+and	and	cc	and	and	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+JO	JO	np1	JO	Jo	0
+.	.	.	.	.	1
+BARWICK	BARWICK	np1	BARWICK	Barwick	0
+.	.	.	.	.	1

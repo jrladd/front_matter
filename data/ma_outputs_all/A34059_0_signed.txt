@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Most	Most	av-ds	Most	most	0
+humble	humble	j	humble	humble	0
+&	&	cc	&	and	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+George	George	np1	George	George	0
+Carew	Carew	np1	Carew	Carew	0
+.	.	.	.	.	1

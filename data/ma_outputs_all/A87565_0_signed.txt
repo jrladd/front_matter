@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+faithfull	faithfull	j	faithful	faithful	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+the	the	dt	the	the	0
+good	good	j	good	good	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+souls	souls	n2	souls	soul	0
+.	.	.	.	.	1
+William	William	np1	William	William	0
+Jenkyn	Jenkyn	np1	Jenkyn	Jenkyn	0
+.	.	.	.	.	1

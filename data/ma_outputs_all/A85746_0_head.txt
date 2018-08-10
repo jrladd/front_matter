@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Pair	Pair	n1	Pair	pair	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+Lord	Lord	n1	Lord	lord	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+my	my	po11	my	my	0
+Lady	Lady	n1	Lady	lady	0
+CHANDOS	CHANDOS	fw-la	CHANDOS	chandos	0
+.	.	.	.	.	1

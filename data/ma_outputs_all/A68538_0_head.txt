@@ -1,0 +1,5 @@
+Idem	Idem	fw-la	Idem	idem	0
+,	,	,	,	,	0
+De	De	fw-fr	De	de	0
+Eodem	Eodem	fw-la	Eodem	eodem	0
+.	.	.	.	.	1

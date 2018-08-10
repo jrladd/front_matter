@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRVELY	TRVELY	av-j	TRULY	tru	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+,	,	,	,	,	0
+BY	BY	p-acp	BY	by	0
+ALL	ALL	av-d	ALL	all	0
+TITLES	TITLES	n2	TITLES	title	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Francis	Francis	np1	Francis	Francis	0
+Stuart	Stuart	np1	Stuart	Stuart	0
+:	:	:	:	:	1

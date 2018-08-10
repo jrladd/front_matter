@@ -1,0 +1,6 @@
+The	The	dt	The	the	0
+Booke	Booke	n1	Book	book	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+Patroné	Patroné	np1	Patroné	Patroné	0
+.	.	.	.	.	1

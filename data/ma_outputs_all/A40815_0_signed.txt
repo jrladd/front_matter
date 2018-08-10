@@ -1,0 +1,13 @@
+YOƲR	YOƲR	j	YOƲR	yoʋr	0
+LORDSHIP's	LORDSHIP's	ng1	LORDSHIP's	lordship	0
+Most	Most	av-ds	Most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Most	Most	av-ds	Most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Philip	Philip	np1	Philip	Philip	0
+Falle	Falle	vvb	Fall	fall	0
+.	.	.	.	.	1

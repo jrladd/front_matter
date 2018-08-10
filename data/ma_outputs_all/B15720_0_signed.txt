@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+duetifull	duetifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Seruant	Seruant	n1	Servant	servant	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Scott	Scott	np1	Scott	Scott	0
+.	.	.	.	.	1

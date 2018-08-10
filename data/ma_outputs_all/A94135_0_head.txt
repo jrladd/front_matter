@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVLL	WORSHIPFVLL	j	WORSHIPFUL	worshipful	0
+,	,	,	,	,	0
+My	My	po11	My	my	0
+very	very	j	very	very	0
+munificent	munificent	j	munificent	munificent	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+GRYMES	GRYMES	np1	GRYMES	Grymes	0
+.	.	.	.	.	1

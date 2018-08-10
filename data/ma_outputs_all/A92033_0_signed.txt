@@ -1,0 +1,3 @@
+W.	W.	np1	W.	W.	0
+RAMESEY	RAMESEY	n1	RAMESEY	ramesey	0
+.	.	.	.	.	1

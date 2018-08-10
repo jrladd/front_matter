@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Highnesses	Highnesses	ng1	Highnesses	highness	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+De	De	fw-fr	De	de	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+MARY	MARY	np1	MARY	MARY	0
+CARLETON	CARLETON	np1	CARLETON	Carleton	0
+.	.	.	.	.	1

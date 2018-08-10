@@ -1,0 +1,14 @@
+Euer	Euer	av	Ever	ever	0
+resting	resting	vvg	resting	rest	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+and	and	cc	and	and	0
+Loyall	Loyall	j	Loyal	loyal	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+PEEKE	PEEKE	np1	PEEKE	PEEKE	0
+.	.	.	.	.	1

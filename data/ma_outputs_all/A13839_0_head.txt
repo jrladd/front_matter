@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+TRVLY	TRVLY	av-j	TRULY	tru	0
+VVORTHY	VVORTHY	j-jn	WORTHY	worthy	0
+,	,	,	,	,	0
+AND	AND	cc	AND	and	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+SIR	SIR	n1	SIR	sir	0
+R.	R.	np1	R.	R.	0
+C.	C.	np1	C.	C.	0
+KNIGHT	KNIGHT	n1	KNIGHT	knight	0
+.	.	.	.	.	1

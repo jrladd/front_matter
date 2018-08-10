@@ -1,0 +1,6 @@
+Tho.	Tho.	np1	Tho.	Tho.	0
+Coven	Coven	np1	Coven	Coven	0
+.	.	.	.	.	1
+&	&	cc	&	and	0
+Lichff	Lichff	np1	Lichff	Lichff	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+JOHN	JOHN	np1	JOHN	John	0
+Lord	Lord	n1	Lord	lord	0
+ROBERTS	ROBERTS	npg1	ROBERTS	Robert	0
+.	.	.	.	.	1
+Baron	Baron	n1	Baron	baron	0
+of	of	pp-f	of	of	0
+Truro	Truro	np1	Truro	Truro	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Privy	Privy	j	Privy	privy	0
+Seal	Seal	n1	Seal	seal	0
+.	.	.	.	.	1

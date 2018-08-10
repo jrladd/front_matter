@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+HER	HER	po31	HER	her	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+MARY	MARY	np1	MARY	MARY	0
+of	of	pp-f	of	of	0
+ESTE	ESTE	np1	ESTE	Este	0
+Dutchess	Dutchess	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+ALBANY	ALBANY	np1	ALBANY	Albany	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

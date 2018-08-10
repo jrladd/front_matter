@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+loue	loue	vvb	love	love	0
+PEACE	PEACE	n1	PEACE	peace	0
+and	and	cc	and	and	0
+TRVTH	TRVTH	n1	TRVTH	truth	0
+.	.	.	.	.	1

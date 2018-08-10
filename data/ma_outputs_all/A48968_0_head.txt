@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+BANKERS	BANKERS	n2	BANKERS	banker	0
+OF	OF	pp-f	OF	of	0
+Lombard-Street	Lombard-Street	n1	Lombard-Street	lombard-street	0
+.	.	.	.	.	1

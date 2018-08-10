@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+:	:	:	:	:	0
+Richard	Richard	np1	Richard	Richard	0
+Ihones	Ihones	np1	Ihones	Ihones	0
+.	.	.	.	.	1

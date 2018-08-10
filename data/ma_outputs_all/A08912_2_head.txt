@@ -1,0 +1,2 @@
+SONET	SONET	n1	SONET	sonnet	0
+.	.	.	.	.	1

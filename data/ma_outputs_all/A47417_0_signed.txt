@@ -1,0 +1,13 @@
+Madam	Madam	n1	Madam	madam	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Ladyship's	Ladyship's	ng1	Ladyship's	ladyship	0
+Most	Most	av-ds	Most	most	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+and	and	cc	and	and	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+.	.	.	.	.	1
+John	John	np1	John	John	0
+King	King	n1	King	king	0
+.	.	.	.	.	1

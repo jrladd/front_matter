@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+louing	louing	j-vvg	loving	love	0
+kinsman	kinsman	n1	kinsman	kinsman	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Osborne	Osborne	np1	Osborne	Osborne	0
+.	.	.	.	.	1

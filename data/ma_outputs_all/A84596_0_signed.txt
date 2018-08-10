@@ -1,0 +1,3 @@
+PETER	PETER	np1	PETER	Peter	0
+FISHER	FISHER	n1	FISHER	fisher	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+and	and	cc	and	and	0
+Loving	Loving	j-vvg	Loving	love	0
+Friends	Friends	n2	Friends	friend	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Parishi	Parishi	np1	Parishi	Parishi	0
+∣	∣	sy	∣	∣	0
+oners	oners	n1	oners	oners	0
+of	of	pp-f	of	of	0
+St.	St.	n1	St.	saint	0
+Helens	Helens	npg1	Helens	Helen	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+A	A	dt	A	a	0
+Poor	Poor	j	Poor	poor	0
+Watch-man	Watch-man	n1	Watchman	watchman	0
+for	for	p-acp	for	for	0
+Your	Your	po22	Your	your	0
+Souls	Souls	n2	Souls	soul	0
+,	,	,	,	,	0
+O.	O.	uh	O.	oh	0
+H.	H.	np1	H.	H.	1

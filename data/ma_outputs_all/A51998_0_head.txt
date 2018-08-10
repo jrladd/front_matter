@@ -1,0 +1,4 @@
+THE	THE	dt	THE	the	0
+Authors	Authors	ng1	Authors	author	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+.	.	.	.	.	1

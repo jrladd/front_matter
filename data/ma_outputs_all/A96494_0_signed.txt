@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+observant	observant	j	observant	observant	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+Your	Your	po22	Your	your	0
+Command	Command	n1	Command	command	0
+,	,	,	,	,	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+WILDE	WILDE	j	WILD	wild	0
+.	.	.	.	.	1

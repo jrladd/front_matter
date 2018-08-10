@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+humbly	humbly	av-j	humbly	humble	0
+Devoted	Devoted	vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Edward	Edward	np1	Edward	Edward	0
+Boteler	Boteler	np1	Boteler	Boteler	0
+.	.	.	.	.	1

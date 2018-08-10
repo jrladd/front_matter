@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+L.	L.	n1	L.	lord	0
+most	most	av-ds	most	most	0
+Bounden	Bounden	vvn	Bounden	bind	0
+and	and	cc	and	and	0
+Deuoted	Deuoted	vvn	Devoted	devote	0
+.	.	.	.	.	1
+A	A	sy	A	a	0
+:	:	:	:	:	0
+Ashley	Ashley	np1	Ashley	Ashley	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Majesties	Majesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+dutiful	dutiful	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+Adorer	Adorer	n1	Adorer	adorer	0
+T.	T.	np1	T.	T.	0
+R.	R.	np1	R.	R.	0
+d	d	zz	d	d	0
+.	.	.	.	.	1
+L.	L.	np1	L.	L.	1

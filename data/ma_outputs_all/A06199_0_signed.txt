@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+obsequiousnesse	obsequiousnesse	n1	obsequiousness	obsequiousness	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humblie	humblie	av-j	humbly	humble	0
+devoted	devoted	vvn	devoted	devote	0
+,	,	,	,	,	0
+ANDREW	ANDREW	np1	ANDREW	Andrew	0
+LOGIE	LOGIE	np1	LOGIE	Logie	0
+,	,	,	,	,	0
+Arch-Deane	Arch-Deane	j	Archdean	archdean	0
+of	of	pp-f	of	of	0
+ABERDENE	ABERDENE	np1	ABERDENE	ABERDENE	0
+.	.	.	.	.	1

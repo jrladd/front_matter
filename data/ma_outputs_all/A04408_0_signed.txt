@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+W.	W.	np1	W.	W.	1

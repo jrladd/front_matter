@@ -1,0 +1,16 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+ever	ever	av	ever	ever	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+YATES	YATES	np1	YATES	Yates	0
+.	.	.	.	.	1

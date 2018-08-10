@@ -1,0 +1,5 @@
+,	,	,	,	,	0
+Tuus	Tuus	fw-la	Tuus	tuus	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Hall	Hall	n1	Hall	hall	0
+.	.	.	.	.	1

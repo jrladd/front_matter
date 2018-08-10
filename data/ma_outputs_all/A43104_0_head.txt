@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Learned	Learned	j	Learned	learned	0
+and	and	cc	and	and	0
+Ingenious	Ingenious	j	Ingenious	ingenious	0
+Doctour	Doctour	n1	Doctor	doctor	0
+Willoughby	Willoughby	np1	Willoughby	Willoughby	0
+Physician	Physician	n1	Physician	physician	0
+in	in	p-acp	in	in	0
+Dublin	Dublin	np1	Dublin	Dublin	0
+.	.	.	.	.	1

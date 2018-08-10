@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+most	most	av-ds	most	most	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+subiect	subiect	n-jn	subject	subject	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Playfere	Playfere	n1	Playfere	playfere	0
+.	.	.	.	.	1

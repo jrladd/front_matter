@@ -1,0 +1,7 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+DEARE	DEARE	n1	DEARE	deer	0
+AND	AND	cc	AND	and	0
+LOVING	LOVING	j-vvg	LOVING	love	0
+MOTHER	MOTHER	n1	MOTHER	mother	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+most	most	av-ds	most	most	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+TYRRELL	TYRRELL	np1	TYRRELL	Tyrrell	0
+.	.	.	.	.	1

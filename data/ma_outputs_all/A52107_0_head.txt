@@ -1,0 +1,13 @@
+The	The	dt	The	the	0
+Author	Author	n1	Author	author	0
+prayeth	prayeth	vvz	prayeth	pray	0
+the	the	dt	the	the	0
+increase	increase	n1	increase	increase	0
+of	of	pp-f	of	of	0
+Grace	Grace	n1	Grace	grace	0
+here	here	av	here	here	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Glory	Glory	n1	Glory	glory	0
+hereafter	hereafter	av	hereafter	hereafter	0
+.	.	.	.	.	1

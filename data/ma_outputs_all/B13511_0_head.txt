@@ -1,0 +1,14 @@
+ILLVSTRISSIMO	ILLVSTRISSIMO	fw-la	ILLVSTRISSIMO	illvstrissimo	0
+ET	ET	fw-la	ET	et	0
+NOBILISSIMO	NOBILISSIMO	fw-la	NOBILISSIMO	nobilissimo	0
+Domino	Domino	fw-la	Domino	domino	0
+Dno	Dno	fw-la	Dno	dno	0
+.	.	.	.	.	1
+ROBERTO	ROBERTO	np1	ROBERTO	Roberto	0
+KARO	KARO	np1	KARO	KARO	0
+,	,	,	,	,	0
+Comiti	Comiti	fw-la	Comiti	comiti	0
+a	a	dt	a	a	0
+Summerset	Summerset	np1	Summerset	Summerset	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

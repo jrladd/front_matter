@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Reverend	Reverend	n-jn	Reverend	reverend	0
+Dr.	Dr.	n1	Dr.	dr.	0
+WARNER	WARNER	np1	WARNER	Warner	0
+L.	L.	np1	L.	L.	0
+B.	B.	np1	B.	B.	0
+R.	R.	np1	R.	R.	1

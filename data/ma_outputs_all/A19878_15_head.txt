@@ -1,0 +1,11 @@
+THE	THE	dt	THE	the	0
+QVEENE	QVEENE	n1	QVEENE	qveene	0
+,	,	,	,	,	0
+returning	returning	vvg	returning	return	0
+to	to	p-acp	to	to	0
+London	London	np1	London	London	0
+after	after	p-acp	after	after	0
+a	a	dt	a	a	0
+long	long	j	long	long	0
+absence	absence	n1	absence	absence	0
+.	.	.	.	.	1

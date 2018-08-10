@@ -1,0 +1,17 @@
+I	I	pns11	I	i	0
+remain	remain	vvb	remain	remain	0
+your	your	po22	your	your	0
+Honour's	Honour's	n1|vbz	Honour's	honour|be	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutiful	dutiful	j	dutiful	dutiful	0
+Love	Love	n1	Love	love	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+poor	poor	j	poor	poor	0
+Power	Power	n1	Power	power	0
+,	,	,	,	,	0
+.	.	.	.	.	1
+I	I	pns11	I	i	0
+.	.	.	.	.	1

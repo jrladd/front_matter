@@ -1,0 +1,7 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+friend	friend	n1	friend	friend	0
+Mayster	Mayster	n1	Master	master	0
+Robert	Robert	np1	Robert	Robert	0
+Peterson	Peterson	np1	Peterson	Peterson	0
+Gent.	Gent.	n1	Gent.	gentleman	1

@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Dutiful	Dutiful	j	Dutiful	dutiful	0
+Observance	Observance	n1	Observance	observance	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Duncumb	Duncumb	np1	Duncumb	Duncumb	0
+.	.	.	.	.	1

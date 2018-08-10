@@ -1,0 +1,3 @@
+Ri.	Ri.	np1	Ri.	Ri.	0
+Baxter	Baxter	np1	Baxter	Baxter	0
+.	.	.	.	.	1

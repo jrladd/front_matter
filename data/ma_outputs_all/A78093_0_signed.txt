@@ -1,0 +1,10 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+service	service	n1	service	service	0
+of	of	pp-f	of	of	0
+your	your	po22	your	your	0
+faith	faith	n1	faith	faith	0
+RICHARD	RICHARD	np1	RICHARD	Richard	0
+BYFIELD	BYFIELD	np1	BYFIELD	Byfield	0
+.	.	.	.	.	1

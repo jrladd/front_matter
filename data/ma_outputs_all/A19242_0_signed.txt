@@ -1,0 +1,3 @@
+ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
+COOKE	COOKE	n1	COOKE	cook	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+such	such	d	such	such	0
+as	as	c-acp	as	as	0
+believe	believe	vvb	believe	believe	0
+the	the	dt	the	the	0
+Testimony	Testimony	n1	Testimony	testimony	0
+of	of	pp-f	of	of	0
+CHRIST	CHRIST	np1	CHRIST	Christ	0
+.	.	.	.	.	1

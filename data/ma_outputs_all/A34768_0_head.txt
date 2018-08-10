@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+Charles	Charles	np1	Charles	Charles	0
+Duncomb	Duncomb	np1	Duncomb	Duncomb	0
+Kt.	Kt.	np1	Kt.	Kt.	0
+SHERIFF	SHERIFF	n1	SHERIFF	sheriff	0
+OF	OF	pp-f	OF	of	0
+London	London	np1	London	London	0
+and	and	cc	and	and	0
+Middlesex	Middlesex	np1	Middlesex	Middlesex	0
+.	.	.	.	.	1

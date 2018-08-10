@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+Sir	Sir	n1	Sir	sir	0
+John	John	np1	John	John	0
+Hoskyns	Hoskyns	np1	Hoskyns	Hoskyns	0
+Knight	Knight	n1	Knight	knight	0
+and	and	cc	and	and	0
+Baronet	Baronet	n1	Baronet	baronet	0
+,	,	,	,	,	0
+President	President	n1	President	precedent	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Royal	Royal	j	Royal	royal	0
+Society	Society	n1	Society	society	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

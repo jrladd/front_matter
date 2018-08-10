@@ -1,0 +1,9 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+JAMES	JAMES	np1	JAMES	James	0
+Earl	Earl	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+OSSORY	OSSORY	np1	OSSORY	Ossory	0
+.	.	.	.	.	1

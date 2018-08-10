@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+KINGS	KINGS	ng1	KINGS	king	0
+Most	Most	av-ds	Most	most	0
+Exceent	Exceent	vvn	Exceent	exceent	0
+MAJESTIE	MAJESTIE	n1	MAJESTIE	majesty	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+II.	II.	crd	II	ii	1

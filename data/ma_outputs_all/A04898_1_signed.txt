@@ -1,0 +1,4 @@
+R	R	sy	R	r	0
+A.	A.	sy	A.	a	0
+KNEVET	KNEVET	np1	KNEVET	KNEVET	0
+.	.	.	.	.	1

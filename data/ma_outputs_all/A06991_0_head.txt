@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+VVORTHY	VVORTHY	j-jn	WORTHY	worthy	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+Mr.	Mr.	n1	Mr.	mr.	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HAMMON	HAMMON	np1	HAMMON	Hammon	0
+,	,	,	,	,	0
+OF	OF	pp-f	OF	of	0
+GRAYES	GRAYES	npg1	GRAYES	Gray	0
+INNE	INNE	n1	INNE	inn	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

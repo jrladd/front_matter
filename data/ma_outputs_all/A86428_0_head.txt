@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+worthily	worthily	av-j	worthily	worthy	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Kins	Kins	np1	Kins	Kins	0
+∣	∣	sy	∣	∣	0
+man	man	n1	man	man	0
+,	,	,	,	,	0
+George	George	np1	George	George	0
+Smith	Smith	n1	Smith	smith	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

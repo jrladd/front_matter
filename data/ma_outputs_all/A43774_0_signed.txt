@@ -1,0 +1,15 @@
+A	A	dt	A	a	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+,	,	,	,	,	0
+And	And	cc	And	and	0
+Ready	Ready	j	Ready	ready	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Power	Power	n1	Power	power	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Haines	Haines	np1	Haines	Haines	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+work	work	vvb	work	work	0
+,	,	,	,	,	0
+Edw	Edw	np1	Edw	Edw	0
+:	:	:	:	:	0
+Bowles	Bowles	np1	Bowles	Bowles	0
+.	.	.	.	.	1

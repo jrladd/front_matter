@@ -1,0 +1,9 @@
+Euer	Euer	av	Ever	ever	0
+Bound	Bound	vvn	Bound	bind	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+VVorshi	VVorshi	fw-la	VVorshi	vvorshi	0
+pleasure	pleasure	n1	pleasure	pleasure	0
+:	:	:	:	:	0
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

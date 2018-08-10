@@ -1,0 +1,5 @@
+S.	S.	np1	S.	S.	0
+R.	R.	np1	R.	R.	0
+N.	N.	np1	N.	N.	0
+I	I	pns11	I	i	0
+.	.	.	.	.	1

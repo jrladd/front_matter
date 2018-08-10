@@ -1,0 +1,14 @@
+A	A	dt	A	a	0
+Don	Don	n1	DONE	don	0
+Luis	Luis	np1	Luis	Luis	0
+da	da	zz	da	da	0
+Cunha	Cunha	np1	Cunha	Cunha	0
+,	,	,	,	,	0
+Enviado	Enviado	np1	Enviado	Enviado	0
+Extraordinario	Extraordinario	np1	Extraordinario	Extraordinario	0
+DEL	DEL	np1	DEL	Del	0
+Rey	Rey	np1	Rey	Rey	0
+de	de	fw-fr	de	de	0
+Portugal	Portugal	np1	Portugal	Portugal	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

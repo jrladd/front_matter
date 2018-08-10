@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+the	the	dt	the	the	0
+graue	graue	n1	graven	grave	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+learned	learned	j	learned	learned	0
+Seriants	Seriants	n2	Sergeants	sergeant	0
+and	and	cc	and	and	0
+Counsellours	Counsellours	n2	Counsellors	counselor	0
+at	at	p-acp	at	at	0
+LAW	LAW	n1	LAW	law	0
+.	.	.	.	.	1

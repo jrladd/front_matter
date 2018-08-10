@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+dearlie	dearlie	av-jn	dearly	dear	0
+Beloved	Beloved	vvn	Beloved	belove	0
+Brother	Brother	n1	Brother	brother	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Burden	Burden	n1	Burden	burden	0
+.	.	.	.	.	1

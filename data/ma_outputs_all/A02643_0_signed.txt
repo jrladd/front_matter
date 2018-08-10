@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+affectionate	affectionate	j	affectionate	affectionate	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+HARFLETE	HARFLETE	j	HARFLETE	harflete	0
+.	.	.	.	.	1

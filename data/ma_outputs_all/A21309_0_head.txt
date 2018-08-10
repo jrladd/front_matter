@@ -1,0 +1,3 @@
+FACE	FACE	n1	FACE	face	0
+AVT	AVT	fw-la	AVT	avt	0
+TACE	TACE	fw-la	TACE	tace	1

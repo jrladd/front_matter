@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Worthy	Worthy	j-jn	Worthy	worthy	0
+and	and	cc	and	and	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+,	,	,	,	,	0
+Dr.	Dr.	n1	Dr.	dr.	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+COXE	COXE	np1	COXE	Coxe	0
+.	.	.	.	.	1

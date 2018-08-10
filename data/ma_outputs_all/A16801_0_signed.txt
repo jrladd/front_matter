@@ -1,0 +1,7 @@
+Yours	Yours	png22	Yours	you	0
+bounden	bounden	vvn	bounden	bind	0
+to	to	p-acp	to	to	0
+command	command	n1	command	command	0
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Breton	Breton	np1	Breton	Breton	0
+.	.	.	.	.	1

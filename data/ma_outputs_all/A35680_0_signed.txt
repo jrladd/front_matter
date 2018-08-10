@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+Grace's	Grace's	ng1	Grace's	grace	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Admirer	Admirer	n1	Admirer	admirer	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+DENNIS	DENNIS	np1	DENNIS	Dennis	0
+.	.	.	.	.	1

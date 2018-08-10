@@ -1,0 +1,12 @@
+Vnto	Vnto	p-acp	Unto	unto	0
+the	the	dt	the	the	0
+Kingdome	Kingdome	n1	Kingdom	kingdom	0
+of	of	pp-f	of	of	0
+France	France	np1	France	France	0
+.	.	.	.	.	1
+Guill	Guill	np1	Guill	Guill	0
+.	.	.	.	.	0
+du	du	fw-fr	du	du	0
+Vair	Vair	np1	Vair	Vair	0
+greeting	greeting	n1	greeting	greeting	0
+.	.	.	.	.	1

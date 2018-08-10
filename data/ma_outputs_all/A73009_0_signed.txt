@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+very	very	av	very	very	0
+obseruant	obseruant	j	observant	observant	0
+Chaplayn	Chaplayn	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Rychard	Rychard	np1	Rychard	Richard	0
+Peck	Peck	n1	Peck	peck	0
+.	.	.	.	.	1

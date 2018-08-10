@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+euer	euer	av	ever	ever	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+com	com	vvi	come	come	0
+∣	∣	sy	∣	∣	0
+maunded	maunded	j	manded	manded	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Drant	Drant	vvi	Drant	drant	0
+.	.	.	.	.	1

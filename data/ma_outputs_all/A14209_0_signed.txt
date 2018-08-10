@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+seruice	seruice	n1	service	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Pyper	Pyper	np1	Pyper	Pyper	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humblenesse	humblenesse	n1	humbleness	humbleness	0
+of	of	pp-f	of	of	0
+duty	duty	n1	duty	duty	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Tye	Tye	vvb	Tie	tie	0
+.	.	.	.	.	1

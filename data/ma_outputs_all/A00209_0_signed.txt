@@ -1,0 +1,6 @@
+Yours	Yours	png22	Yours	you	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+,	,	,	,	,	0
+G.	G.	np1	G.	G.	0
+B.	B.	np1	B.	B.	1

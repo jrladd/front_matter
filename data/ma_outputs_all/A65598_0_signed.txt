@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humbly-devoted	humbly-devoted	j	humbly-devoted	humbly-devoted	0
+servant	servant	n1	servant	servant	0
+J.	J.	np1	J.	J.	0
+WHARTON	WHARTON	np1	WHARTON	WHARTON	0
+.	.	.	.	.	1

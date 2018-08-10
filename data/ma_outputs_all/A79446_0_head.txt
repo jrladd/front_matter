@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+JOHN	JOHN	np1	JOHN	John	0
+SELDEN	SELDEN	np1	SELDEN	Selden	0
+,	,	,	,	,	0
+Esquier	Esquier	n1	Esquire	esquire	0
+.	.	.	.	.	1

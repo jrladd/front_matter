@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Alyen	Alyen	n-jn	Alyen	alien	0
+.	.	.	.	.	1
+Kt.	Kt.	np1	Kt.	Kt.	0
+&	&	cc	&	and	0
+Bar.	Bar.	np1	Bar.	Bar.	1

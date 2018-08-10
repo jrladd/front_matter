@@ -1,0 +1,10 @@
+DEO	DEO	np1	DEO	Deo	0
+OPT	OPT	vvn	OPT	open	0
+.	.	.	.	.	1
+MAX	MAX	fw-la	MAX	max	0
+.	.	.	.	.	1
+ET	ET	fw-la	ET	et	0
+Vniversis	Vniversis	fw-la	Vniversis	vniversis	0
+Anglorum	Anglorum	fw-la	Anglorum	anglorum	0
+Laribus	Laribus	fw-la	Laribus	laribus	0
+.	.	.	.	.	1

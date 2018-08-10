@@ -1,0 +1,12 @@
+Lordhips	Lordhips	ng1	Lordhips	lordhips	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Crstian	Crstian	jp	Crstian	crstian	0
+dutie	dutie	n1	duty	duty	0
+.	.	.	.	.	1
+AONY	AONY	np1	AONY	AONY	0
+WOTTON	WOTTON	np1	WOTTON	Wotton	0
+.	.	.	.	.	1

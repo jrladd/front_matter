@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+of	of	pp-f	of	of	0
+Saint	Saint	n1	Saint	saint	0
+Buttolphe	Buttolphe	np1	Buttolphe	Buttolphe	0
+Aldergate	Aldergate	np1	Aldergate	Aldergate	0
+.	.	.	.	.	1
+EDVVARD	EDVVARD	np1	EDVVARD	EDVVARD	0
+TOPSELL	TOPSELL	n1	TOPSELL	topsell	0
+.	.	.	.	.	1

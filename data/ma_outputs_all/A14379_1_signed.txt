@@ -1,0 +1,7 @@
+Thomas	Thomas	np1	Thomas	Thomas	0
+Vicars	Vicars	np1	Vicars	Vicars	0
+.	.	.	.	.	1
+B	B	sy	B	b	0
+:	:	:	:	:	0
+D	D	wd	WORSER	d	0
+:	:	:	:	:	1

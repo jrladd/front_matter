@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	j-jn	Right	right	0
+Worsh	Worsh	zz	Worsh	worsh	0
+.	.	.	.	.	1
+Mr.	Mr.	n1	Mr.	mr.	0
+Doctr.	Doctr.	np1	Doctr.	Doctr.	0
+MAW	MAW	n1	MAW	maw	0
+Master	Master	n1	Master	master	0
+of	of	pp-f	of	of	0
+Trinitie	Trinitie	np1	Trinitie	Trinity	0
+Colledge	Colledge	n1	College	college	0
+in	in	p-acp	in	in	0
+Cambridge	Cambridge	np1	Cambridge	Cambridge	0
+.	.	.	.	.	1

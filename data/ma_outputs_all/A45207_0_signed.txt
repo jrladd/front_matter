@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+Josiah	Josiah	np1	Josiah	Josiah	0
+Hunter	Hunter	n1	Hunter	hunter	0
+.	.	.	.	.	1

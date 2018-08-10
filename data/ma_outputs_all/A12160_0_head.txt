@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MOST	MOST	av-ds	MOST	most	0
+WORTHY	WORTHY	j	WORTHY	worthy	0
+AND	AND	cc	AND	and	0
+MVCH	MVCH	d	MUCH	much	0
+honoured	honoured	j-vvn	honoured	honour	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Master	Master	n1	Master	master	0
+IOHN	IOHN	np1	IOHN	John	0
+BROWNE	BROWNE	j-jn	brown	brown	0
+Merchant	Merchant	n1	Merchant	merchant	0
+.	.	.	.	.	1

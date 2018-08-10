@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+Christened	Christened	vvn	Christened	christen	0
+people	people	n1	people	people	0
+.	.	.	.	.	1

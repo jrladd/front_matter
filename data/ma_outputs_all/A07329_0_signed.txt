@@ -1,0 +1,11 @@
+Euer	Euer	av	Ever	ever	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+by	by	p-acp	by	by	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+Tho	Tho	av	Though	tho	0
+:	:	:	:	:	0
+May	May	np1	May	May	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+STEWARDS	STEWARDS	ng1	STEWARDS	steward	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+KENTISH-FEAST	KENTISH-FEAST	n1	KENTISH-FEAST	kentish-feast	0
+.	.	.	.	.	1

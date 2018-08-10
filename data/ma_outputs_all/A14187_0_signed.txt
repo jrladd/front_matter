@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+seruant	seruant	n1	servant	servant	0
+,	,	,	,	,	0
+for	for	c-acp	for	for	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+Christes	Christes	npg1	Christes	Christ	0
+sake	sake	n1	sake	sake	0
+,	,	,	,	,	0
+his	his	po31	his	his	0
+vnworthy	vnworthy	j	unworthy	unworthy	0
+messenger	messenger	n1	messenger	messenger	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+VDALL	VDALL	np1	VDALL	VDALL	0
+.	.	.	.	.	1

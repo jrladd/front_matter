@@ -1,0 +1,2 @@
+POSTSCRIPT	POSTSCRIPT	n1	POSTSCRIPT	postscript	0
+.	.	.	.	.	1

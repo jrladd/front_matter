@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+eminent	eminent	j	eminent	eminent	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+BUCKINGHAM	BUCKINGHAM	np1	BUCKINGHAM	Buckingham	0
+,	,	,	,	,	0
+&c	&c	av	etc.	etc	0
+:	:	:	:	:	1

@@ -1,0 +1,8 @@
+THE	THE	dt	THE	the	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
+TO	TO	p-acp	TO	to	0
+SIR	SIR	n1	SIR	sir	0
+HVMPHREY	HVMPHREY	np1	HVMPHREY	HVMPHREY	0
+Linde	Linde	vvn	Linde	line	0
+.	.	.	.	.	1

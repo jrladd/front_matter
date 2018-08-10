@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+Commaunded	Commaunded	vvn	Commanded	command	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Christian	Christian	njp	Christian	christian	0
+Offices	Offices	n2	Offices	office	0
+:	:	:	:	:	0
+CHRISTO	CHRISTO	np1	CHRISTO	Christo	0
+:	:	:	:	:	0
+WILSON	WILSON	np1	WILSON	Wilson	0
+.	.	.	.	.	1

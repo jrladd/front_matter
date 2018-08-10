@@ -1,0 +1,16 @@
+Illustri	Illustri	np1	Illustri	Illustri	0
+Nobilissimo	Nobilissimo	fw-la	Nobilissimo	nobilissimo	0
+{	{	{	{	{	0
+que	que	fw-fr	que	que	0
+}	}	}	}	}	0
+D.	D.	np1	D.	D.	1
+Domino	Domino	fw-la	Domino	domino	0
+Gulielmo	Gulielmo	np1	Gulielmo	Gulielmo	0
+Russel	Russel	np1	Russel	Russel	0
+,	,	,	,	,	0
+Bedfordiae	Bedfordiae	np1	Bedfordiae	Bedfordiae	0
+Comitis	Comitis	n1	Comitis	comitis	0
+filio	filio	fw-la	filio	filio	0
+natu	natu	fw-la	natu	natu	0
+maximo	maximo	fw-la	maximo	maximo	0
+.	.	.	.	.	1

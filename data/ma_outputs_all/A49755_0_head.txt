@@ -1,0 +1,4 @@
+COLƲMELLA	COLƲMELLA	np1	COLƲMELLA	COLƲMELLA	0
+in	in	p-acp	in	in	0
+Prefat	Prefat	np1	Prefat	Prefat	0
+.	.	.	.	.	1

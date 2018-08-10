@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+friend	friend	n1	friend	friend	0
+Master	Master	n1	Master	master	0
+Robert	Robert	np1	Robert	Robert	0
+Peyton	Peyton	np1	Peyton	Peyton	0
+.	.	.	.	.	1

@@ -1,0 +1,6 @@
+A	A	dt	A	a	0
+MONSIEUR	MONSIEUR	fw-fr	MONSIEUR	monsieur	0
+le	le	fw-fr	le	le	0
+COLONEL	COLONEL	n1	COLONEL	colonel	0
+BULLAR	BULLAR	np1	BULLAR	BULLAR	0
+.	.	.	.	.	1

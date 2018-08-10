@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+BELOVED	BELOVED	j-vvn	BELOVED	belove	0
+FRIENDS	FRIENDS	n2	FRIENDS	friend	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Godly	Godly	j	Godly	godly	0
+and	and	cc	and	and	0
+Well-affected	Well-affected	j	Well-affected	well-affected	0
+of	of	pp-f	of	of	0
+Saviours-Southwark	Saviours-Southwark	np1	Saviours-Southwark	Saviours-Southwark	0
+;	;	;	;	;	0
+Grace	Grace	n1	Grace	grace	0
+and	and	cc	and	and	0
+Peace	Peace	n1	Peace	peace	0
+.	.	.	.	.	1

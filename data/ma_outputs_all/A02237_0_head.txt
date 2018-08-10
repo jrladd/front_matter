@@ -1,0 +1,15 @@
+❧	❧	sy	❧	❧	0
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+MOST	MOST	av-ds	MOST	most	0
+excellent	excellent	j	excellent	excellent	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+mightie	mightie	j	mighty	mighty	0
+Prince	Prince	n1	Prince	prince	0
+Augustus	Augustus	npg1	Augustus	Augustus	0
+King	King	n1	King	king	0
+of	of	pp-f	of	of	0
+Polonia	Polonia	np1	Polonia	Polonia	0
+.	.	.	.	.	1
+&c.	&c.	av	etc.	etc	1

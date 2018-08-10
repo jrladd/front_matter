@@ -1,0 +1,14 @@
+The	The	dt	The	the	0
+Translatour's	Translatour's	ng1	Translator's	translator	0
+EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
+DEDICATORIE	DEDICATORIE	j	DEDICATORY	dedicatory	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+ENGLISH	ENGLISH	jp	ENGLISH	english	0
+FATHERS	FATHERS	n2	FATHERS	father	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Societie	Societie	n1	Society	society	0
+of	of	pp-f	of	of	0
+IESVS	IESVS	np1	IESVS	IESVS	0
+.	.	.	.	.	1

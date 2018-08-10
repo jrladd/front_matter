@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worsh	Worsh	zz	Worsh	worsh	0
+.	.	.	.	.	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+,	,	,	,	,	0
+Frances	Frances	np1	Frances	Frances	0
+Dillingham	Dillingham	np1	Dillingham	Dillingham	0
+.	.	.	.	.	1

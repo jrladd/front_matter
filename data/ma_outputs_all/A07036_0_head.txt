@@ -1,0 +1,10 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+De	De	fw-fr	De	de	0
+∣	∣	sy	∣	∣	0
+dicatorie	dicatorie	j	dicatorie	dicatorie	0
+to	to	pc-acp	to	to	0
+Pasquine	Pasquine	np1	Pasquine	Pasquine	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

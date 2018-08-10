@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+;	;	;	;	;	0
+Richard	Richard	np1	Richard	Richard	0
+Vines	Vines	n2	Vines	vine	0
+.	.	.	.	.	1

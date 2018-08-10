@@ -1,0 +1,12 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+William	William	np1	William	William	0
+Offley	Offley	np1	Offley	Offley	0
+.	.	.	.	.	1

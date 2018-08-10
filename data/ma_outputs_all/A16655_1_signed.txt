@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+VVor.	VVor.	np1	VVor.	VVor.	0
+wholy	wholy	av-jn	wholly	whole	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Richard	Richard	np1	Richard	Richard	0
+Alison	Alison	np1	Alison	Alison	0
+.	.	.	.	.	1

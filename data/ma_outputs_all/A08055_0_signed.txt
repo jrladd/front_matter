@@ -1,0 +1,14 @@
+in	in	p-acp	in	in	0
+what	what	r-crq	what	what	0
+he	he	pns31	he	he	0
+may	may	vmb	may	may	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+seruiceable	seruiceable	j	serviceable	serviceable	0
+to	to	p-acp	to	to	0
+your	your	po22	your	your	0
+Worship	Worship	n1	Worship	worship	0
+,	,	,	,	,	0
+IONATHAN	IONATHAN	np1	IONATHAN	Jonathan	0
+NEOVS	NEOVS	np1	NEOVS	NEOVS	0
+.	.	.	.	.	1

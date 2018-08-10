@@ -1,0 +1,5 @@
+Your	Your	po22	Your	your	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	0
+T.	T.	np1	T.	T.	0
+M.	M.	n1	M.	m.	1

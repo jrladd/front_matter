@@ -1,0 +1,16 @@
+An	An	dt	And	a	0
+obedient	obedient	j	obedient	obedient	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+Ser	Ser	zz	Ser	ser	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Church	Church	n1	Church	church	0
+and	and	cc	and	and	0
+State	State	n1	State	state	0
+of	of	pp-f	of	of	0
+ENGLAND	ENGLAND	np1	ENGLAND	England	0
+.	.	.	.	.	1
+H.	H.	np1	H.	H.	1

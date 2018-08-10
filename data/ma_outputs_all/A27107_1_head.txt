@@ -1,0 +1,4 @@
+AD	AD	fw-la	AD	ad	0
+CAROLUM	CAROLUM	fw-la	CAROLUM	carolum	0
+PRINCIPEM	PRINCIPEM	fw-la	PRINCIPEM	principem	0
+.	.	.	.	.	1

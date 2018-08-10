@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+THE	THE	dt	THE	the	0
+LADY	LADY	n1	LADY	lady	0
+Frances	Frances	np1	Frances	Frances	0
+Shane	Shane	np1	Shane	Shane	0
+.	.	.	.	.	1

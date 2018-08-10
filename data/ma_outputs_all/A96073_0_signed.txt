@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+obedient	obedient	j	obedient	obedient	0
+Son	Son	n1	Son	son	0
+,	,	,	,	,	0
+E.	E.	np1	E.	E.	0
+WATERHOUSE	WATERHOUSE	np1	WATERHOUSE	Waterhouse	0
+.	.	.	.	.	1

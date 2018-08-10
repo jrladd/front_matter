@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+La.	La.	n1	La.	lady	0
+humble	humble	j	humble	humble	0
+seruant	seruant	n1	servant	servant	0
+P.	P.	np1	P.	P.	0
+SYMSON	SYMSON	np1	SYMSON	Symson	0
+.	.	.	.	.	1

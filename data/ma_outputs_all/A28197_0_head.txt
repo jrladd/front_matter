@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+rest	rest	n1	rest	rest	0
+of	of	pp-f	of	of	0
+my	my	po11	my	my	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Cousins	Cousins	n2	Cousin's	cousin	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Soul's	Soul's	ng1	Soul's	soul	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+G.	G.	np1	G.	G.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+loyall	loyall	j	loyal	loyal	0
+poore	poore	j	poor	poor	0
+Subiect	Subiect	n-jn	Subject	subject	0
+,	,	,	,	,	0
+IOHN	IOHN	np1	IOHN	John	0
+NORDEN	NORDEN	np1	NORDEN	Norden	0
+.	.	.	.	.	1

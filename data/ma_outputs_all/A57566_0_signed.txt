@@ -1,0 +1,10 @@
+Dear	Dear	j-jn	Dear	dear	0
+Madam	Madam	n1	Madam	madam	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+Servant	Servant	n1	Servant	servant	0
+and	and	cc	and	and	0
+Admirer	Admirer	n1	Admirer	admirer	0
+,	,	,	,	,	0
+Musophilus	Musophilus	np1	Musophilus	Musophilus	0
+.	.	.	.	.	1

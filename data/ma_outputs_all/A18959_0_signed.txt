@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Maiesties	Maiesties	ng1	Majesties	majesty	0
+Seruitour	Seruitour	n1	Servitor	servitor	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+dutifull	dutifull	j	dutiful	dutiful	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+.	.	.	.	.	1
+Gyles	Gyles	np1	Gyles	Gyles	0
+Clayton	Clayton	np1	Clayton	Clayton	0
+.	.	.	.	.	1

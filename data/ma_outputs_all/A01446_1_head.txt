@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Living	Living	n-vvg	Living	live	0
+and	and	cc	and	and	0
+Po	Po	np1	Po	Po	0
+∣	∣	sy	∣	∣	0
+sterity	sterity	n1	sterity	sterity	0
+.	.	.	.	.	1

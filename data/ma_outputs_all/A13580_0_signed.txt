@@ -1,0 +1,6 @@
+Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
+tuae	tuae	fw-la	tuae	tuus	0
+deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
+Gulielmus	Gulielmus	fw-la	Gulielmus	gulielmus	0
+Temple	Temple	n1	Temple	temple	0
+.	.	.	.	.	1

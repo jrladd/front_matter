@@ -1,0 +1,6 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+to	to	p-acp	to	to	0
+English	English	jp	English	english	0
+Catholikes	Catholikes	njp2	Catholics	catholic	0
+.	.	.	.	.	1

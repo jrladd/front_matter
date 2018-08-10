@@ -1,0 +1,9 @@
+YOUR	YOUR	po22	YOUR	your	0
+GRACES	GRACES	n2	GRACES	grace	0
+humbly	humbly	av-j	humbly	humble	0
+devoted	devoted	j-vvn	devoted	devote	0
+Chaplain	Chaplain	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+MERIC	MERIC	np1	MERIC	MERIC	0
+CASAUBON	CASAUBON	np1	CASAUBON	Casaubon	0
+.	.	.	.	.	1

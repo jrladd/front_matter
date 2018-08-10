@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+vvorships	vvorships	n2	worships	worship	0
+alvvayes	alvvayes	av	always	always	0
+ready	ready	j	ready	ready	0
+and	and	cc	and	and	0
+bounden	bounden	vvn	bounden	bind	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+,	,	,	,	,	0
+T.	T.	np1	T.	T.	0
+VV.	VV.	np1	VV.	VV.	0
+the	the	dt	the	the	0
+Lords	Lords	n2	Lords	lord	0
+vnvvorthy	vnvvorthy	j	unworthy	unworthy	0
+.	.	.	.	.	1

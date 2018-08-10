@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
+most	most	av-ds	most	most	0
+Devoted	Devoted	vvn	Devoted	devote	0
+Humble	Humble	j	Humble	humble	0
+SERVANT	SERVANT	n1	SERVANT	servant	0
+N.	N.	np1	N.	N.	0
+TATE	TATE	np1	TATE	Tate	0
+.	.	.	.	.	1

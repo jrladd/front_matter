@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+Hans	Hans	np1	Hans	Hans	0
+de	de	fw-fr	de	de	0
+Ries	Ries	zz	Ries	ries	0
+,	,	,	,	,	0
+Reynier	Reynier	np1	Reynier	Reynier	0
+VVy-Brantson	VVy-Brantson	j	VVy-Brantson	vvy-brantson	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+the	the	dt	the	the	0
+Congregations	Congregations	n2	Congregations	congregation	0
+where	where	c-crq	where	where	0
+of	of	pp-f	of	of	0
+they	they	pns32	they	they	0
+are	are	vbr	are	be	0
+.	.	.	.	.	1

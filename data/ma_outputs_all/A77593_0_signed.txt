@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+soules	soules	ng1	souls	soul	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Gospel	Gospel	n1	Gospel	gospel	0
+Engagements	Engagements	n2	Engagements	engagement	0
+.	.	.	.	.	1
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+BROOKS	BROOKS	vvz	BROOKS	brook	0
+.	.	.	.	.	1

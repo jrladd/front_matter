@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LAWNE	LAWNE	n1	LAWNE	lawn	0
+.	.	.	.	.	1

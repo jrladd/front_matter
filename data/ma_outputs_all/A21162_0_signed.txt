@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+good	good	j	good	good	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+wholy	wholy	av-jn	wholly	whole	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+.	.	.	.	.	1
+H.	H.	np1	H.	H.	0
+D.	D.	np1	D.	D.	1

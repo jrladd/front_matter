@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+verie	verie	j	very	very	0
+loving	loving	j-vvg	loving	love	0
+Sonne	Sonne	n1	Son	son	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Williamson	Williamson	np1	Williamson	Williamson	0
+.	.	.	.	.	1

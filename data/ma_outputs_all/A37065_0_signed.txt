@@ -1,0 +1,3 @@
+John	John	np1	John	John	0
+Dury	Dury	np1	Dury	Dury	0
+.	.	.	.	.	1

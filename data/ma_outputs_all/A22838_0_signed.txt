@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+graces	graces	n2	graces	grace	0
+poore	poore	j	poor	poor	0
+bads-man	bads-man	n1	bads-man	bads-man	0
+B.	B.	np1	B.	B.	0
+ANTONY	ANTONY	np1	ANTONY	Antony	0
+BATT	BATT	np1	BATT	Batt	0
+vn	vn	fw-fr	vn	un	0
+∣	∣	sy	∣	∣	0
+worthy	worthy	j	worthy	worthy	0
+monke	monke	n1	monk	monk	0
+of	of	pp-f	of	of	0
+S.	S.	n1	S.	saint	0
+Bennet	Bennet	np1	Bennet	Bennet	0
+.	.	.	.	.	1

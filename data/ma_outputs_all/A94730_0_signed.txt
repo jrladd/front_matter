@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+truly	truly	av-j	truly	true	0
+loving	loving	j-vvg	loving	love	0
+Country	Country	n1	Country	country	0
+man	man	n1	man	man	0
+and	and	cc	and	and	0
+late	late	j	late	late	0
+Teacher	Teacher	n1	Teacher	teacher	0
+John	John	np1	John	John	0
+Tombes	Tombes	n2	Tombs	tomb	0
+.	.	.	.	.	1

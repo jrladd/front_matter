@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+obsequious	obsequious	j	obsequious	obsequious	0
+:	:	:	:	:	0
+Henry	Henry	np1	Henry	Henry	0
+Petowe	Petowe	np1	Petowe	Petowe	0
+.	.	.	.	.	1

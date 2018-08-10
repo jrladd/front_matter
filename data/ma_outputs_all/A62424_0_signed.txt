@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Most	Most	av-ds	Most	most	0
+Devoted	Devoted	j-vvn	Devoted	devote	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+M.	M.	n1	M.	m.	0
+GILLYFLOWER	GILLYFLOWER	n1	GILLYFLOWER	gillyflower	0
+.	.	.	.	.	1

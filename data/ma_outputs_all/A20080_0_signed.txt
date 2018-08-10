@@ -1,0 +1,12 @@
+And	And	cc	And	and	0
+euer	euer	av	ever	ever	0
+rest	rest	n1	rest	rest	0
+,	,	,	,	,	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+Dekker	Dekker	np1	Dekker	Dekker	0
+.	.	.	.	.	1

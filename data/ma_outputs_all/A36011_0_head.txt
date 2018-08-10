@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+RABY	RABY	np1	RABY	Raby	0
+.	.	.	.	.	1

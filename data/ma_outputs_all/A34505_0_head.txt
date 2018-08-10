@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+Commons	Commons	n2	Commons	commons	0
+as	as	p-acp	as	as	0
+∣	∣	sy	∣	∣	0
+sembled	sembled	vvn	sembled	semble	0
+in	in	p-acp	in	in	0
+Par	Par	fw-fr	Par	par	0
+∣	∣	sy	∣	∣	0
+liament	liament	n1	liament	liament	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Others	Others	n2-jn	Others	other	0
+of	of	pp-f	of	of	0
+Wil-shire	Wil-shire	n1	Will-shire	will-shire	0
+.	.	.	.	.	1

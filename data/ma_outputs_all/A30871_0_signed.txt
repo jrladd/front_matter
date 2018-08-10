@@ -1,0 +1,3 @@
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+BARBER	BARBER	n1	BARBER	barber	0
+.	.	.	.	.	1

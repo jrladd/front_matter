@@ -1,0 +1,12 @@
+Both	Both	av-d	Both	both	0
+your	your	po22	your	your	0
+Honours	Honours	ng1	Honours	honour	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+LORD	LORD	n1	LORD	lord	0
+,	,	,	,	,	0
+DAVID	DAVID	np1	DAVID	David	0
+DICKSON	DICKSON	np1	DICKSON	Dickson	1

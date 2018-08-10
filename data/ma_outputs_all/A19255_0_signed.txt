@@ -1,0 +1,12 @@
+In	In	p-acp	In	in	0
+Field	Field	n1	Field	field	0
+and	and	cc	and	and	0
+out	out	av	out	out	0
+of	of	pp-f	of	of	0
+Field	Field	n1	Field	field	0
+your	your	po22	your	your	0
+honours	honours	ng1	honours	honour	0
+Seruant	Seruant	n1	Servant	servant	0
+EDVVARD	EDVVARD	np1	EDVVARD	EDVVARD	0
+COOKE	COOKE	n1	COOKE	cook	0
+,	,	,	,	,	1

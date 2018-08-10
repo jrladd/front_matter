@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+true	true	j	true	true	0
+Honourer	Honourer	n1	Honourer	honourer	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+very	very	av	very	very	0
+thankful	thankful	j	thankful	thankful	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+Burgess	Burgess	np1	Burgess	Burgess	0
+.	.	.	.	.	1

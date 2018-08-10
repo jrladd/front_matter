@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+very	very	j	very	very	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+PASTOR	PASTOR	n1	PASTOR	pastor	0
+,	,	,	,	,	0
+DAN	DAN	uh	DAN	dan	0
+.	.	.	.	.	1
+BURGESS	BURGESS	np1	BURGESS	Burgess	0
+.	.	.	.	.	1

@@ -1,0 +1,16 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+truly	truly	av-j	truly	true	0
+studious	studious	j	studious	studious	0
+of	of	pp-f	of	of	0
+wisdome	wisdome	n1	wisdom	wisdom	0
+,	,	,	,	,	0
+from	from	p-acp	from	from	0
+Christ	Christ	np1	Christ	Christ	0
+the	the	dt	the	the	0
+fountain	fountain	n1	fountain	fountain	0
+of	of	pp-f	of	of	0
+wisdome	wisdome	n1	wisdom	wisdom	0
+,	,	,	,	,	0
+greeting	greeting	n1	greeting	greeting	0
+.	.	.	.	.	1

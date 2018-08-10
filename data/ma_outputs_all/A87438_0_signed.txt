@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+servant	servant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+brotherly	brotherly	j	brotherly	brotherly	0
+duty	duty	n1	duty	duty	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Communion	Communion	n1	Communion	communion	0
+.	.	.	.	.	1
+John	John	np1	John	John	0
+Jurin	Jurin	np1	Jurin	Jurin	0
+Senior	Senior	fw-la	Senior	senior	0
+.	.	.	.	.	1

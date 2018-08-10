@@ -1,0 +1,16 @@
+A	A	dt	A	a	0
+LA	LA	fw-fr	LA	la	0
+TRES-GENEREVSE	TRES-GENEREVSE	j	TRES-GENEREVSE	tres-generevse	0
+,	,	,	,	,	0
+tres-magnanime	tres-magnanime	j	tres-magnanime	tres-magnanime	0
+,	,	,	,	,	0
+&	&	cc	&	and	0
+tres-inuinci	tres-inuinci	j	tres-inuinci	tres-inuinci	0
+∣	∣	sy	∣	∣	0
+ble	ble	zz	ble	ble	0
+Noblesse	Noblesse	n1	Noblesse	noblesse	0
+de	de	fw-fr	de	de	0
+la	la	fw-fr	la	la	0
+Grande	Grande	fw-fr	Grande	grande	0
+BRETAGNE	BRETAGNE	np1	BRETAGNE	Britain	0
+.	.	.	.	.	1

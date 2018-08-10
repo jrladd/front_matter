@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+unfeigned	unfeigned	j	unfeigned	unfeigned	0
+Well	Well	n1	Well	well	0
+wisher	wisher	n1	wisher	wisher	0
+,	,	,	,	,	0
+J.	J.	np1	J.	J.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,13 @@
+At	At	p-acp	At	at	0
+vvhose	vvhose	rg-crq	whose	who	0
+right	right	j-jn	right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+commaundements	commaundements	n2	commandments	commandment	0
+I	I	pns11	I	i	0
+humblie	humblie	av-j	humbly	humble	0
+remaine	remaine	vvb	remain	remain	0
+.	.	.	.	.	1
+George	George	np1	George	George	0
+Whetstones	Whetstones	np1	Whetstones	Whetstone	0
+.	.	.	.	.	1

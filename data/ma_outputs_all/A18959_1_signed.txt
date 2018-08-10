@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+seruice	seruice	n1	service	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+.	.	.	.	.	1
+Gyles	Gyles	np1	Gyles	Gyles	0
+Clayton	Clayton	np1	Clayton	Clayton	0
+.	.	.	.	.	1

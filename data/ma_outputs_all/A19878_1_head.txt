@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+FRIEND	FRIEND	n1	FRIEND	friend	0
+Will	Will	vmb	Will	will	0
+.	.	.	.	.	1
+Davenant	Davenant	np1	Davenant	Davenant	0
+;	;	;	;	;	0
+upon	upon	p-acp	upon	upon	0
+his	his	po31	his	his	0
+Poem	Poem	n1	Poem	poem	0
+of	of	pp-f	of	of	0
+Madagascar	Madagascar	np1	Madagascar	Madagascar	0
+.	.	.	.	.	1

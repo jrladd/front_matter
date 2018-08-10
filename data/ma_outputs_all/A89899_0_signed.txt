@@ -1,0 +1,9 @@
+wishes	wishes	ng1	wishes	wish	0
+you	you	pn22	you	you	0
+as	as	c-acp	as	as	0
+he	he	pns31	he	he	0
+doth	doth	vdz	does	do	0
+himself	himself	px31	himself	himself	0
+.	.	.	.	.	1
+N.	N.	np1	N.	N.	0
+N.	N.	np1	N.	N.	1

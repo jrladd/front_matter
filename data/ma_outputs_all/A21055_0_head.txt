@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+loving	loving	n-vvg	loving	love	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+beloved	beloved	j-vvn	beloved	belove	0
+people	people	n1	people	people	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Parishoners	Parishoners	n2	Parishioners	parishioner	0
+and	and	cc	and	and	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+Epping	Epping	np1	Epping	Epping	0
+in	in	p-acp	in	in	0
+Essex	Essex	np1	Essex	Essex	0
+.	.	.	.	.	1

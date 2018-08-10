@@ -1,0 +1,6 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+Collonel	Collonel	n1	Colonel	colonel	0
+Codrington	Codrington	np1	Codrington	Codrington	0
+.	.	.	.	.	1

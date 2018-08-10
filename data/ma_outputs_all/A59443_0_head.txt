@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+Illustrious	Illustrious	j	Illustrious	illustrious	0
+Prince	Prince	n1	Prince	prince	0
+,	,	,	,	,	0
+JAMES	JAMES	np1	JAMES	James	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+MONMOUTH	MONMOUTH	np1	MONMOUTH	Monmouth	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

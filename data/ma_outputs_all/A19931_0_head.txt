@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+very	very	j	very	very	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Ma.	Ma.	n1	Ma.	master	0
+Rich	Rich	j	Rich	rich	0
+:	:	:	:	:	0
+Martin	Martin	np1	Martin	Martin	0
+.	.	.	.	.	1

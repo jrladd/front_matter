@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOVRABLE	HONOVRABLE	j	HONOURABLE	honourable	0
+ALGERNON	ALGERNON	np1	ALGERNON	Algernon	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Northumberland	Northumberland	np1	Northumberland	Northumberland	0
+,	,	,	,	,	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+Earle	Earle	n1	Earl	earl	0
+of	of	pp-f	of	of	0
+Pembroke	Pembroke	np1	Pembroke	Pembroke	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Montgomerie	Montgomerie	np1	Montgomerie	Montgomerie	0
+.	.	.	.	.	1

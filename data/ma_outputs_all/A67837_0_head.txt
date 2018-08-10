@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Vnholiness	Vnholiness	n1	Unholiness	unholiness	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PENN	PENN	np1	PENN	Penn	0
+,	,	,	,	,	0
+THE	THE	dt	THE	the	0
+ENGLISH	ENGLISH	jp	ENGLISH	english	0
+POPE	POPE	n1	POPE	pope	0
+.	.	.	.	.	1

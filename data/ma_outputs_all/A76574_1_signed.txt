@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+obedient	obedient	j	obedient	obedient	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Thrice	Thrice	av	Thrice	thrice	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Son	Son	n1	Son	son	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Leigh	Leigh	np1	Leigh	Leigh	0
+▪	▪	▪	▪	▪	1

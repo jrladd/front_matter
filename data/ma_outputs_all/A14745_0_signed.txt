@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+daily	daily	j	daily	daily	0
+Beadsman	Beadsman	n1	Beadsman	beadsman	0
+,	,	,	,	,	0
+NATH	NATH	np1	NATH	Nath	0
+.	.	.	.	.	1
+WARD	WARD	n1	WARD	ward	0
+.	.	.	.	.	1

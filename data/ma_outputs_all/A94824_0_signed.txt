@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+with	with	p-acp	with	with	0
+his	his	po31	his	his	0
+best	best	js	best	best	0
+abilities	abilities	n2	abilities	ability	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+THO	THO	av	THOUGH	tho	0
+.	.	.	.	.	1
+TRESCOT	TRESCOT	np1	TRESCOT	Trescot	0
+.	.	.	.	.	1

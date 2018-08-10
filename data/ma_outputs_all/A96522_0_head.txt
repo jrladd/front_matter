@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+house	house	n1	house	house	0
+of	of	pp-f	of	of	0
+Commons	Commons	n2	Commons	commons	0
+,	,	,	,	,	0
+assem	assem	fw-la	assem	assem	0
+∣	∣	sy	∣	∣	0
+bled	bled	vvd	bled	bleed	0
+in	in	p-acp	in	in	0
+Parliament	Parliament	n1	Parliament	parliament	0
+.	.	.	.	.	1

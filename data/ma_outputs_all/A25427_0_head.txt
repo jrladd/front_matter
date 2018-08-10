@@ -1,0 +1,5 @@
+It	It	pn31	It	it	0
+is	is	vbz	is	be	0
+Humbly	Humbly	av-j	Humbly	humble	0
+Proposed	Proposed	vvn	Proposed	propose	0
+.	.	.	.	.	1

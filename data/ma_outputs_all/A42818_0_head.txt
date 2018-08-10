@@ -1,0 +1,10 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+much	much	d	much	much	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+and	and	cc	and	and	0
+Ingenious	Ingenious	j	Ingenious	ingenious	0
+Francis	Francis	np1	Francis	Francis	0
+Willoughby	Willoughby	np1	Willoughby	Willoughby	0
+ESQUIRE	ESQUIRE	n1	ESQUIRE	esquire	0
+.	.	.	.	.	1

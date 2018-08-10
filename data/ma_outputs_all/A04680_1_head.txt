@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+WORSHIPFVL	WORSHIPFVL	j	WORSHIPFUL	worshipful	0
+HIS	HIS	po31	HIS	his	0
+esteemed	esteemed	j-vvn	esteemed	esteem	0
+friend	friend	n1	friend	friend	0
+M.	M.	n1	M.	m.	0
+Anthony	Anthony	np1	Anthony	Anthony	0
+Palmer	Palmer	n1	Palmer	palmer	0
+Esquier	Esquier	n1	Esquire	esquire	0
+.	.	.	.	.	1

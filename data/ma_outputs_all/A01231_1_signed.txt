@@ -1,0 +1,3 @@
+Abraham	Abraham	np1	Abraham	Abraham	0
+Fraunce	Fraunce	np1	Fraunce	France	0
+.	.	.	.	.	1

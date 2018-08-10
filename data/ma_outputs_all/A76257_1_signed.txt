@@ -1,0 +1,15 @@
+Eich	Eich	fw-ge	Eich	eich	0
+câr	câr	fw-ge	câr	câr	0
+âch	âch	fw-ge	âch	âch	0
+câr	câr	fw-ge	câr	câr	0
+,	,	,	,	,	0
+gorchmyn	gorchmyn	vvb	gorchmyn	gorchmyn	0
+∣	∣	sy	∣	∣	0
+nwch	nwch	vvi	nwch	nwch	0
+o	o	sy	oh	o	0
+mynnwch	mynnwch	n1	mynnwch	mynnwch	0
+,	,	,	,	,	0
+ROVV	ROVV	n1	ROVV	rovv	0
+.	.	.	.	.	1
+VAUGHAN	VAUGHAN	np1	VAUGHAN	Vaughan	0
+.	.	.	.	.	1

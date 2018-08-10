@@ -1,0 +1,7 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+wholy	wholy	av-jn	wholly	whole	0
+.	.	.	.	.	1
+F.	F.	np1	F.	F.	0
+Cook	Cook	n1	Cook	cook	0
+.	.	.	.	.	1

@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+poore	poore	j	poor	poor	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+.	.	.	.	.	0
+alwayes	alwayes	av	always	always	0
+at	at	p-acp	at	at	0
+Command	Command	n1	Command	command	0
+:	:	:	:	:	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+ROGERS	ROGERS	np1	ROGERS	Rogers	0
+.	.	.	.	.	1

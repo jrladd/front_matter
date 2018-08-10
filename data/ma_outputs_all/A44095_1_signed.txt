@@ -1,0 +1,9 @@
+I	I	pns11	I	i	0
+am	am	vbm	am	be	0
+Your	Your	po22	Your	your	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Benjamin	Benjamin	np1	Benjamin	Benjamin	0
+Hoffman	Hoffman	np1	Hoffman	Hoffman	0
+.	.	.	.	.	1

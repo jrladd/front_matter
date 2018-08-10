@@ -1,0 +1,13 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+Marie	Marie	uh	Marry	marie	0
+,	,	,	,	,	0
+Countesse	Countesse	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+PEMBROOKE	PEMBROOKE	np1	PEMBROOKE	Pembroke	0
+.	.	.	.	.	1

@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+cordially	cordially	av-j	cordially	cordial	0
+in	in	p-acp	in	in	0
+this	this	d	this	this	0
+great	great	j	great	great	0
+work	work	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+COLEMAN	COLEMAN	np1	COLEMAN	Coleman	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+Commissary	Commissary	n1	Commissary	commissary	0
+General	General	j	General	general	0
+EDWARD	EDWARD	np1	EDWARD	Edward	0
+WHALLEY	WHALLEY	np1	WHALLEY	Whalley	0
+.	.	.	.	.	1

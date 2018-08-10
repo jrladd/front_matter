@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Honorable	Honorable	j	Honourable	honourable	0
+the	the	dt	the	the	0
+Lady	Lady	n1	Lady	lady	0
+ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
+Countess	Countess	n1	Countess	countess	0
+of	of	pp-f	of	of	0
+BULLINGBROOK	BULLINGBROOK	np1	BULLINGBROOK	BULLINGBROOK	0
+.	.	.	.	.	1

@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+Doctor	Doctor	n1	Doctor	doctor	0
+Cademan	Cademan	np1	Cademan	Cademan	0
+,	,	,	,	,	0
+Physitian	Physitian	n1	Physician	physician	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Queene	Queene	n1	Queen	queen	0
+.	.	.	.	.	1

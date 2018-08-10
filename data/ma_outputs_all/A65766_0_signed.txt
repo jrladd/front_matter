@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Minister	Minister	n1	Minister	minister	0
+,	,	,	,	,	0
+R.	R.	np1	R.	R.	0
+W.	W.	np1	W.	W.	1

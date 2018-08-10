@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+welwiller	welwiller	n1	wellwiller	wellwiller	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Crowley	Crowley	np1	Crowley	Crowley	0
+,	,	,	,	,	0
+Clarke	Clarke	n1	Clarke	clarke	0
+.	.	.	.	.	1

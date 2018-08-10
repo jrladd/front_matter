@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
+of	of	pp-f	of	of	0
+PUDSEY	PUDSEY	np1	PUDSEY	Pudsey	0
+,	,	,	,	,	0
+LEEDS	LEEDS	np1	LEEDS	Leeds	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+BRADFORD	BRADFORD	np1	BRADFORD	Bradford	0
+.	.	.	.	.	1

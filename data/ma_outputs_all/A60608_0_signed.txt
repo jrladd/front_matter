@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+WILL	WILL	n1	WILL	will	0
+.	.	.	.	.	1
+SMYTH	SMYTH	np1	SMYTH	Smyth	0
+.	.	.	.	.	1

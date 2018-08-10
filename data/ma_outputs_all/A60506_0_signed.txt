@@ -1,0 +1,11 @@
+Ever	Ever	av	Ever	ever	0
+Oblig'd	Oblig'd	vvn	Obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+very	very	av	very	very	0
+Faithful	Faithful	j	Faithful	faithful	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Randolph	Randolph	np1	Randolph	Randolph	0
+Yearwood	Yearwood	np1	Yearwood	Yearwood	0
+.	.	.	.	.	1

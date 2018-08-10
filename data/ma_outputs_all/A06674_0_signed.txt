@@ -1,0 +1,7 @@
+YOVR	YOVR	po22	YOUR	your	0
+HONOVRS	HONOVRS	ng1	HONOVRS	honovrs	0
+Humble	Humble	j	Humble	humble	0
+seruant	seruant	n1	servant	servant	0
+CH	CH	vvn	CHANGED	change	0
+.	.	.	.	.	1
+M.	M.	n1	M.	m.	1

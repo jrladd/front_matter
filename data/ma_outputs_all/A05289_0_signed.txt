@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Highnesses	Highnesses	n2	Highnesses	highness	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+duty	duty	n1	duty	duty	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+L.	L.	np1	L.	L.	1

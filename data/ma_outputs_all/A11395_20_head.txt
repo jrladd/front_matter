@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+most	most	av-ds	most	most	0
+honorable	honorable	j	honourable	honourable	0
+,	,	,	,	,	0
+learned	learned	j	learned	learned	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+religious	religious	j	religious	religious	0
+Gent.	Gent.	n1	Gent.	gentleman	0
+M.	M.	n1	M.	m.	0
+Anthony	Anthony	np1	Anthony	Anthony	0
+Bacone	Bacone	np1	Bacone	Bacone	0
+.	.	.	.	.	1

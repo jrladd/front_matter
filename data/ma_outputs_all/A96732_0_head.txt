@@ -1,0 +1,8 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+TRULY	TRULY	av-j	TRULY	true	0
+NOBLE	NOBLE	j	NOBLE	noble	0
+Edward	Edward	np1	Edward	Edward	0
+Pepes	Pepes	vvz	Pepes	pepe	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	1

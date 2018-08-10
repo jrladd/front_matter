@@ -1,0 +1,12 @@
+To	To	p-acp	To	to	0
+The	The	dt	The	the	0
+REVEREND	REVEREND	n-jn	REVEREND	reverend	0
+DR	DR	zz	DR	dr	0
+WILKINS	WILKINS	np1	WILKINS	Wilkins	0
+WARDEN	WARDEN	n1	WARDEN	warden	0
+OF	OF	pp-f	OF	of	0
+Wadham	Wadham	np1	Wadham	Wadham	0
+College	College	n1	College	college	0
+IN	IN	p-acp	IN	in	0
+OXFORD	OXFORD	np1	OXFORD	Oxford	0
+.	.	.	.	.	1

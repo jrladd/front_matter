@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+very	very	j	very	very	0
+much	much	av-d	much	much	0
+obliged	obliged	vvn	obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+T.	T.	np1	T.	T.	0
+B.	B.	np1	B.	B.	1

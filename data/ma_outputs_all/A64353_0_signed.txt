@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+though	though	cs	though	though	0
+unworthy	unworthy	j	unworthy	unworthy	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Tenison	Tenison	n1	Tenison	tenison	0
+.	.	.	.	.	1

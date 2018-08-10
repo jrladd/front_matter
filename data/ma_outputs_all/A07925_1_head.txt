@@ -1,0 +1,5 @@
+Another	Another	j-jn	Another	another	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Prince	Prince	n1	Prince	prince	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+YOUR	YOUR	po22	YOUR	your	0
+LADISHIP's	LADISHIP's	ng1	LADISHIP's	ladiship	0
+Most	Most	av-ds	Most	most	0
+oblig'd	oblig'd	vvn	obliged	oblige	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Fr.	Fr.	np1	Fr.	Fr.	0
+Purcell	Purcell	np1	Purcell	Purcell	0
+.	.	.	.	.	1

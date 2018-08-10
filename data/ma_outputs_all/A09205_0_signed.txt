@@ -1,0 +1,14 @@
+Who	Who	r-crq	Who	who	0
+with	with	p-acp	with	with	0
+my	my	po11	my	my	0
+selfe	selfe	n1	self	self	0
+,	,	,	,	,	0
+shall	shall	vmb	shall	shall	0
+euer	euer	av	ever	ever	0
+be	be	vbi	be	be	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+yours	yours	png22	yours	you	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+PEACHAM	PEACHAM	np1	PEACHAM	Peacham	0
+.	.	.	.	.	1

@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+My	My	po11	My	my	0
+Lord	Lord	n1	Lord	lord	0
+DORSET	DORSET	np1	DORSET	Dorset	0
+.	.	.	.	.	1

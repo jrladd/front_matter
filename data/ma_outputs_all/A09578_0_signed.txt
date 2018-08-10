@@ -1,0 +1,3 @@
+ELVVAY	ELVVAY	n1	ELVVAY	elvvay	0
+BEVIN	BEVIN	np1	BEVIN	BEVIN	0
+.	.	.	.	.	1

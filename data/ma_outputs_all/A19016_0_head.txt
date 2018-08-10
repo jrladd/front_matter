@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	j-jn	RIGHT	right	0
+HONOV	HONOV	n1	HONOV	honov	0
+∣	∣	sy	∣	∣	0
+rable	rable	n1	rabble	rabble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+approved	approved	vvd	approved	approve	0
+vertuous	vertuous	j	virtuous	virtuous	0
+LA	LA	fw-fr	LA	la	0
+:	:	:	:	:	0
+BRIGET	BRIGET	np1	BRIGET	Bridget	0
+COVNTESSE	COVNTESSE	n1	COVNTESSE	countess	0
+OF	OF	pp-f	OF	of	0
+LINCOLNE	LINCOLNE	np1	LINCOLNE	Lincoln	0
+.	.	.	.	.	1

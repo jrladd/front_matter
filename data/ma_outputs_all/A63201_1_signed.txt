@@ -1,0 +1,3 @@
+JOHN	JOHN	np1	JOHN	John	0
+TATHAM	TATHAM	np1	TATHAM	Tatham	0
+.	.	.	.	.	1

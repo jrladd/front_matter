@@ -1,0 +1,5 @@
+P.	P.	np1	P.	P.	0
+C.	C.	np1	C.	C.	0
+Hydropotis	Hydropotis	fw-la	Hydropotis	hydropotis	0
+Tunbrigiensibus	Tunbrigiensibus	fw-la	Tunbrigiensibus	tunbrigiensibus	0
+Philomusis	Philomusis	fw-la	Philomusis	philomusis	1

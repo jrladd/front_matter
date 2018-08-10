@@ -1,0 +1,14 @@
+Yours	Yours	png22	Yours	you	0
+(	(	(	(	(	0
+such	such	d	such	such	0
+as	as	c-acp	as	as	0
+he	he	pns31	he	he	0
+is	is	vbz	is	be	0
+)	)	)	)	)	0
+to	to	pc-acp	to	to	0
+do	do	vdi	do	do	0
+you	you	pn22	you	you	0
+seruice	seruice	n1	service	service	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+and	and	cc	and	and	0
+obsequious	obsequious	j	obsequious	obsequious	0
+servan	servan	j	servan	servan	0
+H.	H.	np1	H.	H.	0
+D.	D.	np1	D.	D.	1

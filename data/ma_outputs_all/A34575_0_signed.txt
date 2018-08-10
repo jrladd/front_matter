@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Relation	Relation	n1	Relation	relation	0
+and	and	cc	and	and	0
+very	very	av	very	very	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Samuel	Samuel	np1	Samuel	Samuel	0
+Corker	Corker	np1	Corker	Corker	0
+als	als	av	also	also	0
+Cor	Cor	np1	Cor	Cor	0
+Cor.	Cor.	np1	Cor.	Cor.	1

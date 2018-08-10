@@ -1,0 +1,12 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+MOST	MOST	av-ds	MOST	most	0
+Serene	Serene	np1	Serene	Serena	0
+and	and	cc	and	and	0
+Excellent	Excellent	j	Excellent	excellent	0
+MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
+,	,	,	,	,	0
+King	King	n1	King	king	0
+Charles	Charles	np1	Charles	Charles	0
+,	,	,	,	,	0
+II.	II.	crd	II	ii	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+Ladiships	Ladiships	ng1	Ladyships	ladyship	0
+most	most	av-ds	most	most	0
+obliged	obliged	vvn	obliged	oblige	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+devoted	devoted	j-vvn	devoted	devote	0
+friend	friend	n1	friend	friend	0
+and	and	cc	and	and	0
+servant	servant	n1	servant	servant	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+PRYNNE	PRYNNE	np1	PRYNNE	Prynne	0
+.	.	.	.	.	1

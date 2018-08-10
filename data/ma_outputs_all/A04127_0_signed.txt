@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Graces	Graces	n2	Graces	grace	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Chapleine	Chapleine	n1	Chaplain	chaplain	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Ireland	Ireland	np1	Ireland	Ireland	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+His	His	po31	His	his	0
+Grace	Grace	n1	Grace	grace	0
+the	the	dt	the	the	0
+DUKE	DUKE	n1	DUKE	duke	0
+of	of	pp-f	of	of	0
+MONMOUTH	MONMOUTH	np1	MONMOUTH	Monmouth	0
+AND	AND	cc	AND	and	0
+BACCLEUGH	BACCLEUGH	np1	BACCLEUGH	BACCLEUGH	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

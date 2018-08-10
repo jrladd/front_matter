@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+PRINCE	PRINCE	n1	PRINCE	prince	0
+his	his	po31	his	his	0
+Highnesse	Highnesse	n1	Highness	highness	0
+,	,	,	,	,	0
+HENRIE	HENRIE	np1	HENRIE	Henry	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Hope	Hope	n1	Hope	hope	0
+of	of	pp-f	of	of	0
+greate	greate	j	great	great	0
+BRITAINE	BRITAINE	np1	BRITAINE	Britain	0
+.	.	.	.	.	1

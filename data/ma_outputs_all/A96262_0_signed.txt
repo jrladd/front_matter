@@ -1,0 +1,12 @@
+Yours	Yours	png22	Yours	you	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+humble	humble	j	humble	humble	0
+Duty	Duty	n1	Duty	duty	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+sincere	sincere	j	sincere	sincere	0
+Inclination	Inclination	n1	Inclination	inclination	0
+,	,	,	,	,	0
+W.	W.	np1	W.	W.	0
+W.	W.	np1	W.	W.	1

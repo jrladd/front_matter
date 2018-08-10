@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+Sir	Sir	n1	Sir	sir	0
+FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
+NORTH	NORTH	n1	NORTH	north	0
+Lord	Lord	n1	Lord	lord	0
+Chief	Chief	j-jn	Chief	chief	0
+Justice	Justice	n1	Justice	justice	0
+OF	OF	pp-f	OF	of	0
+THE	THE	dt	THE	the	0
+COMMON	COMMON	j	COMMON	common	0
+PLEAS	PLEAS	n2	PLEAS	plea	0
+.	.	.	.	.	1

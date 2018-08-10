@@ -1,0 +1,9 @@
+❧	❧	sy	❧	❧	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+vertuous	vertuous	j	virtuous	virtuous	0
+,	,	,	,	,	0
+Mistris	Mistris	n1	Mistress	mistress	0
+Judith	Judith	np1	Judith	Judith	0
+Hawkins	Hawkins	np1	Hawkins	Hawkins	0
+.	.	.	.	.	1

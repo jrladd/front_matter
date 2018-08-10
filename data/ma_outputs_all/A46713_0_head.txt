@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Right	Right	n-jn	Right	right	0
+Worshipfull	Worshipfull	j	Worshipful	worshipful	0
+,	,	,	,	,	0
+Augustine	Augustine	np1	Augustine	Augustine	0
+Briggs	Briggs	np1	Briggs	Briggs	0
+Esquire	Esquire	n1	Esquire	esquire	0
+Mayor	Mayor	n1	Mayor	mayor	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+City	City	n1	City	city	0
+of	of	pp-f	of	of	0
+NORWICH	NORWICH	np1	NORWICH	Norwich	0
+.	.	.	.	.	1

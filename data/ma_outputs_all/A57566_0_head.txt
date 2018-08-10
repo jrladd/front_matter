@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Little	Little	j	Little	little	0
+Crooked	Crooked	j	Crooked	crooked	0
+,	,	,	,	,	0
+yet	yet	av	yet	yet	0
+Sweet	Sweet	j	Sweet	sweet	0
+and	and	cc	and	and	0
+Lovely	Lovely	j	Lovely	lovely	0
+Rosania	Rosania	np1	Rosania	Rosania	0
+.	.	.	.	.	1

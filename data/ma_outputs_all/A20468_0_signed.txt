@@ -1,0 +1,9 @@
+Thy	Thy	po21	Thy	thy	0
+adorer	adorer	n1	adorer	adorer	0
+,	,	,	,	,	0
+redeemed	redeemed	vvn	redeemed	redeem	0
+by	by	p-acp	by	by	0
+thy	thy	po21	thy	thy	0
+blood	blood	n1	blood	blood	0
+,	,	,	,	,	0
+J.M.D.	J.M.D.	np1	J.M.D.	J.M.D.	1

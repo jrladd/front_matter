@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+AEgidius	AEgidius	np1	AEgidius	AEgidius	0
+Hoffman	Hoffman	np1	Hoffman	Hoffman	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+Gentleman	Gentleman	n1	Gentleman	gentleman	0
+of	of	pp-f	of	of	0
+Flaunders	Flaunders	np1	Flaunders	Flaunders	0
+,	,	,	,	,	0
+my	my	po11	my	my	0
+deare	deare	j-jn	deer	dear	0
+friend	friend	n1	friend	friend	0
+,	,	,	,	,	0
+Student	Student	n1	Student	student	0
+at	at	p-acp	at	at	0
+Heidelberg	Heidelberg	np1	Heidelberg	Heidelberg	0
+.	.	.	.	.	1

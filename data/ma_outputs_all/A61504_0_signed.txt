@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Maties	Maties	n2	Maties	maty	0
+.	.	.	.	.	0
+most	most	ds	most	most	0
+humble	humble	j	humble	humble	0
+,	,	,	,	,	0
+most	most	av-ds	most	most	0
+obedient	obedient	j	obedient	obedient	0
+and	and	cc	and	and	0
+most	most	ds	most	most	0
+affection	affection	n1	affection	affection	0
+at	at	p-acp	at	at	0
+subject	subject	n-jn	subject	subject	0
+▪	▪	▪	▪	▪	1

@@ -1,0 +1,17 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+Noble	Noble	j	Noble	noble	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Religious	Religious	j	Religious	religious	0
+LADY	LADY	n1	LADY	lady	0
+,	,	,	,	,	0
+JEAN	JEAN	np1	JEAN	Jean	0
+,	,	,	,	,	0
+VISCOUNTESS	VISCOUNTESS	np1	VISCOUNTESS	Viscountess	0
+of	of	pp-f	of	of	0
+KENMOOR	KENMOOR	np1	KENMOOR	KENMOOR	0
+.	.	.	.	.	1

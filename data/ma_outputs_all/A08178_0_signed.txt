@@ -1,0 +1,15 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+poore	poore	j	poor	poor	0
+Countreyman	Countreyman	n1	Countryman	countryman	0
+,	,	,	,	,	0
+euer	euer	av	ever	ever	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+to	to	pc-acp	to	to	0
+commaund	commaund	vvi	command	command	0
+.	.	.	.	.	1
+Thomas	Thomas	np1	Thomas	Thomas	0
+Newton	Newton	np1	Newton	Newton	0
+.	.	.	.	.	1

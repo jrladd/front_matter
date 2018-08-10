@@ -1,0 +1,8 @@
+Most	Most	ds	Most	most	0
+willing	willing	j	willing	willing	0
+at	at	p-acp	at	at	0
+commandement	commandement	n1	commandment	commandment	0
+.	.	.	.	.	1
+T.	T.	np1	T.	T.	0
+CHVRCHYARD	CHVRCHYARD	n1	CHVRCHYARD	chvrchyard	0
+.	.	.	.	.	1

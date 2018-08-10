@@ -1,0 +1,5 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Lady	Lady	n1	Lady	lady	0
+BAWDON	BAWDON	np1	BAWDON	BAWDON	0
+.	.	.	.	.	1

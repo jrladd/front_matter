@@ -1,0 +1,9 @@
+A	A	dt	A	a	0
+Well-Wisher	Well-Wisher	j	Wellwisher	wellwish	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Laws	Laws	n2	Laws	law	0
+HEN	HEN	n1	HEN	hen	0
+.	.	.	.	.	1
+APPLEGARTH	APPLEGARTH	np1	APPLEGARTH	Applegarth	0
+.	.	.	.	.	1

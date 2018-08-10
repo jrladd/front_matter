@@ -1,0 +1,3 @@
+Antonius	Antonius	np1	Antonius	Antonius	0
+Mondaius	Mondaius	np1	Mondaius	Mondaius	0
+.	.	.	.	.	1

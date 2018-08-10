@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+fellow	fellow	n1	fellow	fellow	0
+seruant	seruant	n1	servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+worke	worke	n1	work	work	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+Gospell	Gospell	n1	Gospel	gospel	0
+.	.	.	.	.	1
+Iohn	Iohn	np1	Iohn	John	0
+Darrell	Darrell	np1	Darrell	Darrell	0
+.	.	.	.	.	1

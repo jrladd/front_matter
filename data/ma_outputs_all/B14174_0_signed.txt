@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+much	much	av-d	much	much	0
+deuoted	deuoted	j-vvn	devoted	devote	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+IACKSON	IACKSON	np1	IACKSON	IACKSON	0
+.	.	.	.	.	1

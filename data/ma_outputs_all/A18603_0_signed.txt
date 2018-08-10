@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+bounden	bounden	vvn	bounden	bind	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+Chri	Chri	np1	Chri	Chri	0
+∣	∣	sy	∣	∣	0
+stian	stian	n1	stian	stian	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+CHIBALD	CHIBALD	np1	CHIBALD	CHIBALD	0
+.	.	.	.	.	1

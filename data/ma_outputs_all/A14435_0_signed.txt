@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+VVorships	VVorships	n2	VVorships	worship	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+Iesus	Iesus	np1	Iesus	Jesus	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Tuke	Tuke	vvd	Took	take	0
+.	.	.	.	.	1

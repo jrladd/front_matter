@@ -1,0 +1,11 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Worthily	Worthily	av-j	Worthily	worthy	0
+Honoured	Honoured	vvn	Honoured	honour	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+GEORGE	GEORGE	np1	GEORGE	George	0
+WHARTON	WHARTON	np1	WHARTON	WHARTON	0
+,	,	,	,	,	0
+Baronet	Baronet	n1	Baronet	baronet	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+honourable	honourable	j	honourable	honourable	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+,	,	,	,	,	0
+Lord	Lord	n1	Lord	lord	0
+Mar	Mar	vvb	Mar	mar	0
+∣	∣	sy	∣	∣	0
+quess	quess	n1	quess	quess	0
+of	of	pp-f	of	of	0
+Dorche	Dorche	np1	Dorche	Dorche	0
+∣	∣	sy	∣	∣	0
+ster	ster	vvz	ster	star	0
+,	,	,	,	,	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+and	and	cc	and	and	0
+much	much	av-d	much	much	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+Son	Son	n1	Son	son	0
+PHILIP	PHILIP	np1	PHILIP	PHILIP	0
+PERREY	PERREY	n1	PERREY	perrey	0
+.	.	.	.	.	1
+M.	M.	n1	M.	m.	0
+A.	A.	np1	A.	A.	1

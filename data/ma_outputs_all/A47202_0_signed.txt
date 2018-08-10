@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Honors	Honors	n2	Honours	honour	0
+at	at	p-acp	at	at	0
+Command	Command	n1	Command	command	0
+to	to	pc-acp	to	to	0
+serve	serve	vvi	serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+EDVVARD	EDVVARD	np1	EDVVARD	EDVVARD	0
+KELLETT	KELLETT	np1	KELLETT	KELLETT	0
+.	.	.	.	.	1

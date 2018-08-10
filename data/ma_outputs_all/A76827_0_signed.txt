@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+faithfull	faithfull	j	faithful	faithful	0
+,	,	,	,	,	0
+but	but	cc-acp	but	but	0
+unknown	unknown	j	unknown	unknown	0
+Servant	Servant	n1	Servant	servant	0
+▪	▪	▪	▪	▪	1

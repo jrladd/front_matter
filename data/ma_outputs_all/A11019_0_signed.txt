@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+and	and	cc	and	and	0
+heartifull	heartifull	j	heartifull	heartifull	0
+bounden	bounden	vvn	bounden	bind	0
+Orator	Orator	n1	Orator	orator	0
+,	,	,	,	,	0
+Richard	Richard	np1	Richard	Richard	0
+Robinson	Robinson	np1	Robinson	Robinson	0
+Ci	Ci	crd	Ci	ci	0
+∣	∣	sy	∣	∣	0
+tizen	tizen	n1	tizen	tizen	0
+of	of	pp-f	of	of	0
+London	London	np1	London	London	0
+.	.	.	.	.	1

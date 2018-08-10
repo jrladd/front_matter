@@ -1,0 +1,15 @@
+TO	TO	p-acp	TO	to	0
+The	The	dt	The	the	0
+Right	Right	n-jn	Right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+,	,	,	,	,	0
+The	The	dt	The	the	0
+Lord	Lord	n1	Lord	lord	0
+ELESMORE	ELESMORE	np1	ELESMORE	ELESMORE	0
+,	,	,	,	,	0
+L.	L.	np1	L.	L.	0
+High	High	j	High	high	0
+Chancelour	Chancelour	n1	Chancellor	chancellor	0
+of	of	pp-f	of	of	0
+England	England	np1	England	England	0
+.	.	.	.	.	1

@@ -1,0 +1,8 @@
+Sir	Sir	n1	Sir	sir	0
+,	,	,	,	,	0
+Yours	Yours	png22	Yours	you	0
+,	,	,	,	,	0
+De	De	fw-fr	De	de	0
+Speciosa	Speciosa	fw-la	Speciosa	speciosa	0
+Villa	Villa	n1	Villam	villa	0
+.	.	.	.	.	1

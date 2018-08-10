@@ -1,0 +1,16 @@
+Nicholas	Nicholas	np1	Nicholas	Nicholas	0
+Machiavelli	Machiavelli	np1	Machiavelli	Machiavelli	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+the	the	dt	the	the	0
+Magnificent	Magnificent	j	Magnificent	magnificent	0
+Lau	Lau	np1	Lau	Lau	0
+∣	∣	sy	∣	∣	0
+rence	rence	vvi	rence	rinse	0
+sonne	sonne	n1	son	son	0
+to	to	p-acp	to	to	0
+Peter	Peter	np1	Peter	Peter	0
+of	of	pp-f	of	of	0
+Medicis	Medicis	np1	Medicis	Medicis	0
+health	health	n1	health	health	0
+.	.	.	.	.	1

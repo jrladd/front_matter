@@ -1,0 +1,10 @@
+¶	¶	¶	¶	¶	0
+Your	Your	po22	Your	your	0
+assured	assured	j-vvn	assured	assure	0
+Freend	Freend	n1	Friend	friend	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lorde	Lorde	n1	Lord	lord	0
+Richard	Richard	np1	Richard	Richard	0
+Galis	Galis	fw-la	Galis	galis	0
+.	.	.	.	.	1

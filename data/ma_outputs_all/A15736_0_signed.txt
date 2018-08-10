@@ -1,0 +1,17 @@
+In	In	p-acp	In	in	0
+whom	whom	ro-crq	whom	who	0
+I	I	pns11	I	i	0
+shall	shall	vmb	shall	shall	0
+euer	euer	av	ever	ever	0
+be	be	vbi	be	be	0
+at	at	p-acp	at	at	0
+your	your	po22	your	your	0
+Lordships	Lordships	ng1	Lordship's	lordship	0
+seruice	seruice	n1	service	service	0
+to	to	pc-acp	to	to	0
+be	be	vbi	be	be	0
+commanded	commanded	vvn	commanded	command	0
+,	,	,	,	,	0
+Antony	Antony	np1	Antony	Antony	0
+Wotton	Wotton	np1	Wotton	Wotton	0
+.	.	.	.	.	1

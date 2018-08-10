@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obsequious	Obsequious	j	Obsequious	obsequious	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Iordan	Iordan	np1	Iordan	Jordan	0
+.	.	.	.	.	1

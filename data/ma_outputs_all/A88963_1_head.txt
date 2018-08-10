@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+right	right	n-jn	right	right	0
+Honourable	Honourable	j	Honourable	honourable	0
+COLONEL	COLONEL	n1	COLONEL	colonel	0
+ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
+BULLAR	BULLAR	np1	BULLAR	BULLAR	0
+.	.	.	.	.	1

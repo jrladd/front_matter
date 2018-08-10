@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+command	command	vvi	command	command	0
+in	in	p-acp	in	in	0
+what	what	r-crq	what	what	0
+he	he	pns31	he	he	0
+may	may	vmb	may	may	0
+.	.	.	.	.	1
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+THE	THE	dt	THE	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+TO	TO	p-acp	TO	to	0
+TITUS	TITUS	npg1	TITUS	Titus	0
+OATES	OATES	n2	OATES	oat	0
+THE	THE	dt	THE	the	0
+Mock-Doctor	Mock-Doctor	n1	Mock-Doctor	mock-doctor	0
+of	of	pp-f	of	of	0
+Salamanca	Salamanca	np1	Salamanca	Salamanca	0
+.	.	.	.	.	1

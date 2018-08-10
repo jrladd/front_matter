@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+LORD	LORD	n1	LORD	lord	0
+PERCY	PERCY	np1	PERCY	Percy	0
+HERBERT	HERBERT	np1	HERBERT	Herbert	0
+,	,	,	,	,	0
+LORD	LORD	n1	LORD	lord	0
+POWYS	POWYS	n2	POWYS	powy	0
+OF	OF	pp-f	OF	of	0
+POWYS	POWYS	n2	POWYS	powy	0
+&c.	&c.	av	etc.	etc	1

@@ -1,0 +1,14 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honourable	Honourable	j	Honourable	honourable	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+LOWTHER	LOWTHER	np1	LOWTHER	Lowther	0
+,	,	,	,	,	0
+Esq	Esq	np1	Esq	Esq	0
+HIGH-SHERIFF	HIGH-SHERIFF	n1	HIGH-SHERIFF	high-sheriff	0
+Of	Of	pp-f	Of	of	0
+the	the	dt	the	the	0
+County	County	n1	County	county	0
+of	of	pp-f	of	of	0
+YORK	YORK	np1	YORK	York	0
+.	.	.	.	.	1

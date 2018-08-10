@@ -1,0 +1,3 @@
+And	And	cc	And	and	0
+so	so	av	so	so	0
+.	.	.	.	.	1

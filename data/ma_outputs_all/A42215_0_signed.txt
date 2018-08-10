@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	ng1	Worships	worship	0
+most	most	av-ds	most	most	0
+devoted	devoted	vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+,	,	,	,	,	0
+Robert	Robert	np1	Robert	Robert	0
+Gentilis	Gentilis	np1	Gentilis	Gentilis	0
+.	.	.	.	.	1

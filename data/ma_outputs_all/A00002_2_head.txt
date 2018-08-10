@@ -1,0 +1,5 @@
+To	To	p-acp	To	to	0
+Iohn	Iohn	np1	Iohn	John	0
+a	a	dt	a	a	0
+Nokes	Nokes	np1	Nokes	Nokes	0
+.	.	.	.	.	1

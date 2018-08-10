@@ -1,0 +1,16 @@
+Tears	Tears	n2	Tears	tear	0
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Memory	Memory	n1	Memory	memory	0
+of	of	pp-f	of	of	0
+DEAR	DEAR	j-jn	DEAR	dear	0
+ELIZA	ELIZA	np1	ELIZA	Eliza	0
+,	,	,	,	,	0
+who	who	r-crq	who	who	0
+departed	departed	vvd	departed	depart	0
+this	this	d	this	this	0
+Life	Life	n1	Life	life	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Year	Year	n1	Year	year	0
+1697.	1697.	crd	1697.	1697.	1

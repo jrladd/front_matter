@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+humbly	humbly	av-j	humbly	humble	0
+deuouted	deuouted	vvn	devouted	devout	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+:	:	:	:	:	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

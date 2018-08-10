@@ -1,0 +1,12 @@
+The	The	dt	The	the	0
+Epistle	Epistle	n1	Epistle	epistle	0
+Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
+,	,	,	,	,	0
+TO	TO	p-acp	TO	to	0
+All	All	d	All	all	0
+the	the	dt	the	the	0
+sincere	sincere	j	sincere	sincere	0
+Lovers	Lovers	n2	Lovers	lover	0
+of	of	pp-f	of	of	0
+Sion	Sion	np1	Sion	Zion	0
+.	.	.	.	.	1

@@ -1,0 +1,15 @@
+Of	Of	pp-f	Of	of	0
+your	your	po22	your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Brother	Brother	n1	Brother	brother	0
+in	in	p-acp	in	in	0
+Christ	Christ	np1	Christ	Christ	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Unworthy	Unworthy	j-u	Unworthy	worthy	0
+Overseer	Overseer	n1	Overseer	overseer	0
+,	,	,	,	,	0
+Benj.	Benj.	np1	Benj.	Benj.	0
+Keach	Keach	np1	Keach	Keach	0
+.	.	.	.	.	1

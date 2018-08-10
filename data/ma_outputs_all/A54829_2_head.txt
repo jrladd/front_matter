@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+my	my	po11	my	my	0
+ever	ever	av	ever	ever	0
+Honoured	Honoured	j-vvn	Honoured	honour	0
+Friend	Friend	n1	Friend	friend	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	1
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Peyto	Peyto	av	Peyto	peyto	0
+of	of	pp-f	of	of	0
+Chesterton	Chesterton	np1	Chesterton	Chesterton	0
+.	.	.	.	.	1

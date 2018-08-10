@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Highnesse	Highnesse	n1	Highness	highness	0
+obedient	obedient	j	obedient	obedient	0
+Subiect	Subiect	n-jn	Subject	subject	0
+and	and	cc	and	and	0
+Seruaunt	Seruaunt	n1	Servant	servant	0
+.	.	.	.	.	1
+A.	A.	np1	A.	A.	0
+M.	M.	n1	M.	m.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+faithful	faithful	j	faithful	faithful	0
+and	and	cc	and	and	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Minister	Minister	n1	Minister	minister	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Tillam	Tillam	fw-la	Tillam	tillam	0
+.	.	.	.	.	1

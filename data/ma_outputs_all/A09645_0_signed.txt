@@ -1,0 +1,10 @@
+I	I	pns11	I	i	0
+rest	rest	vvb	rest	rest	0
+Your	Your	po22	Your	your	0
+Honors	Honors	ng1	Honours	honour	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+.	.	.	.	.	1
+IOHN	IOHN	np1	IOHN	John	0
+HAWKINS	HAWKINS	np1	HAWKINS	Hawkins	0
+.	.	.	.	.	1

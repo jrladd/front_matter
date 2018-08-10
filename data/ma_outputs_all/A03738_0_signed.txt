@@ -1,0 +1,16 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+and	and	cc	and	and	0
+assured	assured	j-vvn	assured	assure	0
+freend	freend	n1	friend	friend	0
+,	,	,	,	,	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+vttermost	vttermost	j	uttermost	uttermost	0
+during	during	p-acp	during	during	0
+life	life	n1	life	life	0
+,	,	,	,	,	0
+Henrie	Henrie	np1	Henrie	Henry	0
+Hoowarde	Hoowarde	n1	Hoowarde	hoowarde	0
+.	.	.	.	.	1

@@ -1,0 +1,2 @@
+N.	N.	np1	N.	N.	0
+B.	B.	np1	B.	B.	1

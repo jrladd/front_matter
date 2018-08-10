@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Ladyshipps	Ladyshipps	n2	Ladyshipps	ladyship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutiull	dutiull	n1	dutiull	dutiull	0
+seruice	seruice	n1	service	service	0
+Robart	Robart	np1	Robart	Robart	0
+Greene	Greene	j-jn	Green	green	0
+.	.	.	.	.	1

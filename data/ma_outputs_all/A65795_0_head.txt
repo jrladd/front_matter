@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+RIGHT	RIGHT	n-jn	RIGHT	right	0
+HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
+,	,	,	,	,	0
+the	the	dt	the	the	0
+LADY	LADY	n1	LADY	lady	0
+MARY	MARY	np1	MARY	MARY	0
+TUCHET	TUCHET	np1	TUCHET	TUCHET	0
+&c	&c	av	etc.	etc	0
+,	,	,	,	,	1

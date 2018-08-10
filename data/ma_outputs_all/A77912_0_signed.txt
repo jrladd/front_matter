@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+to	to	p-acp	to	to	0
+his	his	po31	his	his	0
+power	power	n1	power	power	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+BALL	BALL	n1	BALL	ball	0
+.	.	.	.	.	1

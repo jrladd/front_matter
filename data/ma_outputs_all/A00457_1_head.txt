@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+louing	louing	j-vvg	loving	love	0
+Friendes	Friendes	n2	Friends	friend	0
+wheresoeuer	wheresoeuer	c-crq	wheresoever	wheresoever	0
+,	,	,	,	,	0
+Lewys	Lewys	np1	Lewys	Lewis	0
+Euans	Euans	np1	Euans	Euans	0
+wisheth	wisheth	vvz	wishes	wish	0
+as	as	p-acp	as	as	0
+vn	vn	zz	vn	vn	0
+∣	∣	sy	∣	∣	0
+to	to	p-acp	to	to	0
+himselfe	himselfe	px31	himself	himself	0
+.	.	.	.	.	1

@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+obseruant	obseruant	j	observant	observant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+euer	euer	av	ever	ever	0
+affectionate	affectionate	j	affectionate	affectionate	0
+poore	poore	j	poor	poor	0
+friend	friend	n1	friend	friend	0
+in	in	p-acp	in	in	0
+life	life	n1	life	life	0
+and	and	cc	and	and	0
+death	death	n1	death	death	0
+.	.	.	.	.	1
+Nat.	Nat.	np1	Nat.	Nat.	0
+Shute	Shute	zz	Shute	shute	0
+.	.	.	.	.	1

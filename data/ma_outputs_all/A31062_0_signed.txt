@@ -1,0 +1,11 @@
+Right	Right	av-jn	Right	right	0
+Honble	Honble	n1	Honble	honble	0
+,	,	,	,	,	0
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Obedient	Obedient	j	Obedient	obedient	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Isaac	Isaac	np1	Isaac	Isaac	0
+Barrow	Barrow	np1	Barrow	Barrow	0
+.	.	.	.	.	1

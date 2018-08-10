@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+Rich.	Rich.	np1	Rich.	Richard	0
+Meggot	Meggot	n1	Meggot	meggot	0
+.	.	.	.	.	1

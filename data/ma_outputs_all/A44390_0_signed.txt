@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+humbly	humbly	av-j	humbly	humble	0
+observant	observant	j	observant	observant	0
+Kinsman	Kinsman	n1	Kinsman	kinsman	0
+,	,	,	,	,	0
+CHARLES	CHARLES	np1	CHARLES	Charles	0
+HOOLE	HOOLE	np1	HOOLE	Hoole	0
+.	.	.	.	.	1

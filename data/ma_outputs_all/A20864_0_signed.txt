@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+worships	worships	n2	worships	worship	0
+to	to	pc-acp	to	to	0
+commaunde	commaunde	vvi	command	command	0
+,	,	,	,	,	0
+Iohn	Iohn	np1	Iohn	John	0
+Drout	Drout	np1	Drout	Drout	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+To	To	p-acp	To	to	0
+his	his	po31	his	his	0
+dearest	dearest	js-jn	dearest	dear	0
+sister	sister	n1	sister	sister	0
+Mrs.	Mrs.	n1	Mrs.	mrs.	0
+Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
+Francis	Francis	np1	Francis	Francis	0
+of	of	pp-f	of	of	0
+Brumsted	Brumsted	np1	Brumsted	Brumsted	0
+in	in	p-acp	in	in	0
+Norff.	Norff.	np1	Norff.	Norff.	1

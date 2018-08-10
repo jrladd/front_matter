@@ -1,0 +1,8 @@
+To	To	p-acp	To	to	0
+Her	Her	po31	Her	her	0
+GRACE	GRACE	n1	GRACE	grace	0
+THE	THE	dt	THE	the	0
+Dutches	Dutches	n1	Duchess	duchess	0
+of	of	pp-f	of	of	0
+ORMOND	ORMOND	np1	ORMOND	Ormond	0
+.	.	.	.	.	1

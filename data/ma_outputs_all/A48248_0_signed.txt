@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Faithfull	Faithfull	j	Faithful	faithful	0
+and	and	cc	and	and	0
+Obedient	Obedient	j	Obedient	obedient	0
+Friend	Friend	n1	Friend	friend	0
+and	and	cc	and	and	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Daniel	Daniel	np1	Daniel	Daniel	0
+la	la	fw-fr	la	la	0
+Fite	Fite	np1	Fite	Fite	1

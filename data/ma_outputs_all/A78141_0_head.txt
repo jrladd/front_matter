@@ -1,0 +1,15 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Honorable	Honorable	j	Honourable	honourable	0
+Sr	Sr	n1	Sir	sir	0
+HARBOTLE	HARBOTLE	np1	HARBOTLE	HARBOTLE	0
+GRIMSTON	GRIMSTON	np1	GRIMSTON	Grimston	0
+BARONET	BARONET	n1	BARONET	baronet	0
+,	,	,	,	,	0
+SPEAKER	SPEAKER	n1	SPEAKER	speaker	0
+of	of	pp-f	of	of	0
+the	the	dt	the	the	0
+House	House	n1	House	house	0
+of	of	pp-f	of	of	0
+COMMONS	COMMONS	n2	COMMONS	commons	0
+.	.	.	.	.	1

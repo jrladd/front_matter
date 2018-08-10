@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+duetie	duetie	n1	duty	duty	0
+and	and	cc	and	and	0
+seruice	seruice	n1	service	service	0
+,	,	,	,	,	0
+Samuell	Samuell	np1	Samuell	Samuell	0
+Page	Page	n1	Page	page	0
+▪	▪	▪	▪	▪	1

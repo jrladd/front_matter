@@ -1,0 +1,14 @@
+Yn	Yn	zz	Yn	yn	0
+gostyngedig	gostyngedig	fw-ge	gostyngedig	gostyngedig	0
+ac	ac	fw-la	ac	ac	0
+ufydd	ufydd	uh	ufydd	ufydd	0
+Wasa	Wasa	fw-la	Wasa	wasa	0
+∣	∣	sy	∣	∣	0
+naethwr	naethwr	n1	naethwr	naethwr	0
+,	,	,	,	,	0
+a	a	dt	a	a	0
+gwir	gwir	n1	gwir	gwir	0
+Anrhydeddwr	Anrhydeddwr	np1	Anrhydeddwr	Anrhydeddwr	0
+Peter	Peter	np1	Peter	Peter	0
+Du	Du	np1	Du	Du	0
+Moulin	Moulin	np1	Moulin	Moulin	1

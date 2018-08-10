@@ -1,0 +1,10 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Lords	Lords	n2	Lords	lord	0
+and	and	cc	and	and	0
+Commons	Commons	n2	Commons	commons	0
+NOW	NOW	av	NOW	now	0
+IN	IN	p-acp	IN	in	0
+PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
+Assembled	Assembled	vvn	Assembled	assemble	0
+.	.	.	.	.	1

@@ -1,0 +1,13 @@
+Your	Your	po22	Your	your	0
+obliged	obliged	j-vvn	obliged	oblige	0
+Ser	Ser	n1	Sir	sir	0
+∣	∣	sy	∣	∣	0
+vant	vant	n1	vant	vaunt	0
+at	at	p-acp	at	at	0
+Com	Com	vvi	Come	come	0
+∣	∣	sy	∣	∣	0
+mand	mand	vvn	manned	man	0
+,	,	,	,	,	0
+HENRY	HENRY	np1	HENRY	Henry	0
+SEILE	SEILE	n1	SEILE	seile	0
+.	.	.	.	.	1

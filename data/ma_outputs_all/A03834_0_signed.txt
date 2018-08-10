@@ -1,0 +1,6 @@
+Caledoniorum	Caledoniorum	np1	Caledoniorum	Caledoniorum	0
+tuorum	tuorum	fw-la	tuorum	tuorum	0
+minimus	minimus	fw-la	minimus	minimus	0
+D.	D.	np1	D.	D.	0
+Humius	Humius	np1	Humius	Humius	0
+.	.	.	.	.	1

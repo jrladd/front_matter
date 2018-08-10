@@ -1,0 +1,6 @@
+Your	Your	po22	Your	your	0
+affectionate	affectionate	j	affectionate	affectionate	0
+loving	loving	j-vvg	loving	love	0
+Father	Father	n1	Father	father	0
+S.	S.	np1	S.	S.	0
+D.	D.	np1	D.	D.	1

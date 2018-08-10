@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+thankfull	thankfull	j	thankful	thankful	0
+and	and	cc	and	and	0
+obseruant	obseruant	j	observant	observant	0
+welwiller	welwiller	n1	wellwiller	wellwiller	0
+,	,	,	,	,	0
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+SCLATER	SCLATER	np1	SCLATER	Sclater	0
+.	.	.	.	.	1

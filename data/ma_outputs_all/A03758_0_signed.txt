@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+to	to	pc-acp	to	to	0
+bee	bee	vbi	be	be	0
+commaunded	commaunded	vvn	commanded	command	0
+,	,	,	,	,	0
+THOMAS	THOMAS	np1	THOMAS	Thomas	0
+HOVVES	HOVVES	vvz	HOVVES	hovve	0
+.	.	.	.	.	1

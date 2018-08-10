@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+MY	MY	po11	MY	my	0
+WORTHY	WORTHY	j-jn	WORTHY	worthy	0
+AND	AND	cc	AND	and	0
+iudicious	iudicious	j	judicious	judicious	0
+Friend	Friend	n1	Friend	friend	0
+,	,	,	,	,	0
+Sir	Sir	n1	Sir	sir	0
+Francis	Francis	np1	Francis	Francis	0
+Ducket	Ducket	np1	Ducket	Ducket	0
+Knight	Knight	n1	Knight	knight	0
+;	;	;	;	;	0
+his	his	po31	his	his	0
+best	best	js	best	best	0
+wishes	wishes	n2	wishes	wish	0
+.	.	.	.	.	1

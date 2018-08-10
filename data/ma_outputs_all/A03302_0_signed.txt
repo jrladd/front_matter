@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+Ladie-ships	Ladie-ships	n2	Ladie-ships	ladie-ship	0
+ready	ready	j	ready	ready	0
+seruitor	seruitor	n1	servitor	servitor	0
+in	in	p-acp	in	in	0
+any	any	d	any	any	0
+Christian	Christian	njp	Christian	christian	0
+office	office	n1	office	office	0
+SAM	SAM	np1	SAM	Sam	0
+.	.	.	.	.	1
+HIERON	HIERON	np1	HIERON	Hieron	0
+.	.	.	.	.	1

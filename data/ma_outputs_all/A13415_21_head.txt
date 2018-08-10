@@ -1,0 +1,12 @@
+DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
+To	To	p-acp	To	to	0
+all	all	d	all	all	0
+that	that	cst	that	that	0
+can	can	vmb	can	can	0
+iudge	iudge	vvi	judge	judge	0
+,	,	,	,	,	0
+of	of	pp-f	of	of	0
+what	what	r-crq	what	what	0
+degree	degree	n1	degree	degree	0
+soeuer	soeuer	av	soever	soever	0
+.	.	.	.	.	1

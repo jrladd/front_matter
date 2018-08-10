@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+dutifull	dutifull	j	dutiful	dutiful	0
+sonne	sonne	n1	son	son	0
+at	at	p-acp	at	at	0
+command	command	n1	command	command	0
+,	,	,	,	,	0
+DANIEL	DANIEL	np1	DANIEL	Daniel	0
+PRICE	PRICE	n1	PRICE	price	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+dutifull	dutifull	j	dutiful	dutiful	0
+obseruance	obseruance	n1	observance	observance	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+:	:	:	:	:	0
+HALL	HALL	n1	HALL	hall	0
+.	.	.	.	.	1

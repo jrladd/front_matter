@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+devoted	devoted	j-vvn	devoted	devote	0
+servant	servant	n1	servant	servant	0
+for	for	p-acp	for	for	0
+ever	ever	av	ever	ever	0
+to	to	pc-acp	to	to	0
+Command	Command	vvi	Command	command	0
+,	,	,	,	,	0
+Anthony	Anthony	np1	Anthony	Anthony	0
+Griffin	Griffin	np1	Griffin	Griffin	0
+.	.	.	.	.	1

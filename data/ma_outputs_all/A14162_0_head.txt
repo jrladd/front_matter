@@ -1,0 +1,16 @@
+A'I	A'I	np1	A'I	A'I	0
+LETTORI	LETTORI	np1	LETTORI	LETTORI	0
+DI	DI	fw-mi	DI	di	0
+ANIMO	ANIMO	fw-la	ANIMO	animo	0
+CHIARO	CHIARO	np1	CHIARO	CHIARO	0
+,	,	,	,	,	0
+ET	ET	fw-fr	ET	et	0
+BENEVOLI	BENEVOLI	np1	BENEVOLI	BENEVOLI	0
+DELL'ALTRVI	DELL'ALTRVI	fw-la	DELL'ALTRVI	dell'altrvi	0
+LODEVOLI	LODEVOLI	np1	LODEVOLI	LODEVOLI	0
+FATICHE	FATICHE	np1	FATICHE	FATICHE	0
+Petruccio	Petruccio	np1	Petruccio	Petruccio	0
+Vbaldino	Vbaldino	np1	Vbaldino	Vbaldino	0
+dice	dice	n1	dice	dice	0
+salute	salute	vvi	salute	salute	0
+.	.	.	.	.	1

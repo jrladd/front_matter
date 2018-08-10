@@ -1,0 +1,17 @@
+Your	Your	po22	Your	your	0
+Lordships	Lordships	n2	Lordship's	lordship	0
+truly	truly	av-j	truly	true	0
+de	de	dt	the	the	0
+∣	∣	sy	∣	∣	0
+voted	voted	vvn	voted	vote	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+hearty	hearty	j	hearty	hearty	0
+observance	observance	n1	observance	observance	0
+and	and	cc	and	and	0
+dutie	dutie	n1	duty	duty	0
+,	,	,	,	,	0
+IOS	IOS	np1	IOS	Ios	0
+.	.	.	.	.	1
+EXON	EXON	np1	EXON	Exon	0
+.	.	.	.	.	1

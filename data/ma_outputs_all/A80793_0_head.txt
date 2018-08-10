@@ -1,0 +1,9 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+Learned	Learned	j	Learned	learned	0
+Doctor	Doctor	n1	Doctor	doctor	0
+H.	H.	np1	H.	H.	0
+HAMMOND	HAMMOND	np1	HAMMOND	Hammond	0
+,	,	,	,	,	0
+Health	Health	n1	Health	health	0
+.	.	.	.	.	1

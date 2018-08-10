@@ -1,0 +1,14 @@
+Your	Your	po22	Your	your	0
+Obliged	Obliged	j-vvn	Obliged	oblige	0
+Servant	Servant	n1	Servant	servant	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Work	Work	n1	Work	work	0
+of	of	pp-f	of	of	0
+our	our	po12	our	our	0
+Lord	Lord	n1	Lord	lord	0
+Jesus	Jesus	np1	Jesus	Jesus	0
+,	,	,	,	,	0
+Simon	Simon	np1	Simon	Simon	0
+Ford	Ford	n1	Ford	ford	0
+.	.	.	.	.	1

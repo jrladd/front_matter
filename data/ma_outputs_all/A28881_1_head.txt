@@ -1,0 +1,17 @@
+To	To	p-acp	To	to	0
+the	the	dt	the	the	0
+very	very	j	very	very	0
+LEARNED	LEARNED	j	LEARNED	learned	0
+AND	AND	cc	AND	and	0
+JUDICIOUS	JUDICIOUS	j	JUDICIOUS	judicious	0
+Dr.	Dr.	n1	Dr.	dr.	0
+R.	R.	np1	R.	R.	0
+ANGELL	ANGELL	n1	ANGELL	angel	0
+,	,	,	,	,	0
+Resident	Resident	j-jn	Resident	resident	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+CITY	CITY	n1	CITY	city	0
+of	of	pp-f	of	of	0
+CHESTER	CHESTER	np1	CHESTER	Chester	0
+.	.	.	.	.	1

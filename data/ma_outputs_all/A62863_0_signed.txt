@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Humble	Humble	j	Humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Admirer	Admirer	n1	Admirer	admirer	0
+,	,	,	,	,	0
+N.	N.	np1	N.	N.	0
+TATE	TATE	np1	TATE	Tate	0
+.	.	.	.	.	1

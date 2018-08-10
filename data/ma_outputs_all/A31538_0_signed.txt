@@ -1,0 +1,9 @@
+Your	Your	po22	Your	your	0
+Honours	Honours	ng1	Honours	honour	0
+most	most	av-ds	most	most	0
+affectionate	affectionate	j	affectionate	affectionate	0
+Servitor	Servitor	n1	Servitor	servitor	0
+,	,	,	,	,	0
+Thomas	Thomas	np1	Thomas	Thomas	0
+Shelton	Shelton	np1	Shelton	Shelton	0
+.	.	.	.	.	1

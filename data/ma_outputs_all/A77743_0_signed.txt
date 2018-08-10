@@ -1,0 +1,12 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+Affectionate	Affectionate	j	Affectionate	affectionate	0
+Brother	Brother	n1	Brother	brother	0
+,	,	,	,	,	0
+and	and	cc	and	and	0
+Hearty	Hearty	j	Hearty	hearty	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+JOHN	JOHN	np1	JOHN	John	0
+BUCK	BUCK	n1	BUCK	buck	0
+.	.	.	.	.	1

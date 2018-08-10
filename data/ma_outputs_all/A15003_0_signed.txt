@@ -1,0 +1,3 @@
+WILLIAM	WILLIAM	np1	WILLIAM	William	0
+WHATELY	WHATELY	np1	WHATELY	Whately	0
+.	.	.	.	.	1

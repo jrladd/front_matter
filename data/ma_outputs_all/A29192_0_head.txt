@@ -1,0 +1,14 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+Right	Right	n-jn	Right	right	0
+Doubty	Doubty	j	Doubty	doughty	0
+and	and	cc	and	and	0
+Puissant	Puissant	j	Puissant	puissant	0
+,	,	,	,	,	0
+Signior	Signior	n1	Signior	signior	0
+Timotheo	Timotheo	np1	Timotheo	Timotheo	0
+Boccalini	Boccalini	np1	Boccalini	Boccalini	0
+,	,	,	,	,	0
+Sirnamed	Sirnamed	vvn	Surnamed	surname	0
+Iunior	Iunior	j-jn	Junior	junior	0
+;	;	;	;	;	1

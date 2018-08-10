@@ -1,0 +1,10 @@
+Good	Good	j	Good	good	0
+reder	reder	n1	reder	reder	0
+remember	remember	vvb	remember	remember	0
+me	me	pno11	me	i	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+like	like	j	like	like	0
+.	.	.	.	.	1
+I.	I.	np1	I.	I.	0
+B.	B.	np1	B.	B.	1

@@ -1,0 +1,8 @@
+Your	Your	po22	Your	your	0
+most	most	av-ds	most	most	0
+humble	humble	j	humble	humble	0
+Servant	Servant	n1	Servant	servant	0
+,	,	,	,	,	0
+Ric	Ric	n1	Ric	ric	0
+Cumberland	Cumberland	np1	Cumberland	Cumberland	0
+.	.	.	.	.	1

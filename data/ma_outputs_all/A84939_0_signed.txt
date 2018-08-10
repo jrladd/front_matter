@@ -1,0 +1,15 @@
+Who	Who	q-crq	Who	who	0
+am	am	vbm	am	be	0
+Yours	Yours	png22	Yours	you	0
+most	most	av-ds	most	most	0
+deeply	deeply	av-jn	deeply	deep	0
+obliged	obliged	vvn	obliged	oblige	0
+to	to	p-acp	to	to	0
+Honour	Honour	n1	Honour	honour	0
+and	and	cc	and	and	0
+Serve	Serve	vvb	Serve	serve	0
+you	you	pn22	you	you	0
+,	,	,	,	,	0
+Tho.	Tho.	np1	Tho.	Tho.	0
+Froysell	Froysell	n1	Froisell	froisell	0
+.	.	.	.	.	1

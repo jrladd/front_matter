@@ -1,0 +1,16 @@
+TO	TO	p-acp	TO	to	0
+HIS	HIS	po31	HIS	his	0
+Royal	Royal	j	Royal	royal	0
+Highness	Highness	n1	Highness	highness	0
+JAMES	JAMES	np1	JAMES	James	0
+Duke	Duke	n1	Duke	duke	0
+of	of	pp-f	of	of	0
+ALBANY	ALBANY	np1	ALBANY	Albany	0
+and	and	cc	and	and	0
+YORK	YORK	np1	YORK	York	0
+,	,	,	,	,	0
+His	His	po31	His	his	0
+MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
+only	only	j	only	only	0
+Brother	Brother	n1	Brother	brother	0
+.	.	.	.	.	1

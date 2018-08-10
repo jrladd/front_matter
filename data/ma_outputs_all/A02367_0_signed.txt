@@ -1,0 +1,11 @@
+Your	Your	po22	Your	your	0
+Worships	Worships	n2	Worships	worship	0
+in	in	p-acp	in	in	0
+all	all	d	all	all	0
+faithfull	faithfull	j	faithful	faithful	0
+obseruance	obseruance	n1	observance	observance	0
+.	.	.	.	.	1
+THO	THO	np1	THO	Tho	0
+.	.	.	.	.	1
+ADAMS	ADAMS	np1	ADAMS	Adams	0
+.	.	.	.	.	1

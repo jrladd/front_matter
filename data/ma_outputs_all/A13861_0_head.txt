@@ -1,0 +1,9 @@
+❧	❧	sy	❧	❧	0
+TO	TO	p-acp	TO	to	0
+MASTER	MASTER	n1	MASTER	master	0
+GIL	GIL	np1	GIL	Gil	0
+∣	∣	sy	∣	∣	0
+BERT	BERT	np1	BERT	Bert	0
+❧	❧	sy	❧	❧	0
+BARCKLEY	BARCKLEY	np1	BARCKLEY	BARCKLEY	0
+.	.	.	.	.	1

@@ -1,0 +1,11 @@
+your	your	po22	your	your	0
+Worships	Worships	n2	Worships	worship	0
+much	much	d	much	much	0
+Obliged	Obliged	vvn	Obliged	oblige	0
+in	in	p-acp	in	in	0
+the	the	dt	the	the	0
+Lord	Lord	n1	Lord	lord	0
+.	.	.	.	.	1
+FULK	FULK	np1	FULK	FULK	0
+BELLERS	BELLERS	n2	BELLERS	beller	0
+.	.	.	.	.	1

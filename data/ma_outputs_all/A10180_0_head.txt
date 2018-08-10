@@ -1,0 +1,13 @@
+TO	TO	p-acp	TO	to	0
+THE	THE	dt	THE	the	0
+HIGH	HIGH	j	HIGH	high	0
+AND	AND	cc	AND	and	0
+Honourable	Honourable	j	Honourable	honourable	0
+Court	Court	n1	Court	court	0
+of	of	pp-f	of	of	0
+Parli	Parli	np1	Parli	Parli	0
+∣	∣	sy	∣	∣	0
+ament	ament	vvb	ament	ament	0
+now	now	av	now	now	0
+assembled	assembled	vvn	assembled	assemble	0
+.	.	.	.	.	1

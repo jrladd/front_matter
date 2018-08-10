@@ -1,0 +1,3 @@
+GEORGE	GEORGE	np1	GEORGE	George	0
+CHAPMAN	CHAPMAN	n1	CHAPMAN	chapman	0
+.	.	.	.	.	1
