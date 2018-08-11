@@ -313,12 +313,12 @@ def write_json(B, filename):
         json.dump(new_data, output, sort_keys=True, indent=4, separators=(',',':'))
 
 if __name__ == "__main__":
-    csvfiles = glob.glob('data/ma_split_outputs/*')
+    csvfiles = glob.glob('data/ma_outputs_all/*')
 
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
-    print(len(edgelist))
+    #print(len(edgelist))
 
     B = create_graph(edgelist)
     add_attributes_to_graph(B)
-    #write_json(B, '1640s_ma.json')
+    write_json(B, 'viz/all_eebo.json')
