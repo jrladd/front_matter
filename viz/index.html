@@ -26,27 +26,27 @@ form, select {
 
 </style>
 <body>
-	<section class="scroll" data-section-name="home">
+	<!-- <section class="scroll" data-section-name="home">
 		<h1>Title Card</h1>
 	</section>
-	<section class="scroll" data-section-name="viz">
+	<section class="scroll" data-section-name="viz"> -->
 		<div id='tools'>
 			<input type='checkbox' id='jesusCheckbox'>Jesus?</input>
 		</div>
 		<svg></svg>
-	</section>
+	<!-- </section> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="jquery.scrollify.js"></script>
+<!-- <script src="jquery.scrollify.js"></script> -->
 <script>
-$(function() {
-	$.scrollify({
-		section : ".scroll",
-		sectionName : "section-name",
-		after : function(index, sections) {if (index == 1) { update(graph); } } 
-	});
-});
+// $(function() {
+// 	$.scrollify({
+// 		section : ".scroll",
+// 		sectionName : "section-name",
+// 		after : function(index, sections) {if (index == 1) { update(graph); } }
+// 	});
+// });
 
 var graph;
 var svg = d3.select("svg")
@@ -80,11 +80,12 @@ var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("1640s_ma.json", function(error, newgraph) {
+d3.json("test.json", function(error, newgraph) {
   if (error) throw error;
 
-  //update(graph);
   graph = newgraph;
+  update(graph);
+  // console.log(graph);
 
   	var jesusToggle = d3.select('#jesusCheckbox')
 		.on('change', function() {
@@ -222,7 +223,7 @@ function update(graph) {
     //.selectAll("circle")
     //.data(graph.nodes);
 
-  node = node.data(graph.nodes, function(d) {return d.id;});
+  node = node.data(graph.nodes, function(d) { return d.id; });
   node.exit().remove();
 
   node = node.enter().append("circle")

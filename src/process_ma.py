@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance
 from itertools import groupby, product
@@ -61,6 +61,7 @@ def retrieve_names(ma_outputs):
     all_names = {}
     for c in csvfiles:
         filename = c.split('/')[-1]
+        print("Processing:",filename)
         filekey = filename.split('_')[0]
         filetype = filename.split('_')[-1].split('.')[0]
         # print(filekey, filetype)
@@ -177,7 +178,7 @@ def standardize(all_names):
                     if ld <= 2 and (x[0].split()[-1] != x[1].split()[-2] or x[1].split()[-1] != x[0].split()[-2]):
                         print(x[0], x[1])
                         add_to_standards(x, standards_list)
-                        
+
             else:
                 ed = editdistance.eval(x[0],x[1])
                 if 0 < ed < 3 and x[0][0] == x[1][0]:
@@ -189,7 +190,7 @@ def standardize(all_names):
                         add_to_standards(x, standards_list)
     new_all_names = {}
     for k,v in all_names.items():
-        new_all_names[k] = {} 
+        new_all_names[k] = {}
         for text_type, names in v.items():
             new_all_names[k][text_type] = []
             for name in names:
@@ -200,13 +201,13 @@ def standardize(all_names):
                         if name in namelist:
                             new_all_names[k][text_type].append(str(namelist))
     return new_all_names
-        
+
 
 def add_to_standards(x, standards_list):
     """Rules for adding uniques to standards_list"""
     if all(x[0] not in s for s in standards_list) and all(x[1] not in s for s in standards_list):
         standards_list.append([x[0], x[1]])
-    else: 
+    else:
         for s in standards_list:
             if x[0] in s and x[1] not in s:
                 s.append(x[1])
@@ -274,12 +275,16 @@ def add_attributes_to_graph(B):
             t = (n,)
             c.execute("SELECT title,author,date FROM metadata WHERE key = ?;", t)
             result = c.fetchone()
-            if len(result[0]) > 50:
-                title[n] = result[0][:50]+'...'
-            else:
-                title[n] = result[0]
-            author[n] = result[1]
-            date[n] = int(result[2])
+            if result != None:
+                if len(result[0]) > 50:
+                    title[n] = result[0][:50]+'...'
+                else:
+                    title[n] = result[0]
+                author[n] = result[1]
+                if result[2] != None:
+                    date[n] = int(result[2])
+                else:
+                    date[n] = result[2]
         else:
             title[n] = None
             author[n] = None
@@ -314,11 +319,11 @@ def write_json(B, filename):
 
 if __name__ == "__main__":
     csvfiles = glob.glob('data/ma_outputs_all/*')
-
+    # csvfiles = csvfiles[:50]
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     #print(len(edgelist))
 
     B = create_graph(edgelist)
     add_attributes_to_graph(B)
-    write_json(B, 'viz/all_eebo.json')
+    write_json(B, 'all_eebo.json')

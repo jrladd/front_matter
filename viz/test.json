@@ -1,0 +1,842 @@
+{
+    "directed":false,
+    "graph":{},
+    "links":[
+        {
+            "source":"A00060",
+            "target":"Ethnic Philoso",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00060",
+            "target":"English Helena",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00060",
+            "target":"Francis Earl of Bedford",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00060",
+            "target":"Robert Duddeley",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00123",
+            "target":"Petrus Aerodius",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00123",
+            "target":"Doctor Gentilis",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00123",
+            "target":"Lucius Brutus",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00123",
+            "target":"John Budden",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00209",
+            "target":"G. B.",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00049",
+            "target":"['Robert Aylett', 'Robert Aylet']",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00012",
+            "target":"Pharoh Joseph",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00012",
+            "target":"John Lord Bishop",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00012",
+            "target":"['Robert Aylett', 'Robert Aylet']",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"['Robert Aylett', 'Robert Aylet']",
+            "type":"body",
+            "weight":2
+        },
+        {
+            "source":"A00002",
+            "target":"Babels Fallen",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"R. A.",
+            "type":"body",
+            "weight":2
+        },
+        {
+            "source":"A00002",
+            "target":"Richard Cra",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"John Maynard",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"Mistress Sarah are",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"John Argal",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00002",
+            "target":"Badew Esquire",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00173",
+            "target":"Thomas Archbishop of Canterburie",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00173",
+            "target":"King Henry",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00173",
+            "target":"Cod. Vat.",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00173",
+            "target":"God Richard Smyth",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00173",
+            "target":"A. B.",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00142",
+            "target":"Edward Aysou",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"Wisest Apollo",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"Martial Pallas",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"Olympus Mount",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"These Precedents",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"Janus Temple",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00024",
+            "target":"['Robert Aylett', 'Robert Aylet']",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00188",
+            "target":"Marquisse Buckingham",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00188",
+            "target":"Viscount Villiers",
+            "type":"head",
+            "weight":1
+        },
+        {
+            "source":"A00188",
+            "target":"A. D.",
+            "type":"signed",
+            "weight":1
+        },
+        {
+            "source":"A00003",
+            "target":"St. Bernard",
+            "type":"body",
+            "weight":1
+        },
+        {
+            "source":"A00003",
+            "target":"Thomas Ailesbury",
+            "type":"signed",
+            "weight":2
+        },
+        {
+            "source":"A00003",
+            "target":"Jesus Christ",
+            "type":"signed",
+            "weight":1
+        }
+    ],
+    "multigraph":false,
+    "nodes":[
+        {
+            "author":"Aylmer, John",
+            "betw_rank":5,
+            "betweenness":0.005853658536585366,
+            "bipartite":0,
+            "close_rank":1,
+            "closeness":1.2173913043478262,
+            "date":1559,
+            "deg_rank":4,
+            "degree":4,
+            "id":"A00060",
+            "title":"An harborovve for faithfull and trevve subiectes a..."
+        },
+        {
+            "betw_rank":6,
+            "betweenness":0.005853658536585366,
+            "bipartite":0,
+            "close_rank":3,
+            "closeness":1.2173913043478262,
+            "deg_rank":5,
+            "degree":4,
+            "id":"A00123"
+        },
+        {
+            "author":"G. B.",
+            "betw_rank":9,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":2,
+            "closeness":1.2173913043478262,
+            "date":1591,
+            "deg_rank":9,
+            "degree":1,
+            "id":"A00209",
+            "title":"A fig for the Spaniard, or Spanish spirits VVherei..."
+        },
+        {
+            "author":"Aylett, Robert",
+            "betw_rank":10,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":11,
+            "closeness":0.4472049689440994,
+            "date":1622,
+            "deg_rank":10,
+            "degree":1,
+            "id":"A00049",
+            "title":"Thrifts equipage Viz. fiue diuine and morall medit..."
+        },
+        {
+            "author":"Aylett, Robert",
+            "betw_rank":3,
+            "betweenness":0.03219512195121951,
+            "bipartite":0,
+            "close_rank":10,
+            "closeness":0.48695652173913045,
+            "date":1623,
+            "deg_rank":7,
+            "degree":3,
+            "id":"A00012",
+            "title":"Ioseph, or, Pharoah's fauourite"
+        },
+        {
+            "author":"Aylett, Robert",
+            "betw_rank":1,
+            "betweenness":0.09560975609756098,
+            "bipartite":0,
+            "close_rank":8,
+            "closeness":0.6260869565217392,
+            "date":1625,
+            "deg_rank":1,
+            "degree":10,
+            "id":"A00002",
+            "title":"The brides ornaments viz. fiue meditations, morall..."
+        },
+        {
+            "author":"Baronio, Cesare",
+            "betw_rank":4,
+            "betweenness":0.00975609756097561,
+            "bipartite":0,
+            "close_rank":7,
+            "closeness":1.217391304347826,
+            "date":1639,
+            "deg_rank":3,
+            "degree":5,
+            "id":"A00173",
+            "title":"The life or the ecclesiasticall historie of S. Tho..."
+        },
+        {
+            "betw_rank":11,
+            "betweenness":0.0,
+            "bipartite":0,
+            "close_rank":4,
+            "closeness":1.2173913043478262,
+            "deg_rank":11,
+            "degree":1,
+            "id":"A00142"
+        },
+        {
+            "author":"Aylett, Robert",
+            "betw_rank":2,
+            "betweenness":0.07317073170731707,
+            "bipartite":0,
+            "close_rank":9,
+            "closeness":0.5618729096989967,
+            "date":1622,
+            "deg_rank":2,
+            "degree":6,
+            "id":"A00024",
+            "title":"Peace with her foure garders Viz. fiue morall medi..."
+        },
+        {
+            "betw_rank":7,
+            "betweenness":0.002926829268292683,
+            "bipartite":0,
+            "close_rank":5,
+            "closeness":1.2173913043478262,
+            "deg_rank":8,
+            "degree":3,
+            "id":"A00188"
+        },
+        {
+            "betw_rank":8,
+            "betweenness":0.002926829268292683,
+            "bipartite":0,
+            "close_rank":6,
+            "closeness":1.2173913043478262,
+            "deg_rank":6,
+            "degree":4,
+            "id":"A00003"
+        },
+        {
+            "author":null,
+            "betw_rank":2,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":9,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":4,
+            "degree":1,
+            "id":"Ethnic Philoso",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":3,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":3,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":5,
+            "degree":1,
+            "id":"St. Bernard",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":4,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":10,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":6,
+            "degree":1,
+            "id":"Lucius Brutus",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":5,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":35,
+            "closeness":0.5112201963534362,
+            "date":null,
+            "deg_rank":7,
+            "degree":1,
+            "id":"Pharoh Joseph",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":6,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":4,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":8,
+            "degree":1,
+            "id":"Viscount Villiers",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":7,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":5,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":2,
+            "degree":2,
+            "id":"Thomas Ailesbury",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":8,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":30,
+            "closeness":0.5659937888198758,
+            "date":null,
+            "deg_rank":9,
+            "degree":1,
+            "id":"These Precedents",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":9,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":18,
+            "closeness":0.9782608695652174,
+            "date":null,
+            "deg_rank":10,
+            "degree":1,
+            "id":"Thomas Archbishop of Canterburie",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":10,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":31,
+            "closeness":0.5659937888198758,
+            "date":null,
+            "deg_rank":11,
+            "degree":1,
+            "id":"Martial Pallas",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":11,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":19,
+            "closeness":0.9782608695652174,
+            "date":null,
+            "deg_rank":12,
+            "degree":1,
+            "id":"King Henry",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":12,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":23,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":13,
+            "degree":1,
+            "id":"Badew Esquire",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":13,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":6,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":14,
+            "degree":1,
+            "id":"Marquisse Buckingham",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":14,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":32,
+            "closeness":0.5659937888198758,
+            "date":null,
+            "deg_rank":15,
+            "degree":1,
+            "id":"Olympus Mount",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":15,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":24,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":17,
+            "degree":1,
+            "id":"John Maynard",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":16,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":1,
+            "closeness":1.7608695652173914,
+            "date":null,
+            "deg_rank":16,
+            "degree":1,
+            "id":"Edward Aysou",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":17,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":20,
+            "closeness":0.9782608695652174,
+            "date":null,
+            "deg_rank":18,
+            "degree":1,
+            "id":"Cod. Vat.",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":18,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":11,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":19,
+            "degree":1,
+            "id":"English Helena",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":1,
+            "betweenness":0.1113423517169615,
+            "bipartite":1,
+            "close_rank":17,
+            "closeness":0.9904891304347827,
+            "date":null,
+            "deg_rank":1,
+            "degree":5,
+            "id":"['Robert Aylett', 'Robert Aylet']",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":19,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":2,
+            "closeness":1.7608695652173914,
+            "date":null,
+            "deg_rank":20,
+            "degree":1,
+            "id":"G. B.",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":20,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":7,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":21,
+            "degree":1,
+            "id":"Jesus Christ",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":21,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":36,
+            "closeness":0.5112201963534362,
+            "date":null,
+            "deg_rank":22,
+            "degree":1,
+            "id":"John Lord Bishop",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":22,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":21,
+            "closeness":0.9782608695652174,
+            "date":null,
+            "deg_rank":23,
+            "degree":1,
+            "id":"A. B.",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":23,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":12,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":24,
+            "degree":1,
+            "id":"John Budden",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":24,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":13,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":25,
+            "degree":1,
+            "id":"Doctor Gentilis",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":25,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":14,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":26,
+            "degree":1,
+            "id":"Francis Earl of Bedford",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":26,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":25,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":27,
+            "degree":1,
+            "id":"Babels Fallen",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":27,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":8,
+            "closeness":1.0565217391304347,
+            "date":null,
+            "deg_rank":28,
+            "degree":1,
+            "id":"A. D.",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":28,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":33,
+            "closeness":0.5659937888198758,
+            "date":null,
+            "deg_rank":29,
+            "degree":1,
+            "id":"Wisest Apollo",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":29,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":15,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":30,
+            "degree":1,
+            "id":"Petrus Aerodius",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":30,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":26,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":31,
+            "degree":1,
+            "id":"Mistress Sarah are",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":31,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":16,
+            "closeness":1.0062111801242235,
+            "date":null,
+            "deg_rank":32,
+            "degree":1,
+            "id":"Robert Duddeley",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":32,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":27,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":3,
+            "degree":2,
+            "id":"R. A.",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":33,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":28,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":33,
+            "degree":1,
+            "id":"John Argal",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":34,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":22,
+            "closeness":0.9782608695652174,
+            "date":null,
+            "deg_rank":34,
+            "degree":1,
+            "id":"God Richard Smyth",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":35,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":34,
+            "closeness":0.5659937888198758,
+            "date":null,
+            "deg_rank":35,
+            "degree":1,
+            "id":"Janus Temple",
+            "title":null
+        },
+        {
+            "author":null,
+            "betw_rank":36,
+            "betweenness":0.0,
+            "bipartite":1,
+            "close_rank":29,
+            "closeness":0.6095317725752508,
+            "date":null,
+            "deg_rank":36,
+            "degree":1,
+            "id":"Richard Cra",
+            "title":null
+        }
+    ]
+}
