@@ -15,6 +15,7 @@ def clean(text):
     """
     clean_text = text.replace('\u017f', 's')
     clean_text = re.sub(r"\bI(?=[AEIOUaeiou])", "J", clean_text)
+    clean_text = re.sub(r"\\sEsq$|\\sEsq.$|\\sKt$|\\sKt.$", "", clean_text)
     clean_text = re.sub(r"VV|Vv|UU|Uu", "W", clean_text)
     clean_text = re.sub(r'vv|uu', 'w', clean_text)
     clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
@@ -88,7 +89,8 @@ def retrieve_names(ma_outputs):
                         last_index = reader.index(group[0])+len(group)
                         name = ' '.join([x[3] for x in group])
                         clean_name = clean(name)
-                        if clean_name == 'Christ Jesus': #Special rule to deal with this common name variation
+                        jesus_var = ["Christ", "Jesu", "Chryst"]
+                        if any(j in clean_name for j in jesus_var): #Special rule to deal with this common name variation
                             all_names[filekey][filetype].append('Jesus Christ')
                         else:
                             name = get_title(clean_name, reader, first_index, last_index)
@@ -105,7 +107,7 @@ def get_fullname(name_index, reader):
     prefixes.extend(["Mris", "Mris.", "Sr", "Sr.", "Prophet", "Honorable", "Honourable", "Master", "Alderman", "Servant", "Worshipful", "Worthy", "Noble", "Cap.", "Captain"])
     stopwords = pycorpora.words.stopwords.en["stopWords"]
     try:
-        if clean(reader[name_index-1][0].title()) not in prefixes and clean(reader[name_index-1][0].lower()) not in stopwords:
+        if clean(reader[name_index-1][0]) != "" and clean(reader[name_index-1][0].title()) not in prefixes and clean(reader[name_index-1][0].lower()) not in stopwords:
             before = reader[name_index-1][0]
         else:
             before = None
@@ -121,12 +123,15 @@ def get_fullname(name_index, reader):
     if before and (before.istitle() or before.isupper()):
         if after and (after.istitle() or after.isupper()):
             name = ' '.join([r[3] for r in reader[name_index-1:name_index+2]])
+            name = clean(name)
             name = get_title(name, reader, name_index-1, name_index+2)
         else:
             name = ' '.join([r[3] for r in reader[name_index-1:name_index+1]])
+            name = clean(name)
             name = get_title(name, reader, name_index-1, name_index+1)
     elif after and (after.istitle() or after.isupper()):
         name = ' '.join([r[3] for r in reader[name_index:name_index+2]])
+        name = clean(name)
         name = get_title(name, reader, name_index, name_index+2)
     else:
         name = None
@@ -135,7 +140,7 @@ def get_fullname(name_index, reader):
 
 def get_title(name, reader, first_index, last_index):
     # "Earle", "Lady", "Viscount"
-    if re.search(r"Lord$|Earl$|Earle$|Duke$|Lady$|Viscount$|Archbishop$", name):
+    if re.search(r"Lord$|Earl$|Earle$|Duke$|Lady$|Viscount$|Archbishop$|Bishop$|Countess$|Countesse$", name):
     # if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"):
         if reader[last_index][3].lower() == "of":
             name = ' '.join([r[3] for r in reader[first_index:last_index+2]])
@@ -185,7 +190,7 @@ def standardize(all_names):
                     surname1 = x[0].split()[-1]
                     surname2 = x[1].split()[-1]
                     sd = editdistance.eval(surname1, surname2)
-                    if sd != 2:
+                    if sd < 2:
                         print(x[0], x[1])
                         add_to_standards(x, standards_list)
     new_all_names = {}
