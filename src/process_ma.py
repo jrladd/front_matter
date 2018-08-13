@@ -326,7 +326,7 @@ if __name__ == "__main__":
     edges = [list(e) for e in edgelist]
 
     with open('data/all_edgelist.csv', 'w') as newcsv:
-        writer = csv.writer(csvfile, delimiter="|")
+        writer = csv.writer(newcsv, delimiter="|")
         writer.writerows(edges)
 
     # B = create_graph(edgelist)
