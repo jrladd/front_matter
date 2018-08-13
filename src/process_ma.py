@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance
 from itertools import groupby, product
@@ -15,7 +15,8 @@ def clean(text):
     """
     clean_text = text.replace('\u017f', 's')
     clean_text = re.sub(r"\bI(?=[AEIOUaeiou])", "J", clean_text)
-    clean_text = re.sub(r"\\sEsq$|\\sEsq.$|\\sKt$|\\sKt.$", "", clean_text)
+    clean_text = re.sub(r"\sEsq$|\sEsq.$|\sKt$|\sKt.$", "", clean_text)
+    clean_text = re.sub(r"\n", " ", clean_text)
     clean_text = re.sub(r"VV|Vv|UU|Uu", "W", clean_text)
     clean_text = re.sub(r'vv|uu', 'w', clean_text)
     clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
