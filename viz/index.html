@@ -80,7 +80,7 @@ var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("test.json", function(error, newgraph) {
+d3.json("all_eebo.json", function(error, newgraph) {
   if (error) throw error;
 
   graph = newgraph;

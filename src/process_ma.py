@@ -323,7 +323,12 @@ if __name__ == "__main__":
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     #print(len(edgelist))
+    edges = [list(e) for e in edgelist]
 
-    B = create_graph(edgelist)
-    add_attributes_to_graph(B)
-    write_json(B, 'all_eebo.json')
+    with open('data/all_edgelist.csv', 'w') as newcsv:
+        writer = csv.writer(csvfile, delimiter="|")
+        writer.writerows(edges)
+
+    # B = create_graph(edgelist)
+    # add_attributes_to_graph(B)
+    # write_json(B, 'all_eebo.json')
