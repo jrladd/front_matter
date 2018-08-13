@@ -16,7 +16,7 @@ def clean(text):
     clean_text = text.replace('\u017f', 's')
     clean_text = re.sub(r"\bI(?=[AEIOUaeiou])", "J", clean_text)
     clean_text = re.sub(r"\sEsq$|\sEsq.$|\sKt$|\sKt.$", "", clean_text)
-    clean_text = re.sub(r"\n", " ", clean_text)
+    # clean_text = re.sub(r"\n", " ", clean_text)
     clean_text = re.sub(r"VV|Vv|UU|Uu", "W", clean_text)
     clean_text = re.sub(r'vv|uu', 'w', clean_text)
     clean_text = re.sub(r"(v|V)(?![AEIOUaeiou])", replV, clean_text)
@@ -60,6 +60,7 @@ def retrieve_names(ma_outputs):
     what *kind* of file (head, signed, body) the noun appeared in.
     """
     stoplist = ["God", "Gods", "India", "Britain", "Britains", "Britaine", "Brittain", "Brittaine", "England", "Englands", "London", "Londons", "Westminster", "Christian", "Christs", "Puritan", "Erastian", "Arminian", "Jerusalem"]
+    jesus_var = ["Christ", "Jesu", "Chryst"]
     all_names = {}
     for c in csvfiles:
         filename = c.split('/')[-1]
@@ -83,14 +84,16 @@ def retrieve_names(ma_outputs):
                         name = get_fullname(index, reader)
                         if name != None:
                             clean_name = clean(name)
-                            # print(clean_name)
-                            all_names[filekey][filetype].append(clean_name)
+                            if any(j in clean_name for j in jesus_var): #Special rule to deal with this common name variation
+                                all_names[filekey][filetype].append('Jesus Christ')
+                            else:
+                                # print(clean_name)
+                                all_names[filekey][filetype].append(clean_name)
                     elif len(group) > 1:
                         first_index = reader.index(group[0])
                         last_index = reader.index(group[0])+len(group)
                         name = ' '.join([x[3] for x in group])
                         clean_name = clean(name)
-                        jesus_var = ["Christ", "Jesu", "Chryst"]
                         if any(j in clean_name for j in jesus_var): #Special rule to deal with this common name variation
                             all_names[filekey][filetype].append('Jesus Christ')
                         else:
