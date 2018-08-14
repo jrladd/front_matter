@@ -7,8 +7,14 @@ line {
 }
 
 circle {
-  stroke: #fff;
+  stroke: darkblue;
   stroke-width: 1.5px;
+}
+
+.person {
+  fill: #FFE0A7;
+  stroke: #FF9A00;
+  stroke-width: 2px;
 }
 
 .node text {
@@ -31,9 +37,11 @@ form, select {
 	</section>
 	<section class="scroll" data-section-name="viz"> -->
 		<div id='tools'>
-			<input type='checkbox' id='jesusCheckbox'>Jesus?</input>
+			<input type='checkbox' id='jesusCheckbox'>Jesus?</input><br>
+      <input type='text' id='searchBox' /><br>
 		</div>
 		<svg></svg>
+    <div class="date-container"></div>
 	<!-- </section> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -66,7 +74,7 @@ svg.append('rect')
 svg.call(d3.zoom().on('zoom', zoomed));
 
 var color = d3.scaleLinear()
-	.domain([1639,1649])
+	.domain([1500,1700])
 	.range([0.1,1]);
 
 var simulation = d3.forceSimulation()
@@ -80,12 +88,11 @@ var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("all_eebo.json", function(error, newgraph) {
+d3.json("all_eebo.json", function(error, origGraph) {
   if (error) throw error;
 
-  graph = newgraph;
-  update(graph);
-  // console.log(graph);
+  graph = origGraph;
+  createDateGraph(origGraph);
 
   	var jesusToggle = d3.select('#jesusCheckbox')
 		.on('change', function() {
@@ -101,6 +108,12 @@ d3.json("all_eebo.json", function(error, newgraph) {
         simulation.alphaTarget(0.1);
 			}
 		});
+
+    var search = d3.select("#searchBox")
+      .on('input', () => {
+        let term = document.getElementById('searchBox').value;
+        searchNodes(term);
+      });
 
 	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
 	var pathDropdown = d3.select('div#tools')
@@ -185,7 +198,29 @@ function project(graph, bipartite) {
 	return {nodes:projectedNodes, links:projectedLinks};
 }
 
-
+const filterDate = (graph,startDate,endDate) => {
+  let newNodes = graph.nodes.filter(d => {
+    if (startDate <= d.date && d.date <= endDate) {
+      return d;
+    }
+  });
+  let newNodeIds = newNodes.map(n => n.id);
+  let newLinks = graph.links.filter(l => {
+    if (newNodeIds.indexOf(l.source) !== -1 || newNodeIds.indexOf(l.target) !== -1) {
+      return l;
+    }
+  });
+  newLinks.forEach(l => {
+    if (newNodeIds.indexOf(l.source) === -1) {
+      newNodeIds.push(l.source)
+    } else if (newNodeIds.indexOf(l.target) === -1) {
+      newNodeIds.push(l.target)
+    }
+  });
+  newNodes = graph.nodes.filter(d => newNodeIds.indexOf(d.id) !== -1);
+  var newGraph = {nodes:newNodes, links:newLinks};
+  return newGraph;
+}
 
 function update(graph) {
   // Make object of all neighboring nodes.
@@ -232,8 +267,9 @@ function update(graph) {
     // Size nodes, making Cavendish and Glanvill largest.
     .attr('r', function(d, i) {if (d.bipartite === 1) {return degreeSize(d.degree);} else {return 8;} })
     // Color by degree centrality calculation in NetworkX.
-	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} else {return 'red';} })
+	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} })
       .attr('class', 'node')
+      .classed('person', d => { if (d.bipartite === 1) {return true; } })
       .attr('id', function(d) { return "n" + d.id.toString(); })
       .on('click', function(d) { // On click, "unstick" nodes
         simulation.alphaTarget(0);
@@ -288,6 +324,226 @@ function update(graph) {
 
   }
 
+}
+
+const searchNodes = term => {
+  node
+    .style("fill", d => {if (d.id.indexOf(term) !== -1) { return 'red';} else {return '#999';} })
+}
+
+function countDateFrequency(origGraph) {
+  // Same as above with dates
+  var frequencies = {};
+  origGraph.nodes.forEach(function(n) {
+    if (n.date) {
+      if (n.date in frequencies) {
+        frequencies[n.date] += 1;
+      } else {
+        frequencies[n.date] = 1;
+      }
+    }
+  });
+  var data = [];
+  for (var x in frequencies) {
+    data.push({
+      'year': x,
+      'count': frequencies[x]
+    });
+  }
+  return data;
+}
+
+function createDateGraph(origGraph) {
+  // Same as above, for date range
+
+  var dateData = countDateFrequency(origGraph);
+  var dateGraph = d3.select('.date-container').append('svg').attr('width', width).attr('height', 70),
+    dateMargin = {
+      top: 0,
+      right: 0,
+      bottom: 10,
+      left: 0
+    },
+    dateWidth = 1000 - dateMargin.left - dateMargin.right,
+    dateHeight = +dateGraph.attr("height") - dateMargin.top - dateMargin.bottom;
+
+  var dateX = d3.scaleBand().range([4, dateWidth - 4]).padding(0.1),
+    dateY = d3.scaleLinear().range([dateHeight, 15]);
+
+  var dateG = dateGraph.append("g");
+
+  dateX.domain(dateData.map(function(d) {
+    return d.year;
+  }));
+  dateY.domain([0, d3.max(dateData, function(d) {
+    return d.count;
+  })]);
+
+  var dBrush = d3.brushX()
+    .extent([
+      [1, 10],
+      [dateWidth, dateHeight]
+    ])
+    .handleSize(0)
+    .on("brush", updateBrush)
+    .on("end", brushed);
+
+  let tens = dateX.domain().filter(d => { return d % 10 === 0;});
+
+  dateG.append("g")
+    .attr("class", "axis axis--x")
+    .attr("transform", "translate(0," + dateHeight + ")")
+    .call(d3.axisBottom(dateX).tickValues(tens).tickSize(0));
+
+  dateG.selectAll(".bar")
+    .data(dateData)
+    .enter().append("rect")
+    .attr("class", "bar")
+    .attr("x", function(d) {
+      return dateX(d.year);
+    })
+    .attr("y", function(d) {
+      return dateY(d.count);
+    })
+    .attr("width", dateX.bandwidth())
+    .attr("height", function(d) {
+      return dateHeight - dateY(d.count);
+    })
+    .attr("fill", d => d3.interpolateBlues(color(d.year)));
+
+  var dBrushSelection = dateG.append("g")
+    .attr("class", "brush")
+    .call(dBrush);
+
+  //create custom handles
+  dBrushSelection.selectAll(".handle-custom")
+    .data([{
+      type: "w"
+    }, {
+      type: "e"
+    }])
+    .enter().append("rect")
+    .attr("class", function(d) {
+      if (d.type === "e") {
+        return "handle-custom handle-e";
+      } else {
+        return "handle-custom handle-w";
+      }
+    })
+    .attr("width", 4)
+    .attr("height", function(d) {
+      return dateHeight / 2;
+    })
+    .attr("rx", 2)
+    .attr("ry", 2)
+    .attr("cursor", "ew-resize")
+    .attr("x", function(d) {
+      if (d.type === "e") {
+        return dateWidth - 6;
+      } else {
+        return 2;
+      }
+    })
+    .attr("y", function(d) {
+      return dateHeight / 4 + 5;
+    });
+
+  //creates brush texts
+  dBrushSelection.selectAll("brush-text")
+    .data([{
+      type: "w",
+      year: 1590
+    }, {
+      type: "e",
+      year: 1610
+    }])
+    .enter().append("text")
+    .attr("class", function(d) {
+      if (d.type === "e") {
+        return "brush-text text-e";
+      } else {
+        return "brush-text text-w";
+      }
+    })
+    .attr("text-anchor", function(d) {
+      if (d.type === "e") {
+        return "end";
+      } else {
+        return "start";
+      }
+    })
+    .attr("x", function(d) {
+      if (d.type === "e") {
+        return dateWidth - 6;
+      } else {
+        return 2;
+      }
+    })
+    .attr("y", 8)
+    .text(function(d) {
+      return d.year;
+    });
+
+  dBrushSelection.call(dBrush.move, [dateX(1655),dateX(1665)]);
+
+  function updateBrush() {
+    var brushPositionX = d3.select(".date-container .selection").node().getBBox().x,
+      brushPositionWidth = d3.select(".date-container .selection").node().getBBox().width;
+    d3.select(".date-container .handle-custom.handle-w").attr("x", function(d) {
+      return brushPositionX - 2;
+    });
+    d3.select(".date-container .handle-custom.handle-e").attr("x", function(d) {
+      return brushPositionX + brushPositionWidth - 2;
+    });
+
+    var s = d3.event.selection || dateX.range();
+    var convertDate = d3.scaleLinear().domain([0, dateWidth-4]).range([1500, 1700]);
+    dateMin = Math.round(convertDate(s[0]));
+    dateMax = Math.round(convertDate(s[1]));
+
+    d3.select(".date-container .brush-text.text-w")
+      .attr("x", function(d) {
+        return brushPositionX - 2;
+      })
+      .attr("text-anchor", function(d) {
+        if (dateMin < 1566 && (dateMax - dateMin) < 11) {
+          return "start";
+      } else if (dateMin >= 1566 && (dateMax - dateMin) < 11) {
+          return "end";
+        } else {
+          return "start";
+        }
+      })
+      .text(function(d) {
+        return dateMin;
+      });
+    d3.select(".date-container .brush-text.text-e")
+      .attr("x", function(d) {
+        return brushPositionX + brushPositionWidth - 2;
+      })
+      .attr("text-anchor", function(d) {
+        if (dateMax > 1700 && (dateMax - dateMin) < 11) {
+          return "end";
+        } else if (dateMax <= 1700 && (dateMax - dateMin) < 11) {
+          return "start";
+        } else {
+          return "end";
+        }
+      })
+      .text(function(d) {
+        return dateMax;
+      });
+  }
+
+  function brushed() {
+    var s = d3.event.selection || dateX.range();
+    var convertDate = d3.scaleLinear().domain([0, dateWidth-4]).range([1500, 1700]);
+    dateMin = Math.round(convertDate(s[0]));
+    dateMax = Math.round(convertDate(s[1]));
+
+    let newGraph = filterDate(graph,dateMin,dateMax);
+    update(newGraph)
+  }
 }
 
 </script>
