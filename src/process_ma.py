@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance
 from itertools import groupby, product
