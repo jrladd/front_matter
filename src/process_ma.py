@@ -282,8 +282,8 @@ def add_attributes_to_graph(B):
 
     print("Getting metadata for all nodes...")
     # Get metadata from EEBO_TCP
-    # conn = sqlite3.connect("data/eebo_tcp_metadata.sqlite")
-    # c = conn.cursor()
+    conn = sqlite3.connect("data/eebo_tcp_metadata.sqlite")
+    c = conn.cursor()
     title = {}
     author = {}
     date = {}
