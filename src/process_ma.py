@@ -270,15 +270,15 @@ def add_attributes_to_graph(B):
     one_degree_people = [k for k,v in dict(deg_people).items() if v == 1]
     print("(Filter out one-degree nodes...)")
     filter_one_degree(one_degree_people, people_nodes)
-    print("Betweenness...")
-    betw=bipartite.betweenness_centrality(B,text_nodes)
-    print("Closeness...")
-    close=bipartite.closeness_centrality(B,text_nodes,normalized=True)
+    # print("Betweenness...")
+    # betw=bipartite.betweenness_centrality(B,text_nodes)
+    # print("Closeness...")
+    # close=bipartite.closeness_centrality(B,text_nodes,normalized=True)
 
     print("Ranking nodes by degree...")
     degree_rank = get_rank(dict(list(dict(deg_people).items())+list(dict(deg_texts).items())), text_nodes)
-    betw_rank = get_rank(betw, text_nodes)
-    close_rank = get_rank(close, text_nodes)
+    # betw_rank = get_rank(betw, text_nodes)
+    # close_rank = get_rank(close, text_nodes)
 
     print("Getting metadata for all nodes...")
     # Get metadata from EEBO_TCP
@@ -317,11 +317,11 @@ def add_attributes_to_graph(B):
     degree = dict(list(dict(deg_people).items())+list(dict(deg_texts).items()))
     # Add all attributes
     nx.set_node_attributes(B, degree , 'degree')
-    nx.set_node_attributes(B, betw, 'betweenness')
-    nx.set_node_attributes(B, close, 'closeness')
+    # nx.set_node_attributes(B, betw, 'betweenness')
+    # nx.set_node_attributes(B, close, 'closeness')
     nx.set_node_attributes(B, degree_rank, 'deg_rank')
-    nx.set_node_attributes(B, betw_rank, 'betw_rank')
-    nx.set_node_attributes(B, close_rank, 'close_rank')
+    # nx.set_node_attributes(B, betw_rank, 'betw_rank')
+    # nx.set_node_attributes(B, close_rank, 'close_rank')
     nx.set_node_attributes(B, title, 'title')
     nx.set_node_attributes(B, author, 'author')
     nx.set_node_attributes(B, date, 'date')
