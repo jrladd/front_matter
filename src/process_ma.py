@@ -288,24 +288,25 @@ def add_attributes_to_graph(B):
     author = {}
     date = {}
     for n in B.nodes():
-        # if n in text_nodes:
-        #     t = (n,)
-        #     c.execute("SELECT title,author,date FROM metadata WHERE key = ?;", t)
-        #     result = c.fetchone()
-        #     if result != None:
-        #         if len(result[0]) > 50:
-        #             title[n] = result[0][:50]+'...'
-        #         else:
-        #             title[n] = result[0]
-        #         author[n] = result[1]
-        #         if result[2] != None:
-        #             date[n] = int(result[2])
-        #         else:
-        #             date[n] = result[2]
-        # else:
-        title[n] = None
-        author[n] = None
-        date[n] = None
+        if n in text_nodes:
+            print("Adding text", n)
+            t = (n,)
+            c.execute("SELECT title,author,date FROM metadata WHERE key = ?;", t)
+            result = c.fetchone()
+            if result != None:
+                if len(result[0]) > 50:
+                    title[n] = result[0][:50]+'...'
+                else:
+                    title[n] = result[0]
+                author[n] = result[1]
+                if result[2] != None:
+                    date[n] = int(result[2])
+                else:
+                    date[n] = result[2]
+        else:
+            title[n] = None
+            author[n] = None
+            date[n] = None
 
     # Create a "subgraph" of just the largest component
     # Then calculate the diameter of the subgraph, just like you did with density.
