@@ -1,6 +1,6 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
-import csv, glob, re, sqlite3, json, pycorpora, editdistance
+import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
 from operator import itemgetter
 from collections import Counter
@@ -227,6 +227,7 @@ def create_graph(edgelist):
     """
     Given edgelist of texts/names, create NetworkX graph object.
     """
+    print("Creating graph object...")
     B = nx.Graph()
     texts = list(set([e[0] for e in edgelist]))
     people = list(set([e[1] for e in edgelist]))
@@ -261,18 +262,25 @@ def add_attributes_to_graph(B):
     """
     Add appropriate attributes to graph created from edgelist.
     """
+    print("Calculating Bipartite Centralities...")
     text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
     people_nodes = set(B) - text_nodes
+    print("Degree...")
     deg_people,deg_texts=bipartite.degrees(B,text_nodes,'weight')
     one_degree_people = [k for k,v in dict(deg_people).items() if v == 1]
+    print("(Filter out one-degree nodes...)")
     filter_one_degree(one_degree_people, people_nodes)
+    print("Betweenness...")
     betw=bipartite.betweenness_centrality(B,text_nodes)
+    print("Closeness...")
     close=bipartite.closeness_centrality(B,text_nodes,normalized=True)
 
+    print("Ranking nodes by degree...")
     degree_rank = get_rank(dict(list(dict(deg_people).items())+list(dict(deg_texts).items())), text_nodes)
     betw_rank = get_rank(betw, text_nodes)
     close_rank = get_rank(close, text_nodes)
 
+    print("Getting metadata for all nodes...")
     # Get metadata from EEBO_TCP
     conn = sqlite3.connect("data/eebo_tcp_metadata.sqlite")
     c = conn.cursor()
@@ -305,6 +313,7 @@ def add_attributes_to_graph(B):
     # largest_component = max(components, key=len)
     # SB = B.subgraph(largest_component)
     # SB.remove_nodes_from(node for node, degree in deg_people.items() if degree <= 1)
+    print("Adding all node attributes...")
     degree = dict(list(dict(deg_people).items())+list(dict(deg_texts).items()))
     # Add all attributes
     nx.set_node_attributes(B, degree , 'degree')
@@ -322,22 +331,31 @@ def write_json(B, filename):
     """
     Given NetworkX graph object and filename, create JSON representation for D3.
     """
+    print("Writing JSON file...")
     new_data = json_graph.node_link_data(B)
     with open('viz/'+filename, 'w') as output:
         json.dump(new_data, output, sort_keys=True, indent=4, separators=(',',':'))
 
 if __name__ == "__main__":
-    csvfiles = glob.glob('data/ma_outputs_all/*')
-    # csvfiles = csvfiles[:50]
-    edgelist = create_edgelist(csvfiles)
+    # First stage: "NER" files and create edgelist
+    # csvfiles = glob.glob('data/ma_outputs_all/*')
+    # # csvfiles = csvfiles[:50]
+    # edgelist = create_edgelist(csvfiles)
+    # # print(edgelist)
+    # #print(len(edgelist))
+    # edges = [list(e) for e in edgelist]
+    #
+    # with open('data/all_edgelist.csv', 'w') as newcsv:
+    #     writer = csv.writer(newcsv, delimiter="|")
+    #     writer.writerows(edges)
+
+    # Second stage: Read edgelist file in from CSV and build graph
+    with open('data/all_edgelist.csv', 'r') as edgecsv:
+        reader = csv.reader(edgecsv, delimiter="|")
+        edgelist = [(r[0], r[1], ast.literal_eval(r[2])) for r in reader]
+
     # print(edgelist)
-    #print(len(edgelist))
-    edges = [list(e) for e in edgelist]
 
-    with open('data/all_edgelist.csv', 'w') as newcsv:
-        writer = csv.writer(newcsv, delimiter="|")
-        writer.writerows(edges)
-
-    # B = create_graph(edgelist)
-    # add_attributes_to_graph(B)
-    # write_json(B, 'all_eebo.json')
+    B = create_graph(edgelist)
+    add_attributes_to_graph(B)
+    write_json(B, 'all_eebo.json')
