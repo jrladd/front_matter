@@ -2,11 +2,12 @@
 <meta charset="utf-8">
 <style>
 
-line {
+.link {
   stroke: #999;
+  fill: none;
 }
 
-circle {
+.node {
   stroke: darkblue;
   stroke-width: 1.5px;
 }
@@ -15,6 +16,14 @@ circle {
   fill: #FFE0A7;
   stroke: #FF9A00;
   stroke-width: 2px;
+}
+
+#arrow {
+  fill: #999;
+}
+
+.transparent {
+  opacity: .2;
 }
 
 .node text {
@@ -38,10 +47,9 @@ form, select {
 	<section class="scroll" data-section-name="viz"> -->
 		<div id='tools'>
 			<input type='checkbox' id='jesusCheckbox'>Jesus?</input><br>
-      <input type='text' id='searchBox' /><br>
+      <input type='text' id='searchBox' />
 		</div>
 		<svg></svg>
-    <div class="date-container"></div>
 	<!-- </section> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -62,13 +70,20 @@ var svg = d3.select("svg")
     .attr("viewBox", "0 0 1400 1000")
     .classed("svg-content-responsive", true);
 
-var width = +svg.attr("width")+1400,
-    height = +svg.attr("height")+1000;
+var width = +svg.attr("width")+1400;
+    height = +svg.attr("height")+1000-70;
+
+const defaultStart = 1570,
+      defaultEnd = 1580;
 
 svg.append('rect')
     .attr('width', '100%')
     .attr('height', '100%')
-    .attr('fill', '#fff');
+    .attr('fill', '#fff')
+    .on("click", () => {
+      node.classed("transparent", false);
+      link.classed("transparent", false);
+    });
 
 // Call zoom for svg container.
 svg.call(d3.zoom().on('zoom', zoomed));
@@ -91,7 +106,7 @@ var node = container.append('g').selectAll('.node');
 d3.json("all_eebo.json", function(error, origGraph) {
   if (error) throw error;
 
-  graph = origGraph;
+  graph = {"nodes": origGraph.nodes, "links": correctDirection(origGraph.links)};
   createDateGraph(origGraph);
 
   	var jesusToggle = d3.select('#jesusCheckbox')
@@ -237,9 +252,32 @@ function update(graph) {
 
   // Linear scale for degree centrality.
   var degreeSize= d3.scaleLog()
-  	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
+  	.domain([d3.min(graph.nodes, function(d) { if (d.bipartite === 1) {return d.degree;} }),d3.max(graph.nodes, function(d) {if (d.bipartite === 1) {return d.degree;} })])
   	.range([5,20]);
 
+  var arrowSize= d3.scaleLinear()
+  	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
+  	.range([40,50]);
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  svg.append("defs").selectAll("marker")
+    .data(graph.links)
+    .enter().append("marker")
+      .attr("id", "arrow")
+      .attr("viewBox", "0 -5 10 10")
+      .attr("refX", 0)
+      .attr("refY", 0)
+      .attr("markerWidth", 6)
+      .attr("markerHeight", 6)
+      .attr("orient", "auto")
+    .append("path")
+      .attr("d", "M0,-5L10,0L0,5");
 
   //var link = container.append("g")
       //.attr("class", "links")
@@ -248,9 +286,10 @@ function update(graph) {
 
   link.exit().remove();
 
-  link = link.enter().append("line")
+  link = link.enter().append("path")
       .attr('class', 'link')
-      .attr('stroke-width', function(l) {return l.weight;})
+      // .attr('stroke-width', function(l) {return l.weight;})
+      .attr("marker-end", "url(#arrow)")
       .merge(link);
 
   //var node = container.append("g")
@@ -294,12 +333,7 @@ function update(graph) {
 	}
 	});
 
-  simulation
-      .nodes(graph.nodes)
-      .on("tick", ticked);
 
-  simulation.force("link")
-      .links(graph.links);
 
   //simulation.alphaTarget(0.1).restart();
       simulation.alpha(1);
@@ -308,10 +342,11 @@ function update(graph) {
 
   function ticked() {
     link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+        // .attr("x1", function(d) { return d.source.x; })
+        // .attr("y1", function(d) { return d.source.y; })
+        // .attr("x2", function(d) { return d.target.x; })
+        // .attr("y2", function(d) { return d.target.y; });
+        .attr("d", linkArc)
 
     node
         .attr("cx", function(d) { return d.x; })
@@ -326,9 +361,35 @@ function update(graph) {
 
 }
 
+function linkArc(d) {
+  var degreeSize= d3.scaleLog()
+  	.domain([d3.min(graph.nodes, function(d) { if (d.bipartite === 1) {return d.degree;} }),d3.max(graph.nodes, function(d) {if (d.bipartite === 1) {return d.degree;} })])
+  	.range([5,20]);
+  let radius = (d) => {
+    if (d.bipartite === 1) {
+      return degreeSize(d.degree);
+    } else {
+      return 8
+    }
+  }
+  var dx = d.target.x - d.source.x,
+      dy = d.target.y - d.source.y,
+      sourceRadius = radius(d.source),
+      targetRadius = radius(d.target),
+      dr = Math.sqrt(dx * dx + dy * dy),
+      gamma = Math.atan2(dy, dx), // Math.atan2 returns the angle in the correct quadrant as opposed to Math.atan
+      sx = d.source.x + (Math.cos(gamma) * sourceRadius),
+      sy = d.source.y + (Math.sin(gamma) * sourceRadius),
+      tx = d.target.x - (Math.cos(gamma) * (targetRadius+5)),
+      ty = d.target.y - (Math.sin(gamma) * (targetRadius+5));
+      // console.log(dr);
+  return "M" + sx + "," + sy + "A" + dr + "," + dr + " 0 0,1 " + tx + "," + ty;
+}
+
 const searchNodes = term => {
   node
-    .style("fill", d => {if (d.id.indexOf(term) !== -1) { return 'red';} else {return '#999';} })
+    .classed("transparent", d => {if (d.id.indexOf(term) === -1) { return true;} });
+  link.classed("transparent", true);
 }
 
 function countDateFrequency(origGraph) {
@@ -357,18 +418,26 @@ function createDateGraph(origGraph) {
   // Same as above, for date range
 
   var dateData = countDateFrequency(origGraph);
-  var dateGraph = d3.select('.date-container').append('svg').attr('width', width).attr('height', 70),
-    dateMargin = {
+  var dateGraph = svg.append('g')
+          .classed("date-container", true)
+          .attr('height', 70)
+          .attr("transform", "translate(0," + height + ")");
+  var dateMargin = {
       top: 0,
       right: 0,
       bottom: 10,
       left: 0
     },
-    dateWidth = 1000 - dateMargin.left - dateMargin.right,
+    dateWidth = width - dateMargin.left - dateMargin.right,
     dateHeight = +dateGraph.attr("height") - dateMargin.top - dateMargin.bottom;
 
   var dateX = d3.scaleBand().range([4, dateWidth - 4]).padding(0.1),
     dateY = d3.scaleLinear().range([dateHeight, 15]);
+
+  dateGraph.append("rect")
+      .attr("width", "100%")
+      .attr("height", "100%")
+      .attr("fill", "#fff");
 
   var dateG = dateGraph.append("g");
 
@@ -484,7 +553,7 @@ function createDateGraph(origGraph) {
       return d.year;
     });
 
-  dBrushSelection.call(dBrush.move, [dateX(1655),dateX(1665)]);
+  dBrushSelection.call(dBrush.move, [dateX(defaultStart),dateX(defaultEnd)]);
 
   function updateBrush() {
     var brushPositionX = d3.select(".date-container .selection").node().getBBox().x,
@@ -544,6 +613,25 @@ function createDateGraph(origGraph) {
     let newGraph = filterDate(graph,dateMin,dateMax);
     update(newGraph)
   }
+}
+
+const correctDirection = (links) => {
+  let newLinks = links.map(l => {
+    if (l.type === "signed") {
+      if (l.target.search(/[0-9]{4,}/) !== -1) {
+        return l;
+      } else {
+        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'type': l.type};
+      }
+    } else {
+      if (l.source.search(/[0-9]{4,}/) !== -1) {
+        return l
+      } else {
+        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'type': l.type};
+      }
+    }
+  });
+  return newLinks;
 }
 
 </script>
