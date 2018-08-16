@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -161,10 +161,11 @@ def create_edgelist(csvfiles):
     """
     all_names = retrieve_names(csvfiles)
     standardized_full = fuzzymatch(all_names)
-    name_by_id = {v:k for k,v in standardized_full.items()}
+    name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
     edgelist = []
-    for textId,namelists_by_type in all_names.items():
-        for type,namelist in namelists_by_type.items():
+    for textId,namelists_by_type in all_names.items(): # Iterate through dict
+        for type,namelist in namelists_by_type.items(): # Subdict has info about type
+            # Create standardized namelists of just the IDs for name groups
             standardized_namelist = []
             for n in namelist:
                 try:
@@ -173,19 +174,14 @@ def create_edgelist(csvfiles):
                     for k in standardized_full.keys():
                         if n in k:
                             standardized_namelist.append(standardized_full[k])
-            # print(standardized_namelist)
+
+            # Count up the IDs to edge weights
             counted = Counter(standardized_namelist)
-            # print(counted)
+
+            #Put it all together into a list of dictionaries
             for c,weight in counted.items():
                 edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
 
-    # all_names = standardize(all_names)
-    # all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
-    # edgelist = []
-    # for source,v in all_names_counted.items():
-    #     for type,y in v.items():
-    #         for target,weight in y.items():
-    #             edgelist.append((source,target,{'type':type,'weight':weight}))
     return edgelist
 
 def fuzzymatch(all_names):
