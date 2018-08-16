@@ -1,12 +1,13 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
 from operator import itemgetter
-from collections import Counter
+from collections import Counter, defaultdict
 import networkx as nx
 from networkx.algorithms import bipartite
 from networkx.readwrite import json_graph
+from fuzzywuzzy import fuzz, process
 
 def clean(text):
     """
@@ -155,21 +156,104 @@ def get_title(name, reader, first_index, last_index):
 def create_edgelist(csvfiles):
     """
     Given a list of MorphAdorner output files, detect all names,
-    count them, and put them into a manageable edgelist form.
+    count them, and put them into a manageable edgelist form: a list of
+    tuples with nameId, textId, type, weight, and name variants
     """
     all_names = retrieve_names(csvfiles)
-    all_names = standardize(all_names)
-    all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
+    standardized_full = fuzzymatch(all_names)
+    name_by_id = {v:k for k,v in standardized_full.items()}
     edgelist = []
-    for source,v in all_names_counted.items():
-        for type,y in v.items():
-            for target,weight in y.items():
-                edgelist.append((source,target,{'type':type,'weight':weight}))
+    for textId,namelists_by_type in all_names.items():
+        for type,namelist in namelists_by_type.items():
+            standardized_namelist = []
+            for n in namelist:
+                try:
+                    standardized_namelist.append(standardized_full[n])
+                except KeyError:
+                    for k in standardized_full.keys():
+                        if n in k:
+                            standardized_namelist.append(standardized_full[k])
+            # print(standardized_namelist)
+            counted = Counter(standardized_namelist)
+            # print(counted)
+            for c,weight in counted.items():
+                edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
+
+    # all_names = standardize(all_names)
+    # all_names_counted = {k:{x:Counter(y) for x,y in v.items()} for k,v in all_names.items()}
+    # edgelist = []
+    # for source,v in all_names_counted.items():
+    #     for type,y in v.items():
+    #         for target,weight in y.items():
+    #             edgelist.append((source,target,{'type':type,'weight':weight}))
     return edgelist
+
+def fuzzymatch(all_names):
+    """
+    Given a dictionary of discovered names, find standard names using fuzzy matching
+    """
+    standardized_full = {} # Our final goal, each name group with unique ID
+    standards_list = []
+    # title = re.compile(r"\s(Lord|Earl|Earle|Duke|Lady|Viscount|Archbishop|Bishop|Countess|Countesse)\s")
+    # Create a flat list of all names
+    all_names_list = []
+    for k,v in all_names.items():
+        for type,l in v.items():
+            all_names_list.extend(l)
+    unique_names_list = list(set(all_names_list)) # Get just unique names for matching
+    # print(unique_names_list)
+    for u in unique_names_list:
+        # Make sure the name isn't in list of possible matches
+        choices = [c for c in unique_names_list if c != u]
+        # Initial matching using sets of words
+        match = process.extractOne(u, choices, scorer = fuzz.token_set_ratio)
+        # print(u, match)
+        if match[1] > 85: # Make match threshold fairly high
+            print(u, match, "POSSIBLE") # Achieve possible match
+            # To deal with first name/last name issues, split up word and possible match
+            # Run fuzzy matching on the word that disagrees
+            word = u.split()
+            possible_match = match[0].split()
+            if len(word) == 2 and len(possible_match) == 2: # Same last name
+                if word[0] == possible_match[0]:
+                    if fuzz.ratio(word[1], possible_match[1]) > 80:
+                        print(u, match, "MATCHED!")
+                        add_to_standards((u, match[0]), standards_list)
+                elif word[1] == possible_match[1]: # Same first name
+                    if fuzz.ratio(word[0], possible_match[0]) > 80:
+                        print(u, match, "MATCHED!")
+                        add_to_standards((u, match[0]), standards_list)
+            # Old code for matching with weird titles, but increasing the original match threshold solves this
+            #     else:
+            #         print(u, match, "MATCHED!")
+            #         add_to_standards((u, match[0]), standards_list)
+            # elif re.search(title, u) and re.search(title, match[0]):
+            #     if fuzz.ratio(word[0], possible_match[0]) > 90:
+            #         print(u, match, "MATCHED!")
+            #         add_to_standards((u, match[0]), standards_list)
+            else:
+                print(u, match, "MATCHED!")
+                add_to_standards((u, match[0]), standards_list)
+
+    # Assign unique IDs to every unique name, with only one ID for each matched group
+    for i,u in enumerate(unique_names_list, start=1000001):
+        if all(u not in namelist for namelist in standards_list) and u != '':
+            standardized_full[u] = i
+        else:
+            for namelist in standards_list:
+                if u in namelist:
+                    standardized_full[str(namelist)] = i
+    return standardized_full
+
+
+    # print(all_names)
+        # else:
+            # print(u, match)
 
 def standardize(all_names):
     """
     Given a dictionary of discovered names, standardize names into unique lists.
+    This is no longer needed since adopting fuzzy matching, above.
     """
     all_names_list = []
     standards_list = []
@@ -339,24 +423,26 @@ def write_json(B, filename):
 
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
-    # csvfiles = glob.glob('data/ma_outputs_all/*')
-    # # csvfiles = csvfiles[:50]
-    # edgelist = create_edgelist(csvfiles)
-    # # print(edgelist)
-    # #print(len(edgelist))
-    # edges = [list(e) for e in edgelist]
+    csvfiles = glob.glob('data/ma_outputs_all/*')
+    # csvfiles = csvfiles[500:1000]
+    edgelist = create_edgelist(csvfiles)
+    # print(edgelist)
+    #print(len(edgelist))
+    # edges = [e for e in edgelist]
     #
-    # with open('data/all_edgelist.csv', 'w') as newcsv:
-    #     writer = csv.writer(newcsv, delimiter="|")
-    #     writer.writerows(edges)
+    with open('data/all_edgelist.csv', 'w') as newcsv:
+        fieldnames = list(edgelist[0].keys())
+        writer = csv.DictWriter(newcsv, delimiter="|",fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(edgelist)
 
     # Second stage: Read edgelist file in from CSV and build graph
-    with open('data/all_edgelist.csv', 'r') as edgecsv:
-        reader = csv.reader(edgecsv, delimiter="|")
-        edgelist = [(r[0], r[1], ast.literal_eval(r[2])) for r in reader]
-
-    # print(edgelist)
-
-    B = create_graph(edgelist)
-    add_attributes_to_graph(B)
-    write_json(B, 'all_eebo.json')
+    # with open('data/all_edgelist.csv', 'r') as edgecsv:
+    #     reader = csv.DictReader(edgecsv, delimiter="|")
+    #     edgelist = [(r['textId'], str(r['nameId']), {'type':r['type'], 'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
+    #
+    # # print(edgelist)
+    #
+    # B = create_graph(edgelist)
+    # add_attributes_to_graph(B)
+    # write_json(B, 'all_eebo.json')
