@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -90,7 +90,7 @@ def retrieve_names(ma_outputs):
                             else:
                                 # print(clean_name)
                                 all_names[filekey][filetype].append(clean_name)
-                    elif len(group) > 1:
+                    elif len(group) > 1 and re.match(r"^[A-Z]\.\s?[A-Z]\.$",' '.join([x[3] for x in group])) == None:
                         first_index = reader.index(group[0])
                         last_index = reader.index(group[0])+len(group)
                         name = ' '.join([x[3] for x in group])
@@ -420,7 +420,7 @@ def write_json(B, filename):
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
     csvfiles = glob.glob('data/ma_outputs_all/*')
-    # csvfiles = csvfiles[500:1000]
+    csvfiles = csvfiles[500:1000]
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     #print(len(edgelist))
