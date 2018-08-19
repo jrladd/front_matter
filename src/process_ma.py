@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -24,7 +24,7 @@ def clean(text):
     clean_text = re.sub(r"\b[A-Z]+\b", titlerepl, clean_text)
     clean_text = re.sub(r"^S\.|\bSaint\b", saintrepl, clean_text) #Normalize Saint abbreviations
     clean_text = clean_text.strip()
-    abbreviations = {"K.":"King", "Tho.": "Thomas", "Apostle": "St.", "Monarch": "King"}
+    abbreviations = {"K.":"King", "Tho.": "Thomas", "Apostle": "St.", "Monarch": "King", "Q.":"Queen"}
     for abbr, expand in abbreviations.items():
         clean_text = clean_text.replace(abbr, expand)
     return clean_text
@@ -90,10 +90,11 @@ def retrieve_names(ma_outputs):
                             else:
                                 # print(clean_name)
                                 all_names[filekey][filetype].append(clean_name)
-                    elif len(group) > 1 and re.match(r"^[A-Z]\.\s?[A-Z]\.$",' '.join([x[3] for x in group])) == None:
+                    elif 1 < len(group) < 5 and re.match(r"^[A-Z]\.\s?[A-Z]\.$",' '.join([x[3] for x in group])) == None: #Filter out just initials and long multi-name strings
                         first_index = reader.index(group[0])
                         last_index = reader.index(group[0])+len(group)
-                        name = ' '.join([x[3] for x in group])
+                        name_tokens = [x[3] for x in group]
+                        name = ' '.join(name_tokens)
                         clean_name = clean(name)
                         if any(j in clean_name for j in jesus_var): #Special rule to deal with this common name variation
                             all_names[filekey][filetype].append('Jesus Christ')
@@ -420,7 +421,7 @@ def write_json(B, filename):
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
     csvfiles = glob.glob('data/ma_outputs_all/*')
-    csvfiles = csvfiles[500:1000]
+    # csvfiles = csvfiles[500:1000]
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     #print(len(edgelist))
