@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -162,26 +162,43 @@ def create_edgelist(csvfiles):
     """
     all_names = retrieve_names(csvfiles)
     standardized_full = fuzzymatch(all_names)
-    name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
-    edgelist = []
+    # name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
+    edgetuples = []
     for textId,namelists_by_type in all_names.items(): # Iterate through dict
         for type,namelist in namelists_by_type.items(): # Subdict has info about type
             # Create standardized namelists of just the IDs for name groups
-            standardized_namelist = []
+            # standardized_namelist = []
             for n in namelist:
-                try:
-                    standardized_namelist.append(standardized_full[n])
-                except KeyError:
-                    for k in standardized_full.keys():
-                        if n in k:
-                            standardized_namelist.append(standardized_full[k])
+                edgetuples.append((n,textId))
+            #     try:
+            #         standardized_namelist.append(standardized_full[n])
+            #     except KeyError:
+            #         for k in standardized_full.keys():
+            #             if n in k:
+            #                 standardized_namelist.append(standardized_full[k])
+            #
+            # # Count up the IDs to edge weights
+            # counted = Counter(standardized_namelist)
+            #
+            # #Put it all together into a list of dictionaries
+            # for c,weight in counted.items():
+            #     edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
+    standardized_edgetuples = []
+    for name, textId in edgetuples:
+        try:
+            nameId = standardized_full[name]
+            name_variants = name
+        except KeyError:
+            for k in standardized_full.keys():
+                if "[" in k and name in ast.literal_eval(k):
+                    nameId = standardized_full[k]
+                    name_variants = k
+        standardized_edgetuples.append((nameId,textId, name_variants))
 
-            # Count up the IDs to edge weights
-            counted = Counter(standardized_namelist)
-
-            #Put it all together into a list of dictionaries
-            for c,weight in counted.items():
-                edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
+    counted_edgetuples = Counter(standardized_edgetuples)
+    edgelist = []
+    for edgetuple, weight in counted_edgetuples.items():
+        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight, 'name_variants': edgetuple[2]})
 
     return edgelist
 
@@ -338,7 +355,7 @@ def filter_one_degree(B):
     # for p in one_degree_people:
     #     if all(n not in common_names for n in p.split()):
     #         print(p)
-    node_subset = [n for n in B.nodes() if int(n) != 1033538]
+    node_subset = [n for n in B.nodes() if n != '1033538']
     subgraph = nx.subgraph(B, node_subset)
     return subgraph
 
@@ -426,10 +443,10 @@ def write_json(B, filename):
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
     csvfiles = glob.glob('data/ma_outputs_all/*')
-    # csvfiles = csvfiles[500:1000]
+    csvfiles = csvfiles[500:1000]
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
-    #print(len(edgelist))
+    # print(len(edgelist))
     # edges = [e for e in edgelist]
     #
     with open('data/all_edgelist.csv', 'w') as newcsv:
