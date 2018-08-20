@@ -330,27 +330,32 @@ def get_rank(dictionary, text_nodes):
     rank1 = {s[0]:sorted_dict1.index(s)+1 for s in sorted_dict1}
     return dict(list(rank0.items())+list(rank1.items()))
 
-def filter_one_degree(one_degree_people, all_people):
-    tokenized_names = [a.split() for a in all_people if "[" not in a]
-    tokenized_names = sum(tokenized_names, [])
-    common_names = [k for k,v in Counter(tokenized_names).items() if v > 1]
-    print(common_names)
-    for p in one_degree_people:
-        if all(n not in common_names for n in p.split()):
-            print(p)
+def filter_one_degree(B):
+    # tokenized_names = [a.split() for a in all_people if "[" not in a]
+    # tokenized_names = sum(tokenized_names, [])
+    # common_names = [k for k,v in Counter(tokenized_names).items() if v > 1]
+    # print(common_names)
+    # for p in one_degree_people:
+    #     if all(n not in common_names for n in p.split()):
+    #         print(p)
+    node_subset = [n for n in B.nodes() if int(n) != 1033538]
+    subgraph = nx.subgraph(B, node_subset)
+    return subgraph
+
 
 def add_attributes_to_graph(B):
     """
     Add appropriate attributes to graph created from edgelist.
     """
+    B = filter_one_degree(one_degree_people, B)
     print("Calculating Bipartite Centralities...")
     text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
     people_nodes = set(B) - text_nodes
     print("Degree...")
     deg_people,deg_texts=bipartite.degrees(B,text_nodes,'weight')
-    one_degree_people = [k for k,v in dict(deg_people).items() if v == 1]
-    print("(Filter out one-degree nodes...)")
-    filter_one_degree(one_degree_people, people_nodes)
+    # one_degree_people = [k for k,v in dict(deg_people).items() if v == 1]
+    # print("(Filter out one-degree nodes...)")
+    # B = filter_one_degree(one_degree_people, B)
     # print("Betweenness...")
     # betw=bipartite.betweenness_centrality(B,text_nodes)
     # print("Closeness...")
