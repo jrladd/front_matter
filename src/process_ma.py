@@ -162,7 +162,7 @@ def create_edgelist(csvfiles):
     """
     all_names = retrieve_names(csvfiles)
     standardized_full = fuzzymatch(all_names)
-    # name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
+    name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
     edgetuples = []
     for textId,namelists_by_type in all_names.items(): # Iterate through dict
         for type,namelist in namelists_by_type.items(): # Subdict has info about type
@@ -187,20 +187,18 @@ def create_edgelist(csvfiles):
     for name, textId in edgetuples:
         try:
             nameId = standardized_full[name]
-            name_variants = name
         except KeyError:
             for k in standardized_full.keys():
                 if "[" in k and name in ast.literal_eval(k):
                     nameId = standardized_full[k]
-                    name_variants = k
-        standardized_edgetuples.append((nameId,textId, name_variants))
+        standardized_edgetuples.append((nameId,textId))
 
     counted_edgetuples = Counter(standardized_edgetuples)
     edgelist = []
     for edgetuple, weight in counted_edgetuples.items():
-        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight, 'name_variants': edgetuple[2]})
+        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight})
 
-    return edgelist
+    return edgelist, name_by_id
 
 def fuzzymatch(all_names):
     """
@@ -360,11 +358,11 @@ def filter_one_degree(B):
     return subgraph
 
 
-def add_attributes_to_graph(B):
+def add_attributes_to_graph(B, name_by_id):
     """
     Add appropriate attributes to graph created from edgelist.
     """
-    B = filter_one_degree(B)
+    # B = filter_one_degree(B)
     print("Calculating Bipartite Centralities...")
     text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
     people_nodes = set(B) - text_nodes
@@ -390,6 +388,7 @@ def add_attributes_to_graph(B):
     title = {}
     author = {}
     date = {}
+    name_variants = {}
     for n in B.nodes():
         if n in text_nodes:
             print("Adding text", n)
@@ -406,10 +405,12 @@ def add_attributes_to_graph(B):
                     date[n] = int(result[2])
                 else:
                     date[n] = result[2]
+            name_variants[n] = None
         else:
             title[n] = None
             author[n] = None
             date[n] = None
+            name_variants[n] = name_by_id[int(n)]
 
     # Create a "subgraph" of just the largest component
     # Then calculate the diameter of the subgraph, just like you did with density.
@@ -429,6 +430,7 @@ def add_attributes_to_graph(B):
     nx.set_node_attributes(B, title, 'title')
     nx.set_node_attributes(B, author, 'author')
     nx.set_node_attributes(B, date, 'date')
+    nx.set_node_attributes(B, name_variants, 'name_variants')
 
 
 def write_json(B, filename):
@@ -442,9 +444,9 @@ def write_json(B, filename):
 
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
-    #csvfiles = glob.glob('data/ma_outputs_all/*')
-    #csvfiles = csvfiles[500:1000]
-    #edgelist = create_edgelist(csvfiles)
+    csvfiles = glob.glob('data/ma_outputs_all/*')
+    csvfiles = csvfiles[500:1000]
+    edgelist, name_by_id = create_edgelist(csvfiles)
     # print(edgelist)
     # print(len(edgelist))
     # edges = [e for e in edgelist]
@@ -456,12 +458,14 @@ if __name__ == "__main__":
     #    writer.writerows(edgelist)
 
     # Second stage: Read edgelist file in from CSV and build graph
-    with open('data/all_edgelist.csv', 'r') as edgecsv:
-        reader = csv.DictReader(edgecsv, delimiter="|")
-        edgelist = [(r['textId'], str(r['nameId']), {'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
-    
+    # with open('data/all_edgelist.csv', 'r') as edgecsv:
+    #     reader = csv.DictReader(edgecsv, delimiter="|")
+    #     edgelist = [(r['textId'], str(r['nameId']), {'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
+
     # print(edgelist)
-    
+    edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight']}] for edge in edgelist]
+    print(edgelist)
+
     B = create_graph(edgelist)
-    add_attributes_to_graph(B)
-    write_json(B, 'all_eebo.json')
+    add_attributes_to_graph(B, name_by_id)
+    write_json(B, 'test.json')

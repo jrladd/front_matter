@@ -103,7 +103,7 @@ var link = container.append('g').selectAll('.link');
 var node = container.append('g').selectAll('.node');
 
 
-d3.json("all_eebo.json", function(error, origGraph) {
+d3.json("test.json", function(error, origGraph) {
   if (error) throw error;
 
   graph = {"nodes": origGraph.nodes, "links": correctDirection(origGraph.links)};
@@ -326,10 +326,10 @@ function update(graph) {
   node.append("title")
       .text(function(d) {
 	 if (d.bipartite === 1) {
-	      return d.id+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
+	      return `${d.id}\nName Variants: ${d.name_variants}\nDegree: ${d.degree} (${d.deg_rank})\nBetweenness Centrality: ${d.betweenness} (${d.betw_rank})\nCloseness Centrality: ${d.closeness} (${d.close_rank})`;
 	 }
 	 else {
-	      return 'Author: '+d.author+'\nTitle: '+d.title+'\nDate: '+d.date+'\nDegree: '+d.degree+' ('+d.deg_rank+')'+'\nBetweenness Centrality: '+d.betweenness+' ('+d.betw_rank+')'+'\nCloseness Centrality: '+d.closeness+' ('+d.close_rank+')';
+	      return `Author: ${d.author}\nTitle: ${d.title}\nDate: ${d.date}\nDegree: ${d.degree} (${d.deg_rank})\nBetweenness Centrality: ${d.betweenness} (${d.betw_rank})\nCloseness Centrality: ${d.closeness} (${d.close_rank})`;
 	}
 	});
 
