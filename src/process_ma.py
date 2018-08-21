@@ -364,7 +364,7 @@ def add_attributes_to_graph(B):
     """
     Add appropriate attributes to graph created from edgelist.
     """
-    B = filter_one_degree(one_degree_people, B)
+    B = filter_one_degree(B)
     print("Calculating Bipartite Centralities...")
     text_nodes = set(n for n,d in B.nodes(data=True) if d['bipartite'] == 0)
     people_nodes = set(B) - text_nodes
@@ -442,26 +442,26 @@ def write_json(B, filename):
 
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
-    csvfiles = glob.glob('data/ma_outputs_all/*')
+    #csvfiles = glob.glob('data/ma_outputs_all/*')
     #csvfiles = csvfiles[500:1000]
-    edgelist = create_edgelist(csvfiles)
+    #edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     # print(len(edgelist))
     # edges = [e for e in edgelist]
     #
-    with open('data/all_edgelist.csv', 'w') as newcsv:
-        fieldnames = list(edgelist[0].keys())
-        writer = csv.DictWriter(newcsv, delimiter="|",fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(edgelist)
+    #with open('data/all_edgelist.csv', 'w') as newcsv:
+    #    fieldnames = list(edgelist[0].keys())
+    #    writer = csv.DictWriter(newcsv, delimiter="|",fieldnames=fieldnames)
+    #    writer.writeheader()
+    #    writer.writerows(edgelist)
 
     # Second stage: Read edgelist file in from CSV and build graph
-    # with open('data/all_edgelist.csv', 'r') as edgecsv:
-    #     reader = csv.DictReader(edgecsv, delimiter="|")
-    #     edgelist = [(r['textId'], str(r['nameId']), {'type':r['type'], 'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
-    #
-    # # print(edgelist)
-    #
-    # B = create_graph(edgelist)
-    # add_attributes_to_graph(B)
-    # write_json(B, 'all_eebo.json')
+    with open('data/all_edgelist.csv', 'r') as edgecsv:
+        reader = csv.DictReader(edgecsv, delimiter="|")
+        edgelist = [(r['textId'], str(r['nameId']), {'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
+    
+    # print(edgelist)
+    
+    B = create_graph(edgelist)
+    add_attributes_to_graph(B)
+    write_json(B, 'all_eebo.json')
