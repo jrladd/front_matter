@@ -1,4 +1,4 @@
-#! /usr/bin/env python3.6
+#! /usr/bin/env python3
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -443,7 +443,7 @@ def write_json(B, filename):
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
     csvfiles = glob.glob('data/ma_outputs_all/*')
-    csvfiles = csvfiles[500:1000]
+    #csvfiles = csvfiles[500:1000]
     edgelist = create_edgelist(csvfiles)
     # print(edgelist)
     # print(len(edgelist))
