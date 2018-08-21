@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -206,7 +206,7 @@ def fuzzymatch(all_names):
     """
     standardized_full = {} # Our final goal, each name group with unique ID
     standards_list = []
-    # title = re.compile(r"\s(Lord|Earl|Earle|Duke|Lady|Viscount|Archbishop|Bishop|Countess|Countesse)\s")
+    title = re.compile(r"\s(Lord|Earl|Earle|Duke|Lady|Viscount|Archbishop|Bishop|Countess|Countesse|D\.)\s")
     # Create a flat list of all names
     all_names_list = []
     for k,v in all_names.items():
@@ -221,31 +221,36 @@ def fuzzymatch(all_names):
         match = process.extractOne(u, choices, scorer = fuzz.token_set_ratio)
         # print(u, match)
         if match[1] > 85: # Make match threshold fairly high
-            print(u, match, "POSSIBLE") # Achieve possible match
             # To deal with first name/last name issues, split up word and possible match
             # Run fuzzy matching on the word that disagrees
             word = u.split()
             possible_match = match[0].split()
-            if len(word) == 2 and len(possible_match) == 2: # Same last name
-                if word[0] == possible_match[0]:
-                    if fuzz.ratio(word[1], possible_match[1]) > 80:
-                        print(u, match, "MATCHED!")
+            if len(word) == 2 and len(possible_match) == 2: # If both strings are two words
+                print(u, match, "POSSIBLE") # Achieve possible match
+                print("CONSIDERED", word, possible_match)
+                if word[0] == possible_match[0]: # Same first name
+                    match_lastname = fuzz.partial_ratio(word[1], possible_match[1])
+                    print(match_lastname)
+                    if match_lastname > 85:
+                        print("MATCHED!")
                         add_to_standards((u, match[0]), standards_list)
-                elif word[1] == possible_match[1]: # Same first name
-                    if fuzz.ratio(word[0], possible_match[0]) > 80:
-                        print(u, match, "MATCHED!")
+                elif word[1] == possible_match[1]: # Same last name
+                    match_firstname = fuzz.partial_ratio(word[0], possible_match[0])
+                    print(match_firstname)
+                    if match_firstname > 85:
+                        print("MATCHED!")
                         add_to_standards((u, match[0]), standards_list)
             # Old code for matching with weird titles, but increasing the original match threshold solves this
-            #     else:
-            #         print(u, match, "MATCHED!")
-            #         add_to_standards((u, match[0]), standards_list)
-            # elif re.search(title, u) and re.search(title, match[0]):
-            #     if fuzz.ratio(word[0], possible_match[0]) > 90:
-            #         print(u, match, "MATCHED!")
-            #         add_to_standards((u, match[0]), standards_list)
+                else:
+                    add_to_standards((u, match[0]), standards_list)
+            elif re.search(title, u) and re.search(title, match[0]):
+                if fuzz.ratio(word[0], possible_match[0]) > 90 and fuzz.ratio(word[-1], possible_match[-1]) > 90:
+                    print(u, match, "MATCHED!")
+                    add_to_standards((u, match[0]), standards_list)
             else:
-                print(u, match, "MATCHED!")
+                # print(u, match, "MATCHED!")
                 add_to_standards((u, match[0]), standards_list)
+            print()
 
     # Assign unique IDs to every unique name, with only one ID for each matched group
     for i,u in enumerate(unique_names_list, start=1000001):
@@ -466,6 +471,6 @@ if __name__ == "__main__":
     edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight']}] for edge in edgelist]
     print(edgelist)
 
-    B = create_graph(edgelist)
-    add_attributes_to_graph(B, name_by_id)
-    write_json(B, 'test.json')
+    # B = create_graph(edgelist)
+    # add_attributes_to_graph(B, name_by_id)
+    # write_json(B, 'test.json')
