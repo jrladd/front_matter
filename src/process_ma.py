@@ -150,9 +150,12 @@ def get_title(name, reader, first_index, last_index):
     # "Earle", "Lady", "Viscount"
     if re.search(r"(Lord|Earl|Duke|Lad(y|ie)|Vis?counte?|Archbishop|Bishop|Countess|Q(u|v)een|Sir|Ma(i|y)or)e?$", name):
     # if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"):
-        if reader[last_index][3].lower() == "of":
-            name = ' '.join([r[3] for r in reader[first_index:last_index+2]])
-        else:
+        try:
+            if reader[last_index][3].lower() == "of":
+                name = ' '.join([r[3] for r in reader[first_index:last_index+2]])
+            else:
+                name = ' '.join([r[3] for r in reader[first_index:last_index+1]])
+        except IndexError:
             name = ' '.join([r[3] for r in reader[first_index:last_index+1]])
     return name
 
