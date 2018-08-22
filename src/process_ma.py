@@ -9,6 +9,8 @@ from networkx.algorithms import bipartite
 from networkx.readwrite import json_graph
 from fuzzywuzzy import fuzz, process
 
+title_regex = re.compile(r"\b(Lord|Earl|Duke|Lad(y|ie)|Vis?counte?|Archbishop|Bishop|Countess|Q(u|v)een|Sir|Ma(i|y)or|St\.?|King)e?\s(of)?\s?")
+
 def clean(text):
     """
     Clean EM texts using basic regex functions. Handles uppercase words,
@@ -24,7 +26,7 @@ def clean(text):
     clean_text = re.sub(r"\b[A-Z]+\b", titlerepl, clean_text)
     clean_text = re.sub(r"^S\.|\bSaint\b", saintrepl, clean_text) #Normalize Saint abbreviations
     clean_text = clean_text.strip()
-    abbreviations = {"K.":"King", "Tho.": "Thomas", "Apostle": "St.", "Monarch": "King", "Q.":"Queen"}
+    abbreviations = {"K.":"King", "Tho.": "Thomas", "Ro.":"Robert", "Apostle": "St.", "Monarch": "King", "Q.":"Queen"}
     for abbr, expand in abbreviations.items():
         clean_text = clean_text.replace(abbr, expand)
     return clean_text
@@ -146,7 +148,7 @@ def get_fullname(name_index, reader):
 
 def get_title(name, reader, first_index, last_index):
     # "Earle", "Lady", "Viscount"
-    if re.search(r"Lord$|Earl$|Earle$|Duke$|Lady$|Viscount$|Archbishop$|Bishop$|Countess$|Countesse$", name):
+    if re.search(r"(Lord|Earl|Duke|Lad(y|ie)|Vis?counte?|Archbishop|Bishop|Countess|Q(u|v)een|Sir|Ma(i|y)or)e?$", name):
     # if name.endswith("Lord") or name.endswith("Earl") or name.endswith("Duke"):
         if reader[last_index][3].lower() == "of":
             name = ' '.join([r[3] for r in reader[first_index:last_index+2]])
@@ -161,7 +163,7 @@ def create_edgelist(csvfiles):
     tuples with nameId, textId, type, weight, and name variants
     """
     all_names = retrieve_names(csvfiles)
-    standardized_full = fuzzymatch(all_names)
+    standardized_full = standardize(all_names)
     name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
     edgetuples = []
     for textId,namelists_by_type in all_names.items(): # Iterate through dict
@@ -266,6 +268,39 @@ def fuzzymatch(all_names):
     # print(all_names)
         # else:
             # print(u, match)
+def match_name(name1, name2, title_regex):
+    """
+    Determine if two early modern names match one another.
+    Combines fuzzy matching with special rules for titles.
+    """
+    threshold = 90 # Ratio threshold for fuzzy match
+    if name1 != name2 and len(name1) > 5 and len(name2) > 5: # Basic character count threshold
+        # Look for titles in both names
+        match1 = re.search(title_regex, name1)
+        match2 = re.search(title_regex, name2)
+        if match1 and match2: # If both names have titles
+            if fuzz.ratio(match1.group(0), match2.group(0)) >= threshold: # See if those titles are the same
+                # Remove titles from name
+                simplename1 = name1.replace(match1.group(0), '')
+                simplename2 = name2.replace(match2.group(0), '')
+                if fuzz.token_sort_ratio(simplename1, simplename2) >= threshold: # See if remaining name meets threshold
+                    print(name1, name2, "MATCH!")
+                    return True
+        # Do the same if only one of the two names has a title in it
+        elif match1:
+            simplename1 = name1.replace(match1.group(0), '')
+            if fuzz.token_sort_ratio(simplename1, name2) >= threshold:
+                print(name1, name2, "MATCH!")
+                return True
+        elif match2:
+            simplename2 = name2.replace(match2.group(0), '')
+            if fuzz.token_sort_ratio(name1, simplename2) >= threshold:
+                print(name1, name2, "MATCH!")
+                return True
+        # For all the rest of the names, see if they simply meet the threshold
+        elif fuzz.token_sort_ratio(name1, name2) >= threshold:
+            print(name1,name2, "MATCH!")
+            return True
 
 def standardize(all_names):
     """
@@ -279,38 +314,42 @@ def standardize(all_names):
             all_names_list.extend(l)
     unique_names_list = list(set(all_names_list))
     # print(unique_names_list)
-    for x in product(unique_names_list, repeat=2):
-        if len(x[0]) > 5 and len(x[1]) > 5:
-            if len(x[0].split()) > 2 or len(x[1].split()) > 2:
-                wd = editdistance.eval(x[0].split(), x[1].split())
-                if wd == 1:
-                    ld = editdistance.eval(x[0].split()[-1], x[1].split()[-1])
-                    if ld <= 2 and (x[0].split()[-1] != x[1].split()[-2] or x[1].split()[-1] != x[0].split()[-2]):
-                        print(x[0], x[1])
-                        add_to_standards(x, standards_list)
+    for names in product(unique_names_list, repeat=2):
+        name1 = names[0]
+        name2 = names[1]
+        if match_name(name1, name2, title_regex):
+            # print(name1,name2,"MATCH!")
+            add_to_standards(names, standards_list)
+        # namelist1 = name1.split()
+        # namelist2 = name2.split()
+        # if len(name1) > 5 and len(name2) > 5:
+        #     if len(namelist1) > 2 or len(namelist2) > 2:
+        #         wd = editdistance.eval(namelist1, namelist2)
+        #         if wd == 1:
+        #             ld = editdistance.eval(namelist1[-1], namelist2[-1])
+        #             if ld <= 2 and (namelist1[-1] != namelist2[-2] or namelist1[-1] != namelist2[-2]):
+        #                 print(name1, name2)
+        #                 add_to_standards(names, standards_list)
+        #
+        #     else:
+        #         ed = editdistance.eval(name1,name2)
+        #         if 0 < ed < 3 and name1[0] == name2[0]:
+        #             surname1 = namelist1[-1]
+        #             surname2 = namelist2[-1]
+        #             sd = editdistance.eval(surname1, surname2)
+        #             if sd < 2:
+        #                 print(name1,name2)
+        #                 add_to_standards(names, standards_list)
 
-            else:
-                ed = editdistance.eval(x[0],x[1])
-                if 0 < ed < 3 and x[0][0] == x[1][0]:
-                    surname1 = x[0].split()[-1]
-                    surname2 = x[1].split()[-1]
-                    sd = editdistance.eval(surname1, surname2)
-                    if sd < 2:
-                        print(x[0], x[1])
-                        add_to_standards(x, standards_list)
-    new_all_names = {}
-    for k,v in all_names.items():
-        new_all_names[k] = {}
-        for text_type, names in v.items():
-            new_all_names[k][text_type] = []
-            for name in names:
-                if all(name not in namelist for namelist in standards_list) and name != '':
-                    new_all_names[k][text_type].append(name)
-                else:
-                    for namelist in standards_list:
-                        if name in namelist:
-                            new_all_names[k][text_type].append(str(namelist))
-    return new_all_names
+    standardized_full = {}
+    for i,u in enumerate(unique_names_list, start=1000001):
+        if all(u not in namelist for namelist in standards_list) and u != '':
+            standardized_full[u] = i
+        else:
+            for namelist in standards_list:
+                if u in namelist:
+                    standardized_full[str(namelist)] = i
+    return standardized_full
 
 
 def add_to_standards(x, standards_list):
