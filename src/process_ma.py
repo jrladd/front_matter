@@ -302,8 +302,21 @@ def match_name(name1, name2, title_regex):
                 return True
         # For all the rest of the names, see if they simply meet the threshold
         elif fuzz.token_sort_ratio(name1, name2) >= threshold:
-            print(name1,name2, "MATCH!")
-            return True
+            first_token1 = name1.split()[0]
+            first_token2 = name2.split()[0]
+            remainder1 = " ".join(name1.split()[1:])
+            remainder2 = " ".join(name2.split()[1:])
+            if first_token1 == first_token2: # If the first name is the same
+                # print("CONSIDER:",name1,name2)
+                if editdistance.eval(remainder1, remainder2) < 3: # Check how close the rest of the name is
+                    print(name1, name2, "MATCH!")
+                    return True
+                else:
+                    # print("NO MATCH:", name1, name2, editdistance.eval(remainder1, remainder2))
+                    return False
+            else:
+                print(name1, name2, "MATCH!")
+                return True
 
 def standardize(all_names):
     """
@@ -511,7 +524,7 @@ if __name__ == "__main__":
 
     # print(edgelist)
     edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight']}] for edge in edgelist]
-    print(edgelist)
+    # print(edgelist)
 
     B = create_graph(edgelist)
     add_attributes_to_graph(B, name_by_id)
