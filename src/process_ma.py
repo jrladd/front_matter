@@ -336,26 +336,8 @@ def standardize(all_names):
         if match_name(name1, name2, title_regex):
             # print(name1,name2,"MATCH!")
             add_to_standards(names, standards_list)
-        # namelist1 = name1.split()
-        # namelist2 = name2.split()
-        # if len(name1) > 5 and len(name2) > 5:
-        #     if len(namelist1) > 2 or len(namelist2) > 2:
-        #         wd = editdistance.eval(namelist1, namelist2)
-        #         if wd == 1:
-        #             ld = editdistance.eval(namelist1[-1], namelist2[-1])
-        #             if ld <= 2 and (namelist1[-1] != namelist2[-2] or namelist1[-1] != namelist2[-2]):
-        #                 print(name1, name2)
-        #                 add_to_standards(names, standards_list)
-        #
-        #     else:
-        #         ed = editdistance.eval(name1,name2)
-        #         if 0 < ed < 3 and name1[0] == name2[0]:
-        #             surname1 = namelist1[-1]
-        #             surname2 = namelist2[-1]
-        #             sd = editdistance.eval(surname1, surname2)
-        #             if sd < 2:
-        #                 print(name1,name2)
-        #                 add_to_standards(names, standards_list)
+
+    print(standards_list)
 
     standardized_full = {}
     for i,u in enumerate(unique_names_list, start=1000001):
@@ -375,9 +357,11 @@ def add_to_standards(x, standards_list):
     else:
         for s in standards_list:
             if x[0] in s and x[1] not in s:
-                s.append(x[1])
+                if all(match_name(x[1], y, title_regex) for y in s):
+                    s.append(x[1])
             elif x[1] in s and x[0] not in s:
-                s.append(x[0])
+                if all(match_name(x[0], y, title_regex) for y in s):
+                    s.append(x[0])
 
 def create_graph(edgelist):
     """
