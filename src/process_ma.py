@@ -169,12 +169,14 @@ def create_edgelist(csvfiles):
     standardized_full = standardize(all_names)
     name_by_id = {v:k for k,v in standardized_full.items()} # Will need standardized dictionary to be reversed
     edgetuples = []
+    typedict = defaultdict(list)
     for textId,namelists_by_type in all_names.items(): # Iterate through dict
         for type,namelist in namelists_by_type.items(): # Subdict has info about type
             # Create standardized namelists of just the IDs for name groups
             # standardized_namelist = []
             for n in namelist:
                 edgetuples.append((n,textId))
+                typedict[(n,textId)].append(type)
             #     try:
             #         standardized_namelist.append(standardized_full[n])
             #     except KeyError:
@@ -190,6 +192,7 @@ def create_edgelist(csvfiles):
             #     edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
     standardized_edgetuples = []
     namedict = defaultdict(list)
+    standardized_typedict = defaultdict(list)
     for name, textId in edgetuples:
         try:
             nameId = standardized_full[name]
@@ -199,11 +202,12 @@ def create_edgelist(csvfiles):
                     nameId = standardized_full[k]
         standardized_edgetuples.append((nameId,textId))
         namedict[(nameId,textId)].append(name)
+        standardized_typedict[(nameId,textId)].extend(typedict[(name,textId)])
 
     counted_edgetuples = Counter(standardized_edgetuples)
     edgelist = []
     for edgetuple, weight in counted_edgetuples.items():
-        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight, 'original_names': namedict[(edgetuple[0],edgetuple[1])]})
+        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight, 'original_names': namedict[(edgetuple[0],edgetuple[1])], 'types': list(set(standardized_typedict[(edgetuple[0], edgetuple[1])]))})
 
     return edgelist, name_by_id
 
@@ -288,7 +292,7 @@ def match_name(name1, name2, title_regex):
                 # Remove titles from name
                 simplename1 = name1.replace(match1.group(0), '')
                 simplename2 = name2.replace(match2.group(0), '')
-                if fuzz.token_sort_ratio(simplename1, simplename2) >= threshold: # See if remaining name meets threshold
+                if fuzz.token_sort_ratio(simplename1, simplename2) >= threshold-5: # See if remaining name meets threshold
                     print(name1, name2, "MATCH!")
                     return True
         # Do the same if only one of the two names has a title in it
@@ -509,7 +513,7 @@ if __name__ == "__main__":
     #     edgelist = [(r['textId'], str(r['nameId']), {'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
 
     # print(edgelist)
-    edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight'], 'original_names': edge['original_names']}] for edge in edgelist]
+    edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight'], 'original_names': edge['original_names'], 'types': edge['types']}] for edge in edgelist]
     print(edgelist)
 
     # B = create_graph(edgelist)
