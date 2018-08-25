@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python3.6
 
 import csv, glob, re, sqlite3, json, pycorpora, editdistance, ast
 from itertools import groupby, product
@@ -189,6 +189,7 @@ def create_edgelist(csvfiles):
             # for c,weight in counted.items():
             #     edgelist.append({'nameId': c, 'textId': textId, 'type': type, 'weight': weight, 'name_variants': name_by_id[c]})
     standardized_edgetuples = []
+    namedict = defaultdict(list)
     for name, textId in edgetuples:
         try:
             nameId = standardized_full[name]
@@ -197,11 +198,12 @@ def create_edgelist(csvfiles):
                 if "[" in k and name in ast.literal_eval(k):
                     nameId = standardized_full[k]
         standardized_edgetuples.append((nameId,textId))
+        namedict[(nameId,textId)].append(name)
 
     counted_edgetuples = Counter(standardized_edgetuples)
     edgelist = []
     for edgetuple, weight in counted_edgetuples.items():
-        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight})
+        edgelist.append({'nameId': edgetuple[0], 'textId': edgetuple[1], 'weight': weight, 'original_names': namedict[(edgetuple[0],edgetuple[1])]})
 
     return edgelist, name_by_id
 
@@ -489,17 +491,17 @@ def write_json(B, filename):
 if __name__ == "__main__":
     # First stage: "NER" files and create edgelist
     csvfiles = glob.glob('data/ma_outputs_all/*')
-    # csvfiles = csvfiles[500:1000]
+    csvfiles = csvfiles[500:1000]
     edgelist, name_by_id = create_edgelist(csvfiles)
     # print(edgelist)
     # print(len(edgelist))
     # edges = [e for e in edgelist]
     #
-    with open('data/all_edgelist.csv', 'w') as newcsv:
-       fieldnames = list(edgelist[0].keys())
-       writer = csv.DictWriter(newcsv, delimiter="|",fieldnames=fieldnames)
-       writer.writeheader()
-       writer.writerows(edgelist)
+    # with open('data/all_edgelist.csv', 'w') as newcsv:
+    #    fieldnames = list(edgelist[0].keys())
+    #    writer = csv.DictWriter(newcsv, delimiter="|",fieldnames=fieldnames)
+    #    writer.writeheader()
+    #    writer.writerows(edgelist)
 
     # Second stage: Read edgelist file in from CSV and build graph
     # with open('data/all_edgelist.csv', 'r') as edgecsv:
@@ -507,9 +509,9 @@ if __name__ == "__main__":
     #     edgelist = [(r['textId'], str(r['nameId']), {'weight':int(r['weight']), 'name_variants':r['name_variants']}) for r in reader]
 
     # print(edgelist)
-    edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight']}] for edge in edgelist]
-    # print(edgelist)
+    edgelist = [[edge['textId'],str(edge['nameId']), {'weight': edge['weight'], 'original_names': edge['original_names']}] for edge in edgelist]
+    print(edgelist)
 
-    B = create_graph(edgelist)
-    add_attributes_to_graph(B, name_by_id)
-    write_json(B, 'all_eebo.json')
+    # B = create_graph(edgelist)
+    # add_attributes_to_graph(B, name_by_id)
+    # write_json(B, 'all_eebo.json')
