@@ -92,6 +92,8 @@ svg.append('rect')
 // Call zoom for svg container.
 svg.call(d3.zoom().on('zoom', zoomed));
 
+
+
 var color = d3.scaleLinear()
 	.domain([1500,1700])
 	.range([0.1,1]);
@@ -99,7 +101,7 @@ var color = d3.scaleLinear()
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }).iterations(2))
     .force("charge", d3.forceManyBody().strength([-100]).distanceMax([350]))
-    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("center", d3.forceCenter(width / 3, height / 2))
     .force("collide", d3.forceCollide().iterations(0));
 
 var container = svg.append('g');
@@ -217,7 +219,30 @@ function project(thisGraph, bipartite) {
 	return {nodes:projectedNodes, links:projectedLinks};
 }
 
-const createNxGraph = (projectedGraph) => {
+const createNxGraph = (projectedGraph, count, type) => {
+  var offset = ((height/2) * (count-1))
+  var sidePanel = svg.append('g')
+          .classed("panel-container", true)
+          .attr('width', width/3)
+          .attr('height', height/4)
+          .attr("transform", "translate(" + width * (2/3) +"," + offset + ")");
+  var panelMargin = {
+      top: 0,
+      right: 0,
+      bottom: 10,
+      left: 0
+    }
+    panelWidth = width/3 - panelMargin.left - panelMargin.right,
+    panelHeight = +sidePanel.attr("height") - panelMargin.top - panelMargin.bottom;
+
+  var panelX = d3.scaleLinear().range([4, panelWidth - 4]),
+    panelY = d3.scaleLinear().range([panelHeight, 15]);
+
+  sidePanel.append("rect")
+      .attr("width", "100%")
+      .attr("height", height/2)
+      .attr("fill", "#fff");
+
   let nodes = projectedGraph.nodes.map(n => { return [n.id, n]; });
   let links = projectedGraph.links.map(l => { return [l.source, l.target, {'weight': l.weight, 'types': l.types, 'original_names': l.original_names}]})
   let G = new jsnx.Graph()
@@ -239,8 +264,68 @@ const createNxGraph = (projectedGraph) => {
   let top10Degree = G.nodes(true).sort((a,b) => d3.descending(a[1].local_degree, b[1].local_degree));
   console.log(top10Degree.slice(0,10));
 
+  let data = Object.values(degree._stringValues);
+  panelX.domain(d3.extent(data));
+
+  let bins = d3.histogram()
+    .domain(panelX.domain())
+    // .thresholds(20)
+  (data)
+
+  panelY.domain([0, d3.max(bins, d => d.length)])
+
+  const bar = sidePanel.append("g")
+      .attr("fill", d3.interpolateBlues(color(1575)))
+      .classed("node", true)
+      .classed("person", () => { if (type === 'people') {return true}; })
+    .selectAll("rect")
+    .data(bins)
+    .enter().append("rect")
+      .attr("x", d => panelX(d.x0) + 1)
+      .attr("width", d => Math.max(0, panelX(d.x1) - panelX(d.x0) - 1))
+      .attr("y", d => panelY(d.length))
+      .attr("height", d => panelY(0) - panelY(d.length));
+
+    xAxis = g => g
+      .attr("transform", `translate(0,${height/4 - panelMargin.bottom})`)
+      .call(d3.axisBottom(panelX).tickSizeOuter(0))
+      .call(g => g.append("text")
+          .attr("x", width - panelMargin.right)
+          .attr("y", -4)
+          .attr("fill", "#000")
+          .attr("font-weight", "bold")
+          .attr("text-anchor", "end")
+          .text(data.x));
+
+    yAxis = g => g
+    .attr("transform", `translate(${panelMargin.left},0)`)
+    .call(d3.axisLeft(panelY))
+    .call(g => g.select(".domain").remove())
+    .call(g => g.select(".tick:last-of-type text").clone()
+        .attr("x", 4)
+        .attr("text-anchor", "start")
+        .attr("font-weight", "bold")
+        .text(data.y));
+
+    sidePanel.append("g")
+      .call(xAxis);
+
+    sidePanel.append("g")
+        .call(yAxis);
+
+    sidePanel.append("g")
+      // .append("text").text("Top Nodes by Degree:")
+    .selectAll("text")
+      .data(top10Degree.slice(0,10))
+      .enter().append("text")
+        .text(d => {if (type === 'people') { return `Title: ${d[1].name_variants}; Degree: ${d[1].local_degree}`; } else { return `Name: ${d[1].title}; Degree: ${d[1].local_degree}`} })
+        .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*20})`})
+        .style("cursor", "pointer")
+        .on("mouseover", function() { d3.select(this).attr("fill", "red") })
+        .on("mouseout", function() { d3.select(this).attr("fill", "black") });
 
 }
+
 const filterDate = (graph,startDate,endDate) => {
   let newNodes = graph.nodes.filter(d => {
     if (startDate <= d.date && d.date <= endDate) {
@@ -641,8 +726,8 @@ function createDateGraph(origGraph) {
     newGraph = filterDate(graph,dateMin,dateMax);
     projectedPeopleGraph = project(newGraph, 1);
     projectedTextGraph = project(newGraph, 0);
-    createNxGraph(projectedPeopleGraph);
-    createNxGraph(projectedTextGraph);
+    createNxGraph(projectedPeopleGraph, 1, "people");
+    createNxGraph(projectedTextGraph, 2, "texts");
     update(newGraph);
   }
 }
