@@ -53,7 +53,8 @@ form, select {
 	<!-- </section> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="jsnetworkx.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> -->
 <!-- <script src="jquery.scrollify.js"></script> -->
 <script>
 // $(function() {
@@ -64,7 +65,10 @@ form, select {
 // 	});
 // });
 
-var graph;
+var graph,
+    newGraph,
+    projectedPeopleGraph,
+    projectedTextGraph;
 var svg = d3.select("svg")
     .attr("preserveAspectRatio", "xMinYMin meet")
     .attr("viewBox", "0 0 1400 1000")
@@ -137,18 +141,18 @@ d3.json("all_eebo.json", function(error, origGraph) {
 			var val = this.value;
 			if (val == "Bipartite (Texts and People)") {
 				d3.select('#jesusCheckbox').attr('disabled', null);
-				update(graph);
+				update(newGraph);
         simulation.alphaTarget(0.1);
 			};
 			if (val == "People Only") {
 				d3.select('#jesusCheckbox').attr('disabled', 'true');
-				var projectedPeopleGraph = project(graph, 1);
+				// var projectedPeopleGraph = project(newGraph, 1);
 				update(projectedPeopleGraph);
         simulation.alphaTarget(0.1);
 			};
 			if (val == "Texts Only") {
 				d3.select('#jesusCheckbox').attr('disabled', 'true');
-				var projectedTextGraph = project(graph, 0);
+				// var projectedTextGraph = project(newGraph, 0);
 				update(projectedTextGraph);
         simulation.alphaTarget(0.1);
 			};
@@ -183,28 +187,28 @@ function zoomed() {
 	  container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
 }
 
-function project(graph, bipartite) {
-	var projectedNodes = graph.nodes.filter( function(d) {return d.bipartite === bipartite;});
+function project(thisGraph, bipartite) {
+	var projectedNodes = thisGraph.nodes.filter( function(d) {return d.bipartite === bipartite;});
 	var nodeObject = {}
 	projectedNodes.forEach( function(d) { nodeObject[d.id] = 1; });
 	var projectedLinks = [];
-	graph.links.forEach(function(l){
-		if (l.source.id in nodeObject) {
-			graph.links.forEach(function(m) {
-				if (m.source.id == l.target.id && m.target.id in nodeObject) {
+	thisGraph.links.forEach(function(l){
+		if (l.source in nodeObject) {
+			thisGraph.links.forEach(function(m) {
+				if (m.source == l.target && m.target in nodeObject) {
 					projectedLinks.push({source:l.source, target:m.target, weight:1});
 				}
-				else if (m.target.id == l.target.id && m.source.id in nodeObject) {
+				else if (m.target == l.target && m.source in nodeObject) {
 					projectedLinks.push({source:l.source, target:m.source, weight:1});
 				}
 			});
 		}
-		if (l.target.id in nodeObject) {
-			graph.links.forEach(function(m) {
-				if (m.source.id == l.source.id && m.target.id in nodeObject) {
+		if (l.target in nodeObject) {
+			thisGraph.links.forEach(function(m) {
+				if (m.source == l.source && m.target in nodeObject) {
 					projectedLinks.push({source:l.target, target:m.target, weight:1});
 				}
-				else if (m.target.id == l.target.id && m.source.id in nodeObject) {
+				else if (m.target == l.target && m.source in nodeObject) {
 					projectedLinks.push({source:l.target, target:m.source, weight:1});
 				}
 			});
@@ -213,6 +217,30 @@ function project(graph, bipartite) {
 	return {nodes:projectedNodes, links:projectedLinks};
 }
 
+const createNxGraph = (projectedGraph) => {
+  let nodes = projectedGraph.nodes.map(n => { return [n.id, n]; });
+  let links = projectedGraph.links.map(l => { return [l.source, l.target, {'weight': l.weight, 'types': l.types, 'original_names': l.original_names}]})
+  let G = new jsnx.Graph()
+  G.addNodesFrom(nodes);
+  G.addEdgesFrom(links);
+  // let degree = [];
+  let degree = G.degree();
+  jsnx.genBetweennessCentrality(G).then(betweenness => {
+    jsnx.setNodeAttributes(G, 'local_betweenness', betweenness);
+    let top10Betweenness = G.nodes(true).sort((a,b) => d3.descending(a[1].local_betweenness, b[1].local_betweenness));
+    console.log(top10Betweenness.slice(0,10));
+  });
+  jsnx.genEigenvectorCentrality(G).then(eigenvector => {
+    jsnx.setNodeAttributes(G, 'local_eigenvector', eigenvector);
+    let top10Eigenvector = G.nodes(true).sort((a,b) => d3.descending(a[1].local_eigenvector, b[1].local_eigenvector));
+    console.log(top10Eigenvector.slice(0,10));
+  });
+  jsnx.setNodeAttributes(G, 'local_degree', degree);
+  let top10Degree = G.nodes(true).sort((a,b) => d3.descending(a[1].local_degree, b[1].local_degree));
+  console.log(top10Degree.slice(0,10));
+
+
+}
 const filterDate = (graph,startDate,endDate) => {
   let newNodes = graph.nodes.filter(d => {
     if (startDate <= d.date && d.date <= endDate) {
@@ -326,10 +354,10 @@ function update(graph) {
   node.append("title")
       .text(function(d) {
 	 if (d.bipartite === 1) {
-	      return `${d.id}\nName Variants: ${d.name_variants}\nDegree: ${d.degree} (${d.deg_rank})\nBetweenness Centrality: ${d.betweenness} (${d.betw_rank})\nCloseness Centrality: ${d.closeness} (${d.close_rank})`;
+	      return `${d.id}\nName Variants: ${d.name_variants}\nDegree: ${d.degree} (${d.deg_rank})`;
 	 }
 	 else {
-	      return `Author: ${d.author}\nTitle: ${d.title}\nDate: ${d.date}\nDegree: ${d.degree} (${d.deg_rank})\nBetweenness Centrality: ${d.betweenness} (${d.betw_rank})\nCloseness Centrality: ${d.closeness} (${d.close_rank})`;
+	      return `Author: ${d.author}\nTitle: ${d.title}\nDate: ${d.date}\nDegree: ${d.degree} (${d.deg_rank})`;
 	}
 	});
 
@@ -388,7 +416,7 @@ function linkArc(d) {
 
 const searchNodes = term => {
   node
-    .classed("transparent", d => {if (d.id.indexOf(term) === -1) { return true;} });
+    .classed("transparent", d => {if (d.name_variants.indexOf(term) === -1) { return true;} });
   link.classed("transparent", true);
 }
 
@@ -610,8 +638,12 @@ function createDateGraph(origGraph) {
     dateMin = Math.round(convertDate(s[0]));
     dateMax = Math.round(convertDate(s[1]));
 
-    let newGraph = filterDate(graph,dateMin,dateMax);
-    update(newGraph)
+    newGraph = filterDate(graph,dateMin,dateMax);
+    projectedPeopleGraph = project(newGraph, 1);
+    projectedTextGraph = project(newGraph, 0);
+    createNxGraph(projectedPeopleGraph);
+    createNxGraph(projectedTextGraph);
+    update(newGraph);
   }
 }
 
