@@ -30,6 +30,11 @@
   pointer-events: none;
   font: 10px sans-serif;
 }
+
+.graph-text {
+  cursor: pointer;
+  font: 10px sans-serif;
+}
 #tools div {
   display: inline;
 }
@@ -76,8 +81,8 @@ var svg = d3.select("svg")
     .attr("viewBox", "0 0 1400 1000")
     .classed("svg-content-responsive", true);
 
-var width = +svg.attr("width")+1400;
-    height = +svg.attr("height")+1000-70;
+var width = +svg.attr("width")+1000;
+    height = +svg.attr("height")+700-70;
 
 const defaultStart = 1570,
       defaultEnd = 1580;
@@ -115,12 +120,14 @@ dispatch.on("load.network", function() {
       .force("charge", d3.forceManyBody().strength([-100]).distanceMax([350]))
       .force("center", d3.forceCenter(width / 3, height / 2))
       .force("collide", d3.forceCollide().iterations(0));
-  // Call zoom for svg container.
-  svg.call(d3.zoom().on('zoom', zoomed));
+
 
   var container = svg.append('g');
   var link = container.append('g').selectAll('.link');
   var node = container.append('g').selectAll('.node');
+
+  // Call zoom for svg container.
+  svg.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
 
   dispatch.on("update.network", function(graph, centralityType) {
     // Make object of all neighboring nodes.
@@ -259,12 +266,9 @@ dispatch.on("load.peopleGraph", function() {
       .attr("fill", "#fff");
 
 
-
-  var type = "people";
-
   dispatch.on("update.peopleGraph", function(graph, centralityType) {
     let projectedGraph = project(graph, 1);
-    // let centralityType = "betweenness";
+
     createNxGraph(projectedGraph, centralityType).then(sortedData => {
 
       let data = sortedData.map(s => s[1][`local_${centralityType}`]);
@@ -336,8 +340,8 @@ dispatch.on("load.peopleGraph", function() {
               return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_eigenvector}`;
             }
           })
-          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*20})`})
-          .style("cursor", "pointer")
+          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
+          .classed("graph-text", true)
           .on("mouseover", function(d) {
             d3.select(this).attr("fill", "orange")
             d3.selectAll("circle.node").classed("transparent", true);
@@ -366,11 +370,8 @@ dispatch.on("load.textGraph", function() {
       .attr("height", height/2)
       .attr("fill", "#fff");
 
-  var type = "text";
-
   dispatch.on("update.textGraph", function(graph, centralityType) {
     let projectedGraph = project(graph, 0);
-    // let centralityType = "betweenness";
     createNxGraph(projectedGraph, centralityType).then(sortedData => {
 
       let data = sortedData.map(s => s[1][`local_${centralityType}`]);
@@ -443,8 +444,8 @@ dispatch.on("load.textGraph", function() {
               return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_eigenvector}`;
             }
           })
-          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*20})`})
-          .style("cursor", "pointer")
+          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
+          .classed("graph-text", true)
           .on("mouseover", function(d) {
             d3.select(this).attr("fill", d3.interpolateBlues(color(1575)) );
             d3.selectAll("circle.node").classed("transparent", true);
@@ -544,7 +545,7 @@ function dragended(d) {
 
 // Zooming function translates the size of the svg container.
 function zoomed() {
-	  container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
+
 }
 
 function project(thisGraph, bipartite) {
