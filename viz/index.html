@@ -46,7 +46,6 @@ form, select {
 	</section>
 	<section class="scroll" data-section-name="viz"> -->
 		<div id='tools'>
-			<input type='checkbox' id='jesusCheckbox'>Jesus?</input><br>
       <input type='text' id='searchBox' />
 		</div>
 		<svg></svg>
@@ -339,8 +338,16 @@ dispatch.on("load.peopleGraph", function() {
           })
           .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*20})`})
           .style("cursor", "pointer")
-          .on("mouseover", function() { d3.select(this).attr("fill", "red") })
-          .on("mouseout", function() { d3.select(this).attr("fill", "black") });
+          .on("mouseover", function(d) {
+            d3.select(this).attr("fill", "orange")
+            d3.selectAll("circle.node").classed("transparent", true);
+            d3.select(`#n${d[0]}`).classed("transparent", false);
+          })
+          .on("mouseout", function() {
+            d3.select(this).attr("fill", "black")
+            d3.selectAll("circle.node").classed("transparent", false);
+            d3.selectAll(".link").classed("transparent", false);
+          });
     })
   })
 })
@@ -438,16 +445,20 @@ dispatch.on("load.textGraph", function() {
           })
           .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*20})`})
           .style("cursor", "pointer")
-          .on("mouseover", function() { d3.select(this).attr("fill", "red") })
-          .on("mouseout", function() { d3.select(this).attr("fill", "black") });
+          .on("mouseover", function(d) {
+            d3.select(this).attr("fill", d3.interpolateBlues(color(1575)) );
+            d3.selectAll("circle.node").classed("transparent", true);
+            d3.select(`#n${d[0]}`).classed("transparent", false);
+          })
+          .on("mouseout", function() {
+            d3.select(this).attr("fill", "black");
+            d3.selectAll("circle.node").classed("transparent", false);
+          });
     })
 
   })
 })
 
-
-
-// var offset = ((height/2) * (count-1))
 
 d3.json("all_eebo.json", function(error, origGraph) {
   if (error) throw error;
@@ -456,21 +467,6 @@ d3.json("all_eebo.json", function(error, origGraph) {
 
   graph = {"nodes": origGraph.nodes, "links": correctDirection(origGraph.links)};
   createDateGraph(origGraph);
-
-  	var jesusToggle = d3.select('#jesusCheckbox')
-		.on('change', function() {
-			if (this.checked) {
-				var newLinks = graph.links.filter(function(l) {return l.source.id != 'Jesus Christ' && l.target.id != 'Jesus Christ';});
-				var newNodes = graph.nodes.filter(function(d) {return d.id != 'Jesus Christ';});
-				var currentGraph = {nodes:newNodes, links:newLinks};
-				update(currentGraph);
-        simulation.alphaTarget(0.1);
-			}
-			else {
-				update(graph);
-        simulation.alphaTarget(0.1);
-			}
-		});
 
     var search = d3.select("#searchBox")
       .on('input', () => {
@@ -484,16 +480,13 @@ d3.json("all_eebo.json", function(error, origGraph) {
 		.on('change', function() {
 			var val = this.value;
 			if (val == "Bipartite (Texts and People)") {
-				d3.select('#jesusCheckbox').attr('disabled', null);
 				dispatch.call("update", this, currentGraph, centralityType);
 			};
 			if (val == "People Only") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
 				var projectedPeopleGraph = project(currentGraph, 1);
         dispatch.call("update", this, projectedPeopleGraph, centralityType);
 			};
 			if (val == "Texts Only") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
 				var projectedTextGraph = project(currentGraph, 0);
 				dispatch.call("update", this, projectedTextGraph, centralityType);
 			};
@@ -670,9 +663,12 @@ function linkArc(d) {
 }
 
 const searchNodes = term => {
-  node
-    .classed("transparent", d => {if (d.name_variants.indexOf(term) === -1) { return true;} });
-  link.classed("transparent", true);
+  d3.selectAll("circle.node")
+    .classed("transparent", d => {
+      if ((d.name_variants && d.name_variants.indexOf(term) === -1) || (d.title && d.title.indexOf(term) === -1) || (d.author && d.author.indexOf(term) === -1)) {
+        return true;}
+      });
+  d3.selectAll(".link").classed("transparent", true);
 }
 
 function countDateFrequency(origGraph) {
