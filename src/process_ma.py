@@ -295,6 +295,10 @@ def match_name(name1, name2, title_regex):
                 if fuzz.token_sort_ratio(simplename1, simplename2) >= threshold-5: # See if remaining name meets threshold
                     print(name1, name2, "MATCH!")
                     return True
+                elif ' ' not in simplename1 and ' ' not in simplename2:
+                    if simplename1[:4] == simplename2[:4]:
+                        print(name1, name2, "MATCH")
+                        return True
         # Do the same if only one of the two names has a title in it
         elif match1:
             simplename1 = name1.replace(match1.group(0), '')
