@@ -129,6 +129,21 @@ dispatch.on("load.network", function() {
   // Call zoom for svg container.
   svg.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
 
+  function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+  }
+
   dispatch.on("update.network", function(graph, centralityType) {
     // Make object of all neighboring nodes.
     var linkedByIndex = {};
@@ -163,7 +178,7 @@ dispatch.on("load.network", function() {
       .enter().append("marker")
         .attr("id", "arrow")
         .attr("viewBox", "0 -5 10 10")
-        .attr("refX", 0)
+        .attr("refX", 25)
         .attr("refY", 0)
         .attr("markerWidth", 6)
         .attr("markerHeight", 6)
@@ -178,7 +193,7 @@ dispatch.on("load.network", function() {
 
     link.exit().remove();
 
-    link = link.enter().append("path")
+    link = link.enter().append("line")
         .attr('class', 'link')
         // .attr('stroke-width', function(l) {return l.weight;})
         .attr("marker-end", "url(#arrow)")
@@ -234,11 +249,11 @@ dispatch.on("load.network", function() {
 
     function ticked() {
       link
-          // .attr("x1", function(d) { return d.source.x; })
-          // .attr("y1", function(d) { return d.source.y; })
-          // .attr("x2", function(d) { return d.target.x; })
-          // .attr("y2", function(d) { return d.target.y; });
-          .attr("d", linkArc)
+          .attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
+          // .attr("d", linkArc)
 
       node
           .attr("cx", function(d) { return d.x; })
@@ -528,26 +543,6 @@ d3.json("all_eebo.json", function(error, origGraph) {
 
 });
 
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-}
-
-// Zooming function translates the size of the svg container.
-function zoomed() {
-
-}
-
 function project(thisGraph, bipartite) {
 	var projectedNodes = thisGraph.nodes.filter( function(d) {return d.bipartite === bipartite;});
 	var nodeObject = {}
@@ -636,31 +631,6 @@ const filterDate = (graph,startDate,endDate) => {
   newNodes = graph.nodes.filter(d => newNodeIds.indexOf(d.id) !== -1);
   var newGraph = {nodes:newNodes, links:newLinks};
   return newGraph;
-}
-
-function linkArc(d) {
-  var degreeSize= d3.scaleLog()
-  	.domain([d3.min(graph.nodes, function(d) { if (d.bipartite === 1) {return d.degree;} }),d3.max(graph.nodes, function(d) {if (d.bipartite === 1) {return d.degree;} })])
-  	.range([5,20]);
-  let radius = (d) => {
-    if (d.bipartite === 1) {
-      return degreeSize(d.degree);
-    } else {
-      return 8
-    }
-  }
-  var dx = d.target.x - d.source.x,
-      dy = d.target.y - d.source.y,
-      sourceRadius = radius(d.source),
-      targetRadius = radius(d.target),
-      dr = Math.sqrt(dx * dx + dy * dy),
-      gamma = Math.atan2(dy, dx), // Math.atan2 returns the angle in the correct quadrant as opposed to Math.atan
-      sx = d.source.x + (Math.cos(gamma) * sourceRadius),
-      sy = d.source.y + (Math.sin(gamma) * sourceRadius),
-      tx = d.target.x - (Math.cos(gamma) * (targetRadius+5)),
-      ty = d.target.y - (Math.sin(gamma) * (targetRadius+5));
-      // console.log(dr);
-  return "M" + sx + "," + sy + "A" + dr + "," + dr + " 0 0,1 " + tx + "," + ty;
 }
 
 const searchNodes = term => {
@@ -891,27 +861,23 @@ function createDateGraph(origGraph) {
     dateMax = Math.round(convertDate(s[1]));
 
     currentGraph = filterDate(graph,dateMin,dateMax);
-    // projectedPeopleGraph = project(newGraph, 1);
-    // projectedTextGraph = project(newGraph, 0);
-    // createNxGraph(projectedPeopleGraph, 1, "people", peopleGraph, peopleBar);
-    // createNxGraph(projectedTextGraph, 2, "texts", textGraph, textBar);
     dispatch.call("update", this, currentGraph, centralityType);
   }
 }
 
 const correctDirection = (links) => {
   let newLinks = links.map(l => {
-    if (l.type === "signed") {
-      if (l.target.search(/[0-9]{4,}/) !== -1) {
+    if (l.types.indexOf("signed") !== -1) {
+      if (l.target.search(/^[A-Z]/) !== -1) {
         return l;
       } else {
-        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'type': l.type};
+        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'types': l.types, 'original_names': l.original_names};
       }
     } else {
-      if (l.source.search(/[0-9]{4,}/) !== -1) {
+      if (l.source.search(/^[A-Z]/) !== -1) {
         return l
       } else {
-        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'type': l.type};
+        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'types': l.types, 'original_names': l.original_names};
       }
     }
   });
