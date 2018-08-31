@@ -1,885 +1,183 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+<html>
+  <head>
+    <title>Dedication Networks and Political Crisis</title>
+    <meta name="description" content="Make your data work">
+    <!-- <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon"> -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/intersection-observer@0.5.0/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+  </head>
+  <body>
+    <header class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url(http://mrmrs.github.io/photos/u/009.jpg) no-repeat center;">
+      <div class="dtc v-mid">
+        <header class="white-70">
+          <h2 class="f6 fw1 ttu tracked mb2 lh-title">J.R. Ladd</h2>
+          <h3 class="f6 fw1 lh-title">5 August 2018</h3>
+        </header>
+        <h1 class="f1 f-headline-l fw1 i white-60">Dedication Networks and Political Crisis</h1>
+        <blockquote class="ph0 mh0 measure f4 lh-copy center">
+          <p class="fw1 white-70">
+            Tracking Collaborative Print Culture with Named-Entity Recognition and Quantitative Network Analysis
+          </p>
+          <cite class="f6 ttu tracked fs-normal">Scroll down to begin or click below to</cite><br>
+          <cite class="f6 ttu tracked fs-normal"><a class="link gray dim hover" href="#introduction">Read</a> & <a class="link gray dim hover" href="#explore">Explore</a></cite>
+        </blockquote>
+      </div>
+    </header>
+    <main>
+      <section class="bg-light-blue f4 dark-blue" id="introduction">
+        <p class="tc">
+          Introduction
+        </p>
+        <blockquote>
+        <p>Rather than any particular book, it is indeed these connections and correlations that should be the focus of the cultivated individual, much as a railroad switchman should focus on the relations between trains—that is, their crossings and transfers—rather than the contents of any specific convoy. … [R]elations among ideas are far more important than the ideas themselves.<span class="citation"><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></span></p>
+        </blockquote>
+        <p>Up to this point I have focused on the most recognizable and widely-used form of social networks: networks of people, alive at the same time, whose relationship to one another was a direct interaction. But the question of time has run all through the different case studies in the previous chapters. It was present in Selden’s continued interest, even decades later, in the issues Drayton set forth in <em>Poly-Olbion</em>, it was a concern for James Philips as he shepherded his late wife’s poetry into print, and the ways in which Dryden negotiated his adaptations of Shakespeare were filled with the concerns of time passing. Anyone who works within network analysis has had to confront the problem of a time dimension at one point or another—a common criticism of networks as a form is that their mathematic and visual representations flatten time.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> Most network projects that I have brought up deal with this issue by limiting their dataset to specific timespans. <em>Six Degrees of Francis Bacon</em> only allows a relationship or edge to exist between two persons while they are alive at the same time—if they are never living simultaneously, <em>Six Degrees</em> will never record a relationship between them.<span class="citation"><a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></span> Likewise, in their networks of the print record, Blaine <span class="citation">Greteman<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></span>’s <em>Shakeosphere</em> and Michael <span class="citation">Gavin<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></span>’s <em>Historical Text Networks</em> only record relationships among people producing texts together at the same time. These limitations make sense if your purpose, as it is in these projects, is to create an accurate, traditional social network of contemporaneous relations. While this strictness is admirable in most cases, networks are a flexible interpretative framework that can tell us much more if we increase the scope of our data.</p>
+        <p>In Pierre Bayard’s <em>How To Talk About Books You Haven’t Read</em>, which I quote in this essay’s epigraph, the French theorist encourages us to consider the imaginative relation between books rather than simply the contents or immediate social circumstances of a particular text. Bayard’s work is importantly connected to two intellectual traditions I have been tracing throughout this dissertation. In “Digital Shakespeare,” Martin <span class="citation">Mueller<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></span> relates Bayard’s practices of non-reading to the habits and tactics of distant reading and by extension to the larger field of computational literary analysis. And by Bayard’s interest in connection over intention (as well as by its 2007 publication date and its place in a dialogue among French theorists), the book is tied to <span class="citation">Latour<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></span>’s actor-network theory as expressed in 2007’s <em>Reassembling the Social</em>. However while Latour is less interested in the role of texts within his actor-networks,<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a> Bayard posits a network of text relations independent of authors and individual experiences of reading. Bayard’s interest in textual networks and the production of meaning overlaps with my own in the issues that make up the rest of this dissertation—in group production, collective reading, and diffuse literary agency. In this essay I take up a network project that attempts to capture overlapping and diffuse acts of reading and knowledge production across a wide span of time.</p>
+      </section>
+      <!-- <section class="flex scrolly">
 
-.link {
-  stroke: #999;
-  fill: none;
-}
+        <figure class="sticky vh-50 w-50 tc">
+          This is the graphic!
+        </figure>
+        <article class="relative w-50 bg-near-white pa5 avenir f4">
+          <div class="step" data-step="a">
+            <p>Scroll A</p>
+          </div>
+          <div class="step" data-step="b">Scroll B</div>
+          <div class="step" data-step="c">Scroll C</div>
+        </article>
+      </section> -->
 
-.node {
-  stroke: darkblue;
-  stroke-width: 1.5px;
-}
+      <section class="f4 bg-near-white">
+        <p class="tc bg-gold sticky-top vh-5 z-1" id="why-dedications">Why Dedications?</p>
+        <article class="relative pa5 avenir f4">
+      <p>In the same section from which the above epigraph is taken, Bayard discusses the importance of metadata for understanding the network of “connections and correlations” among books. Many network projects that attempt to understand the world of early modern print are drawn from forms of metadata. <em>Shakeosphere</em> is made from metadata proper: the information in the Electronic Short Title Catalog. <em>Six Degrees</em> is derived from the metacommentary on social relationships available in the secondary sources of the Oxford Dictionary of National Biography. <em>Historical Text Networks</em> are made from a combination of Early English Books Online metadata, imprint information specifically, and additional information from paratext. Paratext occupies a liminal position in terms of its data type. As part of the primary source, it can be considered data itself, but for the ways it comments on and relates to the main text, it is also a form of metadata. My project takes a specific paratext form, the dedication, as its main source of (meta)data.</p>
+      <p>The idea for this project came out of my reading of John Dryden’s many long dedicatory materials. In his epistles, prefaces, and dedications, Dryden does not limit himself to discussing only the dedicatee of the text: he winds his way through his extensive network of patrons, friends, detractors, and rivals. When he attacks Lord Rochester in his dedication to All for Love, Dryden marks Rochester as important to the text. The dedication is a carrier of social information about the text, naming a set of individuals who have affected the text and its author. In this case the dedication leads us to an unexpected social actor, Rochester, whose relationship to Dryden at this stage is acrimonious, but who still seems to exert some social force on Dryden and on All for Love.</p>
+      <p>How many more dedications carry unexpected social information about early modern printed texts? Historians of the book have long noted the crucial role of patrons, publishers, printers, and booksellers alongside authors in the process of text creation. These individuals, all important parts of the network of early modern print, are more easily discoverable by traditional research methods and are often important to textual metadata in online archives like EEBO. But we may be able to add even more relevant names. Who else, besides dedicator and dedicatee, is mentioned in a dedication? Consider this example from EEBO-TCP–the dedication to Samuel Hartlib’s A description of the famous Kingdome of Macaria (1641):</p>
 
-.person {
-  fill: #FFE0A7;
-  stroke: #FF9A00;
-  stroke-width: 2px;
-}
+      <section class="flex scrolly">
+      <figure class="sticky vh-50 w-50 tc">
+      <img src="hartlib.png" alt="" />
 
-#arrow {
-  fill: #999;
-}
+      </figure>
+      <p class="relative w-50 p5">Neither More (who died in 1535) nor Bacon (who died in 1626) would show up in a network graph focused on reconstituting the lived early modern social world of 1641, but Hartlib thought they should be mentioned at the book’s opening. This trend of unlikely names is repeated in the texts of many early modern dedications: some of the individuals mentioned have died recently, others are writers and influences from another time entirely, and others are living persons from far outside the London social structure. I use this example to highlight something crucial about the way we conceive of print networks: just as the landscape of reading is made up of recently published texts and ones that first appeared long before, the landscape of print is made up of actors who are not physically present in the social world but are nonetheless crucial to understanding how the relation between persons and texts was constructed.</p>
+      </section>
+      <p>Where <span class="citation">Gavin<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></span>‘s networks are based only on the author and direct recipient of certain paratexts, by capturing a wider range of names <em>within</em> dedications I am able to make suppositions about the wider set of correlations and connections across time that make up early modern print. Douglas <span class="citation">Duhaime<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a></span> may have gotten closest to this kind of network in his co-citation network of texts derived from bibliographic citations present in early modern texts. But I am interested in the ways in which living social relations and textual citations and influences overlap. I accomplish this by a studious stubbornness not to eliminate names that I find within dedications—in effect capturing both those long-dead figures who may have influenced the book and the author’s direct contemporaries who may have had a direct hand in the book’s production. Through this stubbornness I show that these types of relations to a book are not so different, and that to understand knowledge production it is necessary that we consider the whole network together. Rather than thinking of networks’ tendency to flatten time as a drawback, here I use it to my critical advantage.</p>
+      <p>With this operating principle, I employed a method for finding names in dedications indiscriminately, concerning myself only with the fact that a name appeared in a dedication and (for the time being) not with why or how. What can we learn by studying the patterns of these names when we gather them at an increased scale, and how might such patterns direct our energies in the study of particular persons or texts?</p>
+      </article></section>
+      <section class="f4 bg-near-white"><p class="tc bg-gold sticky-top vh-5" id="methods">Methods</p>
+        <article class="relative pa5 avenir f4">
+      <p>Before I attempt some preliminary answers to these questions, I will give a brief overview of my method. The project is based on texts available through the EEBO-TCP public release, which includes xml marked-up versions of most relevant texts in the vast EEBO database. For the initial test of this method, because I am interested in seeing change in the network over time, I divided the texts into three roughly decadal groups: 1639-1648, 1648-1660, and 1660-1670. Thanks to the thorough tagging work of the TCP, I was then able to easily extract plaintext of everything in those date ranges marked up as a “DEDICATION.” The “DEDICATION” tag is not infallible: there may be certain dedicatory text-segments that were not tagged as dedications and other types of paratext (encomia, prefaces, etc.) that were given different tags. A future version of this project may attempt to be more all-encompassing in its approach to paratext.</p>
+      <p>Early modern texts present many challenges to named-entity recognition (NER), the natural language processing technique I used to find names of persons. Uneven orthography, non-standardized capitalization, initialism, pseudonymity, and anonymity all present distinct challenges to computer-assisted name recognition. To deal with some of these challenges, I began by processing the text through MorphAdorner, Northwestern University’s tool for standardizing and part-of-speech tagging digitized text. MorphAdorner regularizes words, standardizes spelling, and add tags for parts of speech. I tried a number of ready-made NER approaches, including the popular Stanford NER, NLTK, and SpaCy packages, before I found one that handled the challenges of early modern names. The drawback of all these NER classifiers is that they are trained on modern language corpora (usually on a news corpus) and therefore much better suited for finding names in modern language texts. I could train a classifier myself if I had a substantial corpus of early modern texts in which names were already tagged, but such a corpus does not exist. Instead I was able to take advantage of part-of-speech tagging within MorphAdorner, which unlike the other natural language processing tools is designed to work well on early modern language. MorphAdorner does not have an NER classifier, but it detects proper nouns with greater accuracy than other tools. Beginning with MorphAdorner’s list of proper nouns, I was able to write a short list of rules in Python that pulled out the names and dealt with much of the spelling variation in the corpus. However I kept only the words identified by the script as multi-term names of persons. I eliminated single-term names because most of them were either the result of error (one-word Latin terms the script wrongly identified as names) or impossible to disambiguate (the one-word name “James” would likely appear in many dedications, but there is no way of knowing to whom it refers). All multi-term names (including ones like “Queen Elizabeth” in which one word is a title or other identifier) were included in the final graph, which is drawn in javascript using Mike Bostock’s D3 force-directed graph script.</p>
+      <section class="flex scrolly">
+        <article class="relative w-50 p5">
+          <p>Readers already familiar with network analysis may recognize the resulting network’s features in the visualization below, but it is worth walking through some of the basic attributes to highlight their importance to my analysis. Networks are made up of nodes (usually represented as circles) which stand for the entities that are connected, and edges (usually represented as lines), which stand for the connections themselves. Though in social networks nodes typically represent people and entities represent social relationships, networks are a data structure that can hold any kind of relationship information. It is possible to have a network of cell phone towers, a network of bivalve reproduction, a network of foods and their tastes.<span class="citation"><a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></span> The important thing in a network is to carefully define the nature of the edge relationship, but that connection (even when the entities are people) need not be a human relationship. A network of people could be connected by who shares the same height or eye color. In the project, a connection is nothing more or less than a name’s presence in a dedication—sometimes this maps onto a social relation, and sometimes it does not. One of the purposes of this project is to interrogate the overlap and gaps between a social relation and a dedicatory mention.</p>
+          <p>Most network projects, including the early modern projects I mentioned above, use unimodal network graphs, in which nodes represent only one class of object: people. The networks I created for this project are bimodal or bipartite; there are two types of nodes which represent two classes of objects, people and texts. Usually the two types are represented by node color or shape—in my visualizations a person node is orange while a text node is blue. My choice of a bipartite network is as much ideological as it is technical. In a bimodal graph, a node can only connect to a node of its opposite type; therefore in my graph, people can only be connected through texts. My dedicatory networks do not graph the abstract early modern social world: instead they graph a series of relationships mediated by printed objects, which themselves have a place within the structure of the graph. Seeing texts alongside persons in a network helps us to reconsider what counts as “social” in the world of early modern print, and the widened scope of the NER script expands the boundaries of who “counts” as a collaborator or influence with/on a text. In the 1639-48 graph, “S. Paul” and “Lord Hastings” are connected through a text by William Parks. This is not to say that Parks’ relationship to the religious figure and the lordly patron are the same, but it highlights how dedicatory practice expands our notion of relevant social figures.</p>
+          <p>I could have, as <span class="citation">Gavin<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></span> does, represented texts as edges and left only one kind of node: people. However I want to call attention to the ways in which texts mark people (through their dedications) as well as the ways in which people mark texts. I accomplish this in two ways. The first is that I use a directed network rather than an undirected one. A network is directed when its connections cannot be reciprocal. Letter networks are a classic example: a letter has a sender and a recipient. Network analysts use the terms <em>source</em> and <em>target</em> to refer to these two different sides of a directed connection, and directed edges are usually represented by displaying an arrow at one end of the line. A network is undirected when its connections are mutual or reciprocal. A network of friends is an undirected networks, as two friends share a mutual relationship (if they did not, we would consider their relation something other than friendship). When processing texts, I kept track of who appeared in the body of a dedication, in its salutation, and in its closing. Because dedications normally have this structure, a dedication network is similar to a directed letter network. When a name appears in the closing of a dedication, that person is typically the dedicator (and also usually the author of the book), so the person is the source of the relation while the text is the target. When a name appears in the salutation or body of a dedication, the person is the target of the relation while the source is the book—in this cases the book’s dedication has marked that person as somehow important to the text, either as a dedicatee, an influence, a citation, or some other referent.</p>
+          <p>The other way in which I reinforce that the network of texts is as important as the network of people is through a technique called <em>projection</em>. In a bipartite network, it is possible to project the network onto one set of relations or another. Projection assumes mutual connection to nodes of one part as a connection between nodes of the other. Two people who are connected to the same text would, when the network is projected, be connected to one another. Likewise two texts that mention the same person would be connected to each other if the network were projected over texts. In this way it is possible to view my network in three ways: as a network of people and texts, as a network of people <em>connected by</em> texts, and as a network of texts <em>connected by</em> people. The network of texts makes an especially important rhetorical point, since in my network I am never dealing with actual persons but always with textual proxies for those people.<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a> Even when identifying people, the network is primarily textual.</p>
+          <p>I began by discussing the limitations and affordances of using networks to describe connections over time, and there are several ways I deal with time in the network visually and analytically. The first is simply in terms of color. I already mentioned I use different hues, orange and blue, to represent people and texts respectively. But within the blue nodes, I use a gradient from light to dark blue to represent the publication date of the text. This gives a quick visual sense of where a text falls roughly when looking at a graph that has a large timespan. Because I do not limit relationships by timespan, i.e. I do not discount a relationship because the person was not alive when the book was published, it becomes easy to see which figures are connected to texts from across the period. In these cases the affordances of “flat” network visualization show through; the reader can tell right away when a certain figure has dedicatory staying power for a long period of time.</p>
+          <p>However showing time only in terms of color gradient is inexact: you can see rough temporal distinctions, but these often are not enough for a scholar looking to draw conclusions about dedicatory networks in specific time periods. To answer these questions, I made it possible to draw a sliding time filter across the whole network, borrowing a technique I helped to develop while working on <em>Six Degrees of Francis Bacon</em>. At the bottom of the network visualization is a bar graph showing the number of texts with dedications in each year. By resizing and/or sliding a window across that graph, you can easily select a specific, shorter time period and only look at the nodes and edges in that period.</p>
+          <p>Looking at dedicatory practice over specific periods was a major impetus for conducting this project: I wanted to see how dedication networks changed across periods of political crisis and upheaval. To do this I initially collected data that was pre-organized by time period. For example I collected and processed texts only from the 1639-49, then from the 1650-59, then 1660-85, and so on, to compare the political eras. However having texts in predefined groupings limited my perspective on the data. You might instead want to organize texts by different periods of press freedom, using 1642 as a dividing line.<a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a> Having an interactive filter, and being able to clearly see the frequency of dedications across time, allows scholars browsing the netwok to make those decisions for themselves. And it allowed me to begin to see patterns in dedicatory practice, influence, and collaboration across time.</p>
+        </article>
+        <figure class="sticky vh-50 w-50 tc bg-white">
+          <svg id="tutorial"></svg>
+        </figure>
+      </section>
+    </article></section><section class="f4 bg-near-white"><p class="tc bg-gold sticky-top vh-5" id="results">Results</p><article class="relative pa5 avenir f4">
+      <p>The “Background, Method, Results” structure taken from the sciences and now more frequently adopted by digital humanists does not lend itself well to most humanities arguments. While some computational projects have clear results that can be reported, most examples of DH writing, including this one, require reflection and interpretation unsuited to the finality that the word results implies. While I do intend to report on conclusions drawn from this project, an equally important outcome of the data collection and visualization done in this project is its wider usefulness for other scholars with different questions about dedicatory practice in the early modern period. To facilitate both of these outcomes, I provide here both an interpretation of the data with respect to my research questions and a reflection on the exploration interface I built to enable further study of this dataset.</p>
+      <p>Even a cursory browse of the network data allows me to make some claims about patterns in early modern dedicatory practice. Looking at the network over time, its basic structure is unchanged despite many political, social, and religious changes. The network’s density—a measure of the relative number of edges to nodes in a network that expresses how connected the social world is—remains consistent over time despite the including every name in each dedication. Though the network includes a mixture of figures from the distant past, those of the recent past, and living 16th and 17th-century people, the basic structure matches a typical social network. This suggests that the social behaviors surrounding dedications are happening regardless of whether the participants in that network is alive. Aristotle can have as much influence in the network as Shakespeare.</p>
+      <p>In fact, names from the distant past appear with more regularity across the corpus than contemporary figures almost as a rule. I see this as an important corrective against the typical practice of using dedications to tell us only about author-patron relations. It is now a commonplace in studies of reception to recognize that readers do not choose only from a crop of books newly published in a given era, but from all the books published before then. Reading practices are often backward-looking, and any one person’s reading can include books published across a long span of time. Likewise with dedicatory practice, while early modern books are almost always dedicated to a living person, the names that appear in dedications can include a range of influences, citations, and relations from across a very wide range. A dedication—whether written before or after the main text—works as a kind of thesis statement for the book along with other paratexts. The names mentioned in the dedication allow readers to situate a book within a mental network of influences, financiers, citations, and allusions. Repetition of a particular referent across several book dedications builds up a set of connections between books, and may suggest the importance of particular figures in networks of reading and book production over time.</p>
+      <p>The first thing we may ask of the data, then, is how to determine which referents are most important in the network over time. The traditional way to measure a node’s importance within a network is through a set of measures under the umbrella term “centrality.” The simplest kind of centrality is degree—the number of connections a single node possesses. If a person has relationships with ten other people, their degree is ten. Eigenvector centrality is an extension of degree, using the degree of a node plus the degree of its immediate neighbors—think “friends of friends”—to quantify importance. Finally betweenness centrality measures how often a node connects disparate groups or communities within the network. These three centrality measures can be used together as a tool for thinking about a name’s importance in the dedicatory network.</p>
+      <p>Consider the dedications that mention Queen Elizabeth. Variations on her name appear throughout the corpus, beginning as Princess Elizabeth before her reign and hitting a high point in the decade before her death. Her degree from 1595 to 1603 is BLANK, outstripping perennially common names such as St. Augustine and St. Paul. It is not at all surprising that Elizabeth’s height in the network would be at the height of her reign, when many authors would seek her favor by dedicating a book to her, or even by giving her a mention in a dedication to someone else. Significantly, Elizabeth’s influence does not decrease as much after her death as one would think. If we only looked at dedicatees we would see a steep drop-off, but Elizabeth remains in or near the top 10 nodes by degree all the way through 1640s and 50s. Looking at the network in full provides a more complete view of a person’s symbolic and literary importance over time. An individual’s effect on reading, writing, and publishing extends long after their death.</p>
+      <p>The highest centrality name across the period, regardless of the centrality measure chosen, is Jesus Christ. On its face this observation does not tell us much—of course many early modern books, a large portion of which concern religious matters, would mention Christ in their dedications. But the frequency with which Christ is mentioned in dedications suggest an important relationship between the dedicatory network and book content. Books that mention Christ may be unified on some thematic level, just as books that mention Julius Caesar likely deal with similar content.<a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a> Names like these that signal certain kinds of content (and usually refer to figures from the very distant past), tend to have very high degree in the network. Lots of texts associate themselves with these “theme-signalling” names. However betweenness centrality tells a different story. While accounting for nodes like “Jesus Christ” that are so common they break the scale, most thematic names like Caesar or Augustine tend to have high degree but low betweenness centrality. That is to say, they are mentioned by a lot of texts in the same part of the network, but they don’t tend to connect different parts of the network to one another.</p>
+      <p>Betweenness centrality can give us a sense of those names which are used in a variety of texts in different network communities. This likely suggests that they tie together texts that would otherwise be linked only by thematic names. The names with high betweenness centrality, which tend to belong to contemporary or recent political figures, give structure to the overall network. Removing these names would cause the network to be divided into disconnected components. Some of the names in this group are patrons, others are important political figures—like Elizabeth I and James I—who are likely being used to lend prestige to the book. Rather than being tied to the book’s thematic content, these names seem to be used in a more opportunistic way, to associate the book with the prestige of a known entity but still to situate it within its specific political, social, and cultural context.</p>
+      <p>This calls attention to the importance of framing the data as a bipartite network. Rather than merely being a network of people connected by texts, this data tells us as much, if not more, about the connections among texts as those among people. The popularity of different kinds of books lends itself to the appearance of certain names in dedications, and the appearance of those names signals the popular categories in which books belong. In the 1590s and early 1600s, for example, the increased appearance of Luther, Calvin, and Hus signals a growing market for Protestant texts in the late part of Elizabeth’s reign as well as an increase in the desire among authors to curry social favor by espousing interest in major Protestant thinkers. The social concerns of dedicatory practice and the economic ones are inextricably linked—by viewing texts and names together we get a better sense of the way these two drivers for dedicatory naming overlap.</p>
+      <p>Beyond the transhistorical importance of specific names and texts, the same data can be used to address the question of changes in dedicatory practice over time. The best test case for this is the original impetus for the project, the period spanning from the 1630s through the 1660s. How did political upheaval change dedicatory practice and by extension the literary networks of the seventeenth century? Using a time filter to slice the network into manageable pieces makes this kind of analysis possible. Looking at the network in the 1630s, many of the top names are similar to those of previous decades: there is a mixture of current political figures, saints, and ancient thinkers. In the 1640s, some of those nodes remain prominent, but particularly in terms of betweenness centrality the order and distribution of those names change. Reference to James and Elizabeth go up, for one thing, and contemporary non-royal figures begin to crop up in the top ten and twenty names. One possible explanation for this is that the Republican government disrupted the normal flow of social capital. With the King and much of the nobility imprisoned or in exile, the network is deprived of its usual go-to names for reference. In response, authors on both sides of the political spectrum seem to harken back to a previous, more stable political era. This is again where the flexibility of using the names of recently deceased political figures comes in; their reputation can be marshalled for a variety of political arguments. Charles I is mentioned here with some frequency, though one limitation of presenting the data in this way is that it is difficult to tell <em>how</em> he is being talked about in these dedications. But whether talked about positively or negatively, his influence still has an outsized effect on the networks of the 1640s.</p>
+      <p>Things change more markedly after 1649. The execution of Charles I seems to have more finality in relation to his naming in dedications than the natural deaths of other monarchs. After his death Charles disappears from the list of most central names in the network, though Elizabeth and James still feature prominently. Pauline references, though in somewhat of a downslide during the war years, increase in frequency alongside more apocalyptic references like John the Baptist. Crucially, the two Republican leaders Thomas Fairfax and Robert Devereux (names most frequently as Viscount Hereford) join the monarchs as top names in betweenness centrality. We might expect to see Cromwell’s name appear here as well as the closest analogue to a monarch during this period, but the preference among authors seems to be toward the other Republican leaders with more traditional titles. Though direct mentions of Charles have decreased, his book, <em>Eikon Basilike</em>, has high centrality in the period, as its dedication reach out to a wide variety of people, emblematic of the book’s popularity and importance at this tumultuous time. In the 1660s the network returns to some pre-Interregnum patterns, but clear differences emerge. References to King James hit a high point, suggesting nostalgia for the originator of the Stuart line in England. The name “King Charles” of course also is prominent, though this time referring to Charles II and signifying the restoration of both the monarchy and more traditional dedicatory and patronage practices. Oliver Cromwell does make his way into the top ten in this decade, and though we cannot know the exact tone from this data, it is possible that the time to publication for some books means that books mentioning Cromwell and conceived in the late 1650s have taken some time to come into print. Though the return of monarchs and recently deceased political figures suggests a return to pre-1640 network behavior, there are some marked differences. The formation of the Royal Society and its subsequent flurry of publishing activity elevates names like Kenelm Digby into the group of high betweenness centrality nodes. New intellectual communities that form in the Restoration world begin to make their mark on the print landscape alongside names that we would “expect” to see given the shape of pre-war networks.</p>
+      <p>I have sketched out in the above examples some suppositions that might be made based on the data available, but these should not be viewed as irrefutable arguments derived from objective datasources. Instead we should think of the network as a representation of the print world, and that representation as a form of argumentation. The choice to collect and display the information I have here collected as a network is an interpretative choice, one that lends itself to certain further interpretations, affordances, and inferences. While it may be tempting to think of quantitative network analysis and other computational methods as neutral tools which derive from some properties that already exist within the data, a network is instead an interpretative structure that makes certain aspects of an object visible while obscuring others. I have already mentioned the ways in which networks often obscure the dimension of time, this is just one of the ways in which networks work against certain argumentative frames even while making new arguments possible.</p>
+      <p>There are two parts to networks as representation—the mathematical representation and the visual representation. So far I have spent most of the time talking about the mathematical representation: the ways in which the computational network structure allows us to make observations on the network’s density, on the relative importance of individual nodes, and more. The visual representation to suggests certain arguments about how the world of print might or should look to researchers. In the first place I return to my previously-declared stubbornness about including names in the network. By visualizating the names of all mentions in printed dedications rather than just the names of dedicatees, I argue that I have come closer to the network of print as the books themselves evince than other representations of the same social world. The ability to see all those names existing together in a single network, ranked by their importance to the books regardless of whether they had lived social connections to one another allows researchers to understand that print connections were not as reliant on lived social connections as one might think at first.</p>
+      <p>As Chris Warren reminds us in a recent essay on the long history of network visualization, networks have long been a way of making visible that which was previously invisible. Early modern printers, stationers, and authors conceived of the social world of print as an ongoing conversation; that is why there are so many names in these dedications in the first place. By making this practice visible, I hope to bring forward a way of thinking transhistorically about the existing connections in the early modern print record. I have supplemented the network view with other visualizations that elaborate on this same theme. A bar chart of texts by year gives a sense of the overall distribution of texts and always shows the researcher how many texts they are viewing at any one time. If the network looks sparse, it could be because there were fewer names mentioned in that timespan or simply fewer texts overall—the bar graph makes it clear which one of these possibilities is true at a glance. I have also added histograms—bar graphs that show distribution—to the right of the network that show the distribution of different types of centrality in the current network view. What a researcher will see most frequently on these graphs is a typical distribution of centrality in a network, with a few nodes of very high centrality, a great many with very low centrality, and barely any in between. This is typical in a social network—reputation accrues quickly to a few central figures, and attention is spread evenly among the rest. Seeing this visually alongside the network at every point reminds the viewer of the large number of nodes that are easy to overlook—the people mentioned in only a few texts who might constitute an important part of a particular neighborhood in the graph. One of the larger points of this project is to make those people more visible to researchers through the stubborn method of finding all names in every dedication. My hope is that this visual representation is a rhetorical and argumentative step in that direction.</p>
+      <p>Throughout this dissertation I have reflected in several ways on what it might mean to represent different aspects of early modern sociality as networks. In doing so my intention has been to reveal the ways in which relationality contributes to knowledge production in many forms: literary works are shaped by the relationships that constitute them. The representation of dedicatory relations as a network highlights the ways in which books are implicated in a large network of relationships that span many historical periods, economic roles, and social classes. At stake in this representation is casting off the assumption that texts are the result either of a single individual’s vision or of unmappable, diffuse cultural forces. Even a cursory look at the networks available in print showcase a vast but delimited set of relationships we can use to more clearly understand the relationships that undergird early modern literary production.</p>
+    </article></section><section class="f4 bg-near-white"><p class="tc bg-gold sticky-top vh-5" id="works-cited" class="unnumbered">Works Cited</p><article class="relative pa5 avenir f4">
+      <div id="refs" class="references">
+      <div id="ref-ahn_flavor_2011">
+      <p>Ahn, Yong-Yeol, Sebastian E. Ahnert, James P. Bagrow, and Albert-László Barabási. “Flavor Network and the Principles of Food Pairing.” <em>Scientific Reports</em> 1 (December 2011): 196. <a href="https://doi.org/10.1038/srep00196" class="uri">https://doi.org/10.1038/srep00196</a>.</p>
+      </div>
+      <div id="ref-bayard_how_2007">
+      <p>Bayard, Pierre. <em>How to Talk About Books You Haven’t Read</em>. 1st U.S. ed. New York: Bloomsbury USA : Distributed to the trade by Holtzbrinck Publishers, 2007.</p>
+      </div>
+      <div id="ref-duhaime_co-citation_nodate">
+      <p>Duhaime, Douglas. “Co-Citation Networks in the EEBO TCP.” <em>Douglas Duhaime Blog</em>. Accessed February 28, 2018. <a href="http://douglasduhaime.com/posts/cocitation-networks-in-the-eebo-tcp.html" class="uri">http://douglasduhaime.com/posts/cocitation-networks-in-the-eebo-tcp.html</a>.</p>
+      </div>
+      <div id="ref-gavin_historical_2016">
+      <p>Gavin, Michael. “Historical Text Networks: The Sociology of Early English Criticism.” <em>Eighteenth-Century Studies</em> 50, no. 1 (October 2016): 53–80. <a href="https://doi.org/10.1353/ecs.2016.0041" class="uri">https://doi.org/10.1353/ecs.2016.0041</a>.</p>
+      </div>
+      <div id="ref-greteman_shakeosphere_nodate">
+      <p>Greteman, Blaine. “Shakeosphere.” <em>University of Iowa Libraries</em>. Accessed February 28, 2018. <a href="https://shakeosphere.lib.uiowa.edu/" class="uri">https://shakeosphere.lib.uiowa.edu/</a>.</p>
+      </div>
+      <div id="ref-latour_reassembling_2005">
+      <p>Latour, Bruno. <em>Reassembling the Social an Introduction to Actor-Network-Theory</em>. Clarendon Lectures in Management Studies. Oxford ; New York: Oxford University Press, 2005. <a href="http://www.wustl.eblib.com/EBLWeb/patron/?target=patron&amp;extendedid=P 845911 0" class="uri">http://www.wustl.eblib.com/EBLWeb/patron/?target=patron&amp;extendedid=P 845911 0</a>.</p>
+      </div>
+      <div id="ref-mueller_digital_2008">
+      <p>Mueller, Martin. “Digital Shakespeare, or Towards a Literary Informatics.” <em>Shakespeare</em> 4, no. 3 (2008): 284–301. <a href="https://doi.org/10.1080/17450910802295179" class="uri">https://doi.org/10.1080/17450910802295179</a>.</p>
+      </div>
+      <div id="ref-warren_six_2016">
+      <p>Warren, Christopher N., Daniel Shore, Jessica Otis, Lawrence Wang, Mike Finegold, and Cosma Shalizi. “Six Degrees of Francis Bacon: A Statistical Method for Reconstructing Large Historical Social Networks” 10, no. 3 (2016). <a href="http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html" class="uri">http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html</a>.</p>
+      </div>
+      </div>
+      <div class="footnotes">
+      <hr />
+      <ol>
+      <li id="fn1"><p>Bayard, <em>How to Talk About Books You Haven’t Read</em>, 10. <a href="#fnref1">↩</a></p></li>
+      <li id="fn2"><p>A relatively new subfield within quantitative network analysis, known as dynamic networks, attempts to create new network models that deal with change over time in a systematic way. Many of these methods are very new and have not yet been adapted for wide use.<a href="#fnref2">↩</a></p></li>
+      <li id="fn3"><p>Warren et al., “Six Degrees of Francis Bacon.” <a href="#fnref3">↩</a></p></li>
+      <li id="fn4"><p>“Shakeosphere.”<a href="#fnref4">↩</a></p></li>
+      <li id="fn5"><p>“Historical Text Networks.”<a href="#fnref5">↩</a></p></li>
+      <li id="fn6"><p>“Digital Shakespeare, or Towards a Literary Informatics.”<a href="#fnref6">↩</a></p></li>
+      <li id="fn7"><p><em>Reassembling the Social an Introduction to Actor-Network-Theory</em>.<a href="#fnref7">↩</a></p></li>
+      <li id="fn8"><p>Latour’s notable exception is in investment in the creation of good, “complete” scholarly sociology texts, but on the subject of literary texts, <em>Reassembling the Social</em> is bascially silent.<a href="#fnref8">↩</a></p></li>
+      <li id="fn9"><p>“Historical Text Networks.”<a href="#fnref9">↩</a></p></li>
+      <li id="fn10"><p>“Co-Citation Networks in the EEBO TCP.”<a href="#fnref10">↩</a></p></li>
+      <li id="fn11"><p>Ahn et al., “Flavor Network and the Principles of Food Pairing.” <a href="#fnref11">↩</a></p></li>
+      <li id="fn12"><p>“Historical Text Networks.”<a href="#fnref12">↩</a></p></li>
+      <li id="fn13"><p>It was Rachel Midura who pointed this out to me when I presented an early version of this work at the Early Modern Digital Agendas seminar at the Folger Shakespeare Library.<a href="#fnref13">↩</a></p></li>
+      <li id="fn14"><p>It was another colleague from EMDA, Marie Alice Belle, who first suggested this grouping.<a href="#fnref14">↩</a></p></li>
+      <li id="fn15"><p>There is some potential for confusion between the Roman consul Julius Caesar and the early modern man who changed his name to match. My network only searches for textual signifiers and does not disambiguate people in this way. However the frequency with which Caesar is mentioned long before the birth of the early modern Julius Caesar suggests that the majority of these mentions refer to the Roman leader.<a href="#fnref15">↩</a></p></li>
+      </ol>
+      </div>
+    </section>
+    </main>
+    <footer class="vh-100 dt w-100 white cover">
+      <p class="tc bg-gold sticky-top vh-5 w-100" id="explore" class="unnumbered">Explore the Network</p>
+      <div class="dtc v-mid">
+          <div id='tools'>
+            <input type='text' id='searchBox' />
+      		</div>
+          <svg id="main-graph"></svg>
+      </div>
+    </footer>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="jsnetworkx.js"></script>
+    <script src="client.js"></script>
+  </body>
+</html>
 
-.transparent {
-  opacity: .2;
-}
-
-.node text {
-  pointer-events: none;
-  font: 10px sans-serif;
-}
-
-.graph-text {
-  cursor: pointer;
-  font: 10px sans-serif;
-}
-#tools div {
-  display: inline;
-}
-
-form, select {
-  float: right;
-  display: inline;
-}
-
-</style>
+<!-- <link rel="stylesheet" href="style.css" />
 <body>
-	<!-- <section class="scroll" data-section-name="home">
-		<h1>Title Card</h1>
-	</section>
-	<section class="scroll" data-section-name="viz"> -->
+
 		<div id='tools'>
       <input type='text' id='searchBox' />
 		</div>
 		<svg></svg>
-	<!-- </section> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src="jsnetworkx.js"></script>
-<!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> -->
-<!-- <script src="jquery.scrollify.js"></script> -->
-<script>
-// $(function() {
-// 	$.scrollify({
-// 		section : ".scroll",
-// 		sectionName : "section-name",
-// 		after : function(index, sections) {if (index == 1) { update(graph); } }
-// 	});
-// });
-
-var graph,
-    currentGraph,
-    projectedPeopleGraph,
-    projectedTextGraph;
-
-var dispatch = d3.dispatch("load", "update");
-
-var svg = d3.select("svg")
-    .attr("preserveAspectRatio", "xMinYMin meet")
-    .attr("viewBox", "0 0 1400 1000")
-    .classed("svg-content-responsive", true);
-
-var width = +svg.attr("width")+1000;
-    height = +svg.attr("height")+700-70;
-
-const defaultStart = 1570,
-      defaultEnd = 1580;
-
-var color = d3.scaleLinear()
-	.domain([1500,1700])
-	.range([0.1,1]);
-
-var panelMargin = {
-    top: 0,
-    right: 0,
-    bottom: 10,
-    left: 0
-  }
-  panelWidth = width/3 - panelMargin.left - panelMargin.right,
-  panelHeight = (height/4) - panelMargin.top - panelMargin.bottom;
-
-var panelX = d3.scaleLinear().range([4, panelWidth - 4]),
-  panelY = d3.scaleLinear().range([panelHeight, 15]);
-
-var centralityType = "degree";
-
-dispatch.on("load.network", function() {
-  svg.append('rect')
-      .attr('width', '100%')
-      .attr('height', '100%')
-      .attr('fill', '#fff')
-      .on("click", () => {
-        node.classed("transparent", false);
-        link.classed("transparent", false);
-      });
-
-  svg.append("defs").append("marker")
-      .attr("id", "arrow")
-      .attr("viewBox", "0 -5 10 10")
-      .attr("refX", 25)
-      .attr("refY", 0)
-      .attr("markerWidth", 6)
-      .attr("markerHeight", 6)
-      .attr("orient", "auto")
-    .append("path")
-      .attr("d", "M0,-5L10,0L0,5");
-
-  var simulation = d3.forceSimulation()
-      .force("link", d3.forceLink().id(function(d) { return d.id; }).iterations(2))
-      .force("charge", d3.forceManyBody().strength([-100]).distanceMax([350]))
-      .force("center", d3.forceCenter(width / 3, height / 2))
-      .force("collide", d3.forceCollide().iterations(0));
-
-
-  var container = svg.append('g');
-  var link = container.append('g').selectAll('.link');
-  var node = container.append('g').selectAll('.node');
-
-  // Call zoom for svg container.
-  svg.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
-
-  function dragstarted(d) {
-    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-    d.fx = d.x;
-    d.fy = d.y;
-  }
-
-  function dragged(d) {
-    d.fx = d3.event.x;
-    d.fy = d3.event.y;
-  }
-
-  function dragended(d) {
-    if (!d3.event.active) simulation.alphaTarget(0);
-  }
-
-  dispatch.on("update.network", function(graph, centralityType) {
-    // Make object of all neighboring nodes.
-    var linkedByIndex = {};
-    graph.links.forEach(function(d) {
-  	  linkedByIndex[d.source.id + ',' + d.target.id] = 1;
-  	  linkedByIndex[d.target.id + ',' + d.source.id] = 1;
-    });
-
-    // A function to test if two nodes are neighboring.
-    function neighboring(a, b) {
-  	  return linkedByIndex[a.id + ',' + b.id];
-    }
-
-    // Linear scale for degree centrality.
-    var degreeSize= d3.scaleLog()
-    	.domain([d3.min(graph.nodes, function(d) { if (d.bipartite === 1) {return d.degree;} }),d3.max(graph.nodes, function(d) {if (d.bipartite === 1) {return d.degree;} })])
-    	.range([5,20]);
-
-    var arrowSize= d3.scaleLinear()
-    	.domain([d3.min(graph.nodes, function(d) {return d.degree; }),d3.max(graph.nodes, function(d) {return d.degree; })])
-    	.range([40,50]);
-
-    simulation
-        .nodes(graph.nodes)
-        .on("tick", ticked);
-
-    simulation.force("link")
-        .links(graph.links);
-
-    //var link = container.append("g")
-        //.attr("class", "links")
-      //.selectAll("line")
-    link = link.data(graph.links, function(d) { return d.source.id + ", " + d.target.id;});
-
-    link.exit().remove();
-
-    link = link.enter().append("line")
-        .attr('class', 'link')
-        // .attr('stroke-width', function(l) {return l.weight;})
-        .attr("marker-end", "url(#arrow)")
-        .merge(link);
-
-    //var node = container.append("g")
-        //.attr("class", "nodes")
-      //.selectAll("circle")
-      //.data(graph.nodes);
-
-    node = node.data(graph.nodes, function(d) { return d.id; });
-    node.exit().remove();
-
-    node = node.enter().append("circle")
-      // Calculate degree centrality within JavaScript.
-      //.attr("r", function(d, i) { count = 0; graph.links.forEach(function(l) { if (l.source == i || l.target == i) { count += 1;}; }); return size(count);})
-      // Size nodes, making Cavendish and Glanvill largest.
-      .attr('r', function(d, i) {if (d.bipartite === 1) {return degreeSize(d.degree);} else {return 8;} })
-      // Color by degree centrality calculation in NetworkX.
-  	    .attr("fill", function(d) {if (d.bipartite === 0) {return d3.interpolateBlues(color(d.date));} })
-        .attr('class', 'node')
-        .classed('person', d => { if (d.bipartite === 1) {return true; } })
-        .attr('id', function(d) { return "n" + d.id.toString(); })
-        .on('click', function(d) { // On click, "unstick" nodes
-          simulation.alphaTarget(0);
-          d.fx = null;
-          d.fy = null;
-        })
-        .call(d3.drag()
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended))
-        .merge(node);
-
-
-    // Title text for mouseover.
-    node.append("title")
-        .text(function(d) {
-  	 if (d.bipartite === 1) {
-  	      return `${d.id}\nName Variants: ${d.name_variants}\nDegree: ${d.degree} (${d.deg_rank})`;
-  	 }
-  	 else {
-  	      return `Author: ${d.author}\nTitle: ${d.title}\nDate: ${d.date}\nDegree: ${d.degree} (${d.deg_rank})`;
-  	}
-  	});
-
-
-
-    //simulation.alphaTarget(0.1).restart();
-        simulation.alpha(1);
-        simulation.alphaDecay(0.05);
-        simulation.restart();
-
-    function ticked() {
-      link
-          .attr("x1", function(d) { return d.source.x; })
-          .attr("y1", function(d) { return d.source.y; })
-          .attr("x2", function(d) { return d.target.x; })
-          .attr("y2", function(d) { return d.target.y; });
-          // .attr("d", linkArc)
-
-      node
-          .attr("cx", function(d) { return d.x; })
-          .attr("cy", function(d) { return d.y; });
-
-      if (simulation.alpha() < 0.005 && simulation.force("collide").iterations() == 0) {
-  	// Collision detection based on node radius.
-  	simulation.force("collide", d3.forceCollide().radius( 20 ) );//function(d) { return d.degree * 2; } ) );
-      }
-
-    }
-  })
-})
-
-dispatch.on("load.peopleGraph", function() {
-  var peopleGraph = svg.append('g')
-          .classed("panel-container", true)
-          .attr('width', width/3)
-          .attr('height', height/4)
-          .attr("transform", "translate(" + width * (2/3) +",0)");
-
-  peopleGraph.append("rect")
-      .attr("width", "100%")
-      .attr("height", height/2)
-      .attr("fill", "#fff");
-
-
-  dispatch.on("update.peopleGraph", function(graph, centralityType) {
-    let projectedGraph = project(graph, 1);
-
-    createNxGraph(projectedGraph, centralityType).then(sortedData => {
-
-      let data = sortedData.map(s => s[1][`local_${centralityType}`]);
-
-      panelX.domain(d3.extent(data));
-
-      let bins = d3.histogram()
-        .domain(panelX.domain())
-        // .thresholds(20)
-      (data)
-
-      panelY.domain([0, d3.max(bins, d => d.length)])
-
-      peopleGraph.selectAll("g").remove();
-
-      var peopleG = peopleGraph.append("g");
-
-      var peopleBar = peopleG.selectAll(".bar").data(bins);
-
-      peopleBar = peopleBar.enter().append("rect")
-        .classed("person", true)
-        .attr("x", d => panelX(d.x0) + 1)
-        .attr("width", d => Math.max(0, panelX(d.x1) - panelX(d.x0) - 1))
-        .attr("y", d => panelY(d.length))
-        .attr("height", d => panelY(0) - panelY(d.length))
-        .merge(peopleBar);
-
-      peopleBar.exit().remove();
-
-
-      xAxis = g => g
-        .attr("transform", `translate(0,${height/4 - panelMargin.bottom})`)
-        .call(d3.axisBottom(panelX).tickSizeOuter(0))
-        .call(g => g.append("text")
-            .attr("x", width - panelMargin.right)
-            .attr("y", -4)
-            .attr("fill", "#000")
-            .attr("font-weight", "bold")
-            .attr("text-anchor", "end")
-            .text(data.x));
-
-      yAxis = g => g
-      .attr("transform", `translate(${panelMargin.left},0)`)
-      .call(d3.axisLeft(panelY))
-      .call(g => g.select(".domain").remove())
-      .call(g => g.select(".tick:last-of-type text").clone()
-          .attr("x", 4)
-          .attr("text-anchor", "start")
-          .attr("font-weight", "bold")
-          .text(data.y));
-
-      peopleGraph.append("g")
-        .call(xAxis);
-
-      peopleGraph.append("g")
-          .call(yAxis);
-
-      peopleGraph.append("g")
-        // .append("text").text("Top Nodes by Degree:")
-      .selectAll("text")
-        .data(sortedData.slice(0,10))
-        .enter().append("text")
-          .text( (d, i) => {
-            if (centralityType === "degree") {
-              return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_degree}`;
-            } else if (centralityType === "betweenness") {
-              return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_betweenness}`;
-            } else if (centralityType === "eigenvector") {
-              return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_eigenvector}`;
-            }
-          })
-          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
-          .classed("graph-text", true)
-          .on("mouseover", function(d) {
-            d3.select(this).attr("fill", "orange")
-            d3.selectAll("circle.node").classed("transparent", true);
-            d3.select(`#n${d[0]}`).classed("transparent", false);
-          })
-          .on("mouseout", function() {
-            d3.select(this).attr("fill", "black")
-            d3.selectAll("circle.node").classed("transparent", false);
-            d3.selectAll(".link").classed("transparent", false);
-          });
-    })
-  })
-})
-
-
-dispatch.on("load.textGraph", function() {
-
-  var textGraph = svg.append('g')
-          .classed("panel-container", true)
-          .attr('width', width/3)
-          .attr('height', height/4)
-          .attr("transform", "translate(" + width * (2/3) +"," + height/2 + ")");
-
-  textGraph.append("rect")
-      .attr("width", "100%")
-      .attr("height", height/2)
-      .attr("fill", "#fff");
-
-  dispatch.on("update.textGraph", function(graph, centralityType) {
-    let projectedGraph = project(graph, 0);
-    createNxGraph(projectedGraph, centralityType).then(sortedData => {
-
-      let data = sortedData.map(s => s[1][`local_${centralityType}`]);
-
-      panelX.domain(d3.extent(data));
-
-      let bins = d3.histogram()
-        .domain(panelX.domain())
-        // .thresholds(20)
-      (data)
-
-      panelY.domain([0, d3.max(bins, d => d.length)])
-
-      textGraph.selectAll("g").remove();
-
-      var textG = textGraph.append("g");
-
-      var textBar = textG.selectAll(".bar").data(bins);
-
-      textBar = textBar.enter().append("rect")
-        .classed("node", true)
-        .attr("fill", d3.interpolateBlues(color(1575)))
-        .attr("x", d => panelX(d.x0) + 1)
-        .attr("width", d => Math.max(0, panelX(d.x1) - panelX(d.x0) - 1))
-        .attr("y", d => panelY(d.length))
-        .attr("height", d => panelY(0) - panelY(d.length))
-        .merge(textBar);
-
-      textBar.exit().remove();
-
-
-      xAxis = g => g
-        .attr("transform", `translate(0,${height/4 - panelMargin.bottom})`)
-        .call(d3.axisBottom(panelX).tickSizeOuter(0))
-        .call(g => g.append("text")
-            .attr("x", width - panelMargin.right)
-            .attr("y", -4)
-            .attr("fill", "#000")
-            .attr("font-weight", "bold")
-            .attr("text-anchor", "end")
-            .text(data.x));
-
-      yAxis = g => g
-      .attr("transform", `translate(${panelMargin.left},0)`)
-      .call(d3.axisLeft(panelY))
-      .call(g => g.select(".domain").remove())
-      .call(g => g.select(".tick:last-of-type text").clone()
-          .attr("x", 4)
-          .attr("text-anchor", "start")
-          .attr("font-weight", "bold")
-          .text(data.y));
-
-      textGraph.append("g")
-        .call(xAxis);
-
-      textGraph.append("g")
-          .call(yAxis);
-
-      textGraph.append("g")
-        // .append("text").text("Top Nodes by Degree:")
-      .selectAll("text")
-        .data(sortedData.slice(0,10))
-        .enter().append("text")
-          .text( (d, i) => {
-            if (centralityType === "degree") {
-              return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_degree}`;
-            } else if (centralityType === "betweenness") {
-              return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_betweenness}`;
-            } else if (centralityType === "eigenvector") {
-              return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_eigenvector}`;
-            }
-          })
-          .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
-          .classed("graph-text", true)
-          .on("mouseover", function(d) {
-            d3.select(this).attr("fill", d3.interpolateBlues(color(1575)) );
-            d3.selectAll("circle.node").classed("transparent", true);
-            d3.select(`#n${d[0]}`).classed("transparent", false);
-          })
-          .on("mouseout", function() {
-            d3.select(this).attr("fill", "black");
-            d3.selectAll("circle.node").classed("transparent", false);
-          });
-    })
-
-  })
-})
-
-
-d3.json("all_eebo.json", function(error, origGraph) {
-  if (error) throw error;
-
-  dispatch.call("load", this);
-
-  graph = {"nodes": origGraph.nodes, "links": correctDirection(origGraph.links)};
-  createDateGraph(origGraph);
-
-    var search = d3.select("#searchBox")
-      .on('input', () => {
-        let term = document.getElementById('searchBox').value;
-        searchNodes(term);
-      });
-
-	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
-	var pathDropdown = d3.select('div#tools')
-		.append('select')
-		.on('change', function() {
-			var val = this.value;
-			if (val == "Bipartite (Texts and People)") {
-				dispatch.call("update", this, currentGraph, centralityType);
-			};
-			if (val == "People Only") {
-				var projectedPeopleGraph = project(currentGraph, 1);
-        dispatch.call("update", this, projectedPeopleGraph, centralityType);
-			};
-			if (val == "Texts Only") {
-				var projectedTextGraph = project(currentGraph, 0);
-				dispatch.call("update", this, projectedTextGraph, centralityType);
-			};
-
-		});
-
-	pathDropdown.selectAll('option')
-		.data(['Bipartite (Texts and People)', 'People Only', 'Texts Only'])
-		.enter().append('option')
-		.attr('value', function(d) { return d; })
-		.text(function(d) { return d; });
-
-  var centralityDropdown = d3.select('div#tools')
-		.append('select')
-		.on('change', function() {
-			var val = this.value;
-			if (val == "Degree Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', null);
-        centralityType = "degree";
-			};
-			if (val == "Betweenness Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
-        centralityType = "betweenness";
-			};
-			if (val == "Eigenvector Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
-        centralityType = "eigenvector";
-			};
-      dispatch.call("update", this, currentGraph, centralityType);
-
-		});
-
-	centralityDropdown.selectAll('option')
-		.data(['Degree Centrality', 'Betweenness Centrality', 'Eigenvector Centrality'])
-		.enter().append('option')
-		.attr('value', function(d) { return d; })
-		.text(function(d) { return d; });
-
-});
-
-function project(thisGraph, bipartite) {
-  // Get only nodes for one part of the graph
-	var projectedNodes = thisGraph.nodes.filter( function(d) {return d.bipartite === bipartite;});
-
-  const get_neighbors = (nodeId, links) => {
-    neighbors = []
-    links.forEach(l => {
-      if (l.source.id === nodeId) {
-        neighbors.push(l.target);
-      } else if (l.target.id === nodeId) {
-        neighbors.push(l.source);
-      }
-    });
-    return neighbors
-  }
-	var projectedLinks = [];
-  projectedNodes.forEach(function(n) {
-    let nodeId = n.id;
-    let neighbors1 = get_neighbors(nodeId, thisGraph.links);
-    // console.log(neighbors1);
-    let neighbors2 = neighbors1.map(n => get_neighbors(n.id, thisGraph.links));
-    neighbors2 = [].concat(...neighbors2);
-    neighbors2.forEach(neighbor => {
-      projectedLinks.push({source: n, target:neighbor, weight:1});
-    })
-  });
-	return {nodes:projectedNodes, links:projectedLinks};
-}
-
-const createNxGraph = (projectedGraph, centralityType) => {
-
-  let nodes = projectedGraph.nodes.map(n => { return [n.id, n]; });
-  let links = projectedGraph.links.map(l => { return [l.source.id, l.target.id, {'weight': l.weight, 'types': l.types, 'original_names': l.original_names}]})
-  let G = new jsnx.Graph()
-  G.addNodesFrom(nodes);
-  G.addEdgesFrom(links);
-
-  if (centralityType === "betweenness") {
-    return new Promise ( (resolve, reject) => {
-      jsnx.genBetweennessCentrality(G).then(betweenness => {
-        jsnx.setNodeAttributes(G, 'local_betweenness', betweenness);
-        let sortedData = G.nodes(true).sort((a,b) => d3.descending(a[1].local_betweenness, b[1].local_betweenness));
-        resolve(sortedData);
-      });
-    })
-  } else if (centralityType === "eigenvector") {
-    return new Promise ( (resolve, reject) => {
-      jsnx.genEigenvectorCentrality(G).then(eigenvector => {
-        jsnx.setNodeAttributes(G, 'local_eigenvector', eigenvector);
-        let sortedData = G.nodes(true).sort((a,b) => d3.descending(a[1].local_eigenvector, b[1].local_eigenvector));
-        resolve(sortedData);
-      });
-    })
-  } else if (centralityType === "degree") {
-    let degree = G.degree();
-    jsnx.setNodeAttributes(G, 'local_degree', degree);
-    let sortedData = G.nodes(true).sort((a,b) => d3.descending(a[1].local_degree, b[1].local_degree));
-
-    return new Promise( (resolve, reject) => {
-      resolve(sortedData);
-    })
-  }
-
-}
-
-const filterDate = (graph,startDate,endDate) => {
-  let newNodes = graph.nodes.filter(d => {
-    if (startDate <= d.date && d.date <= endDate) {
-      return d;
-    }
-  });
-  let newNodeIds = newNodes.map(n => n.id);
-  let newLinks = graph.links.filter(l => {
-    if (newNodeIds.indexOf(l.source) !== -1 || newNodeIds.indexOf(l.target) !== -1) {
-      return l;
-    }
-  });
-  newLinks.forEach(l => {
-    if (newNodeIds.indexOf(l.source) === -1) {
-      newNodeIds.push(l.source)
-    } else if (newNodeIds.indexOf(l.target) === -1) {
-      newNodeIds.push(l.target)
-    }
-  });
-  newNodes = graph.nodes.filter(d => newNodeIds.indexOf(d.id) !== -1);
-  var newGraph = {nodes:newNodes, links:newLinks};
-  return newGraph;
-}
-
-const searchNodes = term => {
-  d3.selectAll("circle.node")
-    .classed("transparent", d => {
-      if ((d.name_variants && d.name_variants.indexOf(term) === -1) || (d.title && d.title.indexOf(term) === -1) || (d.author && d.author.indexOf(term) === -1)) {
-        return true;}
-      });
-  d3.selectAll(".link").classed("transparent", true);
-}
-
-function countDateFrequency(origGraph) {
-  // Same as above with dates
-  var frequencies = {};
-  origGraph.nodes.forEach(function(n) {
-    if (n.date) {
-      if (n.date in frequencies) {
-        frequencies[n.date] += 1;
-      } else {
-        frequencies[n.date] = 1;
-      }
-    }
-  });
-  var data = [];
-  for (var x in frequencies) {
-    data.push({
-      'year': x,
-      'count': frequencies[x]
-    });
-  }
-  return data;
-}
-
-function createDateGraph(origGraph) {
-  // Same as above, for date range
-
-  var dateData = countDateFrequency(origGraph);
-  var dateGraph = svg.append('g')
-          .classed("date-container", true)
-          .attr('height', 70)
-          .attr("transform", "translate(0," + height + ")");
-  var dateMargin = {
-      top: 0,
-      right: 0,
-      bottom: 10,
-      left: 0
-    },
-    dateWidth = width - dateMargin.left - dateMargin.right,
-    dateHeight = +dateGraph.attr("height") - dateMargin.top - dateMargin.bottom;
-
-  var dateX = d3.scaleBand().range([4, dateWidth - 4]).padding(0.1),
-    dateY = d3.scaleLinear().range([dateHeight, 15]);
-
-  dateGraph.append("rect")
-      .attr("width", "100%")
-      .attr("height", "100%")
-      .attr("fill", "#fff");
-
-  var dateG = dateGraph.append("g");
-
-  dateX.domain(dateData.map(function(d) {
-    return d.year;
-  }));
-  dateY.domain([0, d3.max(dateData, function(d) {
-    return d.count;
-  })]);
-
-  var dBrush = d3.brushX()
-    .extent([
-      [1, 10],
-      [dateWidth, dateHeight]
-    ])
-    .handleSize(0)
-    .on("brush", updateBrush)
-    .on("end", brushed);
-
-  let tens = dateX.domain().filter(d => { return d % 10 === 0;});
-
-  dateG.append("g")
-    .attr("class", "axis axis--x")
-    .attr("transform", "translate(0," + dateHeight + ")")
-    .call(d3.axisBottom(dateX).tickValues(tens).tickSize(0));
-
-  dateG.selectAll(".bar")
-    .data(dateData)
-    .enter().append("rect")
-    .attr("class", "bar")
-    .attr("x", function(d) {
-      return dateX(d.year);
-    })
-    .attr("y", function(d) {
-      return dateY(d.count);
-    })
-    .attr("width", dateX.bandwidth())
-    .attr("height", function(d) {
-      return dateHeight - dateY(d.count);
-    })
-    .attr("fill", d => d3.interpolateBlues(color(d.year)));
-
-  var dBrushSelection = dateG.append("g")
-    .attr("class", "brush")
-    .call(dBrush);
-
-  //create custom handles
-  dBrushSelection.selectAll(".handle-custom")
-    .data([{
-      type: "w"
-    }, {
-      type: "e"
-    }])
-    .enter().append("rect")
-    .attr("class", function(d) {
-      if (d.type === "e") {
-        return "handle-custom handle-e";
-      } else {
-        return "handle-custom handle-w";
-      }
-    })
-    .attr("width", 4)
-    .attr("height", function(d) {
-      return dateHeight / 2;
-    })
-    .attr("rx", 2)
-    .attr("ry", 2)
-    .attr("cursor", "ew-resize")
-    .attr("x", function(d) {
-      if (d.type === "e") {
-        return dateWidth - 6;
-      } else {
-        return 2;
-      }
-    })
-    .attr("y", function(d) {
-      return dateHeight / 4 + 5;
-    });
-
-  //creates brush texts
-  dBrushSelection.selectAll("brush-text")
-    .data([{
-      type: "w",
-      year: 1590
-    }, {
-      type: "e",
-      year: 1610
-    }])
-    .enter().append("text")
-    .attr("class", function(d) {
-      if (d.type === "e") {
-        return "brush-text text-e";
-      } else {
-        return "brush-text text-w";
-      }
-    })
-    .attr("text-anchor", function(d) {
-      if (d.type === "e") {
-        return "end";
-      } else {
-        return "start";
-      }
-    })
-    .attr("x", function(d) {
-      if (d.type === "e") {
-        return dateWidth - 6;
-      } else {
-        return 2;
-      }
-    })
-    .attr("y", 8)
-    .text(function(d) {
-      return d.year;
-    });
-
-  dBrushSelection.call(dBrush.move, [dateX(defaultStart),dateX(defaultEnd)]);
-
-  function updateBrush() {
-    var brushPositionX = d3.select(".date-container .selection").node().getBBox().x,
-      brushPositionWidth = d3.select(".date-container .selection").node().getBBox().width;
-    d3.select(".date-container .handle-custom.handle-w").attr("x", function(d) {
-      return brushPositionX - 2;
-    });
-    d3.select(".date-container .handle-custom.handle-e").attr("x", function(d) {
-      return brushPositionX + brushPositionWidth - 2;
-    });
-
-    var s = d3.event.selection || dateX.range();
-    var convertDate = d3.scaleLinear().domain([0, dateWidth-4]).range([1500, 1700]);
-    dateMin = Math.round(convertDate(s[0]));
-    dateMax = Math.round(convertDate(s[1]));
-
-    d3.select(".date-container .brush-text.text-w")
-      .attr("x", function(d) {
-        return brushPositionX - 2;
-      })
-      .attr("text-anchor", function(d) {
-        if (dateMin < 1566 && (dateMax - dateMin) < 11) {
-          return "start";
-      } else if (dateMin >= 1566 && (dateMax - dateMin) < 11) {
-          return "end";
-        } else {
-          return "start";
-        }
-      })
-      .text(function(d) {
-        return dateMin;
-      });
-    d3.select(".date-container .brush-text.text-e")
-      .attr("x", function(d) {
-        return brushPositionX + brushPositionWidth - 2;
-      })
-      .attr("text-anchor", function(d) {
-        if (dateMax > 1700 && (dateMax - dateMin) < 11) {
-          return "end";
-        } else if (dateMax <= 1700 && (dateMax - dateMin) < 11) {
-          return "start";
-        } else {
-          return "end";
-        }
-      })
-      .text(function(d) {
-        return dateMax;
-      });
-  }
-
-  function brushed() {
-    var s = d3.event.selection || dateX.range();
-    var convertDate = d3.scaleLinear().domain([0, dateWidth-4]).range([1500, 1700]);
-    dateMin = Math.round(convertDate(s[0]));
-    dateMax = Math.round(convertDate(s[1]));
-
-    currentGraph = filterDate(graph,dateMin,dateMax);
-    dispatch.call("update", this, currentGraph, centralityType);
-  }
-}
-
-const correctDirection = (links) => {
-  let newLinks = links.map(l => {
-    if (l.types.indexOf("signed") !== -1) {
-      if (l.target.search(/^[A-Z]/) !== -1) {
-        return l;
-      } else {
-        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'types': l.types, 'original_names': l.original_names};
-      }
-    } else {
-      if (l.source.search(/^[A-Z]/) !== -1) {
-        return l
-      } else {
-        return {'source': l.target, 'target': l.source, 'weight': l.weight, 'types': l.types, 'original_names': l.original_names};
-      }
-    }
-  });
-  return newLinks;
-}
-
-</script>
-</body>
+<script src="client.js"></script>
+</body> -->
