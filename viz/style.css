@@ -1,0 +1,67 @@
+figure.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 25vh;
+}
+
+.sticky-top {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+article {
+  position: relative;
+}
+
+p {
+  margin: 0;
+  padding: 2%;
+}
+
+.step {
+  min-height: 67vh;
+  opacity: 1;
+}
+
+.link {
+  stroke: #999;
+  fill: none;
+}
+
+.node {
+  stroke: darkblue;
+  stroke-width: 1.5px;
+}
+
+.person {
+  fill: #FFE0A7;
+  stroke: #FF9A00;
+  stroke-width: 2px;
+}
+
+#arrow {
+  fill: #999;
+}
+
+.transparent {
+  opacity: .2;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+.graph-text {
+  cursor: pointer;
+  font: 10px sans-serif;
+}
+#tools div {
+  display: inline;
+}
+
+form, select {
+  float: right;
+  display: inline;
+}
