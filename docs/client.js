@@ -23,6 +23,7 @@ function handleStepEnter(response) {
     simulation.force("charge", d3.forceManyBody().strength([-3000]))
     updateGraph(newGraph);
   } else if ($step === "recolor") {
+    simulation.force("charge", d3.forceManyBody().strength([-3000]).distanceMax([1000]))
     updateGraph(newGraph);
     node.classed("person", d => { if (d.bipartite === 1) {return false} else {return true;}})
       .attr("fill", d => {if (d.bipartite === 1) { return "lightblue"; }});

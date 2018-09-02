@@ -7,10 +7,10 @@ var graph,
 
 var dispatch = d3.dispatch("load", "update");
 
-var svg = d3.select("#main-graph")
-    .attr("preserveAspectRatio", "xMinYMin meet")
-    .attr("viewBox", "0 0 1400 1000")
-    .classed("svg-content-responsive", true);
+var svg = d3.select("#main-graph");
+    // .attr("preserveAspectRatio", "xMinYMin meet")
+    // .attr("viewBox", "0 0 1400 1000")
+    // .classed("svg-content-responsive", true);
 
 // var zoom = d3.zoom();
 // var zoomFactor = 1;
@@ -25,8 +25,8 @@ var svg = d3.select("#main-graph")
 //
 // svg.on("dblclick", zoomIn);
 
-var width = +svg.attr("width")+1000;
-    height = +svg.attr("height")+700-70;
+var width = +svg.attr("width");
+    height = +svg.attr("height")-70;
 
 const defaultStart = 1570,
       defaultEnd = 1580;
