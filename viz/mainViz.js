@@ -2,7 +2,8 @@ var graph,
     origGraph,
     currentGraph,
     projectedPeopleGraph,
-    projectedTextGraph;
+    projectedTextGraph,
+    networkRect;
 
 var dispatch = d3.dispatch("load", "update");
 
@@ -10,6 +11,19 @@ var svg = d3.select("#main-graph")
     .attr("preserveAspectRatio", "xMinYMin meet")
     .attr("viewBox", "0 0 1400 1000")
     .classed("svg-content-responsive", true);
+
+// var zoom = d3.zoom();
+// var zoomFactor = 1;
+// zoomIn = function() {
+//  console.log("Zoom In")
+//  svg.transition().duration(500).call(zoom.scaleBy, zoomFactor + .5); // Scale by adjusted $scope.zoomfactor
+// }
+// zoomOut = function() {
+//  console.log("Zoom Out")
+//  svg.transition().duration(500).call(zoom.scaleBy, zoomFactor - .25); // Scale by adjusted $scope.zoomfactor
+// }
+//
+// svg.on("dblclick", zoomIn);
 
 var width = +svg.attr("width")+1000;
     height = +svg.attr("height")+700-70;
@@ -36,10 +50,10 @@ var panelX = d3.scaleLinear().range([4, panelWidth - 4]),
 var centralityType = "degree";
 
 dispatch.on("load.network", function() {
-  svg.append('rect')
+  networkRect = svg.append('rect')
       .attr('width', '100%')
       .attr('height', '100%')
-      .attr('fill', '#fff')
+      .attr('fill', '#F4F4F4')
       .on("click", () => {
         node.classed("transparent", false);
         link.classed("transparent", false);
@@ -68,7 +82,8 @@ dispatch.on("load.network", function() {
   var node = container.append('g').selectAll('.node');
 
   // Call zoom for svg container.
-  // svg.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
+  networkRect.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
+  // container.call(d3.zoom().on('zoom', () => { container.attr("transform", "translate(" + d3.event.transform.x + ", " + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")"); }));
 
   function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
@@ -206,7 +221,7 @@ dispatch.on("load.peopleGraph", function() {
   peopleGraph.append("rect")
       .attr("width", "100%")
       .attr("height", height/2)
-      .attr("fill", "#fff");
+      .attr("fill", "#F4F4F4");
 
 
   dispatch.on("update.peopleGraph", function(graph, centralityType) {
@@ -311,7 +326,7 @@ dispatch.on("load.textGraph", function() {
   textGraph.append("rect")
       .attr("width", "100%")
       .attr("height", height/2)
-      .attr("fill", "#fff");
+      .attr("fill", "#F4F4F4");
 
   dispatch.on("update.textGraph", function(graph, centralityType) {
     let projectedGraph = project(graph, 0);
@@ -615,7 +630,7 @@ function createDateGraph(origGraph) {
   dateGraph.append("rect")
       .attr("width", "100%")
       .attr("height", "100%")
-      .attr("fill", "#fff");
+      .attr("fill", "#F4F4F4");
 
   var dateG = dateGraph.append("g");
 
