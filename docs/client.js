@@ -61,11 +61,11 @@ function handleStepExit(response) {
 
 var svg = d3.select("#tutorial")
     .attr("preserveAspectRatio", "xMinYMin meet")
-    .attr("viewBox", "0 0 500 500")
+    .attr("viewBox", "0 0 500 250")
     .classed("svg-content-responsive", true);
 
 var width = +svg.attr("width")+800;
-    height = +svg.attr("height")+500;
+    height = +svg.attr("height")+250;
 
 var color = d3.scaleLinear()
 	.domain([1500,1700])

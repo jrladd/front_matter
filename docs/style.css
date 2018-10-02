@@ -1,13 +1,7 @@
 figure.sticky {
   position: -webkit-sticky;
   position: sticky;
-  top: 25vh;
-}
-
-.sticky-top {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+  top: 6vh;
 }
 
 article {
@@ -65,3 +59,16 @@ form, select {
   float: right;
   display: inline;
 }
+
+.sectionhead {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+/* .scrolly {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+} */
