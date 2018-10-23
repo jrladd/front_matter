@@ -13,6 +13,31 @@ p {
   padding: 2%;
 }
 
+a.footnoteRef::before {
+    content: attr(data-tooltip) ;
+
+    font-size: 12px;
+    position:absolute;
+    z-index: 999;
+    margin-left: 10px;
+    background:#000;
+    color:#e0e0e0;
+    padding:0px 7px;
+    line-height: 24px;
+    max-width: 300px;
+
+    opacity: 0;
+    transition:opacity 0.4s ease-out;
+    }
+
+a.footnoteRef:hover::before {
+    opacity: 1;
+    }
+
+.footnotes {
+  display: none;
+}
+
 .step {
   min-height: 67vh;
   opacity: 1;

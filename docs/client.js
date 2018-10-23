@@ -260,3 +260,9 @@ function project(thisGraph, bipartite) {
   });
 	return {nodes:projectedNodes, links:projectedLinks};
 }
+
+const footnotes = d3.selectAll("a.footnoteRef").on("mouseover", function(d) {
+  let noteId = this.href.split('/').slice(-1)[0];
+  d3.select(this)
+    .attr("data-tooltip", d3.select(noteId).text().split('↩').slice(0)[0]);
+});
