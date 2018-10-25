@@ -1,7 +1,13 @@
 figure.sticky {
   position: -webkit-sticky;
   position: sticky;
-  top: 6vh;
+  top: 0;
+}
+
+.contents {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 2vh;
 }
 
 article {
@@ -85,15 +91,21 @@ form, select {
   display: inline;
 }
 
-.sectionhead {
+/* .sectionhead {
   width: 100vw;
   margin-left: calc(50% - 50vw);
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-}
+} */
 
 /* .scrolly {
   width: 100vw;
   margin-left: calc(50% - 50vw);
 } */
+
+@media screen and (max-width: 48em) {
+  .contents {
+    display: none;
+  }
+}

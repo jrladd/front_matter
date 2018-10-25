@@ -2,7 +2,7 @@ var node,link,newGraph;
 
 // instantiate the scrollama
 const scroller = scrollama();
-
+const TOCscroller = scrollama();
 // setup the instance, pass callback functions
 scroller
   .setup({
@@ -55,9 +55,27 @@ function handleStepExit(response) {
   // console.log("done with step", response.index);
 }
 
+TOCscroller
+  .setup({
+    step: '.sectionhead', // required
+    container: 'main'
+  })
+  .onStepEnter(handleTOCEnter)
+  .onStepExit(handleTOCExit);
 // function handleContainerExit(response) {
 //   console.log('scroll done!');
 // }
+
+function handleTOCEnter(response) {
+  let newId = `#TOC${response.element.id}`;
+  d3.select(newId).classed("gray", false).classed("gold", true);
+}
+
+function handleTOCExit(response) {
+  let newId = `#TOC${response.element.id}`;
+  console.log(newId)
+  d3.select(newId).classed("gray", true).classed("gold", false);
+}
 
 var svg = d3.select("#tutorial")
     .attr("preserveAspectRatio", "xMinYMin meet")
