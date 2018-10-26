@@ -7,10 +7,10 @@ var graph,
 
 var dispatch = d3.dispatch("load", "update");
 
-var svg = d3.select("#main-graph");
-    // .attr("preserveAspectRatio", "xMinYMin meet")
-    // .attr("viewBox", "0 0 1400 1000")
-    // .classed("svg-content-responsive", true);
+var svg = d3.select("#main-graph")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 1400 1000")
+    .classed("svg-content-responsive", true);
 
 // var zoom = d3.zoom();
 // var zoomFactor = 1;
@@ -25,8 +25,8 @@ var svg = d3.select("#main-graph");
 //
 // svg.on("dblclick", zoomIn);
 
-var width = +svg.attr("width");
-    height = +svg.attr("height")-70;
+var width = +svg.attr("width") + 1400;
+    height = +svg.attr("height") + 1000-70;
 
 const defaultStart = 1570,
       defaultEnd = 1580;
@@ -216,7 +216,7 @@ dispatch.on("load.peopleGraph", function() {
           .classed("panel-container", true)
           .attr('width', width/3)
           .attr('height', height/4)
-          .attr("transform", "translate(" + width * (2/3) +",0)");
+          .attr("transform", "translate(" + width * (2/3) +",70)");
 
   peopleGraph.append("rect")
       .attr("width", "100%")
@@ -428,62 +428,78 @@ d3.json("all_eebo.json", function(error, origGraph) {
   createDateGraph(origGraph);
   origGraph = origGraph;
 
-    var search = d3.select("#searchBox")
-      .on('input', () => {
-        let term = document.getElementById('searchBox').value;
-        searchNodes(term);
-      });
-
 	// A pathDropdown menu with three different graph layouts (based on more limited subsets of nodes).
 	var pathDropdown = d3.select('div#tools')
-		.append('select')
-		.on('change', function() {
-			var val = this.value;
-			if (val == "Bipartite (Texts and People)") {
-				dispatch.call("update", this, currentGraph, centralityType);
-			};
-			if (val == "People Only") {
-				var projectedPeopleGraph = project(currentGraph, 1);
-        dispatch.call("update", this, projectedPeopleGraph, centralityType);
-			};
-			if (val == "Texts Only") {
-				var projectedTextGraph = project(currentGraph, 0);
-				dispatch.call("update", this, projectedTextGraph, centralityType);
-			};
-
-		});
+    .append('form')
+      .append('label')
+        .attr('for', 'pathDropdown')
+        .text('Choose which entities to show:')
+  		.append('select')
+        .attr('id', 'pathDropdown')
+    		.on('change', function() {
+    			var val = this.value;
+    			if (val == "Texts and People (Bipartite)") {
+    				dispatch.call("update", this, currentGraph, centralityType);
+    			};
+    			if (val == "People Only") {
+    				var projectedPeopleGraph = project(currentGraph, 1);
+            dispatch.call("update", this, projectedPeopleGraph, centralityType);
+    			};
+    			if (val == "Texts Only") {
+    				var projectedTextGraph = project(currentGraph, 0);
+    				dispatch.call("update", this, projectedTextGraph, centralityType);
+    			};
+    		});
 
 	pathDropdown.selectAll('option')
-		.data(['Bipartite (Texts and People)', 'People Only', 'Texts Only'])
+		.data(['Texts and People (Bipartite)', 'People Only', 'Texts Only'])
 		.enter().append('option')
 		.attr('value', function(d) { return d; })
 		.text(function(d) { return d; });
 
   var centralityDropdown = d3.select('div#tools')
-		.append('select')
-		.on('change', function() {
-			var val = this.value;
-			if (val == "Degree Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', null);
-        centralityType = "degree";
-			};
-			if (val == "Betweenness Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
-        centralityType = "betweenness";
-			};
-			if (val == "Eigenvector Centrality") {
-				d3.select('#jesusCheckbox').attr('disabled', 'true');
-        centralityType = "eigenvector";
-			};
-      dispatch.call("update", this, currentGraph, centralityType);
-
-		});
+    .append('form')
+      .append('label')
+        .attr('for', 'centralityDropdown')
+        .text('See graphs and rankings for:')
+  		.append('select')
+        .attr('id', 'centralityDropdown')
+    		.on('change', function() {
+    			var val = this.value;
+    			if (val == "Degree Centrality") {
+    				d3.select('#jesusCheckbox').attr('disabled', null);
+            centralityType = "degree";
+    			};
+    			if (val == "Betweenness Centrality") {
+    				d3.select('#jesusCheckbox').attr('disabled', 'true');
+            centralityType = "betweenness";
+    			};
+    			if (val == "Eigenvector Centrality") {
+    				d3.select('#jesusCheckbox').attr('disabled', 'true');
+            centralityType = "eigenvector";
+    			};
+          dispatch.call("update", this, currentGraph, centralityType);
+    		});
 
 	centralityDropdown.selectAll('option')
 		.data(['Degree Centrality', 'Betweenness Centrality', 'Eigenvector Centrality'])
 		.enter().append('option')
 		.attr('value', function(d) { return d; })
 		.text(function(d) { return d; });
+
+  var search = d3.select("#tools")
+    .append('form')
+      .append('label')
+        .attr('for', 'searchBox')
+        .text("Search for a person or text:")
+      .append('input')
+        .attr('type', 'text')
+        .attr('placeholder', 'Type search terms here')
+        .attr('id', 'searchBox')
+        .on('input', () => {
+          let term = document.getElementById('searchBox').value;
+          searchNodes(term);
+        });
 
 });
 
@@ -614,7 +630,7 @@ function createDateGraph(origGraph) {
   var dateGraph = svg.append('g')
           .classed("date-container", true)
           .attr('height', 70)
-          .attr("transform", "translate(0," + height + ")");
+          .attr("transform", "translate(0,0)");
   var dateMargin = {
       top: 0,
       right: 0,
@@ -629,7 +645,7 @@ function createDateGraph(origGraph) {
 
   dateGraph.append("rect")
       .attr("width", "100%")
-      .attr("height", "100%")
+      .attr("height", dateHeight)
       .attr("fill", "#F4F4F4");
 
   var dateG = dateGraph.append("g");

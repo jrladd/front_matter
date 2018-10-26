@@ -69,6 +69,7 @@ TOCscroller
 function handleTOCEnter(response) {
   let newId = `#TOC${response.element.id}`;
   d3.select(newId).classed("gray", false).classed("gold", true);
+  d3.select('#toc').classed("center", false);
 }
 
 function handleTOCExit(response) {

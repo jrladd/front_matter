@@ -82,30 +82,35 @@ a.footnoteRef:hover::before {
   cursor: pointer;
   font: 10px sans-serif;
 }
-#tools div {
-  display: inline;
+
+
+#tools form {
+  float: left;
+  width: 30%;
+  margin-left: 2%;
 }
 
-form, select {
-  float: right;
-  display: inline;
+input, label, select {
+  display: block;
+  width: 100%;
 }
 
-/* .sectionhead {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-} */
+#vizBox {
+  width: 70vw;
+  margin-left: calc(50% - 30vw);
+}
 
-/* .scrolly {
+.full-bg {
   width: 100vw;
   margin-left: calc(50% - 50vw);
-} */
+}
 
 @media screen and (max-width: 48em) {
   .contents {
     display: none;
+  }
+  #vizBox {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
   }
 }
