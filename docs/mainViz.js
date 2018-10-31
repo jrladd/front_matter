@@ -293,9 +293,9 @@ dispatch.on("load.peopleGraph", function() {
             if (centralityType === "degree") {
               return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_degree}`;
             } else if (centralityType === "betweenness") {
-              return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_betweenness}`;
+              return `${i+1}. Name: ${d[1].name_variants}; Betweenness: ${d[1].local_betweenness}`;
             } else if (centralityType === "eigenvector") {
-              return `${i+1}. Name: ${d[1].name_variants}; Degree: ${d[1].local_eigenvector}`;
+              return `${i+1}. Name: ${d[1].name_variants}; Eigenvector: ${d[1].local_eigenvector}`;
             }
           })
           .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
