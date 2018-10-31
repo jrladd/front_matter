@@ -598,7 +598,7 @@ const searchNodes = term => {
       if ((d.name_variants && d.name_variants.indexOf(term) === -1) || (d.title && d.title.indexOf(term) === -1) || (d.author && d.author.indexOf(term) === -1)) {
         return true;}
       });
-  d3.selectAll(".link").classed("transparent", true);
+  // d3.selectAll(".link").classed("transparent", true);
 }
 
 function countDateFrequency(origGraph) {
