@@ -397,9 +397,9 @@ dispatch.on("load.textGraph", function() {
             if (centralityType === "degree") {
               return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_degree}`;
             } else if (centralityType === "betweenness") {
-              return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_betweenness}`;
+              return `${i+1}. Title: ${d[1].title}; Betweenness: ${d[1].local_betweenness}`;
             } else if (centralityType === "eigenvector") {
-              return `${i+1}. Title: ${d[1].title}; Degree: ${d[1].local_eigenvector}`;
+              return `${i+1}. Title: ${d[1].title}; Eigenvector: ${d[1].local_eigenvector}`;
             }
           })
           .attr("transform", (d,i) => { return `translate(0,${(height/4) + (i+1)*15})`})
