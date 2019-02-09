@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "John R. Ladd"
+  },
+  "text": {
+    "more": "Template for this visualization provided by the Oxford Internet Institute\u0027s Interactive Visualizations project: https://blogs.oii.ox.ac.uk/vis/",
+    "intro": "This network was created by \"projecting\" the bipartite network of people and texts onto just people alone. Connections are present when two people are named together in more than one dedication.",
+    "title": "Co-Occurrence in Printed Dedications 1475-1700"
+  },
+  "legend": {
+    "edgeLabel": "Joint Appearances in More than One Dedication",
+    "colorLabel": "Groups from Community Detection",
+    "nodeLabel": "People Mentioned in Dedications"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "line",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

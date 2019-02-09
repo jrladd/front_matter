@@ -2,16 +2,21 @@ function main() {
     loadJSON(function(response) {
         // Parse JSON string into object
           var network = JSON.parse(response);
-        //   network = project(network, 0)
           console.log(network);
     
         var graph = Viva.Graph.graph();
         network.links.forEach(l => {
             graph.addLink(l.source, l.target);
         })
-        // graph.addLink(1,2);
+        // var calculator = Viva.Graph.centrality();
+        // var centrality = calculator.degreeCentrality(graph);
+        // console.log(centrality);
+        network.nodes.forEach(n => {
+            // console.log(n);
+            graph.addNode(n.id, n);
+        })
         var layout = Viva.Graph.Layout.forceDirected(graph, {
-                springLength : 10,
+                springLength : 30,
                 springCoeff : 0.0008,
                 dragCoeff : 0.02,
                 gravity : -1.2
@@ -26,16 +31,30 @@ function main() {
         // second, change the node ui model, which can be understood
         // by the custom shader:
         graphics.node(function (node) {
+            if (node.id > 10) {
+                nodeColor = 0x000000;
+            }
             return new WebglCircle(nodeSize, nodeColor);
         });
         var renderer = Viva.Graph.View.renderer(graph, {
                 // layout    : layout,
                 graphics  : graphics,
-                container : document.getElementById('graphContainer')
+                container : document.getElementById('network')
             });
-        renderer.run();
+        var events = Viva.Graph.webglInputEvents(graphics, graph);
+        events.click(function (node) {
+            renderer.rerender();
+            let name = node.data.name_variants;
+            let name_box = document.getElementById('name');
+            name_box.textContent = name;
+        });//.mouseLeave(function (node) {
+        //     console.log('Mouse left node: ' + node.id);
+        // });
+        renderer.run(100);
+        // renderer.pause();
     });
 }
+
 // Lets start from the easiest part - model object for node ui in webgl
 function WebglCircle(size, color) {
     this.size = size;
@@ -184,46 +203,3 @@ function loadJSON(callback) {
     };
     xobj.send(null);  
  }
-
- function project(thisGraph, bipartite) {
-    // Get only nodes for one part of the graph
-      var projectedNodes = thisGraph.nodes.filter( function(d) {return d.bipartite === bipartite;});
-    // console.log(thisGraph.links);
-    const get_neighbors = (nodeId, links) => {
-      neighbors = []
-      links.forEach(l => {
-        if (l.source === nodeId) {
-            // console.log("match!")
-          neighbors.push(l.target);
-        } else if (l.target === nodeId) {
-          neighbors.push(l.source);
-        }
-      });
-      return neighbors
-    }
-      var projectedLinks = [];
-    projectedNodes.forEach(function(n) {
-        // console.log(n);
-      let nodeId = n.id;
-      let neighbors1 = get_neighbors(nodeId, thisGraph.links);
-    //   console.log(neighbors1);
-      let neighbors2 = neighbors1.map(n => get_neighbors(n, thisGraph.links));
-      neighbors2 = [].concat(...neighbors2);
-    //   console.log(neighbors2);
-    var testLinks = [];
-      neighbors2.forEach(neighbor => {
-          var newLink = {source: n, target:neighbor, weight:1};
-          let linkStringOne = n + neighbor;
-          let linkStringTwo = neighbor + n;
-          if (testLinks.includes(linkStringOne) === false && testLinks.includes(linkStringTwo) === false) {
-            projectedLinks.push(newLink);
-            testLinks.push(linkStringOne);
-            testLinks.push(linkStringTwo);
-          } else {
-              console.log("Already in list");
-          }
-      })
-    });
-      return {nodes:projectedNodes, links:projectedLinks};
-  }
-  
