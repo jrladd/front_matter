@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Template for this visualization provided by the Oxford Internet Institute\u0027s Interactive Visualizations project: https://blogs.oii.ox.ac.uk/vis/",
-    "intro": "This network was created by \"projecting\" the bipartite network of people and texts onto just people alone. Connections are present when two people are named together in more than one dedication.",
+    "intro": "This network was created by \"projecting\" the bipartite network of people and texts onto just people alone. Connections are present when two people are named together in more than one dedication. The names 'Jesus Christ' and 'St. Paul' were removed to make other connections and communities more visible.",
     "title": "Co-Occurrence in Printed Dedications 1475-1700"
   },
   "legend": {

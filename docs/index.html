@@ -35,9 +35,14 @@
       <a class="link gray dim hover db mb2 ml3" href="#introduction" id="TOCintroduction">Introduction</a>
       <a class="link gray dim hover db mb2 ml3" href="#why-dedications" id="TOCwhy-dedications">Why Dedications?</a>
       <a class="link gray dim hover db mb2 ml3" href="#methods" id="TOCmethods">Methods</a>
+        <a class="link gray dim hover db mb2 ml4" href="#introToNetworks" id="TOCintroToNetworks">A Intro to Networks</a>
       <a class="link gray dim hover db mb2 ml3" href="#results" id="TOCresults">Results</a>
       <a class="link gray dim hover db mt3" href="#citations-and-notes" id="TOCcitations-and-notes">Citations</a>
-      <a class="link gray dim hover db mt3" href="#explore" id="TOCexplore">Explore the Network</a>
+      <a class="link gray dim hover db mt3 mb2" href="#explore" id="TOCexplore">Explore the Network</a>
+      <a class="link gray dim hover db mb2 ml3" href="#explore">Full Network</a>
+      <a class="link gray dim hover db mb2 ml3" href="/people" id="TOCpeople" target="_blank">Network of People</a>
+      <a class="link gray dim hover db mb2 ml3" href="/texts" id="TOCtexts" target="_blank">Network of Texts</a>
+      <a class="link gray dim hover db mb2 ml3" href="/code" id="TOCcode" target="_blank">View the Code</a>
     </div>
     <main class="avenir center measure-wide f4-ns f5 pv5 lh-copy ph2">
       <div class="full-bg bg-light-blue">
@@ -74,7 +79,7 @@
       <p>The network is based on texts available through the Early English Books Online, Text Creation Partnership (EEBO-TCP) public release, a collection of approximately 25,000 early modern texts printed in England (or written in English) that were first converted to microfilm and eventually digital images—as EEBO—and then hand-keyed into eXtensible Markup Language (XML)—as the TCP. Thanks to the thorough tagging work of the TCP, I was able easily to extract plaintext of every section of a text marked up as a “DEDICATION.” The “DEDICATION” attribute is not infallible: there may be certain dedicatory text-segments that were not marked as dedications, as well as other types of paratext (encomia, prefaces, etc.) that were given the wrong tags. A future version of this project may attempt to be more all-encompassing in its approach to paratext.</p>
       <p>Early modern texts present many challenges to named-entity recognition (NER), the natural language processing technique I used to find names of persons in those dedications. Irregular orthography, non-standardized capitalization, initialism, pseudonymy, and anonymity all present distinct challenges to computer-assisted name recognition. To deal with some of these challenges, I began by processing the text through MorphAdorner, Northwestern University’s tool for standardizing and part-of-speech tagging digitized text. MorphAdorner regularizes words, standardizes spelling, and add tags for parts of speech. I tried a number of ready-made NER approaches, including the popular Stanford NER, NLTK, and SpaCy software packages, before I found one that handled the challenges of early modern names. The drawback of all these NER classifiers is that they are trained on modern language corpora (usually on a news corpus) and therefore much better suited to finding names in modern language texts. I could train a classifier myself if I had a substantial corpus of early modern texts in which names were already tagged, but such a corpus does not exist. Instead I was able to take advantage of part-of-speech tagging within MorphAdorner, which unlike the other natural language processing tools is designed to work well on early modern language. MorphAdorner does not have an NER classifier, but it detects proper nouns with greater accuracy than other tools. Beginning with MorphAdorner’s list of proper nouns, I was able to write a short list of rules in Python that pulled out the names and dealt with much of the spelling variation in the corpus. However I kept only the words identified by the script as multi-term names of persons. I eliminated single-term names because most of them were either the result of error (one-word Latin terms the script wrongly identified as names) or impossible to disambiguate (the one-word name “James” would likely appear in many dedications, but there is no way of knowing to whom it refers).<a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a> All multi-term names (including ones like “Queen Elizabeth” in which one word is a title or other identifier) were included in the final graph, which is drawn in JavaScript using Mike Bostock’s D3 force-directed graph script.</p>
 
-      <section class="scrolly">
+      <section class="scrolly" id="introToNetworks">
         <figure class="sticky tc z-1 w-100 bg-near-white ma0 h-25">
           <div>For example:</div>
           <svg id="tutorial"></svg>
