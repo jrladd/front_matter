@@ -9,7 +9,7 @@ stopwords = pycorpora.geography.nationalities["nationalities"]
 stopwords.extend(pycorpora.geography.countries["countries"])
 stopwords.extend(pycorpora.geography.english_towns_cities["towns"])
 stopwords.extend(pycorpora.geography.english_towns_cities["cities"])
-stopwords.extend(["London", "Westminster", "England", "Scotland", "Thames", "Christian", "Christians", "Christian's", "Candlemas", "Christmas", "Jews", "Jew", "Israelites", "Egyptians", "Protestant", "Protestants", "Catholic", "Catholics", "Presbyterian", "Presbyterians", "Puritan", "Puritans", "Papist", "Papists", "Evangelical", "Version", "Hospital", "Surrey", "Barnstable", "Devon", "Wales", "Elysians", "Martyrs", "College", "Turks", "Canaanites", "Hampshire", "Huns", "Jesuits", "Enchiridion", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "Trinity"])
+stopwords.extend(["London", "Westminster", "England", "Scotland", "Thames", "Christian", "Christians", "Christian's", "Candlemas", "Christmas", "Jews", "Jew", "Israelites", "Egyptians", "Protestant", "Protestants", "Catholic", "Catholics", "Presbyterian", "Presbyterians", "Puritan", "Puritans", "Papist", "Papists", "Evangelical", "Version", "Hospital", "Surrey", "Barnstable", "Devon", "Wales", "Elysians", "Martyrs", "College", "Turks", "Canaanites", "Hampshire", "Huns", "Jesuits", "Enchiridion", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "Trinity", "Athens", "Anabaptists", "Philistines", "Christendom", "Odyssey", "Iliad", "Europe"])
 
 prefixes = pycorpora.humans.prefixes["prefixes"]
 prefixes.extend(["Mris", "Mris.", "Sr", "Sr.", "Prophet", "Master", "Alderman", "Cap.", "Captain", "Vicount", "Viscount", "Vicounte", "Viscounte", "Apostle", "Monarch", "K.", "Q.", "Saint", "St", "S.", "St.", "Mayor", "Mayore", "Maior", "Maiore"])
@@ -170,13 +170,23 @@ def is_name(tag):
     else:
         return False
 
+def fingerprint(name):
+    name = name.lower()
+    for p in prefixes:
+        name = re.sub(f"\b{p.lower()}\b", "", name)
+    if " " in name:
+        namelist = [name.split()[0][0]]
+        namelist.extend(name.split()[1:])
+        name = "".join(sorted(namelist))
+    return name
+
 if __name__ == "__main__":
 
     nsmap={'tei': 'http://www.tei-c.org/ns/1.0'}
     files = glob.glob("/home/data/eebotcp/texts/*/*.xml")
     parser = etree.XMLParser(collect_ids=False)
     names = []
-    for f in files[:200]:
+    for f in files[:1000]:
         tree = etree.parse(f, parser)
         xml = tree.getroot()
         dedications = xml.findall(".//tei:*[@type='dedication']", namespaces=nsmap)
@@ -185,8 +195,13 @@ if __name__ == "__main__":
             tested = [(t.get('reg', t.text), is_name(t)) for t in tokens]
             for k,g in groupby(tested, key=lambda x:x[1]):
                 if k == True:
-                    name = " ".join([w for w,test in g])
+                    name = " ".join([w for w,test in g]).strip("'s")
                     print(name)
                     names.append(name)
     print(Counter(names))
+    sorted_names = sorted(names, key=fingerprint)
+    new_id = 100000
+    for k,g in groupby(sorted_names, fingerprint):
+        list_g = list(g)
+        print(k, list_g, len(list_g))
             #print(" ".join([t[0] for t in tested if t[0] is not None]))
