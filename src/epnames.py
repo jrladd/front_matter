@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 from lxml import etree
-import glob, csv, sys, pycorpora, re
+import glob, csv, sys, pycorpora, re, json
 from itertools import groupby
 from collections import Counter
 from metaphone import doublemetaphone
@@ -10,7 +10,11 @@ stopwords = pycorpora.geography.nationalities["nationalities"]
 stopwords.extend(pycorpora.geography.countries["countries"])
 stopwords.extend(pycorpora.geography.english_towns_cities["towns"])
 stopwords.extend(pycorpora.geography.english_towns_cities["cities"])
-stopwords.extend(["London", "Westminster", "England", "Scotland", "Thames", "Candlemas", "Christmas", "Jews", "Jew", "Israelites", "Egyptians", "Protestant", "Protestants", "Catholic", "Catholics", "Presbyterian", "Puritan", "Papist", "Evangelical", "Version", "Hospital", "Surrey", "Barnstable", "Devon", "Wales", "College", "Turk", "Canaanite", "Hampshire", "Huns", "Jesuit", "Enchiridion", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "Trinity", "Athens", "Anabaptist", "Philistine", "Christendom", "Odyssey", "Iliad", "Europe", "Christianity", "Christian", "Rome", "Britain"])
+
+with open("data/stopwords.json", "r") as stopfile:
+    stopwords.extend(json.loads(stopfile.read()))
+
+stopwords = [s.lower() for s in stopwords]
 
 prefixes = pycorpora.humans.prefixes["prefixes"]
 prefixes.extend(["M.", "Mris", "Mris.", "Sr", "Sr.", "Prophet", "Master", "Alderman", "Cap.", "Captain", "Vicount", "Viscount", "Vicounte", "Viscounte", "Apostle", "Monarch", "K.", "Q.", "Saint", "St", "S.", "St.", "Mayor", "Mayore", "Maior", "Maiore"])
@@ -20,6 +24,9 @@ first_names.extend(["Will"])
 
 ordinals = ["First", "Second", "Third", "Fourth", "Fifth", "Sixth", "Seventh", "Eighth", "Ninth", "Tenth", "Eleventh", "Twelfth", "Thirteenth", "Fourteenth", "Fifteenth"]
 ofs = ["of", "de", "du"]
+
+with open('data/name_abbrev.json') as abbrevfile:
+    abbrev = json.loads(abbrevfile.read())
 
 def is_proper_noun(tag):
     if tag != None and (tag.get('pos', '') == 'nn1' or tag.get('pos', '') == 'nng1'):
@@ -79,7 +86,7 @@ def is_personal_the(tag):
         return False
 
 def is_not_person(tag):
-    if tag.get('reg', tag.text).title() in stopwords:
+    if tag.get('reg', tag.text).lower() in stopwords:
         return True
     else:
         return False
@@ -174,49 +181,66 @@ def is_name(tag):
         return False
 
 def fingerprint(name):
-    #name = name.lower()
-    for p in prefixes:
-        patt = f"\\b{p.lower()}\\b"
-        name = re.sub(patt, "", name.lower())
-    name = re.sub(r"[\.\?,!;:\(\)]", "", name)
-    if " " in name:
-#        namelist = [name.split()[0][0]]
-#        namelist.extend(name.split()[1:])
-#        name = "".join(sorted(namelist))
-        name = "".join(sorted(name.split()))
-    dm = doublemetaphone(name)
-    no_vowels = re.sub(r"[aeiouy]", "", name.lower())
-    return (dm[0], dm[1], no_vowels)
+    testname = name
+    if re.search(r"\bjesu", testname.lower()) != None or re.search(r"\bchrist\b", testname.lower()) != None:
+        return ("christ", "")
+    else:
+        testname = re.sub(r"\band\b|\bor\b", "", testname)
+        for p in prefixes:
+            patt = f"\\b{p.lower()}\\b"
+            testname = re.sub(patt, "", testname.lower())
+        for k,v in abbrev.items():
+            patt = f"\\b{k.lower()}\.?\\b"
+            testname = re.sub(patt, v.lower(), testname.lower())
+        testname = re.sub(r"\bfl\b|\bof\b|\bd\.|\bb\.", "", testname)
+        testname = re.sub(r"[\.\?,!;:\(\)\-\[\]]|'s", "", testname)
+        testname = re.sub(r"\d+", "", testname)
+        if " " in testname:
+    #        namelist = [name.split()[0][0]]
+    #        namelist.extend(name.split()[1:])
+    #        name = "".join(sorted(namelist))
+            testname = "".join(sorted(testname.split()))
+        dm = doublemetaphone(testname)
+        #no_vowels = re.sub(r"[aeiouy]", "", testname.lower())
+#        return (dm[0], dm[1], no_vowels)
+        if dm[1] == '' and re.search(r"[aiouy]$", testname.lower()) != None:
+            return (dm[0], f"{dm[0]}{testname[-1].upper()}")
+        elif dm[1] == '' and re.search(r"^b", testname.lower()) != None:
+            return (dm[0], f"{testname[0].upper()}{dm[0][1:]}")
+        else:
+            return dm
 
 if __name__ == "__main__":
 
-    nsmap={'tei': 'http://www.tei-c.org/ns/1.0'}
+    nsmap={'tei': 'http://www.tei-c.org/ns/1.0', 'ep': 'http://earlyprint.org/ns/1.0'}
     files = glob.glob("/home/data/eebotcp/texts/*/*.xml")
     parser = etree.XMLParser(collect_ids=False)
     names = []
 #    pos = []
     for f in files[:1000]:
+        fileid = f.split("/")[-1].split(".")[0]
         tree = etree.parse(f, parser)
         xml = tree.getroot()
         dedications = xml.findall(".//tei:*[@type='dedication']", namespaces=nsmap)
+        author = xml.find(".//ep:author", namespaces=nsmap).text
         for dedication in dedications:
             tokens = dedication.xpath(".//tei:w|.//tei:pc", namespaces=nsmap)
-#            pos.extend([(t.get('reg', t.text), t.get('pos', '')) for t in tokens if "nn" in t.get('pos', '')])
-#    print(Counter(pos))
-#    pos = sorted(pos, key = lambda x:x[1])
-#    for k,g in groupby(pos, key = lambda x:x[1]):
-#        list_g = list(g)
-#        print(k, len(list_g), list_g)
-            tested = [(t.get('reg', t.text), is_name(t)) for t in tokens]
+            tested = [(t.get('reg', t.text), is_name(t), t.getparent().tag) for t in tokens if t.getparent().tag != "{http://www.tei-c.org/ns/1.0}signed"]
             for k,g in groupby(tested, key=lambda x:x[1]):
+                g = list(g)
                 if k == True:
-                    name = " ".join([w for w,test in g]).strip("'s")
-                    print(name)
+                    name = " ".join([w for w,test,parent in g])
+                    parent_tag = g[0][2].split("}")[-1]
+                    if fingerprint(name) == fingerprint(author):
+                        print((fileid, name, "author", parent_tag))
+                    else:
+                        print((fileid, name, "not_author", parent_tag))
                     names.append(name)
-    print(Counter(names))
+   #print(Counter(names))
     sorted_names = sorted(names, key=fingerprint)
     new_id = 100000
     for k,g in groupby(sorted_names, fingerprint):
+        new_id += 1
         list_g = list(g)
-        print(k, list_g, len(list_g))
-            #print(" ".join([t[0] for t in tested if t[0] is not None]))
+        print(new_id, Counter(list_g).most_common(1)[0][0].title(), list_g, k, len(list_g))
+           #print(" ".join([t[0] for t in tested if t[0] is not None]))
