@@ -1,7 +1,8 @@
 #! /usr/bin/env python3
 
 from lxml import etree
-import glob, csv, sys, pycorpora, re, json
+import networkx as nx
+import glob, csv, sys, pycorpora, re, json, time
 from itertools import groupby
 from collections import Counter
 from metaphone import doublemetaphone
@@ -210,37 +211,87 @@ def fingerprint(name):
         else:
             return dm
 
+def is_author(name, author):
+    initials = ''.join([a[0] for a in author.split()])
+    if fingerprint(name) == fingerprint(author):
+        return True
+    elif re.sub(r'\W+', '', name).lower() == re.sub(r'\W+', '', initials).lower():
+        return True
+    else:
+        return False
+
+def count_edges(orig_edges, list_g):
+    for e in orig_edges:
+        if e[1] in list_g:
+            if (e[0],new_id) not in edges_counter:
+                edges_counter[(e[0], new_id)] = {}
+                edges_counter[(e[0], new_id)]['weight'] = 1
+                edges_counter[(e[0], new_id)]['is_author'] = [e[2]['is_author']]
+                edges_counter[(e[0], new_id)]['container'] = [e[2]['container']]
+            else:
+                edges_counter[(e[0], new_id)]['weight'] += 1
+                edges_counter[(e[0], new_id)]['is_author'].append(e[2]['is_author'])
+                edges_counter[(e[0], new_id)]['container'].append(e[2]['container'])
+
+def get_parents(e):
+    ancestors = [ancestor.tag.split("}")[-1] for ancestor in e.iterancestors()]
+    if "signed" in ancestors:
+        return "signed"
+    elif "head" in ancestors:
+        return "head"
+    else:
+        return "body"
+
 if __name__ == "__main__":
 
+    start = time.process_time()
     nsmap={'tei': 'http://www.tei-c.org/ns/1.0', 'ep': 'http://earlyprint.org/ns/1.0'}
     files = glob.glob("/home/data/eebotcp/texts/*/*.xml")
     parser = etree.XMLParser(collect_ids=False)
     names = []
-#    pos = []
-    for f in files[:1000]:
+    orig_edges = []
+    nodes = []
+    for f in files:
         fileid = f.split("/")[-1].split(".")[0]
         tree = etree.parse(f, parser)
         xml = tree.getroot()
         dedications = xml.findall(".//tei:*[@type='dedication']", namespaces=nsmap)
         author = xml.find(".//ep:author", namespaces=nsmap).text
+        if len(dedications) > 0:
+            nodes.append((fileid, {"author": author}))
         for dedication in dedications:
             tokens = dedication.xpath(".//tei:w|.//tei:pc", namespaces=nsmap)
-            tested = [(t.get('reg', t.text), is_name(t), t.getparent().tag) for t in tokens if t.getparent().tag != "{http://www.tei-c.org/ns/1.0}signed"]
+            tested = [(t.get('reg', t.text), is_name(t), get_parents(t)) for t in tokens]
             for k,g in groupby(tested, key=lambda x:x[1]):
                 g = list(g)
                 if k == True:
-                    name = " ".join([w for w,test,parent in g])
-                    parent_tag = g[0][2].split("}")[-1]
-                    if fingerprint(name) == fingerprint(author):
-                        print((fileid, name, "author", parent_tag))
+                    name = " ".join([w for w,test,p in g])
+                    if is_author(name, author):
+                        orig_edges.append((fileid, name, {"is_author": "true", "container": g[0][2]}))
                     else:
-                        print((fileid, name, "not_author", parent_tag))
+                        orig_edges.append((fileid, name, {"is_author": "false", "container": g[0][2]}))
                     names.append(name)
-   #print(Counter(names))
     sorted_names = sorted(names, key=fingerprint)
     new_id = 100000
+    edges_counter = {}
     for k,g in groupby(sorted_names, fingerprint):
         new_id += 1
         list_g = list(g)
-        print(new_id, Counter(list_g).most_common(1)[0][0].title(), list_g, k, len(list_g))
-           #print(" ".join([t[0] for t in tested if t[0] is not None]))
+        nodes.append((new_id, {"display_name": Counter(list_g).most_common(1)[0][0].title(), "name_list": list_g}))
+        count_edges(orig_edges, list_g)
+
+    #print(nodes)
+    edges = []
+    for k,v in edges_counter.items():
+        v['is_author'] = list(set(v['is_author']))[0]
+        v['container'] = list(set(v['container']))
+        edges.append((k[0], k[1], v))
+    #print(edges)
+
+    G = nx.Graph()
+    G.add_nodes_from(nodes)
+    G.add_edges_from(edges)
+    nx.write_gpickle(G, 'test.pkl')
+
+    end = time.process_time()
+    print(end-start)
