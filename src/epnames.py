@@ -146,10 +146,21 @@ def is_initial(tag):
     else:
         return False
 
+def is_religious(tag, previous_tag):
+    try:
+        if (tag.get("reg", tag.text).lower() == "god" or tag.get("reg", tag.text).lower() == "christ") and previous_tag.get("reg", previous_tag.text) == "of" and (previous_tag.getprevious().get("pos") == "n1" or previous_tag.getprevious().get("pos") == "n2"):
+            return True
+        else:
+            return False
+    except AttributeError:
+        return False
+
 def is_name(tag):
     next_tag = tag.getnext()
     previous_tag = tag.getprevious()
-    if is_proper_noun(tag):
+    if is_religious(tag, previous_tag):
+        return False
+    elif is_proper_noun(tag):
         if is_not_person(tag) and is_personal_of(previous_tag) == False and is_personal_title(previous_tag) == False:
             return False
         else:
@@ -168,11 +179,11 @@ def is_name(tag):
         return True
     elif is_abbrev(tag) and (is_proper_noun(next_tag) or is_personal_title(next_tag)) and is_not_person(next_tag) == False:
         return True
-    elif is_common_name(tag) and (is_proper_noun(next_tag) or is_personal_period(next_tag)):
+    elif is_common_name(tag) and (is_proper_noun(next_tag) or is_personal_period(next_tag) or is_personal_title(previous_tag)):
         return True
-    elif upper_tag(tag) and ((upper_tag(previous_tag) and is_proper_noun(previous_tag)) or is_personal_of(previous_tag)) and is_not_person(previous_tag) == False:
+    elif upper_tag(tag) and ((upper_tag(previous_tag) and (is_proper_noun(previous_tag) or is_personal_title(previous_tag))) or is_personal_of(previous_tag)) and is_not_person(previous_tag) == False:
         return True
-    elif title_tag(tag) and is_not_person(tag) == False and ((title_tag(previous_tag) and is_proper_noun(previous_tag)) or is_personal_of(previous_tag)) and is_not_person(previous_tag) == False:
+    elif title_tag(tag) and is_not_person(tag) == False and ((title_tag(previous_tag) and (is_proper_noun(previous_tag) or is_personal_title(previous_tag))) or is_personal_of(previous_tag)) and is_not_person(previous_tag) == False:
         return True
     elif is_royal_numeral(tag) and (is_proper_noun(previous_tag) or is_personal_the(previous_tag) or is_common_name(previous_tag)):
         return True
@@ -187,9 +198,9 @@ def fingerprint(name):
         return ("christ", "")
     else:
         testname = re.sub(r"\band\b|\bor\b", "", testname)
-        for p in prefixes:
-            patt = f"\\b{p.lower()}\\b"
-            testname = re.sub(patt, "", testname.lower())
+#        for p in prefixes:
+#            patt = f"\\b{p.lower()}\\b"
+#            testname = re.sub(patt, "", testname.lower())
         for k,v in abbrev.items():
             patt = f"\\b{k.lower()}\.?\\b"
             testname = re.sub(patt, v.lower(), testname.lower())
@@ -242,6 +253,24 @@ def get_parents(e):
     else:
         return "body"
 
+def get_metadata(xml):
+    author = xml.find(".//ep:author", namespaces=nsmap)
+    title = xml.find(".//ep:title", namespaces=nsmap)
+    date = xml.find(".//ep:publicationYear", namespaces=nsmap)
+    if author is not None:
+        author = author.text
+    else:
+        author = ""
+    if title is not None:
+        title = title.text
+    else:
+        title = ""
+    if date is not None:
+        date = date.text
+    else:
+        date = ""
+    return author, title, date
+
 if __name__ == "__main__":
 
     start = time.process_time()
@@ -256,9 +285,9 @@ if __name__ == "__main__":
         tree = etree.parse(f, parser)
         xml = tree.getroot()
         dedications = xml.findall(".//tei:*[@type='dedication']", namespaces=nsmap)
-        author = xml.find(".//ep:author", namespaces=nsmap).text
+        author, title, date = get_metadata(xml)
         if len(dedications) > 0:
-            nodes.append((fileid, {"author": author}))
+            nodes.append((fileid, {"author": author, "title": title, "date": date}))
         for dedication in dedications:
             tokens = dedication.xpath(".//tei:w|.//tei:pc", namespaces=nsmap)
             tested = [(t.get('reg', t.text), is_name(t), get_parents(t)) for t in tokens]
@@ -267,31 +296,39 @@ if __name__ == "__main__":
                 if k == True:
                     name = " ".join([w for w,test,p in g])
                     if is_author(name, author):
-                        orig_edges.append((fileid, name, {"is_author": "true", "container": g[0][2]}))
+                        orig_edges.append([fileid, name, "true", g[0][2]])
                     else:
-                        orig_edges.append((fileid, name, {"is_author": "false", "container": g[0][2]}))
-                    names.append(name)
-    sorted_names = sorted(names, key=fingerprint)
-    new_id = 100000
-    edges_counter = {}
-    for k,g in groupby(sorted_names, fingerprint):
-        new_id += 1
-        list_g = list(g)
-        nodes.append((new_id, {"display_name": Counter(list_g).most_common(1)[0][0].title(), "name_list": list_g}))
-        count_edges(orig_edges, list_g)
-
-    #print(nodes)
-    edges = []
-    for k,v in edges_counter.items():
-        v['is_author'] = list(set(v['is_author']))[0]
-        v['container'] = list(set(v['container']))
-        edges.append((k[0], k[1], v))
+                        orig_edges.append([fileid, name, "false", g[0][2]])
+                    names.append([name])
+    with open("test_names.csv", "w") as namefile:
+        writer = csv.writer(namefile, delimiter="\t")
+        writer.writerows(names)
+    with open("test_edges.csv", "w") as edgefile:
+        writer2 = csv.writer(edgefile, delimiter="\t")
+        writer2.writerows(orig_edges)
+#    sorted_names = sorted(names, key=fingerprint)
+#    new_id = 100000
+#    edges_counter = {}
+#    for k,g in groupby(sorted_names, fingerprint):
+#        new_id += 1
+#        list_g = list(g)
+#        set_g = list(set(list_g))
+#        nodes.append((new_id, {"display_name": Counter(list_g).most_common(1)[0][0].title(), "name_list": set_g}))
+#        print(new_id, Counter(list_g).most_common(1)[0][0].title(), set_g)
+#        count_edges(orig_edges, list_g)
+#
+#    #print(nodes)
+#    edges = []
+#    for k,v in edges_counter.items():
+#        v['is_author'] = list(set(v['is_author']))[0]
+#        v['container'] = list(set(v['container']))
+#        edges.append((k[0], k[1], v))
     #print(edges)
 
-    G = nx.Graph()
-    G.add_nodes_from(nodes)
-    G.add_edges_from(edges)
-    nx.write_gpickle(G, 'test.pkl')
+#    G = nx.Graph()
+#    G.add_nodes_from(nodes)
+#    G.add_edges_from(edges)
+#    nx.write_gpickle(G, 'test0806.pkl')
 
     end = time.process_time()
     print(end-start)
