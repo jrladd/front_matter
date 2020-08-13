@@ -192,6 +192,13 @@ def is_name(tag):
     else:
         return False
 
+def expand_abbrev(name):
+    for k,v in abbrev.items():
+        patt = f"\\b{k.lower()}\.?\\b"
+        name = re.sub(patt, v.lower(), name.lower())
+    return name
+
+
 def fingerprint(name):
     testname = name
     if re.search(r"\bjesu", testname.lower()) != None or re.search(r"\bchrist\b", testname.lower()) != None:
@@ -277,7 +284,6 @@ if __name__ == "__main__":
     nsmap={'tei': 'http://www.tei-c.org/ns/1.0', 'ep': 'http://earlyprint.org/ns/1.0'}
     files = glob.glob("/home/data/eebotcp/texts/*/*.xml")
     parser = etree.XMLParser(collect_ids=False)
-    names = []
     orig_edges = []
     nodes = []
     for f in files:
@@ -296,14 +302,16 @@ if __name__ == "__main__":
                 if k == True:
                     name = " ".join([w for w,test,p in g])
                     if is_author(name, author):
-                        orig_edges.append([fileid, name, "true", g[0][2]])
-                    else:
-                        orig_edges.append([fileid, name, "false", g[0][2]])
-                    names.append([name])
-    with open("test_names.csv", "w") as namefile:
-        writer = csv.writer(namefile, delimiter="\t")
-        writer.writerows(names)
-    with open("test_edges.csv", "w") as edgefile:
+                        if re.fullmatch(r"([A-Z]\.\s?){2,}", name):
+                            author_name = re.sub(r"\bfl\b|\bd\.|\bb\.", "", author)
+                            author_name = re.sub(r"\d+", "", author_name)
+                            author_name = author_name.strip(",")
+                            orig_edges.append([fileid, author_name, "true", g[0][2]])
+                        else:
+                            orig_edges.append([fileid, expand_abbrev(name), "true", g[0][2]])
+                    elif re.fullmatch(r"([A-Z]\.\s?){2,}", name) == None:
+                        orig_edges.append([fileid, expand_abbrev(name), "false", g[0][2]])
+    with open("test_edges0811.csv", "w") as edgefile:
         writer2 = csv.writer(edgefile, delimiter="\t")
         writer2.writerows(orig_edges)
 #    sorted_names = sorted(names, key=fingerprint)
