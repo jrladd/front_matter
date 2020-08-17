@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-from random import choice
+from random import choice, sample
 import csv, re
 from lxml import etree
 from collections import Counter, defaultdict
@@ -23,21 +23,20 @@ init()
 nsmap={'tei': 'http://www.tei-c.org/ns/1.0', 'ep': 'http://earlyprint.org/ns/1.0'}
 parser = etree.XMLParser(collect_ids=False)
 
-x = 0
-while x < 5:
+text_sample = sample(textids, 100)
+total_tokens = 0
+for t in text_sample:
     input('Continue?')
-    random_id = choice(textids)
-    print(random_id)
-    for k,v in names_by_text[random_id].items():
-        print(k, v)
-    tree = etree.parse(f"/home/data/eebotcp/texts/{random_id[:3]}/{random_id}.xml", parser)
+    print(t)
+    tree = etree.parse(f"/home/data/eebotcp/texts/{t[:3]}/{t}.xml", parser)
     xml = tree.getroot()
     dedications = xml.findall(".//tei:*[@type='dedication']", namespaces=nsmap)
     for d in dedications:
         tokens = d.xpath(".//tei:w|.//tei:pc", namespaces=nsmap)
         highlighted = []
         for t in tokens:
-            if t.text is not None:
+            ancestors = [ancestor.tag.split("}")[-1] for ancestor in t.iterancestors()]
+            if t.text is not None and "note" not in ancestors and "bibl" not in ancestors:
                 word = t.get("reg", t.text)
                 if is_name(t):
                     highlighted.append(f"{Fore.GREEN}{word}{Style.RESET_ALL}")
@@ -49,5 +48,7 @@ while x < 5:
         #for k in names_by_text[random_id].keys():
         #    ded_text = re.sub(f"\\b{k}\\b", f"{Fore.GREEN}{k}{Style.RESET_ALL}", ded_text)
         print(ded_text)
+        total_tokens += len(highlighted)
+        print("Number of tokens:", len(highlighted))
+        print("Total so far:", total_tokens)
         print()
-    x += 1

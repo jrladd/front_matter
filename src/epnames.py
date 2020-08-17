@@ -15,6 +15,9 @@ stopwords.extend(pycorpora.geography.english_towns_cities["cities"])
 with open("data/stopwords.json", "r") as stopfile:
     stopwords.extend(json.loads(stopfile.read()))
 
+with open("data/stopwords0814.txt", "r") as stop2:
+    stopwords.extend(stop2.read().split("\n")[:-1])
+
 stopwords = [s.lower() for s in stopwords]
 
 prefixes = pycorpora.humans.prefixes["prefixes"]
@@ -296,7 +299,16 @@ if __name__ == "__main__":
             nodes.append((fileid, {"author": author, "title": title, "date": date}))
         for dedication in dedications:
             tokens = dedication.xpath(".//tei:w|.//tei:pc", namespaces=nsmap)
-            tested = [(t.get('reg', t.text), is_name(t), get_parents(t)) for t in tokens]
+            #tested = [(t.get('reg', t.text), is_name(t), get_parents(t)) for t in tokens]
+            tested = []
+            for t in tokens:
+                ancestors = [ancestor.tag.split("}")[-1] for ancestor in t.iterancestors()]
+                #if "note" in ancestors and t.text != None:
+                    #print(t.text)
+#                if "bibl" in ancestors and t.text != None:
+#                    print(t.text)
+                if "note" not in ancestors and "bibl" not in ancestors:
+                    tested.append((t.get('reg', t.text), is_name(t), get_parents(t)))
             for k,g in groupby(tested, key=lambda x:x[1]):
                 g = list(g)
                 if k == True:
@@ -311,7 +323,7 @@ if __name__ == "__main__":
                             orig_edges.append([fileid, expand_abbrev(name), "true", g[0][2]])
                     elif re.fullmatch(r"([A-Z]\.\s?){2,}", name) == None:
                         orig_edges.append([fileid, expand_abbrev(name), "false", g[0][2]])
-    with open("test_edges0811.csv", "w") as edgefile:
+    with open("test_edges0817.csv", "w") as edgefile:
         writer2 = csv.writer(edgefile, delimiter="\t")
         writer2.writerows(orig_edges)
 #    sorted_names = sorted(names, key=fingerprint)
