@@ -58,9 +58,12 @@ if __name__ == "__main__":
     people = set([e[1] for e in edges])
     texts = set([e[0] for e in edges])
     nodes = []
+    node_dict = {}
     person_id = 100001
     for p in people:
         nodes.append((person_id, {'display_name': p.title(), 'bipartite': 'person'}))
+        node_dict[p] = person_id
+        person_id += 1
     nsmap = {'tei': 'http://www.tei-c.org/ns/1.0'}
     for t in texts:
         try:
@@ -82,6 +85,7 @@ if __name__ == "__main__":
             title = 'No title listed'
             date = 'No date listed'
         nodes.append((t, {'author': author, 'title': title, 'date': date, 'bipartite': 'text'}))
+    edges = [(e[0], node_dict[e[1]], e[2]) for e in edges]
     G = nx.Graph()
     G.add_nodes_from(nodes)
     G.add_edges_from(edges)
