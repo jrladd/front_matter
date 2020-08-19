@@ -63,18 +63,23 @@ if __name__ == "__main__":
         nodes.append((person_id, {'display_name': p.title(), 'bipartite': 'person'}))
     nsmap = {'tei': 'http://www.tei-c.org/ns/1.0'}
     for t in texts:
-        tree = etree.parse(f'../epmetadata/sourcemeta/{t}_sourcemeta.xml')
-        xml = tree.getroot()
-        author_el = xml.find(".//tei:author", namespaces=nsmap)
-        if author_el != None:
-            author = author_el.text
-        else:
+        try:
+            tree = etree.parse(f'../epmetadata/sourcemeta/{t}_sourcemeta.xml')
+            xml = tree.getroot()
+            author_el = xml.find(".//tei:author", namespaces=nsmap)
+            if author_el != None:
+                author = author_el.text
+            else:
+                author = 'No author listed'
+            title = xml.find(".//tei:title", namespaces=nsmap).text
+            date_el = xml.find(".//tei:date", namespaces=nsmap)
+            if date_el != None:
+                date = date_el.get("when", date_el.get("notBefore"))
+            else:
+                date = 'No date listed'
+        except OSError:
             author = 'No author listed'
-        title = xml.find(".//tei:title", namespaces=nsmap).text
-        date_el = xml.find(".//tei:date", namespaces=nsmap)
-        if date_el != None:
-            date = date_el.get("when", date_el.get("notBefore"))
-        else:
+            title = 'No title listed'
             date = 'No date listed'
         nodes.append((t, {'author': author, 'title': title, 'date': date, 'bipartite': 'text'}))
     G = nx.Graph()
