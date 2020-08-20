@@ -1,0 +1,38 @@
+08/13/20
+
+True Positive	372
+False Positive	139
+False Negative	46
+True Negative	30585
+Total Tokens	31142
+
+Number of Texts	30
+Precision	72.79
+Recall	88.99
+F-score	80.08
+
+08/14/20
+
+True Positive	315
+False Positive	65
+False Negative	23
+True Negative	16875
+Total Tokens	17278
+
+Number of Texts	10
+Precision	82.89
+Recall	93.19
+F-score	87.74
+
+08/17/20
+
+True Positive	1414
+False Positive	295
+False Negative	77
+True Negative	88919
+Total Tokens	90705
+
+Number of Texts	100
+Precision	82.74
+Recall	94.84
+F-score	88.38
