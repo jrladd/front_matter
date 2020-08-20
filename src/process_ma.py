@@ -108,8 +108,7 @@ def retrieve_names(ma_outputs):
 
 def get_fullname(name_index, reader):
     """
-    Given a name index and a list of morphadorner outputs, return a full name token
-    from the words around it.
+    Given a name index and a list of morphadorner outputs, return a full name token from the words around it.
     """
     prefixes = pycorpora.humans.prefixes["prefixes"]
     prefixes.extend(["Mris", "Mris.", "Sr", "Sr.", "Prophet", "Honorable", "Honourable", "Master", "Alderman", "Servant", "Worshipful", "Worthy", "Noble", "Cap.", "Captain"])
