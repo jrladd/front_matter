@@ -6,23 +6,9 @@ import csv, re, time
 from itertools import groupby
 from collections import Counter, defaultdict
 
-def get_metadata(xml):
-    author = xml.find(".//ep:author", namespaces=nsmap)
-    title = xml.find(".//ep:title", namespaces=nsmap)
-    date = xml.find(".//ep:publicationYear", namespaces=nsmap)
-    if author is not None:
-        author = author.text
-    else:
-        author = ""
-    if title is not None:
-        title = title.text
-    else:
-        title = ""
-    if date is not None:
-        date = date.text
-    else:
-        date = ""
-    return author, title, date
+saints = ["Peter", "John", "Paul", "Thomas", "Andrew", "Michael", "Matthew", "Mark", "Luke"]
+kings = ["Henry", "James", "Charles", "Richard", "William", "Edward"]
+queens = ["Elizabeth", "Anne", "Katherine", "Catherine"]
 
 def count_edges(reader):
     edges_counter = {}
@@ -51,7 +37,7 @@ if __name__ == "__main__":
 
     start = time.process_time()
     #nsmap={'tei': 'http://www.tei-c.org/ns/1.0', 'ep': 'http://earlyprint.org/ns/1.0'}
-    with open("openrefine_edges0818.tsv", "r") as edgefile:
+    with open("data/openrefine_edgesjoined0826.tsv", "r") as edgefile:
         reader = csv.DictReader(edgefile, delimiter="\t")
         edges = count_edges(reader)
                 
@@ -67,7 +53,7 @@ if __name__ == "__main__":
     nsmap = {'tei': 'http://www.tei-c.org/ns/1.0'}
     for t in texts:
         try:
-            tree = etree.parse(f'../epmetadata/sourcemeta/{t}_sourcemeta.xml')
+            tree = etree.parse(f'../earlyprint/epmetadata/sourcemeta/{t}_sourcemeta.xml')
             xml = tree.getroot()
             author_el = xml.find(".//tei:author", namespaces=nsmap)
             if author_el != None:
@@ -90,7 +76,7 @@ if __name__ == "__main__":
     G.add_nodes_from(nodes)
     G.add_edges_from(edges)
     print(nx.info(G))
-    nx.write_gpickle(G, 'test0819.pkl')
+    nx.write_gpickle(G, 'data/test_joined0826.pkl')
 
     end = time.process_time()
     print(end-start)
