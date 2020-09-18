@@ -1,3 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Warmstry	Warmstry	np1	Warmstry	Warmstry	0
-.	.	.	.	.	1

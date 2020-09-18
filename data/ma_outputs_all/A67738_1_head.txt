@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-Lord	Lord	n1	Lord	lord	0
-WINDSOR	WINDSOR	np1	WINDSOR	Windsor	0
-.	.	.	.	.	1

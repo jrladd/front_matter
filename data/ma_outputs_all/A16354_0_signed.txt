@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-obliged	obliged	vvn	obliged	oblige	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutie	dutie	n1	duty	duty	0
-.	.	.	.	.	1
-E.	E.	np1	E.	E.	0
-H.	H.	np1	H.	H.	1

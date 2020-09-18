@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-servants	servants	n2	servants	servant	0
-,	,	,	,	,	0
-N.	N.	np1	N.	N.	0
-L.	L.	np1	L.	L.	0
-T.	T.	np1	T.	T.	0
-S.	S.	np1	S.	S.	0
-H.	H.	np1	H.	H.	0
-S.	S.	fw-la	S.	s.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Louing	Louing	vvg	Loving	love	0
-Father	Father	n1	Father	father	0
-KENELME	KENELME	np1	KENELME	KENELME	0
-DIGBY	DIGBY	np1	DIGBY	Digby	0
-.	.	.	.	.	1

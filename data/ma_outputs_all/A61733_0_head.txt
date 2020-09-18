@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Great	Great	j	Great	great	0
-Duke	Duke	n1	Duke	duke	0
-of	of	pp-f	of	of	0
-Tuscany	Tuscany	np1	Tuscany	Tuscany	0
-.	.	.	.	.	1

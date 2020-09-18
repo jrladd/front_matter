@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-that	that	cst	that	that	0
-live	live	vvb	live	live	0
-godly	godly	j	godly	godly	0
-in	in	p-acp	in	in	0
-CHRIST	CHRIST	np1	CHRIST	Christ	0
-JESUS	JESUS	np1	JESUS	Jesus	0
-.	.	.	.	.	1

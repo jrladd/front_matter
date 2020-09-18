@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-admired	admired	j-vvn	admired	admire	0
-of	of	pp-f	of	of	0
-Vertues	Vertues	n2	Virtues	virtue	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Clauell	Clauell	n1	Clavell	clavell	0
-.	.	.	.	.	1

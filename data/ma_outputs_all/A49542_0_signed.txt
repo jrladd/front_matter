@@ -1,3 +1,0 @@
-Charles	Charles	np1	Charles	Charles	0
-Langford	Langford	np1	Langford	Langford	0
-.	.	.	.	.	1

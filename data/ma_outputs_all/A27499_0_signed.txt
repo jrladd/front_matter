@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Debtor	Debtor	n1	Debtor	debtor	0
-in	in	p-acp	in	in	0
-this	this	d	this	this	0
-service	service	n1	service	service	0
-N.	N.	np1	N.	N.	0
-BERNARD	BERNARD	np1	BERNARD	Bernard	0
-.	.	.	.	.	1

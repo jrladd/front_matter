@@ -1,8 +1,0 @@
-Euer	Euer	av	Ever	ever	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-H.	H.	np1	H.	H.	0
-ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
-.	.	.	.	.	1

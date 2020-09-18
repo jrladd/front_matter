@@ -1,5 +1,0 @@
-Vale	Vale	n1	Vale	vale	0
-.	.	.	.	.	1
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-BEEDOME	BEEDOME	n1	BEEDOME	beedome	0
-.	.	.	.	.	1

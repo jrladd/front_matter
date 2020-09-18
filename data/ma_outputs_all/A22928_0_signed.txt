@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-devoted	devoted	j-vvn	devoted	devote	0
-E.	E.	np1	E.	E.	0
-G.	G.	np1	G.	G.	1

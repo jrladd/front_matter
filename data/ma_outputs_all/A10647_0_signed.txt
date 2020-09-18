@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-lordshippes	lordshippes	n2	lordships	lordship	0
-humble	humble	j	humble	humble	0
-ser	ser	zz	ser	ser	0
-∣	∣	sy	∣	∣	0
-uaunt	uaunt	n1	vaunt	vaunt	0
-Richard	Richard	np1	Richard	Richard	0
-Rainolde	Rainolde	np1	Rainolde	Rainolde	0
-▪	▪	▪	▪	▪	1

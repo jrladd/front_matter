@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-fellow	fellow	n1	fellow	fellow	0
-trauailer	trauailer	n1	traveler	traveller	0
-,	,	,	,	,	0
-Baptist	Baptist	np1	Baptist	Baptist	0
-Goodall	Goodall	np1	Goodall	Goodall	0
-.	.	.	.	.	1

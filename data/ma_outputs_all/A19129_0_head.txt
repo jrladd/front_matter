@@ -1,8 +1,0 @@
-Io.	Io.	np1	Io.	Io.	0
-Colet	Colet	np1	Colet	Colet	0
-.	.	.	.	.	0
-suo	suo	fw-la	suo	suo	0
-Lilio	Lilio	fw-la	Lilio	lilio	0
-,	,	,	,	,	0
-Salutem	Salutem	fw-la	Salutem	salutem	0
-.	.	.	.	.	1

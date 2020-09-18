@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-KEMP	KEMP	np1	KEMP	Kemp	0
-.	.	.	.	.	1

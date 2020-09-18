@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-euer	euer	av	ever	ever	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Seruant	Seruant	n1	Servant	servant	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-VV.	VV.	np1	VV.	VV.	1

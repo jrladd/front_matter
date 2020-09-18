@@ -1,7 +1,0 @@
-¶	¶	¶	¶	¶	0
-Youre	Youre	pn22|vbr	Your	you|be	0
-poore	poore	j	poor	poor	0
-oratour	oratour	n1	orator	orator	0
-Iohn	Iohn	np1	Iohn	John	0
-Verou	Verou	np1	Verou	Verou	0
-.	.	.	.	.	1

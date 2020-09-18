@@ -1,8 +1,0 @@
-D.	D.	np1	D.	D.	0
-IACOBO	IACOBO	np1	IACOBO	IACOBO	0
-FVLLARTONO	FVLLARTONO	np1	FVLLARTONO	FVLLARTONO	0
-,	,	,	,	,	0
-Hero	Hero	np1	Hero	Hero	0
-suo	suo	fw-la	suo	suo	0
-meritissimo	meritissimo	fw-la	meritissimo	meritissimo	0
-.	.	.	.	.	1

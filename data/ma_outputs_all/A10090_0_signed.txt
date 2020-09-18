@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-poorest	poorest	js	poorest	poor	0
-Subiect	Subiect	n-jn	Subject	subject	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-PRICKET	PRICKET	n1	PRICKET	pricket	1

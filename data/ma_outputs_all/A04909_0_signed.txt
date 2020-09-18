@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-WILL	WILL	n1	WILL	will	0
-.	.	.	.	.	1
-BARRIFF	BARRIFF	np1	BARRIFF	BARRIFF	0
-.	.	.	.	.	1

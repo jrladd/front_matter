@@ -1,6 +1,0 @@
-John	John	np1	John	John	0
-Dashfield	Dashfield	np1	Dashfield	Dashfield	0
-wisheth	wisheth	vvz	wishes	wish	0
-all	all	d	all	all	0
-Happinesse	Happinesse	n1	Happiness	happiness	0
-.	.	.	.	.	1

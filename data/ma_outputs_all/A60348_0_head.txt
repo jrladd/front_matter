@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-REVEREND	REVEREND	n-jn	REVEREND	reverend	0
-Mr.	Mr.	n1	Mr.	mr.	0
-STEVEN	STEVEN	np1	STEVEN	Steven	0
-LOBB	LOBB	np1	LOBB	Lobb	0
-.	.	.	.	.	1

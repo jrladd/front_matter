@@ -1,3 +1,0 @@
-Guil.	Guil.	np1	Guil.	Guil.	0
-Nicolson	Nicolson	np1	Nicolson	Nicolson	0
-.	.	.	.	.	1

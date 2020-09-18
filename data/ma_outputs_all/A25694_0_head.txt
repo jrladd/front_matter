@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-Dearest	Dearest	js-jn	Dearest	dear	0
-Sister	Sister	n1	Sister	sister	0
-,	,	,	,	,	0
-Mrs.	Mrs.	n1	Mrs.	mrs.	0
-M.	M.	n1	M.	m.	0
-VV.	VV.	np1	VV.	VV.	1

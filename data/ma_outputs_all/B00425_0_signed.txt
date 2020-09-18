@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-MAYO	MAYO	np1	MAYO	Mayo	0
-.	.	.	.	.	1

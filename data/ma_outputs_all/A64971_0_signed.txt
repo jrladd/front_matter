@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-truly	truly	av-j	truly	true	0
-loving	loving	j-vvg	loving	love	0
-Brother	Brother	n1	Brother	brother	0
-Nathanael	Nathanael	np1	Nathanael	Nathanael	0
-Vincent	Vincent	np1	Vincent	Vincent	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-your	your	po22	your	your	0
-most	most	av-ds	most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Minister	Minister	n1	Minister	minister	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Aston	Aston	np1	Aston	Aston	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Tho.	Tho.	np1	Tho.	Tho.	0
-Dilke	Dilke	np1	Dilke	Dilke	0
-.	.	.	.	.	1

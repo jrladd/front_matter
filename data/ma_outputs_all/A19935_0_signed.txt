@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-L.	L.	n1	L.	lord	0
-at	at	p-acp	at	at	0
-commaundement	commaundement	n1	commandment	commandment	0
-E.	E.	np1	E.	E.	0
-W.	W.	np1	W.	W.	1

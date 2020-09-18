@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
-Sir	Sir	n1	Sir	sir	0
-John	John	np1	John	John	0
-Roberts	Roberts	np1	Roberts	Roberts	0
-BARONETT	BARONETT	np1	BARONETT	BARONETT	0
-.	.	.	.	.	1

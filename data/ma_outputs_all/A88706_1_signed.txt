@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-all	all	d	all	all	0
-Civilities	Civilities	n2	Civilities	civility	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Larkin	Larkin	np1	Larkin	Larkin	0
-.	.	.	.	.	1

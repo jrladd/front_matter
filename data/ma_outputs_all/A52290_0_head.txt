@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-School-Fellows	School-Fellows	n2	School-Fellows	schoolfellow	0
-Bred	Bred	vvn	Bred	breed	0
-at	at	p-acp	at	at	0
-St.	St.	n1	St.	saint	1
-Paul's	Paul's	npg1	Paul's	Paul	0
-School	School	n1	School	school	0
-.	.	.	.	.	1

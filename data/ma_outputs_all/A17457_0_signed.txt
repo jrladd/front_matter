@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Vertues	Vertues	ng1	Virtues	virtue	0
-honorer	honorer	n1	honorer	honourer	0
-and	and	cc	and	and	0
-Obseruer	Obseruer	n1	Observer	observer	0
-:	:	:	:	:	0
-I.	I.	uh	I	i	0
-C.	C.	np1	C.	C.	1

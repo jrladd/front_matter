@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Two	Two	crd	Two	two	0
-Honourable	Honourable	j	Honourable	honourable	0
-Houses	Houses	n2	Houses	house	0
-.	.	.	.	.	1

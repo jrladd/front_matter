@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-dutifull	dutifull	j	dutiful	dutiful	0
-debtor	debtor	n1	debtor	debtor	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-ROBINSON	ROBINSON	np1	ROBINSON	Robinson	0
-.	.	.	.	.	1

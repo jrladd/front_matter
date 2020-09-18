@@ -1,9 +1,0 @@
-ILLVSTRISSIMO	ILLVSTRISSIMO	fw-la	ILLVSTRISSIMO	illvstrissimo	0
-ET	ET	fw-la	ET	et	0
-EXCELLENTISSIMO	EXCELLENTISSIMO	fw-la	EXCELLENTISSIMO	excellentissimo	0
-HEROI	HEROI	np1	HEROI	HEROI	0
-,	,	,	,	,	0
-Dno	Dno	fw-la	Dno	dno	0
-.	.	.	.	.	1
-Conrado	Conrado	np1	Conrado	Conrado	0
-,	,	,	,	,	1

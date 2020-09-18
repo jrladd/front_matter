@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Neighbour	Neighbour	n1	Neighbour	neighbour	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Long	Long	av-j	Long	long	0
-.	.	.	.	.	1

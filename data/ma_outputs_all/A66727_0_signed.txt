@@ -1,3 +1,0 @@
-Ri.	Ri.	np1	Ri.	Ri.	0
-Wiseman	Wiseman	n1	Wiseman	wiseman	0
-.	.	.	.	.	1

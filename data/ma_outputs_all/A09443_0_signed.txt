@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	n2	Ladyships	ladyship	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Pierson	Pierson	np1	Pierson	Pierson	0
-.	.	.	.	.	1

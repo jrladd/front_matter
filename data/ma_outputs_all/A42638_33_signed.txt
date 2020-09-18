@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-B.	B.	np1	B.	B.	0
-Gerbier	Gerbier	np1	Gerbier	Gerbier	0
-.	.	.	.	.	1

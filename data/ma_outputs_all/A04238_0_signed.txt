@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutie	dutie	n1	duty	duty	0
-:	:	:	:	:	0
-IOHN	IOHN	np1	IOHN	John	0
-BARLOVV	BARLOVV	np1	BARLOVV	BARLOVV	0
-.	.	.	.	.	1

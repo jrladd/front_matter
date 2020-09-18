@@ -1,7 +1,0 @@
-Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
-Vestrae	Vestrae	np1	Vestrae	Vestrae	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-,	,	,	,	,	0
-HENRICUS	HENRICUS	fw-la	HENRICUS	henricus	0
-WHARTON	WHARTON	zz	WHARTON	wharton	0
-.	.	.	.	.	1

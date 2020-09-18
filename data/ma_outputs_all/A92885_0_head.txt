@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-Young	Young	j	Young	young	0
-Persons	Persons	n2	Persons	person	0
-.	.	.	.	.	1

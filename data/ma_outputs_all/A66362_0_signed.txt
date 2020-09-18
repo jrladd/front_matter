@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-daily	daily	j	daily	daily	0
-Orator	Orator	n1	Orator	orator	0
-,	,	,	,	,	0
-Gr.	Gr.	np1	Gr.	Gr.	0
-Ossory	Ossory	np1	Ossory	Ossory	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-VENERVS	VENERVS	np1	VENERVS	VENERVS	0
-Med.	Med.	np1	Med.	Med.	0
-Dr.	Dr.	n1	Dr.	dr.	1

@@ -1,5 +1,0 @@
-Vestrum	Vestrum	np1	Vestrum	Vestrum	0
-observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
-WYE	WYE	np1	WYE	Wye	0
-SALTONSTALL	SALTONSTALL	np1	SALTONSTALL	Saltonstall	0
-.	.	.	.	.	1

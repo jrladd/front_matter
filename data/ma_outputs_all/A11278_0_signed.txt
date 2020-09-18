@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-wellwisher	wellwisher	n1	wellwisher	wellwisher	0
-of	of	pp-f	of	of	0
-your	your	po22	your	your	0
-health	health	n1	health	health	0
-IOHN	IOHN	np1	IOHN	John	0
-SADLER	SADLER	np1	SADLER	Sadler	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Gospel	Gospel	n1	Gospel	gospel	0
-John	John	np1	John	John	0
-Brayn	Brayn	n1	Brain	brain	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Bro.	Bro.	np1	Bro.	Bro.	0
-Bartho	Bartho	np1	Bartho	Bartho	0
-.	.	.	.	.	1
-Traheron	Traheron	np1	Traheron	Traheron	0
-.	.	.	.	.	1

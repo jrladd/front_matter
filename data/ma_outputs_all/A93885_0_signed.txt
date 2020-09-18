@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-loving	loving	j-vvg	loving	love	0
-Brother	Brother	n1	Brother	brother	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-S.	S.	np1	S.	S.	1

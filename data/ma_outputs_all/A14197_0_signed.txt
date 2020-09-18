@@ -1,8 +1,0 @@
-Celsitudini	Celsitudini	np1	Celsitudini	Celsitudini	0
-vestrae	vestrae	fw-la	vestrae	vestrae	0
-Humillime	Humillime	n1	Humillime	humillime	0
-addictus	addictus	fw-la	addictus	addictus	0
-.	.	.	.	.	1
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-VDNEYVS	VDNEYVS	np1	VDNEYVS	VDNEYVS	0
-.	.	.	.	.	1

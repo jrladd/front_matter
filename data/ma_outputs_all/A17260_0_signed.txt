@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-to	to	pc-acp	to	to	0
-vse	vse	vvi	use	use	0
-,	,	,	,	,	0
-Signior	Signior	n1	Signior	signior	0
-Valesco	Valesco	np1	Valesco	Valesco	0
-.	.	.	.	.	1

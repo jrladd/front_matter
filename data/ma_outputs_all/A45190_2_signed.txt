@@ -1,4 +1,0 @@
-JOS	JOS	np1	JOS	Jos	0
-.	.	.	.	.	1
-HALL	HALL	n1	HALL	hall	0
-.	.	.	.	.	1

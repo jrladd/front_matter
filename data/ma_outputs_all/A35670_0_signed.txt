@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Dennis	Dennis	np1	Dennis	Dennis	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-ever	ever	av	ever	ever	0
-,	,	,	,	,	0
-Mismaxis	Mismaxis	np1	Mismaxis	Mismaxis	0
-.	.	.	.	.	1

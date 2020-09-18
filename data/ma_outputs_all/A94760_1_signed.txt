@@ -1,4 +1,0 @@
-Fr.	Fr.	np1	Fr.	Fr.	0
-Arcangelo	Arcangelo	np1	Arcangelo	Arcangelo	0
-Tortello	Tortello	np1	Tortello	Tortello	0
-.	.	.	.	.	1

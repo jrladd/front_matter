@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-G-S	G-S	j	G-S	g-s	0
-.	.	.	.	.	1
-W.	W.	np1	W.	W.	0
-G.	G.	np1	G.	G.	1

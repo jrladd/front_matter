@@ -1,4 +1,0 @@
-Dixi	Dixi	np1	Dixi	Dixi	0
-Henry	Henry	np1	Henry	Henry	0
-Morelye	Morelye	av-j	Morelye	morelye	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worthy	worthy	j	worthy	worthy	0
-Society	Society	n1	Society	society	0
-of	of	pp-f	of	of	0
-Mercers	Mercers	n2	Mercers	mercer	0
-.	.	.	.	.	1

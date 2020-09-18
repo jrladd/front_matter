@@ -1,4 +1,0 @@
-Omnia	Omnia	fw-la	Omnia	omnia	0
-functa	functa	fw-la	functa	functa	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

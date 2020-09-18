@@ -1,6 +1,0 @@
-Euer	Euer	av	Ever	ever	0
-bounden	bounden	vvn	bounden	bind	0
-to	to	p-acp	to	to	0
-your	your	po22	your	your	0
-worship	worship	n1	worship	worship	0
-.	.	.	.	.	1

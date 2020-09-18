@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Unbaptized	Unbaptized	j-vvn	Unbaptized	unbaptize	0
-IN	IN	p-acp	IN	in	0
-England	England	np1	England	England	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

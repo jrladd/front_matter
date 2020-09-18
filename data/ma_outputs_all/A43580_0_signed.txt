@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Cordial	Cordial	j	Cordial	cordial	0
-,	,	,	,	,	0
-Well-wishing	Well-wishing	j	Wellwishing	wellwishing	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-O.H.	O.H.	np1	O.H.	O.H.	1

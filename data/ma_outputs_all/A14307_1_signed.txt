@@ -1,8 +1,0 @@
-be	be	vbb	be	be	0
-the	the	dt	the	the	0
-Seruant	Seruant	n1	Servant	servant	0
-your	your	po22	your	your	0
-commands	commands	n2	commands	command	0
-,	,	,	,	,	0
-VAVTOR	VAVTOR	n1	VAVTOR	vavtor	0
-.	.	.	.	.	1

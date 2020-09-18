@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-and	and	cc	and	and	0
-Pious	Pious	j	Pious	pious	0
-Dr.	Dr.	n1	Dr.	dr.	0
-SAMƲEL	SAMƲEL	av	SAMƲEL	samʋel	0
-ANNESLY	ANNESLY	av-j	ANNESLY	annes	0
-.	.	.	.	.	1

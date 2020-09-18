@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-commaund	commaund	n1	command	command	0
-Arthur	Arthur	np1	Arthur	Arthur	0
-Saul	Saul	np1	Saul	Saul	0
-.	.	.	.	.	1

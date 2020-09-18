@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Sir	Sir	n1	Sir	sir	0
-William	William	np1	William	William	0
-Kenricke	Kenricke	np1	Kenricke	Kenricke	0
-BARONET	BARONET	n1	BARONET	baronet	0
-.	.	.	.	.	1

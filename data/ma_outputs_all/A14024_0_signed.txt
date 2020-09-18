@@ -1,2 +1,0 @@
-George	George	np1	George	George	0
-Turberuile	Turberuile	np1	Turberuile	Turberuile	1

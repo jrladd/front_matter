@@ -1,8 +1,0 @@
-MOST	MOST	av-ds	MOST	most	0
-EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
-AND	AND	cc	AND	and	0
-RENOW	RENOW	av	RENOW	renow	0
-∣	∣	sy	∣	∣	0
-NED	NED	np1	NED	Ned	0
-SOVERAIGNE	SOVERAIGNE	j-jn	SOVEREIGN	sovereign	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
-OSBORN	OSBORN	np1	OSBORN	Osborn	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-to	to	p-acp	to	to	0
-whom	whom	ro-crq	whom	who	0
-I	I	pns11	I	i	0
-write	write	vvb	write	write	0
-,	,	,	,	,	1

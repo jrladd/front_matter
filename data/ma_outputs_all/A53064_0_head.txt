@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-PROFESSORS	PROFESSORS	n2	PROFESSORS	professor	0
-OF	OF	pp-f	OF	of	0
-Learning	Learning	n1	Learning	learning	0
-and	and	cc	and	and	0
-Art.	Art.	n1	Art.	art	1

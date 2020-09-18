@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-humbly	humbly	av-j	humbly	humble	0
-at	at	p-acp	at	at	0
-command	command	n1	command	command	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-BARRET	BARRET	np1	BARRET	Barret	0
-.	.	.	.	.	1

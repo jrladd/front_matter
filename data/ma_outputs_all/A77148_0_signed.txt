@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-welfares	welfares	ng1	welfares	welfares	0
-faithfull	faithfull	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-EDW	EDW	np1	EDW	Edw	0
-:	:	:	:	:	0
-BOVVLES	BOVVLES	n2	BOVVLES	bovvle	0
-.	.	.	.	.	1

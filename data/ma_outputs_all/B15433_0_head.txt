@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-right	right	n-jn	right	right	0
-VVorshipfull	VVorshipfull	j	Worshipful	worshipful	0
-,	,	,	,	,	0
-S.	S.	n1	S.	saint	0
-S.	S.	np1	S.	S.	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

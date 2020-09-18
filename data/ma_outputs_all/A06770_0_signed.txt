@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-affectioned	affectioned	j-vvn	affectioned	affection	0
-freend	freend	n1	friend	friend	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-Nicholas	Nicholas	np1	Nicholas	Nicholas	0
-Malbie	Malbie	np1	Malbie	Malbie	0
-.	.	.	.	.	1

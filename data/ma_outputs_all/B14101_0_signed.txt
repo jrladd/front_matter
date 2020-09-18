@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-vnfained	vnfained	j	unfeigned	unfeigned	0
-affectionate	affectionate	j	affectionate	affectionate	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-H.	H.	np1	H.	H.	1

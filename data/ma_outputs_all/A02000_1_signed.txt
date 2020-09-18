@@ -1,7 +1,0 @@
-Bernat	Bernat	np1	Bernat	Bernat	0
-Cusana	Cusana	np1	Cusana	Cusana	0
-kisses	kisses	vvz	kisses	kiss	0
-your	your	po22	your	your	0
-Honours	Honours	ng1	Honours	honour	0
-hands	hands	n2	hands	hand	0
-.	.	.	.	.	1

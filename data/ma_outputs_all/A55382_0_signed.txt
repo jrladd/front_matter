@@ -1,8 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-Servant	Servant	n1	Servant	servant	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Gospel	Gospel	n1	Gospel	gospel	0
-,	,	,	,	,	0
-M.	M.	n1	M.	m.	0
-P.	P.	np1	P.	P.	1

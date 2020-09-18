@@ -1,3 +1,0 @@
-Aylmor	Aylmor	np1	Aylmor	Aylmor	0
-Houghton	Houghton	np1	Houghton	Houghton	0
-,	,	,	,	,	1

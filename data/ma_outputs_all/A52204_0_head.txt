@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-and	and	cc	and	and	0
-Learned	Learned	j	Learned	learned	0
-Author	Author	n1	Author	author	0
-.	.	.	.	.	1

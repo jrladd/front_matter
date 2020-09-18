@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Truly	Truly	av-j	Truly	true	0
-Honoured	Honoured	vvn	Honoured	honour	0
-,	,	,	,	,	0
-The	The	dt	The	the	0
-LADY	LADY	n1	LADY	lady	0
-J.	J.	np1	J.	J.	0
-C.	C.	np1	C.	C.	1

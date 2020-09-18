@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-euer	euer	av	ever	ever	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-seruaunt	seruaunt	n1	servant	servant	0
-Michaell	Michaell	np1	Michaell	Michael	0
-Drayton	Drayton	np1	Drayton	Drayton	0
-.	.	.	.	.	1

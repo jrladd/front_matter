@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-Most	Most	av-ds	Most	most	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Wallis	Wallis	np1	Wallis	Wallis	0
-.	.	.	.	.	1

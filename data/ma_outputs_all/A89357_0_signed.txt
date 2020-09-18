@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-,	,	,	,	,	0
-Amadis	Amadis	np1	Amadis	Amadis	0
-of	of	pp-f	of	of	0
-Greece	Greece	np1	Greece	Greece	0
-.	.	.	.	.	1

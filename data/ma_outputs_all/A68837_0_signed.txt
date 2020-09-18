@@ -1,3 +1,0 @@
-Otho	Otho	np1	Otho	Otho	0
-Vaenius	Vaenius	np1	Vaenius	Vaenius	0
-.	.	.	.	.	1

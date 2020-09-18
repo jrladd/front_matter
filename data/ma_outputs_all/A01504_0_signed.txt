@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-poore	poore	j	poor	poor	0
-freende	freende	n1	friend	friend	0
-:	:	:	:	:	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Garrard	Garrard	np1	Garrard	Garrard	0
-.	.	.	.	.	1

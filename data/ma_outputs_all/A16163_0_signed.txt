@@ -1,8 +1,0 @@
-Thine	Thine	po21	Thine	thy	0
-in	in	n1	in	inn	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Byrd	Byrd	np1	Byrd	Byrd	0
-.	.	.	.	.	1

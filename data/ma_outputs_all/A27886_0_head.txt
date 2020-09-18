@@ -1,8 +1,0 @@
-THE	THE	dt	THE	the	0
-DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
-,	,	,	,	,	0
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-THE	THE	dt	THE	the	0
-WORLD	WORLD	n1	WORLD	world	0
-,	,	,	,	,	1

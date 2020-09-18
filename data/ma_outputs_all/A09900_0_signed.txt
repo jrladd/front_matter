@@ -1,7 +1,0 @@
-Lutum	Lutum	fw-la	Lutum	lutum	0
-Inmanu	Inmanu	fw-la	Inmanu	inmanu	0
-Fictoris	Fictoris	np1	Fictoris	Fictoris	0
-:	:	:	:	:	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-POVVELL	POVVELL	np1	POVVELL	POVVELL	0
-.	.	.	.	.	1

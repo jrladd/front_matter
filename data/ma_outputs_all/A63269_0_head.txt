@@ -1,8 +1,0 @@
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-.	.	.	.	.	1
-To	To	p-acp	To	to	0
-a	a	dt	a	a	0
-Pensive	Pensive	j	Pensive	pensive	0
-Disconsolate	Disconsolate	j	Disconsolate	disconsolate	0
-SOƲL	SOƲL	n1	SOƲL	soʋl	0
-.	.	.	.	.	1

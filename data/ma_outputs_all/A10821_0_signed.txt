@@ -1,3 +1,0 @@
-LEWES	LEWES	np1	LEWES	Lewes	0
-ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
-.	.	.	.	.	1

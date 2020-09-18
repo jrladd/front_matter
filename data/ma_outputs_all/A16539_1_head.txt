@@ -1,4 +1,0 @@
-A	A	dt	A	a	0
-LA	LA	fw-fr	LA	la	0
-RYÖNE	RYÖNE	np1	RYÖNE	RYÖNE	0
-,	,	,	,	,	1

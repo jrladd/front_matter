@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Faithful	Faithful	j	Faithful	faithful	0
-and	and	cc	and	and	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Servant	Servant	n1	Servant	servant	0
-JOHN	JOHN	np1	JOHN	John	0
-CHICHESTER	CHICHESTER	np1	CHICHESTER	Chichester	0
-.	.	.	.	.	1

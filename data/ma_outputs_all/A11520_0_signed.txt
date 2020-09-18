@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-sincerely	sincerely	av-j	sincerely	sincere	0
-and	and	cc	and	and	0
-thankefully	thankefully	av-j	thankfully	thankful	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-C.	C.	np1	C.	C.	0
-P.	P.	np1	P.	P.	1

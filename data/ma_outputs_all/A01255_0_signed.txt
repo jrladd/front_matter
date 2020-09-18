@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-entire	entire	j	entire	entire	0
-Louing	Louing	vvg	Loving	love	0
-brother	brother	n1	brother	brother	0
-.	.	.	.	.	1
-Fran.	Fran.	np1	Fran.	Fran.	0
-Bacon	Bacon	n1	Bacon	bacon	0
-.	.	.	.	.	1

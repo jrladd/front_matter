@@ -1,9 +1,0 @@
-Z.	Z.	np1	Z.	Z.	0
-C.	C.	np1	C.	C.	0
-Wisheth	Wisheth	n2	Wishes	wish	0
-the	the	dt	the	the	0
-Blessing	Blessing	n1	Blessing	blessing	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-Peace-maker	Peace-maker	n1	Peacemaker	peacemaker	0
-.	.	.	.	.	1

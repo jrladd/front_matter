@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-Stephen	Stephen	np1	Stephen	Stephen	0
-Marshall	Marshall	np1	Marshall	Marshall	0
-.	.	.	.	.	1

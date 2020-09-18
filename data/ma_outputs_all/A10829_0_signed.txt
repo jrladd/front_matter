@@ -1,6 +1,0 @@
-In	In	p-acp	In	in	0
-Christ	Christ	np1	Christ	Christ	0
-IESVS	IESVS	np1	IESVS	IESVS	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-F.	F.	np1	F.	F.	1

@@ -1,6 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Heath	Heath	n1	Heath	heath	0
-.	.	.	.	.	1
-Thomas	Thomas	np1	Thomas	Thomas	0
-Rosewell	Rosewell	np1	Rosewell	Rosewell	0
-.	.	.	.	.	1

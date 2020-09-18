@@ -1,3 +1,0 @@
-JOHANNES	JOHANNES	np1	JOHANNES	Johannes	0
-ELLIS	ELLIS	np1	ELLIS	Ellis	0
-.	.	.	.	.	1

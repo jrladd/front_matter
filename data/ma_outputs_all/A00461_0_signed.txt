@@ -1,9 +1,0 @@
-Amplitudinis	Amplitudinis	fw-la	Amplitudinis	amplitudinis	0
-tuae	tuae	fw-la	tuae	tuus	0
-seruus	seruus	fw-la	seruus	seruus	0
-à	à	fw-fr	à	à	0
-sacris	sacris	fw-la	sacris	sacris	0
-infimus	infimus	fw-la	infimus	infimus	0
-Ioannes	Ioannes	np1	Ioannes	Johannes	0
-Euerardus	Euerardus	np1	Euerardus	Euerardus	0
-.	.	.	.	.	1

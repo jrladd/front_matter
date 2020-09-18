@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-commaund	commaund	n1	command	command	0
-R.	R.	np1	R.	R.	0
-V.	V.	np1	V.	V.	1

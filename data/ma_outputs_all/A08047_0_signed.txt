@@ -1,7 +1,0 @@
-Thine	Thine	po21	Thine	thy	0
-in	in	n1	in	inn	0
-Christ	Christ	np1	Christ	Christ	0
-Iesus	Iesus	np1	Iesus	Jesus	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-.	.	.	.	.	1

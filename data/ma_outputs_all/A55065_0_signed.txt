@@ -1,8 +1,0 @@
-I	I	pns11	I	i	0
-am	am	vbm	am	be	0
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1
-John	John	np1	John	John	0
-Palmer	Palmer	n1	Palmer	palmer	0
-.	.	.	.	.	1

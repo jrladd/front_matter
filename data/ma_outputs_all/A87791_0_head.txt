@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-Master	Master	n1	Master	master	0
-ZACH	ZACH	np1	ZACH	Zach	0
-.	.	.	.	.	1
-NOCTROFFE	NOCTROFFE	np1	NOCTROFFE	NOCTROFFE	0
-.	.	.	.	.	1

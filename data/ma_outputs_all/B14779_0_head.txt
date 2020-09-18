@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Gentleman	Gentleman	n1	Gentleman	gentleman	0
-of	of	pp-f	of	of	0
-condigne	condigne	j	condign	condign	0
-desert	desert	n1	desert	desert	0
-William	William	np1	William	William	0
-Bellasses	Bellasses	n2	Bellasses	bellass	0
-.	.	.	.	.	1

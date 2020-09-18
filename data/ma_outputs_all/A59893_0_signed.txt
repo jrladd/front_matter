@@ -1,4 +1,0 @@
-WILL	WILL	n1	WILL	will	0
-.	.	.	.	.	1
-SHERLOCK	SHERLOCK	np1	SHERLOCK	Sherlock	0
-.	.	.	.	.	1

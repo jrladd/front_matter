@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-SMITH	SMITH	n1	SMITH	smith	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-unworthy	unworthy	j	unworthy	unworthy	0
-servant	servant	n1	servant	servant	0
-EDW	EDW	np1	EDW	Edw	0
-.	.	.	.	.	1
-CORBEETT	CORBEETT	vvi	CORBEETT	corbeett	0
-.	.	.	.	.	1

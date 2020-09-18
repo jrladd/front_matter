@@ -1,7 +1,0 @@
-Tui	Tui	fw-la	Tui	tui	0
-honoris	honoris	fw-la	honoris	honoris	0
-obseruantissimus	obseruantissimus	fw-la	obseruantissimus	obseruantissimus	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Pearston	Pearston	np1	Pearston	Pearston	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Sir	Sir	n1	Sir	sir	0
-CHARLES	CHARLES	np1	CHARLES	Charles	0
-SIDLEY	SIDLEY	np1	SIDLEY	Sidley	0
-BARONET	BARONET	n1	BARONET	baronet	0
-.	.	.	.	.	1

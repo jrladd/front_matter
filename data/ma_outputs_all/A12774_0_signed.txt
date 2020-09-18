@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	n2	Ladyships	ladyship	0
-euer	euer	av	ever	ever	0
-humblie	humblie	av-j	humbly	humble	0
-at	at	p-acp	at	at	0
-commaund	commaund	n1	command	command	0
-.	.	.	.	.	1
-E.	E.	np1	E.	E.	0
-S.	S.	np1	S.	S.	1

@@ -1,7 +1,0 @@
-Supereminentiae	Supereminentiae	fw-la	Supereminentiae	supereminentiae	0
-tuae	tuae	fw-la	tuae	tuus	0
-Cultor	Cultor	np1	Cultor	Cultor	0
-humillimus	humillimus	fw-la	humillimus	humillimus	0
-.	.	.	.	.	1
-H.	H.	np1	H.	H.	0
-S.	S.	np1	S.	S.	1

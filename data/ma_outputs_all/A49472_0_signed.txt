@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-meanest	meanest	js	meanest	mean	0
-servant	servant	n1	servant	servant	0
-DONALD	DONALD	np1	DONALD	Donald	0
-LUPTON	LUPTON	np1	LUPTON	Lupton	0
-.	.	.	.	.	1

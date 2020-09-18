@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-surest	surest	js	surest	sure	0
-bond	bond	n1	bound	bond	0
-,	,	,	,	,	0
-EZ	EZ	np1	EZ	EZ	0
-.	.	.	.	.	1
-Ch.	Ch.	np1	Ch.	Ch.	1

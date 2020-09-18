@@ -1,9 +1,0 @@
-All	All	av-d	All	all	0
-your	your	po22	your	your	0
-Honours	Honours	ng1	Honours	honour	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-Alexander	Alexander	np1	Alexander	Alexander	0
-Neuile	Neuile	np1	Neuile	Neuile	0
-.	.	.	.	.	1

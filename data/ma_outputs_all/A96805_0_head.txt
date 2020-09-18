@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-,	,	,	,	,	0
-THE	THE	dt	THE	the	0
-LORD	LORD	n1	LORD	lord	0
-ROCKINGHAM	ROCKINGHAM	np1	ROCKINGHAM	Rockingham	0
-.	.	.	.	.	1

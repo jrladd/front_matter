@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-faithful	faithful	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Matth	Matth	av	Matth	matth	0
-Mead.	Mead.	np1	Mead.	Mead.	1

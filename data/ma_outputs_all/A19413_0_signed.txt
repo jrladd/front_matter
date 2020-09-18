@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-CRASHAVVE	CRASHAVVE	n1	CRASHAVVE	crashavve	0
-.	.	.	.	.	1

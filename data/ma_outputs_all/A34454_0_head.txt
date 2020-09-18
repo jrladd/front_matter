@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-dear	dear	j-jn	dear	dear	0
-BROTHER	BROTHER	n1	BROTHER	brother	0
-Major	Major	j	Major	major	0
-Francis	Francis	np1	Francis	Francis	0
-Manley	Manley	np1	Manley	Manley	0
-.	.	.	.	.	1

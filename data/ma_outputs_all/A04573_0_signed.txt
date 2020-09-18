@@ -1,3 +1,0 @@
-Ro.	Ro.	np1	Ro.	Ro.	0
-Johnson	Johnson	np1	Johnson	Johnson	0
-.	.	.	.	.	1

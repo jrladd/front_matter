@@ -1,4 +1,0 @@
-Of	Of	pp-f	Of	of	0
-the	the	dt	the	the	0
-Booke	Booke	n1	Book	book	0
-.	.	.	.	.	1

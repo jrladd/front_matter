@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Spittlehouse	Spittlehouse	n1	Spittlehouse	spittlehouse	0
-.	.	.	.	.	1

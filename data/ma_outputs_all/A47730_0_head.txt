@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-THE	THE	dt	THE	the	0
-Lord	Lord	n1	Lord	lord	0
-BUCKHURST	BUCKHURST	np1	BUCKHURST	Buckhurst	0
-.	.	.	.	.	1

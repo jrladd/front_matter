@@ -1,9 +1,0 @@
-I	I	pns11	I	i	0
-remain	remain	vvb	remain	remain	0
-Yours	Yours	png22	Yours	you	0
-to	to	pc-acp	to	to	0
-serve	serve	vvi	serve	serve	0
-You.	You.	pn22	You.	you	0
-T.	T.	np1	T.	T.	0
-ELBOROWE	ELBOROWE	n1	ELBOROWE	elborowe	0
-.	.	.	.	.	1

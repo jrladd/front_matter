@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Habington	Habington	np1	Habington	Habington	0
-.	.	.	.	.	1

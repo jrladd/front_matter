@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-much	much	av-d	much	much	0
-obliged	obliged	vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Alex.	Alex.	np1	Alex.	Alex.	0
-Brome	Brome	np1	Brome	Brome	0
-.	.	.	.	.	1

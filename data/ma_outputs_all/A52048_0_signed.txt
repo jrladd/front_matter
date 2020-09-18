@@ -1,9 +1,0 @@
-Subscribing	Subscribing	vvg	Subscribing	subscribe	0
-my	my	po11	my	my	0
-selfe	selfe	n1	self	self	0
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-GILES	GILES	np1	GILES	Giles	0
-FIRMIN	FIRMIN	np1	FIRMIN	Firmin	0
-.	.	.	.	.	1

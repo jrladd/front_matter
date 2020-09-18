@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Compatriot	Compatriot	n1	Compatriot	compatriot	0
-,	,	,	,	,	0
-MONMOUTH	MONMOUTH	np1	MONMOUTH	Monmouth	0
-.	.	.	.	.	1

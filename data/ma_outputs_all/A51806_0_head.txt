@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Dr	Dr	zz	Dr	dr	0
-HENRY	HENRY	np1	HENRY	Henry	0
-NEWTON	NEWTON	np1	NEWTON	Newton	0
-.	.	.	.	.	1

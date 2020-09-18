@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-euer	euer	av	ever	ever	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-.	.	.	.	.	1
-Thomas	Thomas	np1	Thomas	Thomas	0
-Morrice	Morrice	np1	Morrice	Morrice	0
-.	.	.	.	.	1

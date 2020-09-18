@@ -1,3 +1,0 @@
-Moses	Moses	np1	Moses	Moses	0
-Cook	Cook	n1	Cook	cook	0
-.	.	.	.	.	1

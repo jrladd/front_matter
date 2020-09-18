@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-AMOROVS	AMOROVS	j	AMOROUS	amorous	0
-AND	AND	cc	AND	and	0
-DEVOVT	DEVOVT	j	DEVOUT	devout	0
-HARTS	HARTS	n2	HARTS	heart	0
-TO	TO	p-acp	TO	to	0
-IESVS	IESVS	np1	IESVS	IESVS	0
-.	.	.	.	.	1

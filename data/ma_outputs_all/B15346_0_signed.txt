@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affection	affection	n1	affection	affection	0
-at	at	p-acp	at	at	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-Pont-ery	Pont-ery	j	Pont-ery	pont-ery	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-to	to	pc-acp	to	to	0
-commande	commande	vvi	command	command	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Rogers	Rogers	np1	Rogers	Rogers	0
-.	.	.	.	.	1

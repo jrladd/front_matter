@@ -1,5 +1,0 @@
-Adue	Adue	uh-n	Adue	adieu	0
-.	.	.	.	.	1
-IOHN	IOHN	np1	IOHN	John	0
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

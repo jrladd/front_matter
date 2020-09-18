@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-worthy	worthy	j	worthy	worthy	0
-friend	friend	n1	friend	friend	0
-Captaine	Captaine	n1	Captain	captain	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Falconbridge	Falconbridge	np1	Falconbridge	Falconbridge	0
-.	.	.	.	.	1

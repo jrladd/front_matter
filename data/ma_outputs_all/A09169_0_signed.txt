@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-H.	H.	np1	H.	H.	0
-most	most	av-ds	most	most	0
-humbl	humbl	j	humbl	humbl	0
-beads	beads	n2	beads	bead	0
-man	man	n1	man	man	0
-.	.	.	.	.	1

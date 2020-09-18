@@ -1,5 +1,0 @@
-Faelicitatis	Faelicitatis	fw-la	Faelicitatis	faelicitatis	0
-vestrae	vestrae	fw-la	vestrae	vestrae	0
-studiosus	studiosus	fw-la	studiosus	studiosus	0
-CAROLUS	CAROLUS	np1	CAROLUS	Carolus	0
-EDWARDS	EDWARDS	npg1	EDWARDS	Edward	1

@@ -1,7 +1,0 @@
-your	your	po22	your	your	0
-Honours	Honours	ng1	Honours	honour	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-DONALD	DONALD	np1	DONALD	Donald	0
-LUPTON	LUPTON	np1	LUPTON	Lupton	0
-.	.	.	.	.	1

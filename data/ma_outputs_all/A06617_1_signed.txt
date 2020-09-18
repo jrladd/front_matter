@@ -1,5 +1,0 @@
-Tho.	Tho.	np1	Tho.	Tho.	0
-Newton	Newton	np1	Newton	Newton	0
-,	,	,	,	,	0
-Cestresh	Cestresh	j	Cestresh	cestresh	0
-.	.	.	.	.	1

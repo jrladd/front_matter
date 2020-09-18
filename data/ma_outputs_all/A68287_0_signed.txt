@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Barnefeilde	Barnefeilde	np1	Barnefeilde	Barnefeilde	0
-.	.	.	.	.	1

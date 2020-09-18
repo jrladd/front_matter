@@ -1,7 +1,0 @@
-A	A	dt	A	a	0
-PREFACE	PREFACE	n1	PREFACE	preface	0
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-KYNGES	KYNGES	n2	KYNGES	king	0
-HYGHNES	HYGHNES	n1	HYGHNES	highness	0
-.	.	.	.	.	1

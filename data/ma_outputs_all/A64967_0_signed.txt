@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-sake	sake	n1	sake	sake	0
-,	,	,	,	,	0
-NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
-VINCENT	VINCENT	np1	VINCENT	Vincent	0
-.	.	.	.	.	1

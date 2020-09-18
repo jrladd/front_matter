@@ -1,4 +1,0 @@
-Par	Par	fw-fr	Par	par	0
-le	le	fw-fr	le	le	0
-Sr.	Sr.	n1	Sr.	sir	0
-C.	C.	sy	C.	c	1

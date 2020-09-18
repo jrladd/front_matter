@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-Viscount	Viscount	np1	Viscount	Viscount	0
-Cranborn	Cranborn	np1	Cranborn	Cranborn	0
-.	.	.	.	.	1

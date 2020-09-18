@@ -1,3 +1,0 @@
-Charles	Charles	np1	Charles	Charles	0
-Goodall	Goodall	np1	Goodall	Goodall	0
-.	.	.	.	.	1

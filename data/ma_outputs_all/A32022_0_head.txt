@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
-,	,	,	,	,	0
-Sr	Sr	n1	Sir	sir	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-WALLER	WALLER	np1	WALLER	Waller	0
-.	.	.	.	.	1

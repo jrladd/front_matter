@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Nephew	Nephew	n1	Nephew	nephew	0
-J.	J.	np1	J.	J.	0
-B.	B.	np1	B.	B.	1

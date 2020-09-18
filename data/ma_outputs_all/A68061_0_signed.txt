@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-humble	humble	j	humble	humble	0
-Subiect	Subiect	j-jn	Subject	subject	0
-PATRIK	PATRIK	np1	PATRIK	Patrick	0
-FORBES	FORBES	np1	FORBES	Forbes	0
-of	of	pp-f	of	of	0
-Corse	Corse	n1	Corpse	corpse	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-A	A	dt	A	a	0
-Real	Real	j	Real	real	0
-well-wishing	well-wishing	j	wellwishing	wellwishing	0
-Servant	Servant	n1	Servant	servant	0
-to	to	p-acp	to	to	0
-You	You	pn22	You	you	0
-all	all	d	all	all	0
-R.	R.	np1	R.	R.	0
-A.	A.	np1	A.	A.	1

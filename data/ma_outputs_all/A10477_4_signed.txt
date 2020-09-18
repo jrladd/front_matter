@@ -1,3 +1,0 @@
-TR.	TR.	np1	TR.	Tr.	0
-B.	B.	np1	B.	B.	0
-M.	M.	n1	M.	m.	1

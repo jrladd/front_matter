@@ -1,3 +1,0 @@
-Nicholas	Nicholas	np1	Nicholas	Nicholas	0
-Tartaglia	Tartaglia	np1	Tartaglia	Tartaglia	0
-.	.	.	.	.	1

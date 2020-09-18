@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-judicious	judicious	j	judicious	judicious	0
-Lovers	Lovers	n2	Lovers	lover	0
-and	and	cc	and	and	0
-Understanders	Understanders	n2	Understanders	understander	0
-of	of	pp-f	of	of	0
-MUSICK	MUSICK	n1	MUSICK	music	0
-.	.	.	.	.	1

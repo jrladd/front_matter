@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Edwards	Edwards	np1	Edwards	Edwards	0
-.	.	.	.	.	1

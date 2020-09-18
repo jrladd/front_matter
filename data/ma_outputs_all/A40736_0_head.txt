@@ -1,5 +1,0 @@
-Epistle	Epistle	n1	Epistle	epistle	0
-Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
-TO	TO	p-acp	TO	to	0
-URANIA	URANIA	np1	URANIA	Urania	0
-.	.	.	.	.	1

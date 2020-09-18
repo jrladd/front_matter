@@ -1,9 +1,0 @@
-By	By	p-acp	By	by	0
-your	your	po22	your	your	0
-truely	truely	av-j	truly	true	0
-affectioned	affectioned	j-vvn	affectioned	affection	0
-Seruant	Seruant	n1	Servant	servant	0
-,	,	,	,	,	0
-MICHAELL	MICHAELL	np1	MICHAELL	Michael	0
-DRAYTON	DRAYTON	np1	DRAYTON	Drayton	0
-.	.	.	.	.	1

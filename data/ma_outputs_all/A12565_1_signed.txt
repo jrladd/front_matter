@@ -1,6 +1,0 @@
-Illustrissimae	Illustrissimae	fw-la	Illustrissimae	illustrissimae	0
-amplitudinis	amplitudinis	fw-la	amplitudinis	amplitudinis	0
-tuae	tuae	fw-la	tuae	tuus	0
-Studiofiseinous	Studiofiseinous	j	Studiofiseinous	studiofiseinous	0
-Guil.	Guil.	np1	Guil.	Guil.	0
-S.	S.	n1	S.	saint	1

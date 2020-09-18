@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-brother	brother	n1	brother	brother	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-affection	affection	n1	affection	affection	0
-SABINE	SABINE	njp	SABINE	sabine	0
-STARESMORE	STARESMORE	np1	STARESMORE	STARESMORE	0
-.	.	.	.	.	1

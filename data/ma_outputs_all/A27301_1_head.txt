@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Lemuel	Lemuel	np1	Lemuel	Lemuel	0
-Kingdon	Kingdon	np1	Kingdon	Kingdon	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

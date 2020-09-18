@@ -1,6 +1,0 @@
-Their	Their	po32	Their	their	0
-daylie	daylie	j	daily	daily	0
-Orator	Orator	n1	Orator	orator	0
-,	,	,	,	,	0
-HOWELL	HOWELL	np1	HOWELL	Howell	0
-.	.	.	.	.	1

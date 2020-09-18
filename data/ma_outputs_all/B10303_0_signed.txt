@@ -1,8 +1,0 @@
-Eich	Eich	fw-ge	Eich	eich	0
-Brawd	Brawd	zz	Brawd	brawd	0
-a'ch	a'ch	p-acp|dt	a'ch	at|the	0
-Car	Car	n1	Car	car	0
-ffyddlon	ffyddlon	n1	ffyddlon	ffyddlon	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-H.	H.	np1	H.	H.	1

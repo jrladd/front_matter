@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-HONOURED	HONOURED	j-vvn	HONOURED	honour	0
-FRIEND	FRIEND	n1	FRIEND	friend	0
-JOHN	JOHN	np1	JOHN	John	0
-HYDE	HYDE	vvi	HIDE	hide	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	0
-;	;	;	;	;	1

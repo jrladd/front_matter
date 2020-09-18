@@ -1,5 +1,0 @@
-Guillaume	Guillaume	np1	Guillaume	Guillaume	0
-de	de	fw-fr	de	de	0
-la	la	fw-fr	la	la	0
-Perriere	Perriere	np1	Perriere	Perriere	0
-.	.	.	.	.	1

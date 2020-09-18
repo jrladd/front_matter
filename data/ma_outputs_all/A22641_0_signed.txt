@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-true-deuoted	true-deuoted	j	true-devoted	true-devoted	0
-,	,	,	,	,	0
-Th.	Th.	np1	Th.	Th.	0
-Th.	Th.	np1	Th.	Th.	1

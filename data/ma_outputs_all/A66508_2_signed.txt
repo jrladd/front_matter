@@ -1,3 +1,0 @@
-Gul.	Gul.	np1	Gul.	Gul.	0
-Dawkins	Dawkins	np1	Dawkins	Dawkins	0
-.	.	.	.	.	1

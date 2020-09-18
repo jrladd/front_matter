@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-IOHN	IOHN	np1	IOHN	John	0
-PRICE	PRICE	n1	PRICE	price	0
-.	.	.	.	.	1

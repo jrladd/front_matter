@@ -1,8 +1,0 @@
-Tuo	Tuo	fw-la	Tuo	tuo	0
-honori	honori	fw-la	honori	honori	0
-deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
-,	,	,	,	,	0
-AND	AND	cc	AND	and	0
-.	.	.	.	.	1
-WILLIATT	WILLIATT	np1	WILLIATT	WILLIATT	0
-.	.	.	.	.	1

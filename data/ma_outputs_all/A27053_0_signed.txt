@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-Richard	Richard	np1	Richard	Richard	0
-Baxter	Baxter	np1	Baxter	Baxter	0
-.	.	.	.	.	1

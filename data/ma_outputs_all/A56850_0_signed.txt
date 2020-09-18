@@ -1,6 +1,0 @@
-Affectionately	Affectionately	av-j	Affectionately	affectionate	0
-yours	yours	png22	yours	you	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-QUARLES	QUARLES	np1	QUARLES	Quarles	0
-.	.	.	.	.	1

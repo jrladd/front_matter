@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-your	your	po22	your	your	0
-Honour	Honour	n1	Honour	honour	0
-and	and	cc	and	and	0
-Worships	Worships	n2	Worships	worship	0
-,	,	,	,	,	0
-George	George	np1	George	George	0
-Whetstones	Whetstones	np1	Whetstones	Whetstone	0
-.	.	.	.	.	1

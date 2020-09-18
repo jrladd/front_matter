@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-M.	M.	n1	M.	m.	0
-Anthony	Anthony	np1	Anthony	Anthony	0
-Bacon	Bacon	n1	Bacon	bacon	0
-his	his	po31	his	his	0
-deare	deare	j-jn	deer	dear	0
-Brother	Brother	n1	Brother	brother	0
-.	.	.	.	.	1

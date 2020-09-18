@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Gabriel	Gabriel	np1	Gabriel	Gabriel	0
-Balam	Balam	np1	Balam	Balam	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

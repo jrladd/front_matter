@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-WILLIS	WILLIS	np1	WILLIS	Willis	0
-.	.	.	.	.	1

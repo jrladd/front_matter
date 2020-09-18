@@ -1,6 +1,0 @@
-I	I	pns11	I	i	0
-rest	rest	vvb	rest	rest	0
-devoted	devoted	vvn	devoted	devote	0
-IOHN	IOHN	np1	IOHN	John	0
-HARRISON	HARRISON	np1	HARRISON	Harrison	0
-.	.	.	.	.	1

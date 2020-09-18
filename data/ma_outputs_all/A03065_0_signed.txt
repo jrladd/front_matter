@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-humblest	humblest	js	humblest	humble	0
-Seruant	Seruant	n1	Servant	servant	0
-,	,	,	,	,	0
-Th.	Th.	np1	Th.	Th.	0
-Herbert	Herbert	np1	Herbert	Herbert	0
-.	.	.	.	.	1

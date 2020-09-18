@@ -1,3 +1,0 @@
-George	George	np1	George	George	0
-Raleigh	Raleigh	np1	Raleigh	Raleigh	0
-.	.	.	.	.	1

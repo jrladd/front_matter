@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-much	much	d	much	much	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Nephew	Nephew	n1	Nephew	nephew	0
-,	,	,	,	,	0
-NICHOLAS	NICHOLAS	np1	NICHOLAS	Nicholas	0
-LOCKYER	LOCKYER	np1	LOCKYER	Lockyer	0
-.	.	.	.	.	1

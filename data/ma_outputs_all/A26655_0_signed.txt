@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Alexander	Alexander	np1	Alexander	Alexander	0
-.	.	.	.	.	1

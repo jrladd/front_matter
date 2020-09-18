@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HER	HER	po31	HER	her	0
-Royal	Royal	j	Royal	royal	0
-Highness	Highness	n1	Highness	highness	0
-THE	THE	dt	THE	the	0
-DUCHESS	DUCHESS	n1	DUCHESS	duchess	0
-.	.	.	.	.	1

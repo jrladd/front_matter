@@ -1,7 +1,0 @@
-Thine	Thine	png21	Thine	thou	0
-for	for	c-acp	for	for	0
-ever	ever	av	ever	ever	0
-,	,	,	,	,	0
-NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
-VINCENT	VINCENT	np1	VINCENT	Vincent	0
-.	.	.	.	.	1

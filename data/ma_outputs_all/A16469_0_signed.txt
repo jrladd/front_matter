@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-serue	serue	vvi	serve	serve	0
-your	your	po22	your	your	0
-Honour	Honour	n1	Honour	honour	0
-.	.	.	.	.	1
-S.	S.	np1	S.	S.	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-loving	loving	j-vvg	loving	love	0
-Brother	Brother	n1	Brother	brother	0
-T.	T.	np1	T.	T.	0
-BUTLER	BUTLER	n1	BUTLER	butler	0
-.	.	.	.	.	1

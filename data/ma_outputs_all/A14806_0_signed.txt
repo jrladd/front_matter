@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-loyall	loyall	j	loyal	loyal	0
-Subiect	Subiect	j-jn	Subject	subject	0
-George	George	np1	George	George	0
-Wateson	Wateson	np1	Wateson	Wateson	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-SALKELD	SALKELD	np1	SALKELD	SALKELD	0
-.	.	.	.	.	1

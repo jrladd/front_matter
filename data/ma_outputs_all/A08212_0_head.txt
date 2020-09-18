@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-deare	deare	j-jn	deer	dear	0
-Achates	Achates	np1	Achates	Achates	0
-,	,	,	,	,	0
-Master	Master	n1	Master	master	0
-Richard	Richard	np1	Richard	Richard	0
-Warburton	Warburton	np1	Warburton	Warburton	0
-.	.	.	.	.	1

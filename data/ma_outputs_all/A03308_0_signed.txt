@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-respectiuely	respectiuely	av-j	respectively	respective	0
-,	,	,	,	,	0
-SAM	SAM	np1	SAM	Sam	0
-.	.	.	.	.	1
-HIERON	HIERON	np1	HIERON	Hieron	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-SACRED	SACRED	j	SACRED	sacred	0
-SOVERAIGN	SOVERAIGN	j-jn	SOVEREIGN	sovereign	0
-James	James	np1	James	James	0
-the	the	dt	the	the	0
-II.	II.	crd	II	ii	1

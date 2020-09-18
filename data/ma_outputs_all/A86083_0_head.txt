@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-Citizens	Citizens	n2	Citizens	citizen	0
-and	and	cc	and	and	0
-Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
-in	in	p-acp	in	in	0
-Pater-Noster-Row	Pater-Noster-Row	n1	Pater-Noster-Row	pater-noster-row	0
-.	.	.	.	.	1

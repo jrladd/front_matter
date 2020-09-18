@@ -1,3 +1,0 @@
-Tho.	Tho.	np1	Tho.	Tho.	0
-Flatman	Flatman	np1	Flatman	Flatman	0
-.	.	.	.	.	1

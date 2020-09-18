@@ -1,9 +1,0 @@
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-.	.	.	.	.	1
-TO	TO	p-acp	TO	to	0
-His	His	po31	His	his	0
-Royal	Royal	j	Royal	royal	0
-Highness	Highness	n1	Highness	highness	0
-THE	THE	dt	THE	the	0
-DUKE	DUKE	n1	DUKE	duke	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Sir	Sir	n1	Sir	sir	0
-HƲMPHREY	HƲMPHREY	np1	HƲMPHREY	HƲMPHREY	0
-WINCH	WINCH	np1	WINCH	Winch	0
-,	,	,	,	,	0
-BARONET	BARONET	n1	BARONET	baronet	0
-.	.	.	.	.	1

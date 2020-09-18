@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-commaund	commaund	n1	command	command	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-ATTERSOLL	ATTERSOLL	np1	ATTERSOLL	ATTERSOLL	0
-.	.	.	.	.	1

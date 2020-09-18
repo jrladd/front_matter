@@ -1,3 +1,0 @@
-Ben.	Ben.	np1	Ben.	Ben.	0
-Spencer	Spencer	np1	Spencer	Spencer	0
-.	.	.	.	.	1

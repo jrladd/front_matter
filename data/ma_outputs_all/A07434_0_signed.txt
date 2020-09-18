@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-kydesman	kydesman	n1	kydesman	kydesman	0
-:	:	:	:	:	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-Delapeend	Delapeend	np1	Delapeend	Delapeend	0
-.	.	.	.	.	1

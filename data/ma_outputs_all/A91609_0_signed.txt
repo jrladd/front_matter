@@ -1,3 +1,0 @@
-Michael	Michael	np1	Michael	Michael	0
-Quintyne	Quintyne	np1	Quintyne	Quintin	0
-.	.	.	.	.	1

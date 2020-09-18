@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-GRACE	GRACE	n1	GRACE	grace	0
-The	The	dt	The	the	0
-DUKE	DUKE	n1	DUKE	duke	0
-of	of	pp-f	of	of	0
-ORMOND	ORMOND	np1	ORMOND	Ormond	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-David	David	np1	David	David	0
-Lloyd	Lloyd	np1	Lloyd	Lloyd	0
-.	.	.	.	.	1

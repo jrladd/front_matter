@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Servants	Servants	n2	Servants	servant	0
-,	,	,	,	,	0
-EDMUND	EDMUND	np1	EDMUND	Edmund	0
-PRESTWICH	PRESTWICH	np1	PRESTWICH	Prestwich	0
-.	.	.	.	.	1

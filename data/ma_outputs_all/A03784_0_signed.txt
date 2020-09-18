@@ -1,4 +1,0 @@
-FRAN	FRAN	np1	FRAN	Fran	0
-:	:	:	:	:	0
-HVBERT	HVBERT	np1	HVBERT	HVBERT	0
-.	.	.	.	.	1

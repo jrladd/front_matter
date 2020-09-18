@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HER	HER	po31	HER	her	0
-GRACE	GRACE	n1	GRACE	grace	0
-The	The	dt	The	the	0
-DUTCHESS	DUTCHESS	n1	DUTCHESS	duchess	0
-of	of	pp-f	of	of	0
-RICHMOND	RICHMOND	np1	RICHMOND	Richmond	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

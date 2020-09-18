@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-faithfull	faithfull	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Lyford	Lyford	np1	Lyford	Lyford	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Servorum	Servorum	np1	Servorum	Servorum	0
-Christi	Christi	fw-la	Christi	christi	0
-Minimus	Minimus	fw-la	Minimus	minimus	0
-,	,	,	,	,	0
-JOHANNES	JOHANNES	np1	JOHANNES	Johannes	0
-VVARREN	VVARREN	np1	VVARREN	VVARREN	0
-.	.	.	.	.	1

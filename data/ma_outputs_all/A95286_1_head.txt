@@ -1,9 +1,0 @@
-Right	Right	av-jn	Right	right	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-,	,	,	,	,	0
-and	and	cc	and	and	0
-Wor	Wor	zz	Wor	wor	0
-∣	∣	sy	∣	∣	0
-thy	thy	po21	thy	thy	0
-SIR	SIR	n1	SIR	sir	0
-,	,	,	,	,	1

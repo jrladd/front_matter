@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-thankfull	thankfull	j	thankful	thankful	0
-&	&	cc	&	and	0
-obseruant	obseruant	j	observant	observant	0
-fauourite	fauourite	n1	favourite	favourite	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Sclater	Sclater	np1	Sclater	Sclater	1

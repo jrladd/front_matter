@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-LADIES	LADIES	n2	LADIES	lady	0
-of	of	pp-f	of	of	0
-our	our	po12	our	our	0
-Times	Times	n2	Times	time	0
-.	.	.	.	.	1

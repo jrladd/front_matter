@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-E.S.	E.S.	np1	E.S.	E.S.	0
-Middlesex	Middlesex	np1	Middlesex	Middlesex	0
-.	.	.	.	.	1

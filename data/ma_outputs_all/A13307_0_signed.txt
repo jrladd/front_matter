@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-as	as	c-acp	as	as	0
-mine	mine	po11	mine	my	0
-owne	owne	d	own	own	0
-.	.	.	.	.	1
-F.	F.	np1	F.	F.	0
-T.	T.	np1	T.	T.	1

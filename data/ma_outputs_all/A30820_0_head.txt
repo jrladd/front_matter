@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-Right	Right	n-jn	Right	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-The	The	dt	The	the	0
-Lord	Lord	n1	Lord	lord	0
-ROSSE	ROSSE	np1	ROSSE	Rosse	0
-.	.	.	.	.	1

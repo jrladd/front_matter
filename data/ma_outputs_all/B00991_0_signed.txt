@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Burt	Burt	np1	Burt	Burt	0
-,	,	,	,	,	1

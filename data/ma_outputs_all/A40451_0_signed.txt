@@ -1,7 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
-devotissimus	devotissimus	fw-la	devotissimus	devotissimus	0
-JOH	JOH	np1	JOH	Joh	0
-.	.	.	.	.	1
-FRENCH	FRENCH	np1	FRENCH	French	0
-.	.	.	.	.	1

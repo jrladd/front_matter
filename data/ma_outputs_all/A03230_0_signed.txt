@@ -1,6 +1,0 @@
-Humble	Humble	j	Humble	humble	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Heywood	Heywood	np1	Heywood	Heywood	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Most	Most	ds	Most	most	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-RIVERS	RIVERS	n2	RIVERS	river	0
-.	.	.	.	.	1

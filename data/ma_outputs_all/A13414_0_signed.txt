@@ -1,4 +1,0 @@
-IER	IER	np1	IER	IER	0
-.	.	.	.	.	1
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

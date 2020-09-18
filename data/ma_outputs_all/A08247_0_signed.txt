@@ -1,3 +1,0 @@
-Antho.	Antho.	np1	Antho.	Antho.	0
-Nixon	Nixon	np1	Nixon	Nixon	0
-.	.	.	.	.	1

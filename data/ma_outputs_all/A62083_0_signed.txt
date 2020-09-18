@@ -1,5 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-St	St	np1	St	St	0
-SERFE	SERFE	np1	SERFE	SERFE	0
-.	.	.	.	.	1

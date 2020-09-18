@@ -1,3 +1,0 @@
-L.	L.	np1	L.	L.	0
-ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
-.	.	.	.	.	1

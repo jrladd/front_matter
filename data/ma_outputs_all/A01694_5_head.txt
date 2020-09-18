@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honorable	Honorable	j	Honourable	honourable	0
-Mistresse	Mistresse	n1	Mistress	mistress	0
-Fitten	Fitten	np1	Fitten	Fitten	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-:	:	:	:	:	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-PIE	PIE	n1	PIE	pie	0
-.	.	.	.	.	1

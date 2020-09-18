@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-Assembly	Assembly	n1	Assembly	assembly	0
-of	of	pp-f	of	of	0
-DIVINES	DIVINES	n2-jn	DIVINES	divine	0
-.	.	.	.	.	1

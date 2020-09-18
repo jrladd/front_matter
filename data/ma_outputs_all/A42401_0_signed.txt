@@ -1,3 +1,0 @@
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-GARLAND	GARLAND	n1	GARLAND	garland	0
-.	.	.	.	.	1

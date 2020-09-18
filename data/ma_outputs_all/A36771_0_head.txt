@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipful	Worshipful	j	Worshipful	worshipful	0
-Edwin	Edwin	np1	Edwin	Edwin	0
-Skrymsher	Skrymsher	n1	Skrymsher	skrymsher	0
-OF	OF	pp-f	OF	of	0
-AQUALATE	AQUALATE	n1	AQUALATE	aqualate	0
-ESQƲIRE	ESQƲIRE	n1	ESQƲIRE	esqʋire	0
-.	.	.	.	.	1

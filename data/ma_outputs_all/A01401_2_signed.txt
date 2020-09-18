@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-to	to	pc-acp	to	to	0
-commannd	commannd	vvi	command	command	0
-,	,	,	,	,	0
-Th.	Th.	np1	Th.	Th.	0
-Gainsforde	Gainsforde	np1	Gainsforde	Gainsforde	0
-.	.	.	.	.	1

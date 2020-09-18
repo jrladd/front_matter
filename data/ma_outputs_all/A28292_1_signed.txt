@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Blackerby	Blackerby	np1	Blackerby	Blackerby	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Oblig'd	Oblig'd	j-vvn	Obliged	oblige	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-Sturton	Sturton	np1	Sturton	Sturton	0
-.	.	.	.	.	1

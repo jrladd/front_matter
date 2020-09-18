@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lapps	Lapps	n2	Laps	lap	0
-.	.	.	.	.	0
-humble	humble	j	humble	humble	0
-beades-man	beades-man	n1	beadsman	beadsman	0
-.	.	.	.	.	1
-G.	G.	np1	G.	G.	0
-P.	P.	np1	P.	P.	1

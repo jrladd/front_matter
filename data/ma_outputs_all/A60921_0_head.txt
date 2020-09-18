@@ -1,3 +1,0 @@
-TO	TO	p-acp	TO	to	0
-FRANCION	FRANCION	n1	FRANCION	francion	0
-,	,	,	,	,	1

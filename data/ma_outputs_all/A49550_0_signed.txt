@@ -1,6 +1,0 @@
-Dignationis	Dignationis	fw-la	Dignationis	dignationis	0
-vestrae	vestrae	fw-la	vestrae	vestrae	0
-Observantissimus	Observantissimus	fw-la	Observantissimus	observantissimus	0
-Daniel	Daniel	np1	Daniel	Daniel	0
-Langhornius	Langhornius	np1	Langhornius	Langhornius	0
-.	.	.	.	.	1

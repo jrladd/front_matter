@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-SIR	SIR	n1	SIR	sir	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-SLINGSBY	SLINGSBY	np1	SLINGSBY	Slingsby	0
-BARONET	BARONET	n1	BARONET	baronet	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-A	A	dt	A	a	0
-servant	servant	n1	servant	servant	0
-faithfully	faithfully	av-j	faithfully	faithful	0
-devoted	devoted	j-vvn	devoted	devote	0
-John	John	np1	John	John	0
-Moore	Moore	np1	Moore	Moore	0
-.	.	.	.	.	1

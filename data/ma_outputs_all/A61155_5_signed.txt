@@ -1,3 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-SALTMARSH	SALTMARSH	np1	SALTMARSH	Saltmarsh	0
-.	.	.	.	.	1

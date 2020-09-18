@@ -1,7 +1,0 @@
-Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
-tuae	tuae	fw-la	tuae	tuus	0
-Observantissimus	Observantissimus	fw-la	Observantissimus	observantissimus	0
-THO	THO	zz	THO	tho	0
-:	:	:	:	:	0
-VICARS	VICARS	np1	VICARS	Vicars	0
-.	.	.	.	.	1

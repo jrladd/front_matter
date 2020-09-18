@@ -1,4 +1,0 @@
-All	All	av-d	All	all	0
-Happiness	Happiness	n1	Happiness	happiness	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

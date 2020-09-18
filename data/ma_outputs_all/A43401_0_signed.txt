@@ -1,3 +1,0 @@
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-HERBERT	HERBERT	np1	HERBERT	Herbert	0
-.	.	.	.	.	1

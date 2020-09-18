@@ -1,4 +1,0 @@
-BEN	BEN	np1	BEN	Ben	0
-.	.	.	.	.	1
-IONSON	IONSON	np1	IONSON	Jonson	0
-.	.	.	.	.	1

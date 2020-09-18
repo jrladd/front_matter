@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-faithfull	faithfull	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-NATH	NATH	np1	NATH	Nath	0
-:	:	:	:	:	0
-HARDY	HARDY	j	HARDY	hardy	0
-.	.	.	.	.	1

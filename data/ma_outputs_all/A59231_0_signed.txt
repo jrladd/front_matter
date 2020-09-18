@@ -1,9 +1,0 @@
-Madam	Madam	n1	Madam	madam	0
-,	,	,	,	,	0
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-most	most	av-ds	most	most	0
-Devoted	Devoted	vvn	Devoted	devote	0
-Honourer	Honourer	n1	Honourer	honourer	0
-N.	N.	np1	N.	N.	0
-N.	N.	np1	N.	N.	1

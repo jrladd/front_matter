@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-true	true	j	true	true	0
-and	and	cc	and	and	0
-hearty	hearty	j	hearty	hearty	0
-welwiller	welwiller	n1	wellwiller	wellwiller	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-Hake	Hake	np1	Hake	Hake	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-souls	souls	n2	souls	soul	0
-friend	friend	n1	friend	friend	0
-and	and	cc	and	and	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-BREVITER	BREVITER	n1	BREVITER	breviter	0
-.	.	.	.	.	1

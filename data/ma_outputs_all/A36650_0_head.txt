@@ -1,5 +1,0 @@
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-WHIGS	WHIGS	np1	WHIGS	Whigs	0
-.	.	.	.	.	1

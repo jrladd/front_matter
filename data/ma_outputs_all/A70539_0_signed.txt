@@ -1,4 +1,0 @@
-ROB	ROB	np1	ROB	Rob	0
-.	.	.	.	.	1
-LAWE	LAWE	n1	LAWE	law	0
-.	.	.	.	.	1

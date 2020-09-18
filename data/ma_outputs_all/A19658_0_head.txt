@@ -1,8 +1,0 @@
-¶	¶	¶	¶	¶	0
-To	To	pc-acp	To	to	0
-all	all	av-d	all	all	0
-and	and	cc	and	and	0
-singular	singular	j	singular	singular	0
-popish	popish	j	popish	popish	0
-Recusants	Recusants	n2	Recusants	recusant	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-and	and	cc	and	and	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-PHILIP	PHILIP	np1	PHILIP	PHILIP	0
-FREHER	FREHER	np1	FREHER	FREHER	0
-.	.	.	.	.	1

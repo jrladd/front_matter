@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Welwod	Welwod	np1	Welwod	Welwod	0
-.	.	.	.	.	1

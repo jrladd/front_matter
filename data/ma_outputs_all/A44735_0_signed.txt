@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-true	true	j	true	true	0
-Servant	Servant	n1	Servant	servant	0
-Philerenus	Philerenus	np1	Philerenus	Philerenus	0
-.	.	.	.	.	1

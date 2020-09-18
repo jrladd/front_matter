@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-worthily	worthily	av-jn	worthily	worthy	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-William	William	np1	William	William	0
-Paulet	Paulet	np1	Paulet	Paulet	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

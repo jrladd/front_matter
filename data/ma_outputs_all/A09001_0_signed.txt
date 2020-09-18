@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-assured	assured	vvn	assured	assure	0
-wel	wel	av	well	well	0
-willer	willer	n1	willer	willer	0
-.	.	.	.	.	1
-Thomas	Thomas	np1	Thomas	Thomas	0
-Newton	Newton	np1	Newton	Newton	0
-.	.	.	.	.	1

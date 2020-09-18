@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-at	at	p-acp	at	at	0
-Commaund	Commaund	vvb	Command	command	0
-,	,	,	,	,	0
-VVILLIAM	VVILLIAM	np1	VVILLIAM	VVILLIAM	0
-MVGGINS	MVGGINS	np1	MVGGINS	MVGGINS	1

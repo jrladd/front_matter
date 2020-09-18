@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Lady	Lady	n1	Lady	lady	0
-ELIZABETHS	ELIZABETHS	npg1	ELIZABETHS	Elizabeth	0
-Grace	Grace	n1	Grace	grace	0
-.	.	.	.	.	1

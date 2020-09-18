@@ -1,4 +1,0 @@
-ED	ED	wd	ED	ed	0
-.	.	.	.	.	1
-STILLINGFLEET	STILLINGFLEET	np1	STILLINGFLEET	Stillingfleet	0
-.	.	.	.	.	1

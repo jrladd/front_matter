@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-Most	Most	av-ds	Most	most	0
-Obsequious	Obsequious	j	Obsequious	obsequious	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Steph.	Steph.	np1	Steph.	Steph.	0
-Jay	Jay	np1	Jay	Jay	0
-.	.	.	.	.	1

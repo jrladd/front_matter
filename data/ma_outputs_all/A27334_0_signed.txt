@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-Ch.	Ch.	np1	Ch.	Ch.	0
-Gildon	Gildon	np1	Gildon	Gildon	0
-.	.	.	.	.	1

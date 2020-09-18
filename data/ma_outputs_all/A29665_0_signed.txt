@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-and	and	cc	and	and	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-BROOKE	BROOKE	vvi	BROOK	brook	0
-.	.	.	.	.	1

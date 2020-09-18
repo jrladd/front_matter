@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Father	Father	n1	Father	father	0
-,	,	,	,	,	0
-Francis	Francis	np1	Francis	Francis	0
-Fuller	Fuller	np1	Fuller	Fuller	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worsh	Worsh	zz	Worsh	worsh	0
-.	.	.	.	.	0
-at	at	p-acp	at	at	0
-cōm	cōm	n1	command	command	0
-.	.	.	.	.	1
-Alexander	Alexander	np1	Alexander	Alexander	0
-Cooke	Cooke	n1	Cook	cook	0
-.	.	.	.	.	1

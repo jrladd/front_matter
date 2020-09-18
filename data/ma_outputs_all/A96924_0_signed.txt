@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-Parliaments	Parliaments	n2	Parliaments	parliament	0
-truly	truly	av-j	truly	true	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-the	the	dt	the	the	0
-AƲTHOR	AƲTHOR	n1	AƲTHOR	aʋthor	0
-.	.	.	.	.	1

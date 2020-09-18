@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-wholy	wholy	av-jn	wholly	whole	0
-THEODOR	THEODOR	n1	THEODOR	theodor	0
-BEZA	BEZA	np1	BEZA	BEZA	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Endimion	Endimion	np1	Endimion	Endymion	0
-Porter	Porter	n1	Porter	porter	0
-.	.	.	.	.	1

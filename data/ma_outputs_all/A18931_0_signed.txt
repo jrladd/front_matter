@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-seruant	seruant	n1	servant	servant	0
-in	in	p-acp	in	in	0
-our	our	po12	our	our	0
-Lord	Lord	n1	Lord	lord	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-M.	M.	n1	M.	m.	1

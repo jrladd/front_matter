@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-vvellvviller	vvellvviller	jc-jn	vvellvviller	vvellvvill	0
-.	.	.	.	.	1
-H.	H.	np1	H.	H.	0
-R.	R.	np1	R.	R.	1

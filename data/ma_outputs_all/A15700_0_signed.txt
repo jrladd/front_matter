@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Iohn	Iohn	np1	Iohn	John	0
-Woolton	Woolton	np1	Woolton	Woolton	0
-.	.	.	.	.	1

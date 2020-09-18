@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-in	in	p-acp	in	in	0
-CHRIST	CHRIST	np1	CHRIST	Christ	0
-,	,	,	,	,	0
-ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
-BURGESSE	BURGESSE	n1	BURGESSE	burgess	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-GRICE	GRICE	np1	GRICE	Grice	0
-.	.	.	.	.	1

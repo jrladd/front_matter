@@ -1,8 +1,0 @@
-Sic	Sic	fw-la	Sic	sic	0
-Supplex	Supplex	fw-la	Supplex	supplex	0
-precatur	precatur	fw-la	precatur	precatur	0
-R.	R.	np1	R.	R.	0
-V.	V.	n1	V.	v.	0
-Humilimus	Humilimus	np1	Humilimus	Humilimus	0
-Servus	Servus	np1	Servus	Servus	0
-,	,	,	,	,	1

@@ -1,3 +1,0 @@
-G.	G.	np1	G.	G.	0
-Alsop	Alsop	np1	Alsop	Alsop	0
-.	.	.	.	.	1

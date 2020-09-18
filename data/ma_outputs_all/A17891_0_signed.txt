@@ -1,5 +1,0 @@
-At	At	p-acp	At	at	0
-commaundement	commaundement	n1	commandment	commandment	0
-:	:	:	:	:	0
-The	The	dt	The	the	0
-P.P.	P.P.	np1	P.P.	P.P.	1

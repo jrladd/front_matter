@@ -1,9 +1,0 @@
-ALDERMEN	ALDERMEN	n2	ALDERMEN	alderman	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-Town	Town	n1	Town	town	0
-and	and	cc	and	and	0
-County	County	n1	County	county	0
-of	of	pp-f	of	of	0
-NEWCASTLE	NEWCASTLE	np1	NEWCASTLE	Newcastle	0
-.	.	.	.	.	1

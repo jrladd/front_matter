@@ -1,7 +1,0 @@
-Eleasar	Eleasar	np1	Eleasar	Eleasar	0
-Gilbert	Gilbert	np1	Gilbert	Gilbert	0
-wisheth	wisheth	vvz	wishes	wish	0
-all	all	d	all	all	0
-possible	possible	j	possible	possible	0
-Happinesse	Happinesse	n1	Happiness	happiness	0
-.	.	.	.	.	1

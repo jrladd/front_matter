@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-didicatorie	didicatorie	j	didicatorie	didicatorie	0
-epistle	epistle	n1	epistle	epistle	0
-to	to	p-acp	to	to	0
-her	her	po31	her	her	0
-heighnesse	heighnesse	n1	heighness	highness	0
-.	.	.	.	.	1

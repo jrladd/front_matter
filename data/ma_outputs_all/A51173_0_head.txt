@@ -1,8 +1,0 @@
-Sir	Sir	n1	Sir	sir	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-MONSON	MONSON	np1	MONSON	Monson	0
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-Son	Son	n1	Son	son	0
-JOHN	JOHN	np1	JOHN	John	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-In	In	p-acp	In	in	0
-doctissimum	doctissimum	fw-la	doctissimum	doctissimum	0
-marinae	marinae	fw-la	marinae	marinae	0
-belluae	belluae	fw-la	belluae	belluae	0
-domitorem	domitorem	fw-la	domitorem	domitorem	0
-AL	AL	d	ALL	all	0
-.	.	.	.	.	1
-ROSSEUM	ROSSEUM	np1	ROSSEUM	ROSSEUM	0
-.	.	.	.	.	1

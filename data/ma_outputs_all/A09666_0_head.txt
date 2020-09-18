@@ -1,9 +1,0 @@
-Facie	Facie	n1	Fancy	fancy	0
-Claro	Claro	fw-la	Claro	claro	0
-,	,	,	,	,	0
-Facetijs	Facetijs	fw-la	Facetijs	facetijs	0
-Raro	Raro	np1	Raro	Raro	0
-,	,	,	,	,	0
-Thomae	Thomae	np1	Thomae	Thomae	0
-Normano	Normano	np1	Normano	Normano	0
-.	.	.	.	.	1

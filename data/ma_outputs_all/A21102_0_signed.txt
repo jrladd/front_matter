@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-MICHAELL	MICHAELL	np1	MICHAELL	Michael	0
-EST.	EST.	np1	EST.	EST.	1

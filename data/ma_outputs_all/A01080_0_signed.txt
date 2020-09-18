@@ -1,3 +1,0 @@
-Robert	Robert	np1	Robert	Robert	0
-Mulcaster	Mulcaster	np1	Mulcaster	Mulcaster	0
-.	.	.	.	.	1

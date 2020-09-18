@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-Moderate	Moderate	j	Moderate	moderate	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-DISSENTERS	DISSENTERS	n2	DISSENTERS	dissenter	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-Gospell	Gospell	n1	Gospel	gospel	0
-Engagements	Engagements	n2	Engagements	engagement	0
-,	,	,	,	,	0
-SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
-PETTO	PETTO	np1	PETTO	PETTO	0
-.	.	.	.	.	1

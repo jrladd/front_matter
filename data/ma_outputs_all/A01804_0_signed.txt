@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-poore	poore	j	poor	poor	0
-Chapleine	Chapleine	n1	Chaplain	chaplain	0
-,	,	,	,	,	0
-Fr	Fr	n1	Fr	fr	0
-:	:	:	:	:	0
-Landauen	Landauen	n1	Landaven	landaven	0
-:	:	:	:	:	1

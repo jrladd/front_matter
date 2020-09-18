@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Christ's	Christ's	npg1	Christ's	Christ	0
-sake	sake	n1	sake	sake	0
-,	,	,	,	,	0
-Fran.	Fran.	np1	Fran.	Fran.	0
-Mence	Mence	n1	Mence	mence	0
-.	.	.	.	.	1

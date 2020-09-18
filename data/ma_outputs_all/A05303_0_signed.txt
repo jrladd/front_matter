@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-Most	Most	av-ds	Most	most	0
-faithfull	faithfull	j	faithful	faithful	0
-subiect	subiect	n-jn	subject	subject	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humilitie	humilitie	n1	humility	humility	0
-.	.	.	.	.	1

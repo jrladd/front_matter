@@ -1,6 +1,0 @@
-Yor	Yor	po22	Yor	your	0
-Highnesses	Highnesses	ng1	Highnesses	highness	0
-most	most	av-ds	most	most	0
-humbly	humbly	av-j	humbly	humble	0
-William	William	np1	William	William	0
-Hole	Hole	vvb	Hold	hold	1

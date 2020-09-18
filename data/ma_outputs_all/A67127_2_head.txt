@@ -1,5 +1,0 @@
-HENRICUS	HENRICUS	np1	HENRICUS	Henricus	0
-WOTTONIUS	WOTTONIUS	fw-la	WOTTONIUS	wottonius	0
-Seros	Seros	fw-la	Seros	seros	0
-Dies	Dies	vvz	Die	die	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-Master	Master	n1	Master	master	0
-Doctor	Doctor	n1	Doctor	doctor	0
-Iohn	Iohn	np1	Iohn	John	0
-Vlmer	Vlmer	np1	Vlmer	Vlmer	0
-.	.	.	.	.	1

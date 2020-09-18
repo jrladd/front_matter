@@ -1,6 +1,0 @@
-A	A	dt	A	a	0
-Letter	Letter	n1	Letter	letter	0
-to	to	p-acp	to	to	0
-a	a	dt	a	a	0
-Friend	Friend	n1	Friend	friend	0
-.	.	.	.	.	1

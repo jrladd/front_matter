@@ -1,3 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MAN	MAN	n1	MAN	man	0
-.	.	.	.	.	1

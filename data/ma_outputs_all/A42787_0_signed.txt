@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-GIPPS	GIPPS	np1	GIPPS	GIPPS	0
-.	.	.	.	.	1

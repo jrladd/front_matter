@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Royal	Royal	j	Royal	royal	0
-Society	Society	n1	Society	society	0
-.	.	.	.	.	1

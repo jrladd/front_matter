@@ -1,5 +1,0 @@
-Ad	Ad	fw-la	Ad	ad	0
-Carolum	Carolum	fw-la	Carolum	carolum	0
-Principem	Principem	fw-la	Principem	principem	0
-infantem	infantem	fw-la	infantem	infantem	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-dutiful	dutiful	j	dutiful	dutiful	0
-Sonne	Sonne	n1	Son	son	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-LEIGH	LEIGH	np1	LEIGH	Leigh	0
-.	.	.	.	.	1

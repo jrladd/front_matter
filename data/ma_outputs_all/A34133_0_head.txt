@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Highness	Highness	n1	Highness	highness	0
-THE	THE	dt	THE	the	0
-Prince	Prince	n1	Prince	prince	0
-of	of	pp-f	of	of	0
-Orange	Orange	np1	Orange	Orange	0
-.	.	.	.	.	1

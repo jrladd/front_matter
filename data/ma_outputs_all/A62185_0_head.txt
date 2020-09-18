@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-Publisher	Publisher	n1	Publisher	publisher	0
-,	,	,	,	,	0
-to	to	p-acp	to	to	0
-my	my	po11	my	my	0
-Lord	Lord	n1	Lord	lord	0
-Viscount	Viscount	np1	Viscount	Viscount	0
-Mountague	Mountague	np1	Mountague	Montague	0
-.	.	.	.	.	1

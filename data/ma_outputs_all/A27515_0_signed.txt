@@ -1,3 +1,0 @@
-De	De	fw-fr	De	de	0
-MONCEAUX	MONCEAUX	np1	MONCEAUX	MONCEAUX	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-friende	friende	n1	friend	friend	0
-to	to	p-acp	to	to	0
-his	his	po31	his	his	0
-poore	poore	j	poor	poor	0
-power	power	n1	power	power	0
-Iohn	Iohn	np1	Iohn	John	0
-Carr.	Carr.	np1	Carr.	Carr.	1

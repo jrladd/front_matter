@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-La.	La.	n1	La.	lady	0
-most	most	av-ds	most	most	0
-entierly	entierly	av-j	entirely	entire	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-G.	G.	np1	G.	G.	0
-B.	B.	np1	B.	B.	1

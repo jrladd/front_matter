@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-Oratrix	Oratrix	fw-la	Oratrix	oratrix	0
-,	,	,	,	,	0
-ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
-BYFIELD	BYFIELD	np1	BYFIELD	Byfield	0
-.	.	.	.	.	1

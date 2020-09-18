@@ -1,3 +1,0 @@
-S.	S.	np1	S.	S.	0
-GRAHAME	GRAHAME	np1	GRAHAME	Grahame	0
-.	.	.	.	.	1

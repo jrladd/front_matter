@@ -1,7 +1,0 @@
-At	At	p-acp	At	at	0
-humble	humble	j	humble	humble	0
-commaundment	commaundment	n1	commandment	commandment	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Churchyard	Churchyard	n1	Churchyard	churchyard	0
-.	.	.	.	.	1

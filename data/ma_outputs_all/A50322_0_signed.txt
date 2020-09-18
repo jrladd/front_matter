@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-humblest	humblest	js	humblest	humble	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-DACRES	DACRES	np1	DACRES	Dacres	0
-.	.	.	.	.	1

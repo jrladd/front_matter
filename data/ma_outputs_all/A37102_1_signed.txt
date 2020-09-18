@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Humble	Humble	j	Humble	humble	0
-and	and	cc	and	and	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-JAMES	JAMES	np1	JAMES	James	0
-DAVIES	DAVIES	np1	DAVIES	Davies	0
-.	.	.	.	.	1

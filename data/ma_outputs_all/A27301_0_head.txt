@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-CONDON	CONDON	np1	CONDON	Condon	0
-;	;	;	;	;	0
-Esq	Esq	np1	Esq	Esq	1

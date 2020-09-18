@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-service	service	n1	service	service	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Fuller	Fuller	np1	Fuller	Fuller	0
-.	.	.	.	.	1

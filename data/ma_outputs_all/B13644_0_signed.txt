@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-louing	louing	j-vvg	loving	love	0
-kinsman	kinsman	n1	kinsman	kinsman	0
-and	and	cc	and	and	0
-faithfull	faithfull	j	faithful	faithful	0
-frende	frende	n1	friend	friend	0
-.	.	.	.	.	1
-Aeueshaem	Aeueshaem	np1	Aeueshaem	Aeueshaem	0
-.	.	.	.	.	1

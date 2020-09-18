@@ -1,7 +1,0 @@
-A	A	dt	A	a	0
-Sonnet	Sonnet	n1	Sonnet	sonnet	0
-to	to	p-acp	to	to	0
-the	the	dt	the	the	0
-Muses	Muses	ng1	Muses	muse	0
-Garden	Garden	n1	Garden	garden	0
-.	.	.	.	.	1

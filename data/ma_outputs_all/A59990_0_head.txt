@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-very	very	j	very	very	0
-much	much	av-d	much	much	0
-Honored	Honored	vvn	Honoured	honour	0
-WALTER	WALTER	np1	WALTER	Walter	0
-MOYLE	MOYLE	np1	MOYLE	Moyle	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Excellencies	Excellencies	n2	Excellencies	excellency	0
-Most	Most	av-ds	Most	most	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Seruant	Seruant	n1	Servant	servant	0
-IOHN	IOHN	np1	IOHN	John	0
-HAWKINS	HAWKINS	np1	HAWKINS	Hawkins	0
-.	.	.	.	.	1

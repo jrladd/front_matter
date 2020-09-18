@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humble	humble	j	humble	humble	0
-and	and	cc	and	and	0
-faythfull	faythfull	j	faithful	faithful	0
-seruaunt	seruaunt	n1	servant	servant	0
-Barnabae	Barnabae	np1	Barnabae	Barnabae	0
-Googe	Googe	np1	Googe	Googe	0
-.	.	.	.	.	1

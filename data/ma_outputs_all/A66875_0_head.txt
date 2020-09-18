@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Earl	Earl	n1	Earl	earl	0
-of	of	pp-f	of	of	0
-ANGLESEY	ANGLESEY	np1	ANGLESEY	Anglesey	0
-.	.	.	.	.	1

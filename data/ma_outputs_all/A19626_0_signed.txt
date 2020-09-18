@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-CROMPTON	CROMPTON	np1	CROMPTON	Crompton	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-seruant	seruant	n1	servant	servant	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Tussar	Tussar	np1	Tussar	Tussar	0
-.	.	.	.	.	1

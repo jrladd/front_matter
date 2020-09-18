@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-euer	euer	av	ever	ever	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-Orlando	Orlando	np1	Orlando	Orlando	0
-Gibbons	Gibbons	np1	Gibbons	Gibbons	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-humblest	humblest	js	humblest	humble	0
-Iohn	Iohn	np1	Iohn	John	0
-Roberts	Roberts	npg1	Roberts	Robert	0
-.	.	.	.	.	1

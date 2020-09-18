@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
-most	most	av-ds	most	most	0
-loyall	loyall	j	loyal	loyal	0
-subiect	subiect	n-jn	subject	subject	0
-,	,	,	,	,	0
-RAPH	RAPH	np1	RAPH	Ralph	0
-RABBARDES	RABBARDES	n2	RABBARDES	rabbarde	0
-.	.	.	.	.	1

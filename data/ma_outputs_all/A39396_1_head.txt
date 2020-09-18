@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-High	High	j	High	high	0
-and	and	cc	and	and	0
-Mighty	Mighty	j	Mighty	mighty	0
-PRINCES	PRINCES	n2	PRINCES	prince	0
-,	,	,	,	,	1

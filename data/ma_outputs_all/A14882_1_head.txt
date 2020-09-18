@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-louing	louing	j-vvg	loving	love	0
-friend	friend	n1	friend	friend	0
-M.	M.	n1	M.	m.	0
-Banister	Banister	np1	Banister	Banister	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-So	So	np1	So	So	0
-Prays	Prays	vvz	Prays	pray	0
-Your	Your	po22	Your	your	0
-hearty	hearty	j	hearty	hearty	0
-Well-wisher	Well-wisher	j	Wellwisher	wellwish	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Lee.	Lee.	np1	Lee.	Lee.	1

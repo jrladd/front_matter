@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Royal	Royal	j	Royal	royal	0
-Society	Society	n1	Society	society	0
-,	,	,	,	,	0
-so	so	av	so	so	0
-termed	termed	vvn	termed	term	0
-.	.	.	.	.	1

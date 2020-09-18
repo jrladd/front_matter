@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-much	much	d	much	much	0
-obliged	obliged	vvn	obliged	oblige	0
-Stephen	Stephen	np1	Stephen	Stephen	0
-Geree	Geree	n1	Geree	geree	0
-.	.	.	.	.	1

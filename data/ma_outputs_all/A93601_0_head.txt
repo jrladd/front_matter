@@ -1,3 +1,0 @@
-POEM	POEM	n1	POEM	poem	0
-.	.	.	.	.	1
-1.	1.	crd	1.	1.	1

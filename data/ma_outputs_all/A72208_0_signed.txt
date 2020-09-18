@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-wel-willer	wel-willer	n1	well-willer	well-willer	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-Christ	Christ	np1	Christ	Christ	0
-.	.	.	.	.	1
-R.	R.	np1	R.	R.	0
-W.	W.	np1	W.	W.	1

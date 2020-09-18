@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Lady	Lady	n1	Lady	lady	0
-Chamberlain	Chamberlain	n1	Chamberlain	chamberlain	0
-.	.	.	.	.	1

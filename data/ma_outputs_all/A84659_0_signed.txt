@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-tender	tender	j	tender	tender	0
-affectionate	affectionate	j	affectionate	affectionate	0
-father	father	n1	father	father	0
-,	,	,	,	,	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-STRODE	STRODE	np1	STRODE	Strode	0
-.	.	.	.	.	1

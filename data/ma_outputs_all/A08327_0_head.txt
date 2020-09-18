@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-KINGS	KINGS	ng1	KINGS	king	0
-MOST	MOST	av-ds	MOST	most	0
-EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
-MAIESTY	MAIESTY	n1	MAIESTY	majesty	0
-.	.	.	.	.	1

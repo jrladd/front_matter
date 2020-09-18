@@ -1,3 +1,0 @@
-A.	A.	np1	A.	A.	0
-Behn	Behn	np1	Behn	Behn	0
-.	.	.	.	.	1

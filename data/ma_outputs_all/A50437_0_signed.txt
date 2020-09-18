@@ -1,6 +1,0 @@
-Vestri	Vestri	fw-la	Vestri	vestri	0
-observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
-.	.	.	.	.	1
-EVERARDUS	EVERARDUS	np1	EVERARDUS	Everardus	0
-MAYNWARING	MAYNWARING	np1	MAYNWARING	MAYNWARING	0
-.	.	.	.	.	1

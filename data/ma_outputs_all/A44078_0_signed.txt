@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-Hodges	Hodges	np1	Hodges	Hodges	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-vvorships	vvorships	n2	worships	worship	0
-at	at	p-acp	at	at	0
-commaundement	commaundement	n1	commandment	commandment	0
-W.	W.	np1	W.	W.	0
-GACE	GACE	n1	GACE	gace	0
-.	.	.	.	.	1

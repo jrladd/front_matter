@@ -1,4 +1,0 @@
-ED	ED	wd	ED	ed	0
-.	.	.	.	.	1
-BLOVNT	BLOVNT	np1	BLOVNT	BLOVNT	0
-.	.	.	.	.	1

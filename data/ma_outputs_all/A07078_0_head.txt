@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-Detraction	Detraction	n1	Detraction	detraction	0
-I	I	pns11	I	i	0
-present	present	vvb	present	present	0
-my	my	po11	my	my	0
-Poesie	Poesie	n1	Poesy	poesy	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-TRUE	TRUE	j	TRUE	true	0
-LOVERS	LOVERS	n2	LOVERS	lover	0
-OF	OF	pp-f	OF	of	0
-THE	THE	dt	THE	the	0
-HERMETIC	HERMETIC	n1	HERMETIC	hermetic	0
-PHILOSOPHY	PHILOSOPHY	n1	PHILOSOPHY	philosophy	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-Illustrious	Illustrious	j	Illustrious	illustrious	0
-IAMES	IAMES	np1	IAMES	Iames	0
-Duke	Duke	n1	Duke	duke	0
-of	of	pp-f	of	of	0
-YORKE	YORKE	np1	YORKE	York	0
-:	:	:	:	:	1

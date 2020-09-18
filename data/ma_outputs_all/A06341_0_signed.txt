@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-fayth	fayth	n1	faith	faith	0
-∣	∣	sy	∣	∣	0
-full	full	j	full	full	0
-seruaunt	seruaunt	n1	servant	servant	0
-Barnabe	Barnabe	np1	Barnabe	Barnaby	0
-Googe	Googe	np1	Googe	Googe	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Aux	Aux	fw-fr	Aux	aux	0
-Anglois	Anglois	np1	Anglois	Anglois	0
-&	&	cc	&	and	0
-Allemans	Allemans	ng1	Allemans	allemans	0
-.	.	.	.	.	1

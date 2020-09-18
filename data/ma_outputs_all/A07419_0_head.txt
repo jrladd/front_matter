@@ -1,7 +1,0 @@
-PHILODESPOTVS	PHILODESPOTVS	np1	PHILODESPOTVS	PHILODESPOTVS	0
-to	to	p-acp	to	to	0
-his	his	po31	his	his	0
-Naear	Naear	n1	Naear	naear	0
-∣	∣	sy	∣	∣	0
-chus	chus	fw-la	chus	chus	0
-.	.	.	.	.	1

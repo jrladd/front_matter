@@ -1,6 +1,0 @@
-Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
-vestrae	vestrae	fw-la	vestrae	vestrae	0
-studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
-Gulielmus	Gulielmus	fw-la	Gulielmus	gulielmus	0
-Fosterus	Fosterus	np1	Fosterus	Fosterus	0
-.	.	.	.	.	1

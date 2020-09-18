@@ -1,9 +1,0 @@
-Readie	Readie	j	Ready	ready	0
-to	to	pc-acp	to	to	0
-doe	doe	vdi	do	do	0
-you	you	pn22	you	you	0
-seruice	seruice	n1	service	service	0
-,	,	,	,	,	0
-C.	C.	np1	C.	C.	0
-EDMVNDS	EDMVNDS	np1	EDMVNDS	EDMVNDS	0
-.	.	.	.	.	1

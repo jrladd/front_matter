@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-,	,	,	,	,	0
-the	the	dt	the	the	0
-Lady	Lady	n1	Lady	lady	0
-A.	A.	np1	A.	A.	0
-W.	W.	np1	W.	W.	1

@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Nobility	Nobility	n1	Nobility	nobility	0
-and	and	cc	and	and	0
-Gentry	Gentry	n1	Gentry	gentry	0
-of	of	pp-f	of	of	0
-KENT	KENT	np1	KENT	Kent	0
-.	.	.	.	.	1

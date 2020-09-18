@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Kirke	Kirke	np1	Kirke	Kirke	0
-.	.	.	.	.	1

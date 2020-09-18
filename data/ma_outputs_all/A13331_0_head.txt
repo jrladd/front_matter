@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HER	HER	po31	HER	her	0
-MOST	MOST	av-ds	MOST	most	0
-SACRED	SACRED	j	SACRED	sacred	0
-MAIESTIE	MAIESTIE	n1	MAIESTIE	majesty	0
-.	.	.	.	.	1

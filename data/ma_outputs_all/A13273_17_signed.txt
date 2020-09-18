@@ -1,3 +1,0 @@
-IOS	IOS	np1	IOS	Ios	0
-.	.	.	.	.	1
-SYL.	SYL.	np1	SYL.	Syl.	1

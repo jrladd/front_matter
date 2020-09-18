@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Devoted	Devoted	j-vvn	Devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-Maynwaringe	Maynwaringe	vvg	Maynwaringe	maynwaringe	0
-.	.	.	.	.	1

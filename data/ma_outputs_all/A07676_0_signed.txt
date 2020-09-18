@@ -1,4 +1,0 @@
-quod	quod	fw-la	quod	quod	0
-.	.	.	.	.	1
-E.	E.	np1	E.	E.	0
-M.	M.	n1	M.	m.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-obseruance	obseruance	n1	observance	observance	0
-Daniel	Daniel	np1	Daniel	Daniel	0
-Powel	Powel	np1	Powel	Powel	0
-.	.	.	.	.	1

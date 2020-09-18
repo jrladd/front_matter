@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Faithfull	Faithfull	j	Faithful	faithful	0
-servant	servant	n1	servant	servant	0
-John	John	np1	John	John	0
-Jones	Jones	np1	Jones	Jones	0
-.	.	.	.	.	1

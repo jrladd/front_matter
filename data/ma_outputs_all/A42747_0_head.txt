@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Mr.	Mr.	n1	Mr.	mr.	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-BATTISHIL	BATTISHIL	np1	BATTISHIL	BATTISHIL	0
-Of	Of	pp-f	Of	of	0
-the	the	dt	the	the	0
-MIDDLE-TEMPLE	MIDDLE-TEMPLE	n1	MIDDLE-TEMPLE	middle-temple	0
-,	,	,	,	,	0
-Gent.	Gent.	n1	Gent.	gentleman	1

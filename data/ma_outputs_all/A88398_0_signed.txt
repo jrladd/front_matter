@@ -1,5 +1,0 @@
-Most	Most	ds	Most	most	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-M.	M.	n1	M.	m.	0
-LL.	LL.	np1	LL.	Ll.	1

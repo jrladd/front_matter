@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-CHRISTOPHER	CHRISTOPHER	np1	CHRISTOPHER	Christopher	0
-RAWLINSON	RAWLINSON	np1	RAWLINSON	Rawlinson	0
-,	,	,	,	,	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

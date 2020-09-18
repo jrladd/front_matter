@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Marquess	Marquess	n1	Marquis	marquis	0
-of	of	pp-f	of	of	0
-Normanby	Normanby	np1	Normanby	Normanby	0
-.	.	.	.	.	1

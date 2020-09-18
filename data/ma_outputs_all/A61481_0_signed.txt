@@ -1,3 +1,0 @@
-Joseph	Joseph	np1	Joseph	Joseph	0
-Stevens	Stevens	np1	Stevens	Stevens	0
-.	.	.	.	.	1

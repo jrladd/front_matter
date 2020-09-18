@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Clergy	Clergy	n1	Clergy	clergy	0
-of	of	pp-f	of	of	0
-England	England	np1	England	England	0
-.	.	.	.	.	1

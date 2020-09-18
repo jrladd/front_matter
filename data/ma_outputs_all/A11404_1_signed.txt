@@ -1,4 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Mason	Mason	np1	Mason	Mason	0
-Suffolciensis	Suffolciensis	np1	Suffolciensis	Suffolciensis	0
-.	.	.	.	.	1

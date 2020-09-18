@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-hearty	hearty	j	hearty	hearty	0
-well-wisher	well-wisher	j	wellwisher	wellwish	0
-and	and	cc	and	and	0
-Beads-man	Beads-man	n1	Beadsman	beadsman	0
-.	.	.	.	.	1
-R.F.	R.F.	np1	R.F.	R.F.	1

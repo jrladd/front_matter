@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-,	,	,	,	,	0
-Mr	Mr	n1	Mr	mr.	0
-Eliab	Eliab	np1	Eliab	Eliab	0
-Harvey	Harvey	np1	Harvey	Harvey	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-A	A	dt	A	a	0
-more	more	av-dc	more	more	0
-Real	Real	j	Real	real	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1

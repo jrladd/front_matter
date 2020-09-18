@@ -1,4 +1,0 @@
-SA	SA	uh	SA	sa	0
-.	.	.	.	.	1
-CLARK	CLARK	np1	CLARK	Clark	0
-.	.	.	.	.	1

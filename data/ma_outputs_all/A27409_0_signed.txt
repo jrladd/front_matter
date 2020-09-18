@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
-Most	Most	av-ds	Most	most	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-James	James	np1	James	James	0
-Bent	Bent	vvd	Bent	bend	0
-.	.	.	.	.	1

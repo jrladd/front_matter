@@ -1,3 +1,0 @@
-Benj.	Benj.	np1	Benj.	Benj.	0
-Keach	Keach	np1	Keach	Keach	0
-.	.	.	.	.	1

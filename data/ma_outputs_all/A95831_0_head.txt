@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-M.	M.	n1	M.	m.	0
-Hugh	Hugh	np1	Hugh	Hugh	0
-Peters	Peters	np1	Peters	Peters	0
-.	.	.	.	.	1

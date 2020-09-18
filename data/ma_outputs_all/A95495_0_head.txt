@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-R.	R.	np1	R.	R.	0
-R.	R.	np1	R.	R.	0
-D.	D.	np1	D.	D.	0
-WARNER	WARNER	np1	WARNER	Warner	0
-L.	L.	np1	L.	L.	0
-B.	B.	np1	B.	B.	0
-R.	R.	np1	R.	R.	1

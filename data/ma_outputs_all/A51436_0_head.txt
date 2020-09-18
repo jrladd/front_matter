@@ -1,8 +1,0 @@
-DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
-.	.	.	.	.	1
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Piously	Piously	av-j	Piously	pious	0
-affected	affected	vvn	affected	affect	0
-Young	Young	j	Young	young	0
-Man.	Man.	n1	Man.	man	1

@@ -1,3 +1,0 @@
-Antony	Antony	np1	Antony	Antony	0
-Munday	Munday	np1	Munday	Monday	0
-.	.	.	.	.	1

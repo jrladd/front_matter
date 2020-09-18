@@ -1,3 +1,0 @@
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-BARLOW	BARLOW	np1	BARLOW	Barlow	0
-.	.	.	.	.	1

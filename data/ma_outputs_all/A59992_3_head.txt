@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-SIR	SIR	n1	SIR	sir	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-BOLLES	BOLLES	np1	BOLLES	Bolles	0
-Baronet	Baronet	n1	Baronet	baronet	0
-.	.	.	.	.	1

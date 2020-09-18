@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-THE	THE	dt	THE	the	0
-Lord	Lord	n1	Lord	lord	0
-SPENCER	SPENCER	np1	SPENCER	Spencer	0
-.	.	.	.	.	1

@@ -1,2 +1,0 @@
-P.	P.	np1	P.	P.	0
-VV.	VV.	np1	VV.	VV.	1

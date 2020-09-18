@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-to	to	pc-acp	to	to	0
-vse	vse	vvi	use	use	0
-:	:	:	:	:	0
-Walter	Walter	np1	Walter	Walter	0
-Dorke	Dorke	n1	Dorke	dorke	0
-.	.	.	.	.	1

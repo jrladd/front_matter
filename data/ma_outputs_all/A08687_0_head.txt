@@ -1,6 +1,0 @@
-Epig.	Epig.	np1	Epig.	Epig.	0
-7.	7.	crd	7.	7.	1
-Lib.	Lib.	np1	Lib.	Lib.	0
-Ter.	Ter.	np1	Ter.	Ter.	0
-Priorum	Priorum	np1	Priorum	Priorum	0
-Sex.	Sex.	n1	Sex.	sex	1

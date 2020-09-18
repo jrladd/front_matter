@@ -1,4 +1,0 @@
-O	O	sy	O	o	0
-:	:	:	:	:	0
-Salusbury	Salusbury	np1	Salusbury	Salusbury	0
-.	.	.	.	.	1

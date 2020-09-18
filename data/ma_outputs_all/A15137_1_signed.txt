@@ -1,8 +1,0 @@
-Who	Who	q-crq	Who	who	0
-stiles	stiles	vvz	stile	still	0
-himselfe	himselfe	px31	himself	himself	0
-your	your	po22	your	your	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-N.	N.	np1	N.	N.	0
-W.	W.	np1	W.	W.	1

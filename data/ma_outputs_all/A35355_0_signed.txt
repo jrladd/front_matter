@@ -1,3 +1,0 @@
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-CULMER	CULMER	np1	CULMER	Culmer	0
-.	.	.	.	.	1

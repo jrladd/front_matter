@@ -1,3 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Twyne	Twyne	vvb	Twine	twine	0
-.	.	.	.	.	1

@@ -1,2 +1,0 @@
-D.	D.	np1	D.	D.	0
-F.	F.	np1	F.	F.	1

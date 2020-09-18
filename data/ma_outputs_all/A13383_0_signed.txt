@@ -1,8 +1,0 @@
-Al	Al	d	All	all	0
-seruitio	seruitio	fw-la	seruitio	seruitio	0
-del	del	n1	deal	deal	0
-V.	V.	np1	V.	V.	0
-S.	S.	np1	S.	S.	0
-Hercole	Hercole	np1	Hercole	Hercole	0
-Tasso	Tasso	np1	Tasso	Tasso	0
-.	.	.	.	.	1

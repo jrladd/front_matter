@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-fellow	fellow	n1	fellow	fellow	0
-Disciple	Disciple	n1	Disciple	disciple	0
-,	,	,	,	,	0
-Ri.	Ri.	np1	Ri.	Ri.	0
-Baxter	Baxter	np1	Baxter	Baxter	0
-.	.	.	.	.	1

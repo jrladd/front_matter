@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
-and	and	cc	and	and	0
-Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
-of	of	pp-f	of	of	0
-HAMMERSMITH	HAMMERSMITH	np1	HAMMERSMITH	Hammersmith	0
-.	.	.	.	.	1

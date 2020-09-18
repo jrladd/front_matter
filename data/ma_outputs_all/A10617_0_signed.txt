@@ -1,8 +1,0 @@
-Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
-tuae	tuae	fw-la	tuae	tuus	0
-observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
-,	,	,	,	,	0
-GVLIEL	GVLIEL	np1	GVLIEL	GVLIEL	0
-.	.	.	.	.	1
-RESSOLDVS	RESSOLDVS	np1	RESSOLDVS	RESSOLDVS	0
-.	.	.	.	.	1

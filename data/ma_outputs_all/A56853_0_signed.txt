@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesses	Highnesses	ng1	Highnesses	highness	0
-most	most	av-ds	most	most	0
-obliged	obliged	vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-QUARLES	QUARLES	np1	QUARLES	Quarles	0
-.	.	.	.	.	1

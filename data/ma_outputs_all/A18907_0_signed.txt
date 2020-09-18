@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Seruant	Seruant	n1	Servant	servant	0
-,	,	,	,	,	0
-Andres	Andres	np1	Andres	Andres	0
-de	de	fw-fr	de	de	0
-Mendoza	Mendoza	np1	Mendoza	Mendoza	0
-.	.	.	.	.	1

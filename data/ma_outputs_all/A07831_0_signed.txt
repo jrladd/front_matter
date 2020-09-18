@@ -1,7 +1,0 @@
-your	your	po22	your	your	0
-honors	honors	ng1	honours	honour	0
-humble	humble	j	humble	humble	0
-vassaile	vassaile	n1	vassal	vassal	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-MORTON	MORTON	np1	MORTON	Morton	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Seruaunt	Seruaunt	n1	Servant	servant	0
-.	.	.	.	.	1
-R.	R.	np1	R.	R.	0
-HOPER	HOPER	np1	HOPER	HOPER	0
-.	.	.	.	.	1

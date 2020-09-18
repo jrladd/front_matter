@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-Sir	Sir	n1	Sir	sir	0
-Charles	Charles	np1	Charles	Charles	0
-Sedley	Sedley	np1	Sedley	Sedley	0
-.	.	.	.	.	1

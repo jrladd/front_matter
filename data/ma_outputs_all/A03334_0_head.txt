@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-WORTHY	WORTHY	j-jn	WORTHY	worthy	0
-GENTLEMAN	GENTLEMAN	n1	GENTLEMAN	gentleman	0
-Maister	Maister	n1	Master	master	0
-S.	S.	np1	S.	S.	0
-E.	E.	np1	E.	E.	1

@@ -1,5 +1,0 @@
-VRANIA	VRANIA	np1	VRANIA	Urania	0
-to	to	p-acp	to	to	0
-the	the	dt	the	the	0
-King	King	n1	King	king	0
-.	.	.	.	.	1

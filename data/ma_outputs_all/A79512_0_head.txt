@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Nationall	Nationall	j	National	national	0
-Synod	Synod	n1	Synod	synod	0
-or	or	cc	or	or	0
-Assembly	Assembly	n1	Assembly	assembly	0
-.	.	.	.	.	1

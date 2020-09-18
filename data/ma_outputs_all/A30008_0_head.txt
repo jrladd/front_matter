@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-truly	truly	av-j	truly	true	0
-worthy	worthy	j	worthy	worthy	0
-Mr.	Mr.	n1	Mr.	mr.	0
-ANSELL	ANSELL	np1	ANSELL	Ansell	0
-BEAVMONT	BEAVMONT	np1	BEAVMONT	BEAVMONT	1

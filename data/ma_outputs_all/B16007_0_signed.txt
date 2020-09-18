@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-seruice	seruice	n1	service	service	0
-and	and	cc	and	and	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-Walter	Walter	np1	Walter	Walter	0
-Sweeper	Sweeper	n1	Sweeper	sweeper	0
-.	.	.	.	.	1

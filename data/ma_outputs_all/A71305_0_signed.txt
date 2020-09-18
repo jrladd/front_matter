@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
-PVRCHAS	PVRCHAS	n1	PVRCHAS	pvrchas	0
-.	.	.	.	.	1

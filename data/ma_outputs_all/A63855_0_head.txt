@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-GRACE	GRACE	n1	GRACE	grace	0
-JAMES	JAMES	np1	JAMES	James	0
-Duke	Duke	n1	Duke	duke	0
-of	of	pp-f	of	of	0
-Monmouth	Monmouth	np1	Monmouth	Monmouth	0
-.	.	.	.	.	1

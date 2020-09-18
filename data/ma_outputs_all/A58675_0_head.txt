@@ -1,3 +1,0 @@
-for	for	p-acp	for	for	0
-Excise	Excise	n1	Excise	excise	0
-.	.	.	.	.	1

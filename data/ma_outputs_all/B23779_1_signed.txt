@@ -1,3 +1,0 @@
-HUGO	HUGO	np1	HUGO	Hugo	0
-GROTIUS	GROTIUS	np1	GROTIUS	Grotius	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-by	by	p-acp	by	by	0
-yours	yours	png22	yours	you	0
-for	for	p-acp	for	for	0
-euer	euer	av	ever	ever	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-HACKET	HACKET	np1	HACKET	Hacket	0
-.	.	.	.	.	1

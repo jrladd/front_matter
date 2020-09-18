@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-Daughters	Daughters	n2	Daughters	daughter	0
-,	,	,	,	,	0
-M	M	sy	M	m	0
-&	&	cc	&	and	0
-K.	K.	n1	K.	king	1

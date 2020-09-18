@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-lowest	lowest	js	lowest	low	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-HENRY	HENRY	np1	HENRY	Henry	0
-SYMONS	SYMONS	np1	SYMONS	Symons	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-A	A	dt	A	a	0
-WORTHY	WORTHY	j-jn	WORTHY	worthy	0
-GENTLEMAN	GENTLEMAN	n1	GENTLEMAN	gentleman	0
-.	.	.	.	.	1

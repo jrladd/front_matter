@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-DR	DR	zz	DR	dr	0
-.	.	.	.	.	1
-SLOANE	SLOANE	np1	SLOANE	Sloane	0
-,	,	,	,	,	1

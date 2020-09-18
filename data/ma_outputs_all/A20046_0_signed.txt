@@ -1,5 +1,0 @@
-All	All	av-d	All	all	0
-yours	yours	png22	yours	you	0
-.	.	.	.	.	1
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-DEKKER	DEKKER	np1	DEKKER	Dekker	1

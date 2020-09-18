@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-VINES	VINES	n2	VINES	vine	0
-.	.	.	.	.	1

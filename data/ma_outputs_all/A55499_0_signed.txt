@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-P.	P.	np1	P.	P.	1

@@ -1,4 +1,0 @@
-A	A	sy	A	a	0
-:	:	:	:	:	0
-Mundy	Mundy	np1	Mundy	Mundy	0
-.	.	.	.	.	1

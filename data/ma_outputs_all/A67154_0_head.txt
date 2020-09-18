@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-Captain	Captain	n1	Captain	captain	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Whetstone	Whetstone	np1	Whetstone	Whetstone	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

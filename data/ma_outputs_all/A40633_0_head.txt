@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-LORD	LORD	n1	LORD	lord	0
-CREW	CREW	n1	CREW	crew	0
-.	.	.	.	.	1

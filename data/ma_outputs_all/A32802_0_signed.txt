@@ -1,3 +1,0 @@
-Iohn	Iohn	np1	Iohn	John	0
-White	White	j-jn	White	white	0
-.	.	.	.	.	1

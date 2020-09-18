@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-servant	servant	n1	servant	servant	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-commands	commands	vvz	commands	command	0
-ATHANASIUS	ATHANASIUS	np1	ATHANASIUS	Athanasius	0
-DAVIES	DAVIES	np1	DAVIES	Davies	0
-.	.	.	.	.	1

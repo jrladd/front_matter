@@ -1,4 +1,0 @@
-EDM	EDM	np1	EDM	EDM	0
-.	.	.	.	.	1
-WALLER	WALLER	np1	WALLER	Waller	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Vnto	Vnto	p-acp	Unto	unto	0
-the	the	dt	the	the	0
-Kingdome	Kingdome	n1	Kingdom	kingdom	0
-of	of	pp-f	of	of	0
-France	France	np1	France	France	0
-.	.	.	.	.	1

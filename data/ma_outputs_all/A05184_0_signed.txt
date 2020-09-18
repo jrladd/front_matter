@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-most	most	av-ds	most	most	0
-deuote	deuote	vvb	devote	devote	0
-Z.	Z.	np1	Z.	Z.	0
-I	I	pns11	I	i	0
-.	.	.	.	.	1

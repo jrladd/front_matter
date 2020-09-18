@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-faithfull	faithfull	j	faithful	faithful	0
-and	and	cc	and	and	0
-loveing	loveing	vvg	loving	love	0
-subject	subject	j-jn	subject	subject	0
-Leonard	Leonard	np1	Leonard	Leonard	0
-Busher	Busher	np1	Busher	Busher	0
-.	.	.	.	.	1

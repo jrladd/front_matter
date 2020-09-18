@@ -1,5 +1,0 @@
-MY	MY	po11	MY	my	0
-FRIEND	FRIEND	n1	FRIEND	friend	0
-THE	THE	dt	THE	the	0
-STATIONER	STATIONER	n1	STATIONER	stationer	0
-.	.	.	.	.	1

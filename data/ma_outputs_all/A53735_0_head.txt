@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-loving	loving	j-vvg	loving	love	0
-Neighbours	Neighbours	n2	Neighbours	neighbour	0
-and	and	cc	and	and	0
-Christian	Christian	njp	Christian	christian	0
-Friends	Friends	n2	Friends	friend	0
-.	.	.	.	.	1

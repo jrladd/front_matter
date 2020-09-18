@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Truly	Truly	av-j	Truly	true	0
-Honourable	Honourable	j	Honourable	honourable	0
-BELLALMO	BELLALMO	np1	BELLALMO	BELLALMO	0
-.	.	.	.	.	1

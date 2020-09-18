@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-much	much	d	much	much	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-ALEX	ALEX	np1	ALEX	Alex	0
-.	.	.	.	.	1
-GIL	GIL	np1	GIL	Gil	0
-.	.	.	.	.	1

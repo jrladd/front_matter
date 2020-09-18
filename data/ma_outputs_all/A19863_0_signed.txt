@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-in	in	p-acp	in	in	0
-dutie	dutie	n1	duty	duty	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-DAVNCE	DAVNCE	vvi	DANCE	dance	0
-.	.	.	.	.	1

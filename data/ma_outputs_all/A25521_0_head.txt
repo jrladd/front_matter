@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Clothiers	Clothiers	n2	Clothiers	clothier	0
-and	and	cc	and	and	0
-Weavers	Weavers	n2	Weavers	weaver	0
-OF	OF	pp-f	OF	of	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	0
-.	.	.	.	.	1

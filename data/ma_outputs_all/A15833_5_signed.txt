@@ -1,9 +1,0 @@
-At	At	p-acp	At	at	0
-your	your	po22	your	your	0
-deuotion	deuotion	n1	devotion	devotion	0
-wholly	wholly	av-jn	wholly	whole	0
-and	and	cc	and	and	0
-euer	euer	av	ever	ever	0
-Nicholas	Nicholas	np1	Nicholas	Nicholas	0
-Yonge	Yonge	np1	Yonge	Yonge	0
-.	.	.	.	.	1

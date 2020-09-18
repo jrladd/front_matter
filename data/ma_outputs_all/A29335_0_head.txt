@@ -1,2 +1,0 @@
-AU	AU	fw-fr	AU	au	0
-ROY	ROY	fw-fr	ROY	roy	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-at	at	p-acp	at	at	0
-command	command	n1	command	command	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-Mundy	Mundy	np1	Mundy	Mundy	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-A	A	sy	A	a	0
-:	:	:	:	:	0
-Jackman	Jackman	np1	Jackman	Jackman	0
-Submisse	Submisse	j	Submiss	submiss	0
-Dedicat.	Dedicat.	np1	Dedicat.	Dedicat.	1

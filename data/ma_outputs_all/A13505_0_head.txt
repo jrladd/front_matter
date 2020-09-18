@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-Euery	Euery	d	Every	every	0
-BODY	BODY	n1	BODY	body	0
-.	.	.	.	.	1

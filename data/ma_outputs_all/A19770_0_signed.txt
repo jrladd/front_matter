@@ -1,7 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
-alumnus	alumnus	fw-la	alumnus	alumnus	0
-,	,	,	,	,	0
-Robertus	Robertus	np1	Robertus	Robertus	0
-Dallingtonus	Dallingtonus	np1	Dallingtonus	Dallingtonus	0
-.	.	.	.	.	1

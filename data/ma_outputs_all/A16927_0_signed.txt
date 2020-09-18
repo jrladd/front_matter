@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honour	Honour	n1	Honour	honour	0
-devoed	devoed	vvd	devoed	devoe	0
-servant	servant	n1	servant	servant	0
-.	.	.	.	.	1
-Richard	Richard	np1	Richard	Richard	0
-Brome	Brome	np1	Brome	Brome	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Daniel	Daniel	np1	Daniel	Daniel	0
-Williams	Williams	np1	Williams	Williams	0
-.	.	.	.	.	1

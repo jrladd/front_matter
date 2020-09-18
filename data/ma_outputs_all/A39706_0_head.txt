@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-her	her	po31	her	her	0
-Highnesse	Highnesse	n1	Highness	highness	0
-BEATRIX	BEATRIX	np1	BEATRIX	Beatrix	0
-Dutchesse	Dutchesse	n1	Duchess	duchess	0
-of	of	pp-f	of	of	0
-Loreine	Loreine	j	Loreine	loreine	0
-.	.	.	.	.	1

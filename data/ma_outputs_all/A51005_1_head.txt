@@ -1,9 +1,0 @@
-Buchan	Buchan	np1	Buchan	Buchan	0
-.	.	.	.	.	1
-Paraphras	Paraphras	n1	Paraphrase	paraphrase	0
-.	.	.	.	.	0
-in	in	p-acp	in	in	0
-Lib.	Lib.	np1	Lib.	Lib.	0
-Psalm	Psalm	np1	Psalm	Psalm	0
-.	.	.	.	.	1
-137.	137.	crd	137.	137.	1

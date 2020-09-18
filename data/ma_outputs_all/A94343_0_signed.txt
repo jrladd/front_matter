@@ -1,4 +1,0 @@
-ROB	ROB	np1	ROB	Rob	0
-:	:	:	:	:	0
-TICHBURN	TICHBURN	np1	TICHBURN	TICHBURN	0
-.	.	.	.	.	1

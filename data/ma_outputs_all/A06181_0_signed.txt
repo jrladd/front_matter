@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-friend	friend	n1	friend	friend	0
-assured	assured	vvn	assured	assure	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Lodge	Lodge	vvi	Lodge	lodge	0
-.	.	.	.	.	1

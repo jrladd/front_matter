@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-Esteemed	Esteemed	j-vvn	Esteemed	esteem	0
-FRIEND	FRIEND	n1	FRIEND	friend	0
-George	George	np1	George	George	0
-Raynsford	Raynsford	np1	Raynsford	Raynsford	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

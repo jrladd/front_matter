@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Dyer	Dyer	np1	Dyer	Dyer	0
-.	.	.	.	.	1

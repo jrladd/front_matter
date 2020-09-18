@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-devoted	devoted	j-vvn	devoted	devote	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-observance	observance	n1	observance	observance	0
-,	,	,	,	,	0
-Henrie	Henrie	np1	Henrie	Henry	0
-Peacham	Peacham	np1	Peacham	Peacham	1

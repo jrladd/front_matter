@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-:	:	:	:	:	0
-ROSS	ROSS	np1	ROSS	Ross	0
-.	.	.	.	.	1

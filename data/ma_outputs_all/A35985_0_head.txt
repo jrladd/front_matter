@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-SON	SON	n1	SON	son	0
-KENELM	KENELM	np1	KENELM	Kenelm	0
-DIGBY	DIGBY	np1	DIGBY	Digby	0
-.	.	.	.	.	1

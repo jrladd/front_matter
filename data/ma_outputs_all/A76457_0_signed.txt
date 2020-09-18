@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-endeared	endeared	vvn	endeared	endear	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-SAM	SAM	np1	SAM	Sam	0
-.	.	.	.	.	1
-BERNARD	BERNARD	np1	BERNARD	Bernard	0
-.	.	.	.	.	1

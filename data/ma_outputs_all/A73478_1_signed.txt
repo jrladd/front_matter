@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Iames	Iames	np1	Iames	Iames	0
-Gryneus	Gryneus	np1	Gryneus	Gryneus	0
-.	.	.	.	.	1

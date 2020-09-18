@@ -1,3 +1,0 @@
-Christian	Christian	np1	Christian	Christian	0
-Reader	Reader	n1	Reader	reader	0
-,	,	,	,	,	1

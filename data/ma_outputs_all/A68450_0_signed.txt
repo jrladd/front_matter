@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-most	most	av-ds	most	most	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-:	:	:	:	:	0
-SHACKERLEY	SHACKERLEY	np1	SHACKERLEY	Shackerley	0
-MARMION	MARMION	np1	MARMION	Marmion	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-very	very	av	very	very	0
-much	much	d	much	much	0
-Esteemed	Esteemed	j-vvn	Esteemed	esteem	0
-JOHN	JOHN	np1	JOHN	John	0
-DRYDEN	DRYDEN	np1	DRYDEN	Dryden	0
-,	,	,	,	,	0
-Esq.	Esq.	np1	Esq.	Esq.	1

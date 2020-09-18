@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-IOHN	IOHN	np1	IOHN	John	0
-Lord	Lord	n1	Lord	lord	0
-Viscount	Viscount	np1	Viscount	Viscount	0
-SCUDAMORE	SCUDAMORE	np1	SCUDAMORE	Scudamour	0
-.	.	.	.	.	1

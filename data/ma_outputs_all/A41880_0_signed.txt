@@ -1,7 +1,0 @@
-Celsitudinis	Celsitudinis	fw-la	Celsitudinis	celsitudinis	0
-tuae	tuae	fw-la	tuae	tuus	0
-Addictissimus	Addictissimus	fw-la	Addictissimus	addictissimus	0
-Servus	Servus	np1	Servus	Servus	0
-Galileus	Galileus	np1	Galileus	Galileus	0
-Galileus	Galileus	np1	Galileus	Galileus	0
-.	.	.	.	.	1

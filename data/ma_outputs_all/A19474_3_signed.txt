@@ -1,3 +1,0 @@
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-ABBOT	ABBOT	n1	ABBOT	abbot	0
-.	.	.	.	.	1

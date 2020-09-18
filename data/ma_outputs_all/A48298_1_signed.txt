@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Lewthwat	Lewthwat	fw-la	Lewthwat	lewthwat	0
-.	.	.	.	.	1

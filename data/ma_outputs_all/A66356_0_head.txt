@@ -1,4 +1,0 @@
-Necessaries	Necessaries	n2-j	Necessaries	necessary	0
-for	for	p-acp	for	for	0
-Planters	Planters	np1	Planters	Planters	0
-.	.	.	.	.	1

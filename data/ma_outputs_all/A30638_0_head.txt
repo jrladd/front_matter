@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-Fathers	Fathers	ng1	Father's	father	0
-Directions	Directions	n2	Directions	direction	0
-to	to	p-acp	to	to	0
-his	his	po31	his	his	0
-Sonne	Sonne	n1	Son	son	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-GOODVVIN	GOODVVIN	np1	GOODVVIN	GOODVVIN	0
-.	.	.	.	.	1
-PHILIPPUS	PHILIPPUS	np1	PHILIPPUS	Philippus	0
-NYE	NYE	av-j	NIGH	nigh	0
-.	.	.	.	.	1

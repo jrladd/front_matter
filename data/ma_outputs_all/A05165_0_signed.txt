@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-James	James	np1	James	James	0
-Barry	Barry	np1	Barry	Barry	0
-.	.	.	.	.	1

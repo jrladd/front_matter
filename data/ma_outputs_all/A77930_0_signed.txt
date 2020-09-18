@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-servant	servant	n1	servant	servant	0
-William	William	np1	William	William	0
-Ball	Ball	n1	Ball	ball	0
-.	.	.	.	.	1

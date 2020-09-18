@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-humble	humble	j	humble	humble	0
-Seruant	Seruant	n1	Servant	servant	0
-.	.	.	.	.	1
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-ADAMS	ADAMS	np1	ADAMS	Adams	0
-.	.	.	.	.	1

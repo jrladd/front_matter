@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Mr.	Mr.	n1	Mr.	mr.	0
-Joseph	Joseph	np1	Joseph	Joseph	0
-Collins	Collins	np1	Collins	Collins	0
-.	.	.	.	.	1

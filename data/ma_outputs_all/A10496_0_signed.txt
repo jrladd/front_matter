@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-debtor	debtor	n1	debtor	debtor	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Ravvlinson	Ravvlinson	np1	Ravvlinson	Ravvlinson	0
-.	.	.	.	.	1

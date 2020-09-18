@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Sr	Sr	n1	Sir	sir	0
-Charles	Charles	np1	Charles	Charles	0
-Barrington	Barrington	np1	Barrington	Barrington	0
-,	,	,	,	,	0
-Bart.	Bart.	np1	Bart.	Bart.	1

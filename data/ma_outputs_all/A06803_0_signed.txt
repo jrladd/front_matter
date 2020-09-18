@@ -1,5 +1,0 @@
-most	most	ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-Stephen	Stephen	np1	Stephen	Stephen	0
-Man.	Man.	n1	Man.	man	1

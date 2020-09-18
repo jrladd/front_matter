@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HIGH	HIGH	j	HIGH	high	0
-AND	AND	cc	AND	and	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-COURT	COURT	n1	COURT	court	0
-OF	OF	pp-f	OF	of	0
-PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
-.	.	.	.	.	1

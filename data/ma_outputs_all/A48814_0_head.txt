@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-Dr.	Dr.	n1	Dr.	dr.	0
-BENTLEY	BENTLEY	np1	BENTLEY	Bentley	0
-.	.	.	.	.	1

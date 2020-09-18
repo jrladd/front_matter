@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Sincere	Sincere	j	Sincere	sincere	0
-Servant	Servant	n1	Servant	servant	0
-C.	C.	np1	C.	C.	0
-Mather	Mather	np1	Mather	Mather	0
-.	.	.	.	.	1

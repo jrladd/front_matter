@@ -1,7 +1,0 @@
-Dominationi	Dominationi	np1	Dominationi	Dominationi	0
-Vestrae	Vestrae	np1	Vestrae	Vestrae	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-Servus	Servus	np1	Servus	Servus	0
-ROBERTUS	ROBERTUS	np1	ROBERTUS	ROBERTUS	0
-SIBBALDUS	SIBBALDUS	np1	SIBBALDUS	SIBBALDUS	0
-.	.	.	.	.	1

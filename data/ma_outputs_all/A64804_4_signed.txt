@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-fellow	fellow	n1	fellow	fellow	0
-Souldier	Souldier	n1	Soldier	soldier	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Venn	Venn	np1	Venn	Venn	0
-.	.	.	.	.	1

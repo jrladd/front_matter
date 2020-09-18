@@ -1,9 +1,0 @@
-From	From	p-acp	From	from	0
-your	your	po22	your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-W.	W.	np1	W.	W.	1

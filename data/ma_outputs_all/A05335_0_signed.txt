@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ls.	Ls.	np1	Ls.	Ls.	0
-in	in	p-acp	in	in	0
-seruice	seruice	n1	service	service	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Robert	Robert	np1	Robert	Robert	0
-Ashley	Ashley	np1	Ashley	Ashley	0
-.	.	.	.	.	1

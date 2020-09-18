@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-blessings	blessings	n2	blessings	blessing	0
-of	of	pp-f	of	of	0
-Wisdomes	Wisdomes	n2	Wisdoms	wisdom	0
-right	right	j-jn	right	right	0
-and	and	cc	and	and	0
-left	left	j	left	left	0
-hand	hand	n1	hand	hand	0
-.	.	.	.	.	1

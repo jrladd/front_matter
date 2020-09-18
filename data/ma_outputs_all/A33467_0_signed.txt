@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-hearty	hearty	j	hearty	hearty	0
-Well-wisher	Well-wisher	j	Wellwisher	wellwish	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-CLIFFORD	CLIFFORD	np1	CLIFFORD	Clifford	0
-.	.	.	.	.	1

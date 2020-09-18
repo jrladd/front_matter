@@ -1,5 +1,0 @@
-DOMINE	DOMINE	fw-la	DOMINE	domine	0
-SALVVM	SALVVM	fw-la	SALVVM	salvvm	0
-FAC	FAC	fw-la	FAC	fac	0
-REGEM	REGEM	fw-la	REGEM	regem	0
-.	.	.	.	.	1

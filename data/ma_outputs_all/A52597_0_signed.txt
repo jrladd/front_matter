@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesty's	Majesty's	ng1	Majesty's	majesty	0
-most	most	av-ds	most	most	0
-obedient	obedient	j	obedient	obedient	0
-Subject	Subject	j-jn	Subject	subject	0
-,	,	,	,	,	0
-HENRY	HENRY	np1	HENRY	Henry	0
-NYE	NYE	av-j	NIGH	nigh	0
-.	.	.	.	.	1

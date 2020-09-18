@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	ng1	Ladyships	ladyship	0
-boundant	boundant	j	boundant	boundant	0
-Orator	Orator	n1	Orator	orator	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-FULLER	FULLER	np1	FULLER	Fuller	0
-.	.	.	.	.	1

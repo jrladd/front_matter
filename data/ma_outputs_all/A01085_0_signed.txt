@@ -1,4 +1,0 @@
-TH	TH	dt	THAT	the	0
-.	.	.	.	.	1
-ADAMS	ADAMS	np1	ADAMS	Adams	0
-.	.	.	.	.	1

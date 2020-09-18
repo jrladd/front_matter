@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-GRACES	GRACES	n2	GRACES	grace	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutie	dutie	n1	duty	duty	0
-.	.	.	.	.	1
-JOHN	JOHN	np1	JOHN	John	0
-DAY	DAY	n1	DAY	day	0
-.	.	.	.	.	1

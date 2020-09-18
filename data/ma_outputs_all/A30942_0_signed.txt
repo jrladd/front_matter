@@ -1,5 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-N.	N.	np1	N.	N.	0
-N.	N.	np1	N.	N.	1

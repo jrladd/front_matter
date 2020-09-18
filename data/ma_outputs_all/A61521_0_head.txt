@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-SUPERIOURS	SUPERIOURS	n2-jn	SUPERIORS	superior	0
-OF	OF	pp-f	OF	of	0
-THE	THE	dt	THE	the	0
-BENEDICTINS	BENEDICTINS	njp2	BENEDICTINS	benedictins	0
-IN	IN	p-acp	IN	in	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	0
-.	.	.	.	.	1

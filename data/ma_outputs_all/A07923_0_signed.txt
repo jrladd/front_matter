@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-humble	humble	j	humble	humble	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-Dauid	Dauid	np1	Dauid	David	0
-Murray	Murray	np1	Murray	Murray	0
-.	.	.	.	.	1

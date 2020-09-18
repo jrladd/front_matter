@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-honor'd	honor'd	vvn	honoured	honour	0
-Patron	Patron	n1	Patron	patron	0
-of	of	pp-f	of	of	0
-his	his	po31	his	his	0
-Book	Book	n1	Book	book	0
-.	.	.	.	.	1

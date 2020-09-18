@@ -1,2 +1,0 @@
-SILAWL	SILAWL	np1	SILAWL	SILAWL	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-William	William	np1	William	William	0
-Steel	Steel	n1	Steel	steel	0
-,	,	,	,	,	0
-President	President	n1	President	precedent	0
-.	.	.	.	.	1

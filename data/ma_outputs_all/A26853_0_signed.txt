@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-Faithful	Faithful	j	Faithful	faithful	0
-and	and	cc	and	and	0
-Obedient	Obedient	j	Obedient	obedient	0
-Subjects	Subjects	n2-jn	Subject's	subject	0
-.	.	.	.	.	1

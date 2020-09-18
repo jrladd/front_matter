@@ -1,8 +1,0 @@
-YOUR	YOUR	po22	YOUR	your	0
-HIGHNESSE	HIGHNESSE	n1	HIGHNESSE	highness	0
-most	most	av-ds	most	most	0
-Humbly	Humbly	av-j	Humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-GILBERT	GILBERT	np1	GILBERT	Gilbert	0
-WATS	WATS	vvz	WATS	wat	0
-.	.	.	.	.	1

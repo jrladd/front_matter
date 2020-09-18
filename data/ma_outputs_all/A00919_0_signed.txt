@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-affectionat	affectionat	j	affectionate	affectionate	0
-seruant	seruant	n1	servant	servant	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-in	in	p-acp	in	in	0
-Crist	Crist	np1	Crist	Crist	0
-,	,	,	,	,	1

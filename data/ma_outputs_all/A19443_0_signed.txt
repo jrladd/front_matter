@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-C.	C.	np1	C.	C.	1

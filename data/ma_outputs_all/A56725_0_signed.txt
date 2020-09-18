@@ -1,8 +1,0 @@
-your	your	po22	your	your	0
-Grace's	Grace's	ng1	Grace's	grace	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-Geo.	Geo.	np1	Geo.	Geo.	0
-Paule	Paule	np1	Paule	Paul	0
-.	.	.	.	.	1

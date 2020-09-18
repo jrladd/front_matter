@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-King	King	n1	King	king	0
-William	William	np1	William	William	0
-and	and	cc	and	and	0
-Queen	Queen	n1	Queen	queen	0
-Mary	Mary	vvi	Marry	marry	0
-.	.	.	.	.	1

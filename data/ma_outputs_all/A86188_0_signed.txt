@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-as	as	p-acp	as	as	0
-ye	ye	pn22	you	you	0
-are	are	vbr	are	be	0
-Christs	Christs	npg1	Christs	Christ	0
-;	;	;	;	;	0
-Jos.	Jos.	np1	Jos.	Jos.	0
-Heming	Heming	np1	Heming	Heming	0
-.	.	.	.	.	1

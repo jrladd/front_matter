@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Obliged	Obliged	j-vvn	Obliged	oblige	0
-,	,	,	,	,	0
-Faithful	Faithful	j	Faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Lewis	Lewis	np1	Lewis	Lewis	0
-Atterbury	Atterbury	np1	Atterbury	Atterbury	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-the	the	dt	the	the	0
-Lady	Lady	n1	Lady	lady	0
-Norton	Norton	np1	Norton	Norton	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Is	Is	vbz	Is	be	0
-DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
-By	By	p-acp	By	by	0
-Peter	Peter	np1	Peter	Peter	0
-Blackborow	Blackborow	np1	Blackborow	Blackborow	0
-.	.	.	.	.	1

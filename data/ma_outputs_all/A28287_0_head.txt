@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-Sir	Sir	n1	Sir	sir	0
-Edward	Edward	np1	Edward	Edward	0
-Sebright	Sebright	np1	Sebright	Sebright	0
-,	,	,	,	,	0
-Bar.	Bar.	np1	Bar.	Bar.	1

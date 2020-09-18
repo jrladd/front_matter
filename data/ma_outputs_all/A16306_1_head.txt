@@ -1,3 +1,0 @@
-RIGHT	RIGHT	av-jn	RIGHT	right	0
-HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
-:	:	:	:	:	1

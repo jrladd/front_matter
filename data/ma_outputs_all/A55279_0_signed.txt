@@ -1,5 +1,0 @@
-Sir	Sir	n1	Sir	sir	0
-John	John	np1	John	John	0
-Cotton	Cotton	np1	Cotton	Cotton	0
-,	,	,	,	,	0
-Bar.	Bar.	np1	Bar.	Bar.	1

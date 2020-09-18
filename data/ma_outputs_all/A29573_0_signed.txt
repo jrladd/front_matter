@@ -1,2 +1,0 @@
-BRISTOL	BRISTOL	np1	BRISTOL	Bristol	0
-.	.	.	.	.	1

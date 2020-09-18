@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-ever	ever	av	ever	ever	0
-Devoted	Devoted	vvn	Devoted	devote	0
-,	,	,	,	,	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-GARDEN	GARDEN	n1	GARDEN	garden	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Samuel	Samuel	np1	Samuel	Samuel	0
-Ward	Ward	n1	Ward	ward	0
-.	.	.	.	.	1

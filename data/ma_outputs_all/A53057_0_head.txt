@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-SIR	SIR	n1	SIR	sir	0
-CHARLES	CHARLES	np1	CHARLES	Charles	0
-CAVENDISH	CAVENDISH	np1	CAVENDISH	Cavendish	0
-,	,	,	,	,	0
-MY	MY	po11	MY	my	0
-NOBLE	NOBLE	j	NOBLE	noble	0
-BROTHER-IN-LAW	BROTHER-IN-LAW	n1	BROTHER-IN-LAW	brother-in-law	0
-.	.	.	.	.	1

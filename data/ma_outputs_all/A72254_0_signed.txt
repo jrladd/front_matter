@@ -1,3 +1,0 @@
-Peter	Peter	np1	Peter	Peter	0
-Hausted	Hausted	vvn	Hausted	haust	0
-.	.	.	.	.	1

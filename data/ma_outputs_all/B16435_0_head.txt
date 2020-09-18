@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worshipful	worshipful	j	worshipful	worshipful	0
-our	our	po12	our	our	0
-good	good	j	good	good	0
-benefactor	benefactor	n1	benefactor	benefactor	0
-.	.	.	.	.	1

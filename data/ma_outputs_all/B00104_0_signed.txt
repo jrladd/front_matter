@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-devoted	devoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-GVILD	GVILD	j	GVILD	gvild	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Drax	Drax	np1	Drax	Drax	0
-,	,	,	,	,	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Hugh	Hugh	np1	Hugh	Hugh	0
-Handy	Handy	np1	Handy	Handy	0
-,	,	,	,	,	0
-Philomath	Philomath	np1	Philomath	Philomath	0
-.	.	.	.	.	1

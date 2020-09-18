@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-PAGE	PAGE	n1	PAGE	page	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-G.	G.	np1	G.	G.	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-at	at	p-acp	at	at	0
-com	com	vvi	come	come	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-K.	K.	n1	K.	king	1

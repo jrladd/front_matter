@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Obliged	Obliged	j-vvn	Obliged	oblige	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-F.	F.	np1	F.	F.	0
-Fuller	Fuller	np1	Fuller	Fuller	0
-.	.	.	.	.	1

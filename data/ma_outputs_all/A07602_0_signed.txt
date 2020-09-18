@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-H.	H.	np1	H.	H.	0
-euer	euer	av	ever	ever	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-M.	M.	n1	M.	m.	1

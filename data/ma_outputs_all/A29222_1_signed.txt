@@ -1,3 +1,0 @@
-Samuel	Samuel	np1	Samuel	Samuel	0
-Brasse	Brasse	n1	Brass	brass	0
-.	.	.	.	.	1

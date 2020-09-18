@@ -1,4 +1,0 @@
-Authore	Authore	n1	Authore	authore	0
-Gulielmo	Gulielmo	np1	Gulielmo	Gulielmo	0
-Hubbocke	Hubbocke	n1	Hubbocke	hubbocke	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-RANDOLPH	RANDOLPH	np1	RANDOLPH	Randolph	0
-YEARWOOD	YEARWOOD	np1	YEARWOOD	YEARWOOD	0
-.	.	.	.	.	1

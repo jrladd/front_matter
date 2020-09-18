@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-Humbly	Humbly	av-j	Humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-.	.	.	.	.	1
-Robert	Robert	np1	Robert	Robert	0
-Couerte	Couerte	n1	Covert	covert	0
-.	.	.	.	.	1

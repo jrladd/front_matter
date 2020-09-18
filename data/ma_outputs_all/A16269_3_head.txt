@@ -1,7 +1,0 @@
-Of	Of	pp-f	Of	of	0
-this	this	d	this	this	0
-Garden	Garden	n1	Garden	garden	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-Muses	Muses	np2	Muses	Muse	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-H.	H.	np1	H.	H.	0
-Walker	Walker	np1	Walker	Walker	0
-.	.	.	.	.	1

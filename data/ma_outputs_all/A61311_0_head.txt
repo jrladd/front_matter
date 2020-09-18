@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Illustrious	Illustrious	j	Illustrious	illustrious	0
-Princess	Princess	n1	Princess	princess	0
-The	The	dt	The	the	0
-Dutchess	Dutchess	n1	Duchess	duchess	0
-of	of	pp-f	of	of	0
-MONMOUTH	MONMOUTH	np1	MONMOUTH	Monmouth	0
-.	.	.	.	.	1

@@ -1,4 +1,0 @@
-Brother	Brother	n1	Brother	brother	0
-Francis	Francis	np1	Francis	Francis	0
-Bell	Bell	n1	Bell	bell	0
-.	.	.	.	.	1

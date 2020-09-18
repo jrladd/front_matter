@@ -1,3 +1,0 @@
-Ponce	Ponce	np1	Ponce	Ponce	0
-de	de	fw-fr	de	de	0
-Leon	Leon	np1	Leon	Leon	1

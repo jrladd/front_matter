@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Dillingham	Dillingham	np1	Dillingham	Dillingham	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-most	most	av-ds	most	most	0
-deuotely	deuotely	av-j	deuotely	deuote	0
-affected	affected	vvn	affected	affect	0
-,	,	,	,	,	0
-G.	G.	np1	G.	G.	0
-L.	L.	np1	L.	L.	1

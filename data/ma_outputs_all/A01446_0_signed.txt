@@ -1,3 +1,0 @@
-HUMPHREY	HUMPHREY	np1	HUMPHREY	Humphrey	0
-MOSLEY	MOSLEY	np1	MOSLEY	Mosley	0
-.	.	.	.	.	1

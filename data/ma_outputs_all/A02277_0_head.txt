@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-her	her	po31	her	her	0
-louing	louing	j-vvg	loving	love	0
-sonne	sonne	n1	son	son	0
-Bernye	Bernye	n1	Berny	berny	0
-Grymeston	Grymeston	np1	Grymeston	Grymeston	0
-.	.	.	.	.	1

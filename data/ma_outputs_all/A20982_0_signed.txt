@@ -1,5 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-DVNTON	DVNTON	np1	DVNTON	DVNTON	0
-,	,	,	,	,	0
-Mariner	Mariner	n1	Mariner	mariner	0
-.	.	.	.	.	1

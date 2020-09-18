@@ -1,3 +1,0 @@
-George	George	np1	George	George	0
-Hammon	Hammon	np1	Hammon	Hammon	0
-.	.	.	.	.	1

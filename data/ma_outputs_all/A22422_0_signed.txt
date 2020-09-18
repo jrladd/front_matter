@@ -1,7 +1,0 @@
-By	By	p-acp	By	by	0
-yours	yours	png22	yours	you	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-G.	G.	np1	G.	G.	0
-B.	B.	np1	B.	B.	1

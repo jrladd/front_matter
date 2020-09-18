@@ -1,3 +1,0 @@
-Samuel	Samuel	np1	Samuel	Samuel	0
-Colvill	Colvill	np1	Colvill	Colvill	0
-.	.	.	.	.	1

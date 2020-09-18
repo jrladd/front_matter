@@ -1,4 +1,0 @@
-A	A	dt	A	a	0
-Monsieur	Monsieur	fw-fr	Monsieur	monsieur	0
-Henley	Henley	np1	Henley	Henley	0
-.	.	.	.	.	1

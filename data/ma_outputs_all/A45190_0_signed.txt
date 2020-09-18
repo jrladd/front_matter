@@ -1,4 +1,0 @@
-JOS	JOS	np1	JOS	Jos	0
-.	.	.	.	.	1
-EXON	EXON	np1	EXON	Exon	0
-.	.	.	.	.	1

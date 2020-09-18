@@ -1,7 +1,0 @@
-YOVR	YOVR	po22	YOUR	your	0
-LADISHIPS	LADISHIPS	ng1	LADISHIPS	ladyship	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-P.	P.	np1	P.	P.	0
-A.	A.	np1	A.	A.	1

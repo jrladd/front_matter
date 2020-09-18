@@ -1,6 +1,0 @@
-your	your	po22	your	your	0
-Loving	Loving	j-vvg	Loving	love	0
-Country-man	Country-man	n1	Countryman	countryman	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-S.	S.	np1	S.	S.	1

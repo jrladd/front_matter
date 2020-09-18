@@ -1,3 +1,0 @@
-by	by	p-acp	by	by	0
-T.	T.	np1	T.	T.	0
-F.	F.	np1	F.	F.	1

@@ -1,3 +1,0 @@
-Alazonomastix	Alazonomastix	np1	Alazonomastix	Alazonomastix	0
-Philalethes	Philalethes	np1	Philalethes	Philalethes	0
-.	.	.	.	.	1

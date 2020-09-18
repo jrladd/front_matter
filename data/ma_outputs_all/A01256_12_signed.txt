@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-euer	euer	av	ever	ever	0
-the	the	dt	the	the	0
-same	same	d	same	same	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-F.	F.	np1	F.	F.	1

@@ -1,5 +1,0 @@
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-R.	R.	np1	R.	R.	0
-B.	B.	np1	B.	B.	1

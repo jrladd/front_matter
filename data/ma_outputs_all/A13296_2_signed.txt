@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lad.	Lad.	n1	Lad.	lad	0
-humble	humble	j	humble	humble	0
-seruant	seruant	n1	servant	servant	0
-PAT	PAT	av	PAT	pat	0
-.	.	.	.	.	1
-SIMSON	SIMSON	np1	SIMSON	Simson	0
-.	.	.	.	.	1

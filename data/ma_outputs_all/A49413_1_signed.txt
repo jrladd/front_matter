@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-Luce.	Luce.	np1	Luce.	Luce.	1

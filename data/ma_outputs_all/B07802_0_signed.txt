@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	ng1	Graces	grace	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-Fran	Fran	np1	Fran	Fran	0
-:	:	:	:	:	0
-Lenton	Lenton	np1	Lenton	Lenton	0
-.	.	.	.	.	1

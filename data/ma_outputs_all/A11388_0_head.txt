@@ -1,7 +1,0 @@
-Suo	Suo	np1	Suo	Suo	0
-.	.	.	.	.	1
-C.	C.	np1	C.	C.	0
-S.	S.	np1	S.	S.	0
-S.	S.	np1	S.	S.	0
-P.	P.	np1	P.	P.	0
-D.	D.	np1	D.	D.	1

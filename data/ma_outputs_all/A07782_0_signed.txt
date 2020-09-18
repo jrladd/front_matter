@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-BELL	BELL	n1	BELL	bell	0
-.	.	.	.	.	1

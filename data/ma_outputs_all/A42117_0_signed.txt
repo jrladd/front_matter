@@ -1,3 +1,0 @@
-Joseph	Joseph	np1	Joseph	Joseph	0
-Gander	Gander	n1	Gander	gander	0
-.	.	.	.	.	1

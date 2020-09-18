@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	n2	Ladyships	ladyship	0
-much	much	av-d	much	much	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	1
-B	B	sy	B	b	1

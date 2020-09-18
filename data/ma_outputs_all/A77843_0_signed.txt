@@ -1,3 +1,0 @@
-ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
-BURGES	BURGES	np1	BURGES	Burges	0
-.	.	.	.	.	1

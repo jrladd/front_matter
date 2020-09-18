@@ -1,6 +1,0 @@
-Tui	Tui	fw-la	Tui	tui	0
-favoris	favoris	fw-la	favoris	favoris	0
-studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
-Silas	Silas	np1	Silas	Silas	0
-Taylorius	Taylorius	np1	Taylorius	Taylorius	0
-.	.	.	.	.	1

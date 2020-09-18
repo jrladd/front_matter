@@ -1,8 +1,0 @@
-Most	Most	ds	Most	most	0
-devoted	devoted	j-vvn	devoted	devote	0
-to	to	p-acp	to	to	0
-your	your	po22	your	your	0
-Ʋertues	Ʋertues	n2	Ʋertues	ʋertue	0
-.	.	.	.	.	1
-RC	RC	np1	RC	RC	0
-:	:	:	:	:	1

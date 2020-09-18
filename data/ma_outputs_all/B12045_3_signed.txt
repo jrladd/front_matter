@@ -1,3 +1,0 @@
-Vatum	Vatum	np1	Vatum	Vatum	0
-Chorus	Chorus	n1	Chorus	chorus	0
-.	.	.	.	.	1

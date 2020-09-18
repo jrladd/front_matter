@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-servant	servant	n1	servant	servant	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-.	.	.	.	.	1
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-DINGLEY	DINGLEY	np1	DINGLEY	Dingley	0
-.	.	.	.	.	1

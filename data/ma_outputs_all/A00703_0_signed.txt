@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-alwaies	alwaies	av	always	always	0
-Christopher	Christopher	np1	Christopher	Christopher	0
-Fetherston	Fetherston	np1	Fetherston	Fetherston	0
-.	.	.	.	.	1

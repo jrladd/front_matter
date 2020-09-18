@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	ng1	Ladyships	ladyship	0
-Humblest	Humblest	js	Humblest	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

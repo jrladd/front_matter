@@ -1,3 +1,0 @@
-A.	A.	np1	A.	A.	0
-COWLEY	COWLEY	np1	COWLEY	Cowley	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Au	Au	fw-fr	Au	au	0
-ROY	ROY	fw-fr	ROY	roy	0
-.	.	.	.	.	1

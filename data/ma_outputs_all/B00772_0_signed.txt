@@ -1,9 +1,0 @@
-Serenissimae	Serenissimae	fw-la	Serenissimae	serenissimae	0
-Vestrae	Vestrae	np1	Vestrae	Vestrae	0
-Maiestati	Maiestati	n1	Maiestati	maiestati	0
-omni	omni	fw-la	omni	omni	0
-reuerentia	reuerentia	fw-la	reuerentia	reuerentia	0
-subditissimus	subditissimus	fw-la	subditissimus	subditissimus	0
-,	,	,	,	,	0
-GVLIELMVS	GVLIELMVS	fw-la	GVLIELMVS	gvlielmvs	0
-MORGANVS	MORGANVS	np1	MORGANVS	MORGANVS	1

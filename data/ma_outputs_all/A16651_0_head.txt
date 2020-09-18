@@ -1,7 +1,0 @@
-OYALL	OYALL	j	OYALL	royal	0
-PHEANDER	PHEANDER	np1	PHEANDER	Pheander	0
-to	to	p-acp	to	to	0
-his	his	po31	his	his	0
-ROYALL	ROYALL	j	ROYAL	royal	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-David	David	np1	David	David	0
-Abercromby	Abercromby	np1	Abercromby	Abercromby	0
-.	.	.	.	.	1

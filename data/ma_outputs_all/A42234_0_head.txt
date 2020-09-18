@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-Author's	Author's	ng1	Author's	author	0
-Dedication	Dedication	n1	Dedication	dedication	0
-to	to	p-acp	to	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-Christian	Christian	njp	Christian	christian	0
-KING	KING	n1	KING	king	0
-.	.	.	.	.	1

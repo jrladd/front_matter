@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-affectionately	affectionately	av-j	affectionately	affectionate	0
-at	at	p-acp	at	at	0
-commaund	commaund	n1	command	command	0
-.	.	.	.	.	1
-N.	N.	np1	N.	N.	0
-BRITTON	BRITTON	np1	BRITTON	Britton	0
-.	.	.	.	.	1

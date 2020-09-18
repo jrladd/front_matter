@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-much	much	d	much	much	0
-Honour'd	Honour'd	j-vvn	Honoured	honour	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Papillon	Papillon	np1	Papillon	Papillon	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

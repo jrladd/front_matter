@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-to	to	pc-acp	to	to	0
-commaunde	commaunde	vvi	command	command	0
-.	.	.	.	.	1
-Ed.	Ed.	np1	Ed.	Ed.	0
-De.	De.	np1	De.	De.	1

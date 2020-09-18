@@ -1,3 +1,0 @@
-Philostratus	Philostratus	np1	Philostratus	Philostratus	0
-Philodemius	Philodemius	np1	Philodemius	Philodemius	0
-.	.	.	.	.	1

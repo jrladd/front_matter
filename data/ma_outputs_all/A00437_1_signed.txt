@@ -1,4 +1,0 @@
-Hadrianus	Hadrianus	np1	Hadrianus	Hadrianus	0
-Iunius	Iunius	np1	Iunius	Iunius	0
-Hornanus	Hornanus	fw-la	Hornanus	hornanus	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-Maiestati	Maiestati	n1	Maiestati	maiestati	0
-Serenissimae	Serenissimae	fw-la	Serenissimae	serenissimae	0
-Deuotissimus	Deuotissimus	fw-la	Deuotissimus	deuotissimus	0
-cliens	cliens	n2-jn	cliens	clien	0
-,	,	,	,	,	0
-P.	P.	np1	P.	P.	0
-MOLINAEVS	MOLINAEVS	np1	MOLINAEVS	MOLINAEVS	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worthy	Worthy	j-jn	Worthy	worthy	0
-Knight	Knight	n1	Knight	knight	0
-Sir	Sir	n1	Sir	sir	0
-Edmund	Edmund	np1	Edmund	Edmund	0
-Williams	Williams	np1	Williams	Williams	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

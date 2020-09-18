@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honourer	Honourer	n1	Honourer	honourer	0
-and	and	cc	and	and	0
-Most	Most	av-ds	Most	most	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1

@@ -1,2 +1,0 @@
-R.	R.	np1	R.	R.	0
-Ch.	Ch.	np1	Ch.	Ch.	1

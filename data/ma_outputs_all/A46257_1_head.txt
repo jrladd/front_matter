@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-WORSHIPFUL	WORSHIPFUL	j	WORSHIPFUL	worshipful	0
-COMPANY	COMPANY	n1	COMPANY	company	0
-OF	OF	pp-f	OF	of	0
-DRAPERS	DRAPERS	n2	DRAPERS	draper	0
-.	.	.	.	.	1

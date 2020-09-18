@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-Lordes	Lordes	n2	Lords	lord	0
-vnwoorthie	vnwoorthie	j-u	unworthy	unworthy	0
-,	,	,	,	,	0
-HENOCH	HENOCH	np1	HENOCH	HENOCH	0
-CLAPHAM	CLAPHAM	np1	CLAPHAM	Clapham	0
-.	.	.	.	.	1

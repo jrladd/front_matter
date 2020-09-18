@@ -1,3 +1,0 @@
-Gabriel	Gabriel	np1	Gabriel	Gabriel	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-.	.	.	.	.	1

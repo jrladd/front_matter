@@ -1,5 +1,0 @@
-Edvardus	Edvardus	np1	Edvardus	Edvardus	0
-Philippus	Philippus	np1	Philippus	Philippus	0
-,	,	,	,	,	0
-Londinensis	Londinensis	fw-la	Londinensis	londinensis	0
-.	.	.	.	.	1

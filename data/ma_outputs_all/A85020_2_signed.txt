@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-Servant	Servant	n1	Servant	servant	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-FULLER	FULLER	np1	FULLER	Fuller	0
-.	.	.	.	.	1

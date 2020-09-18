@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipful	Worshipful	j	Worshipful	worshipful	0
-Robert	Robert	np1	Robert	Robert	0
-Raworth	Raworth	np1	Raworth	Raworth	0
-Esq.	Esq.	np1	Esq.	Esq.	1

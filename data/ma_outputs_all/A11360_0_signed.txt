@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-dutifull	dutifull	j	dutiful	dutiful	0
-Grand-child	Grand-child	n1	Grandchild	grandchild	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Salusbury	Salusbury	np1	Salusbury	Salusbury	0
-.	.	.	.	.	1

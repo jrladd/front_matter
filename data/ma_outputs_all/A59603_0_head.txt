@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-Honour'd	Honour'd	j-vvn	Honoured	honour	0
-Friend	Friend	n1	Friend	friend	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Milton	Milton	np1	Milton	Milton	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

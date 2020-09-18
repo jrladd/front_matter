@@ -1,3 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Andrewe	Andrewe	np1	Andrewe	Andrew	0
-.	.	.	.	.	1

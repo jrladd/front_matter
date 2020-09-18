@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humble	humble	j	humble	humble	0
-obserant	obserant	j	obserant	obserant	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-GAINSORDE	GAINSORDE	n1	GAINSORDE	gainsorde	0
-.	.	.	.	.	1

@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-Monsieur	Monsieur	fw-fr	Monsieur	monsieur	0
-CONRART	CONRART	n1	CONRART	conrart	0
-.	.	.	.	.	1

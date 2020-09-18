@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

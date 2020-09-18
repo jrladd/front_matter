@@ -1,6 +1,0 @@
-That	That	d	That	that	0
-Shippes	Shippes	n2	Ships	ship	0
-haue	haue	vhb	have	have	0
-bene	bene	vbn	be	be	0
-at	at	p-acp	at	at	0
-Ware	Ware	n1	Ware	ware	1

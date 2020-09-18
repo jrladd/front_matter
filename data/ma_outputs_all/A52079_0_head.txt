@@ -1,5 +1,0 @@
-Doctissimo	Doctissimo	n1	Doctissimo	doctissimo	0
-Amico	Amico	np1	Amico	Amico	0
-Johanni	Johanni	np1	Johanni	Johanni	0
-Gravio	Gravio	np1	Gravio	Gravio	0
-.	.	.	.	.	1

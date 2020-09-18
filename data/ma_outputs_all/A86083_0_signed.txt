@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Wel-wisher	Wel-wisher	j	Wellwisher	wellwish	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-H.	H.	np1	H.	H.	1

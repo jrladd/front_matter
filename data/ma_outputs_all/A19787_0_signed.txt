@@ -1,9 +1,0 @@
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-dutie	dutie	n1	duty	duty	0
-,	,	,	,	,	0
-MICH	MICH	np1	MICH	Mich	0
-.	.	.	.	.	1
-DALTON	DALTON	np1	DALTON	Dalton	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-true	true	j	true	true	0
-and	and	cc	and	and	0
-faithfull	faithfull	j	faithful	faithful	0
-Honorer	Honorer	n1	Honorer	honourer	0
-PHILIP	PHILIP	np1	PHILIP	PHILIP	0
-MASSINGER	MASSINGER	np1	MASSINGER	MASSINGER	0
-.	.	.	.	.	1

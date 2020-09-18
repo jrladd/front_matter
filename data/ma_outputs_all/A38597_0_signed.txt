@@ -1,8 +1,0 @@
-Eich	Eich	n1	Eich	eich	0
-cydymmaith	cydymmaith	n1	cydymmaith	cydymmaith	0
-ich	ich	fw-mi	ich	ich	0
-gwasanaeth	gwasanaeth	vvz	gwasanaeth	gwasana	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-Vaughan	Vaughan	np1	Vaughan	Vaughan	0
-.	.	.	.	.	1

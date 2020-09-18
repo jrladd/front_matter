@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humblest	humblest	js	humblest	humble	0
-Creature	Creature	n1	Creature	creature	0
-.	.	.	.	.	1
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-SAMPSON	SAMPSON	np1	SAMPSON	Samson	0
-.	.	.	.	.	1

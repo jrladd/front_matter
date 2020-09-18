@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-he	he	pns31	he	he	0
-may	may	vmb	may	may	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-D.	D.	np1	D.	D.	1

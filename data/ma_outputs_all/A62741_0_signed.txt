@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-and	and	cc	and	and	0
-faithful	faithful	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Tanner	Tanner	n1	Tanner	tanner	0
-.	.	.	.	.	1

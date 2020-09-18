@@ -1,6 +1,0 @@
-Ex	Ex	fw-la	Ex	ex	0
-Animo	Animo	fw-la	Animo	animo	0
-Expot	Expot	n1	Expot	expot	0
-Iosuah	Iosuah	np1	Iosuah	Iosuah	0
-Sylvester	Sylvester	np1	Sylvester	Sylvester	0
-.	.	.	.	.	1

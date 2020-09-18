@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Faithful	Faithful	j	Faithful	faithful	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Floyer	Floyer	np1	Floyer	Floyer	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-J.	J.	np1	J.	J.	0
-Goodrick	Goodrick	np1	Goodrick	Goodrick	0
-.	.	.	.	.	1

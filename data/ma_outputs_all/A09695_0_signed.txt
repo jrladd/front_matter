@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Piscator	Piscator	n1	Piscator	piscator	0
-,	,	,	,	,	0
-of	of	pp-f	of	of	0
-Argentine	Argentine	np1	Argentine	Argentine	0
-.	.	.	.	.	1

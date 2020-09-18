@@ -1,5 +1,0 @@
-All	All	av-d	All	all	0
-yours	yours	po22	yours	your	0
-Iohn	Iohn	np1	Iohn	John	0
-Fletcher	Fletcher	np1	Fletcher	Fletcher	0
-:	:	:	:	:	1

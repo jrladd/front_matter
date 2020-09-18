@@ -1,8 +1,0 @@
-Humilimus	Humilimus	np1	Humilimus	Humilimus	0
-seruus	seruus	fw-la	seruus	seruus	0
-Ed.	Ed.	np1	Ed.	Ed.	0
-Grant	Grant	vvb	Grant	grant	0
-Scholae	Scholae	fw-la	Scholae	scholae	0
-Westmonasteriensis	Westmonasteriensis	np1	Westmonasteriensis	Westmonasteriensis	0
-moderator	moderator	n1	moderator	moderator	0
-.	.	.	.	.	1

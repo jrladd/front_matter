@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-reall	reall	j	real	real	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-HAMMOND	HAMMOND	np1	HAMMOND	Hammond	0
-.	.	.	.	.	1

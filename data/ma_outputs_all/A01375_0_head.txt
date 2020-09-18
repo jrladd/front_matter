@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THOSE	THOSE	d	THOSE	those	0
-NOBLE	NOBLE	j	NOBLE	noble	0
-Personages	Personages	n2	Personages	personage	0
-rancked	rancked	vvn	ranked	rank	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-CATALOGVE	CATALOGVE	n1	CATALOGVE	catalogve	0
-.	.	.	.	.	1

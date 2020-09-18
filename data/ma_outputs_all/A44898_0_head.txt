@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Lovers	Lovers	n2	Lovers	lover	0
-of	of	pp-f	of	of	0
-all	all	d	all	all	0
-Mathematical	Mathematical	j	Mathematical	mathematical	0
-Learning	Learning	n1	Learning	learning	0
-.	.	.	.	.	1

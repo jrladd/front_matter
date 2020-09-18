@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Obsequious	Obsequious	j	Obsequious	obsequious	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-CASE	CASE	n1	CASE	case	0
-.	.	.	.	.	1

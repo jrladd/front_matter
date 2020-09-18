@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-Grace	Grace	n1	Grace	grace	0
-the	the	dt	the	the	0
-Duke	Duke	n1	Duke	duke	0
-of	of	pp-f	of	of	0
-NEW-CASTLE	NEW-CASTLE	np1	NEW-CASTLE	Newcastle	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

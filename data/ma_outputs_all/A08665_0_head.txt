@@ -1,7 +1,0 @@
-¶	¶	¶	¶	¶	0
-To	To	pc-acp	To	to	0
-M.	M.	n1	M.	m.	0
-Nycholas	Nycholas	np1	Nycholas	Nycholas	0
-Sentleger	Sentleger	np1	Sentleger	Sentleger	0
-Esquyer	Esquyer	np1	Esquyer	Esquyer	0
-.	.	.	.	.	1

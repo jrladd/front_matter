@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Sempiternal	Sempiternal	j	Sempiternal	sempiternal	0
-Vassal	Vassal	n1	Vassal	vassal	0
-,	,	,	,	,	0
-SAM	SAM	np1	SAM	Sam	0
-.	.	.	.	.	1
-CRISP	CRISP	np1	CRISP	Crisp	0
-.	.	.	.	.	1

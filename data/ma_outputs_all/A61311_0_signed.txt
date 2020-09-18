@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Grace's	Grace's	ng1	Grace's	grace	0
-Most	Most	av-ds	Most	most	0
-obedient	obedient	j	obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-R.	R.	np1	R.	R.	0
-Stapylton	Stapylton	np1	Stapylton	Stapylton	0
-.	.	.	.	.	1

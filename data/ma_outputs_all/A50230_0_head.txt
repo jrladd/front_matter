@@ -1,3 +1,0 @@
-Epistola	Epistola	np1	Epistola	Epistola	0
-Dedicatoria	Dedicatoria	np1	Dedicatoria	Dedicatoria	0
-.	.	.	.	.	1

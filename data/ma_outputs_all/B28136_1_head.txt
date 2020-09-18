@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-Sir	Sir	n1	Sir	sir	0
-J.	J.	np1	J.	J.	0
-A.	A.	np1	A.	A.	1

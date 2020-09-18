@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-Devoted	Devoted	j-vvn	Devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-Robert	Robert	np1	Robert	Robert	0
-Chamberlain	Chamberlain	n1	Chamberlain	chamberlain	0
-.	.	.	.	.	1

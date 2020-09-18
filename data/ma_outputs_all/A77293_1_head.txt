@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-you	you	pn22	you	you	0
-my	my	po11	my	my	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-Brethren	Brethren	n2	Brothers	brethren	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-ASSEMBLY	ASSEMBLY	n1	ASSEMBLY	assembly	0
-.	.	.	.	.	1

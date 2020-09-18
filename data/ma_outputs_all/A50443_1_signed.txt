@@ -1,6 +1,0 @@
-Christophorus	Christophorus	np1	Christophorus	Christophorus	0
-Laurentius	Laurentius	np1	Laurentius	Laurentius	0
-.	.	.	.	.	1
-Med.	Med.	np1	Med.	Med.	0
-Doctor	Doctor	n1	Doctor	doctor	0
-.	.	.	.	.	1

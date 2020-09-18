@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-most	most	av-ds	most	most	0
-Faithfull	Faithfull	j	Faithful	faithful	0
-,	,	,	,	,	0
-HVM	HVM	uh	HUM	hum	0
-.	.	.	.	.	1
-SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
-.	.	.	.	.	1

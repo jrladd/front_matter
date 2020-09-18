@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Gilbert	Gilbert	np1	Gilbert	Gilbert	0
-Burnet	Burnet	np1	Burnet	Burnet	0
-.	.	.	.	.	1

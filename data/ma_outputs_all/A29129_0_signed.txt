@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Cordiall	Cordiall	n1	Cordial	cordial	0
-Subject	Subject	j-jn	Subject	subject	0
-Ellis	Ellis	np1	Ellis	Ellis	0
-Bradshaw	Bradshaw	np1	Bradshaw	Bradshaw	0
-.	.	.	.	.	1

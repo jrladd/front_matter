@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-continuall	continuall	j	continual	continual	0
-Prayers	Prayers	n2	Prayers	prayer	0
-,	,	,	,	,	0
-Nicho.	Nicho.	np1	Nicho.	Nicho.	0
-Lockyer	Lockyer	np1	Lockyer	Lockyer	0
-.	.	.	.	.	1

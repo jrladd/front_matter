@@ -1,3 +1,0 @@
-DANIEL	DANIEL	np1	DANIEL	Daniel	0
-DIKE	DIKE	np1	DIKE	Dike	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-CL	CL	crd	CL	cl	0
-.	.	.	.	.	1
-BARKSDALE	BARKSDALE	np1	BARKSDALE	Barksdale	0
-.	.	.	.	.	1

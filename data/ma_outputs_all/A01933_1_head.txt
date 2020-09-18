@@ -1,7 +1,0 @@
-DEO	DEO	np1	DEO	Deo	0
-OPT	OPT	vvn	OPT	open	0
-:	:	:	:	:	0
-MAX	MAX	fw-la	MAX	max	0
-:	:	:	:	:	0
-SACRUM	SACRUM	fw-la	SACRUM	sacrum	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Tui	Tui	fw-la	Tui	tui	0
-observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
-:	:	:	:	:	0
-Richardus	Richardus	fw-la	Richardus	richardus	0
-Carpenterus	Carpenterus	np1	Carpenterus	Carpenterus	0
-.	.	.	.	.	1

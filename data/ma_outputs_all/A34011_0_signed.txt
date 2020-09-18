@@ -1,9 +1,0 @@
-yours	yours	png22	yours	you	0
-devoted	devoted	j-vvn	devoted	devote	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-observance	observance	n1	observance	observance	0
-Tho	Tho	av	Though	tho	0
-▪	▪	▪	▪	▪	0
-Collins	Collins	np1	Collins	Collins	1

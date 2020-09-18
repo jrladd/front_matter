@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Kinsman	Kinsman	n1	Kinsman	kinsman	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-BRAYN	BRAYN	n1	BRAYN	brayn	0
-.	.	.	.	.	1

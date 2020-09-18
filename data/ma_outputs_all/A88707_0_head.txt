@@ -1,8 +1,0 @@
-EPISTRE	EPISTRE	np1	EPISTRE	EPISTRE	0
-DEDICATOIRE	DEDICATOIRE	np1	DEDICATOIRE	DEDICATOIRE	0
-A	A	dt	A	a	0
-Madame	Madame	n1	Madame	madam	0
-la	la	fw-fr	la	la	0
-Duchesse	Duchesse	np1	Duchesse	Duchesse	0
-MAZARIN	MAZARIN	np1	MAZARIN	MAZARIN	0
-.	.	.	.	.	1

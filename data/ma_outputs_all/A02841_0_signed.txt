@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Ockould	Ockould	n1	Ockould	ockould	0
-.	.	.	.	.	1

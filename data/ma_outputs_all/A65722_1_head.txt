@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
-Madam	Madam	n1	Madam	madam	0
-ELLEN	ELLEN	np1	ELLEN	Ellen	0
-GUIN	GUIN	np1	GUIN	Guin	0
-.	.	.	.	.	1

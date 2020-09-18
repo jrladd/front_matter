@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Grace	Grace	n1	Grace	grace	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-Primate	Primate	j-jn	Primate	primate	0
-of	of	pp-f	of	of	0
-IRELAND	IRELAND	np1	IRELAND	Ireland	0
-.	.	.	.	.	1

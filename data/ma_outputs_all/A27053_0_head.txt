@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Colonel	Colonel	n1	Colonel	colonel	0
-JAMES	JAMES	np1	JAMES	James	0
-BERRY	BERRY	n1	BERRY	berry	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

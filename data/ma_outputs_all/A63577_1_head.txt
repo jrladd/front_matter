@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-Post-Man	Post-Man	n1	Post-Man	post-man	0
-.	.	.	.	.	1
-Feb.	Feb.	np1	Feb.	Feb.	0
-25.	25.	crd	25.	25.	1
-1698-9	1698-9	j	1698-9	1698-9	0
-.	.	.	.	.	1

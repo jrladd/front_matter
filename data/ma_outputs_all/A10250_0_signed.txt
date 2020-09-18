@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-ANTHONIE	ANTHONIE	np1	ANTHONIE	Anthony	0
-FAIVS	FAIVS	np1	FAIVS	FAIVS	0
-.	.	.	.	.	1

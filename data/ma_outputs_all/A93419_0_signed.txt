@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-SMYTH	SMYTH	np1	SMYTH	Smyth	0
-.	.	.	.	.	1

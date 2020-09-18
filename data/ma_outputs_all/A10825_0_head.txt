@@ -1,7 +1,0 @@
-Imperiall	Imperiall	j-jn	Imperial	imperial	0
-and	and	cc	and	and	0
-incom	incom	n1	income	income	0
-∣	∣	sy	∣	∣	0
-parable	parable	n1	parable	parable	0
-MAIESTY	MAIESTY	n1	MAIESTY	majesty	0
-.	.	.	.	.	1

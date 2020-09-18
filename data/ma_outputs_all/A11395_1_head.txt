@@ -1,2 +1,0 @@
-ANAGR	ANAGR	np1	ANAGR	ANAGR	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Wholly	Wholly	av-jn	Wholly	whole	0
-at	at	p-acp	at	at	0
-your	your	po22	your	your	0
-commandment	commandment	n1	commandment	commandment	0
-,	,	,	,	,	0
-Tho	Tho	av	Though	tho	0
-:	:	:	:	:	0
-Goodwin	Goodwin	np1	Goodwin	Goodwin	0
-.	.	.	.	.	1

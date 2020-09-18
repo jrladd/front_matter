@@ -1,5 +1,0 @@
-A	A	dt	A	a	0
-LEVRS	LEVRS	ng1	LEVRS	levrs	0
-SACREES	SACREES	n2	SACREES	sacree	0
-MAIESTEZ	MAIESTEZ	fw-fr	MAIESTEZ	maiestez	0
-.	.	.	.	.	1

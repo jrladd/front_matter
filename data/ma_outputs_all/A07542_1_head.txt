@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-H.	H.	np1	H.	H.	0
-M.	M.	n1	M.	m.	1

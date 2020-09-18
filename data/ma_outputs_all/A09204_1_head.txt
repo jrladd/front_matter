@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-same	same	d	same	same	0
-most	most	av-ds	most	most	0
-Ex	Ex	fw-la	Ex	ex	0
-∣	∣	sy	∣	∣	0
-cellent	cellent	j	cellent	cellent	0
-Princesse	Princesse	n1	Princess	princess	0
-.	.	.	.	.	1

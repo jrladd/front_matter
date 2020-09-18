@@ -1,3 +1,0 @@
-Brian	Brian	np1	Brian	Brian	0
-Fairfax	Fairfax	np1	Fairfax	Fairfax	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	n2	Ladyships	ladyship	0
-to	to	pc-acp	to	to	0
-commaunde	commaunde	vvi	command	command	0
-.	.	.	.	.	1
-Geffraye	Geffraye	vvi	Geffraye	geffraye	0
-Fenton	Fenton	np1	Fenton	Fenton	0
-.	.	.	.	.	1

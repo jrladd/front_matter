@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-euer	euer	av	ever	ever	0
-to	to	p-acp	to	to	0
-commaund	commaund	n1	command	command	0
-.	.	.	.	.	1
-Edward	Edward	np1	Edward	Edward	0
-Monings	Monings	n2-vvg	Moanings	moaning	0
-.	.	.	.	.	1

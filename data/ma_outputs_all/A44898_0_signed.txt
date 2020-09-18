@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-HOLWELL	HOLWELL	np1	HOLWELL	Holwell	0
-.	.	.	.	.	1

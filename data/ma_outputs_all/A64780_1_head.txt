@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-most	most	av-ds	most	most	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-Schoolmaster	Schoolmaster	n1	Schoolmaster	schoolmaster	0
-.	.	.	.	.	1

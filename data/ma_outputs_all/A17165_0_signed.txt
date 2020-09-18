@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Bullein	Bullein	j	Bullein	bullein	0
-.	.	.	.	.	1

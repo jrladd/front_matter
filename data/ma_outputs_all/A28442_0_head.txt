@@ -1,6 +1,0 @@
-PREMONITION	PREMONITION	n1	PREMONITION	premonition	0
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-CANDID	CANDID	j	CANDID	candid	0
-READER	READER	n1	READER	reader	0
-.	.	.	.	.	1

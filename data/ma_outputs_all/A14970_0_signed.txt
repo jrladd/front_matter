@@ -1,6 +1,0 @@
-Tibi	Tibi	fw-la	Tibi	tibi	0
-deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
-,	,	,	,	,	0
-WILHELMVS	WILHELMVS	fw-la	WILHELMVS	wilhelmvs	0
-WEST	WEST	n1	WEST	west	0
-.	.	.	.	.	1

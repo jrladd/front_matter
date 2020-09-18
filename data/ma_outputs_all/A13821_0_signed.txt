@@ -1,4 +1,0 @@
-Edw	Edw	np1	Edw	Edw	0
-:	:	:	:	:	0
-Topsell	Topsell	n1	Topsell	topsell	0
-.	.	.	.	.	1

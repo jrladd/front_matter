@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	ds	most	most	0
-Serene	Serene	np1	Serene	Serena	0
-Grand	Grand	j	Grand	grand	0
-DUKE	DUKE	n1	DUKE	duke	0
-OF	OF	pp-f	OF	of	0
-TUSCANY	TUSCANY	np1	TUSCANY	Tuscany	0
-.	.	.	.	.	1

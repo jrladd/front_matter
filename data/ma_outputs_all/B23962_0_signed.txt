@@ -1,2 +1,0 @@
-Michael	Michael	np1	Michael	Michael	0
-Harriso	Harriso	np1	Harriso	Harriso	1

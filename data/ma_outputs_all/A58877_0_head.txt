@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-ANN	ANN	np1	ANN	Ann	0
-Countess	Countess	n1	Countess	countess	0
-OF	OF	pp-f	OF	of	0
-OSSORY	OSSORY	np1	OSSORY	Ossory	0
-.	.	.	.	.	1

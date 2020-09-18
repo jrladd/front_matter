@@ -1,9 +1,0 @@
-your	your	po22	your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-Most	Most	av-ds	Most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Philotheus	Philotheus	np1	Philotheus	Philotheus	0
-.	.	.	.	.	1

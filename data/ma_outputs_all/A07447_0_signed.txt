@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-wholie	wholie	av-jn	wholly	whole	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-Francis	Francis	np1	Francis	Francis	0
-Meres	Meres	n2	Meres	mere	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-officious	officious	j	officious	officious	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Historigrapher	Historigrapher	n1	Historigrapher	historigrapher	0
-PHILOCOPHVS	PHILOCOPHVS	np1	PHILOCOPHVS	PHILOCOPHVS	0
-.	.	.	.	.	1

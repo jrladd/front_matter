@@ -1,3 +1,0 @@
-Benjamin	Benjamin	np1	Benjamin	Benjamin	0
-Albyn	Albyn	np1	Albyn	Albyn	0
-.	.	.	.	.	1

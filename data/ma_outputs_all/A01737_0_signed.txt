@@ -1,3 +1,0 @@
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-BAGNALL	BAGNALL	np1	BAGNALL	Bagnall	0
-.	.	.	.	.	1

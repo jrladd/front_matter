@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Louing	Louing	vvg	Loving	love	0
-friend	friend	n1	friend	friend	0
-John	John	np1	John	John	0
-D'oyly	D'oyly	av-j	D'oyly	d'oy	0
-.	.	.	.	.	1

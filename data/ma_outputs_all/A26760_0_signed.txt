@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Batchiler	Batchiler	n1	Batchiler	bachelor	0
-.	.	.	.	.	1

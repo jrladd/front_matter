@@ -1,3 +1,0 @@
-Izaak	Izaak	np1	Izaak	Izaak	0
-Walton	Walton	np1	Walton	Walton	0
-.	.	.	.	.	1

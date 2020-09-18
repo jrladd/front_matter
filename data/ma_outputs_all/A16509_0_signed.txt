@@ -1,9 +1,0 @@
-By	By	p-acp	By	by	0
-your	your	po22	your	your	0
-Honours	Honours	ng1	Honours	honour	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Bourne	Bourne	np1	Bourne	Bourne	0
-.	.	.	.	.	1

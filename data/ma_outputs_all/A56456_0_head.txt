@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Mr.	Mr.	n1	Mr.	mr.	0
-Richard	Richard	np1	Richard	Richard	0
-Whitchurch	Whitchurch	np1	Whitchurch	Whitchurch	0
-.	.	.	.	.	1

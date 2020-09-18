@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-most	most	av-ds	most	most	0
-Honourable	Honourable	j	Honourable	honourable	0
-PRIVY-COUNCIL	PRIVY-COUNCIL	n1	PRIVY-COUNCIL	privy-council	0
-.	.	.	.	.	1

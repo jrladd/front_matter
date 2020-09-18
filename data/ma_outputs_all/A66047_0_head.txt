@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-HIGHNESSE	HIGHNESSE	n1	HIGHNESSE	highness	0
-The	The	dt	The	the	0
-Prince	Prince	n1	Prince	prince	0
-Elector	Elector	n1	Elector	elector	0
-Palatine	Palatine	jp	Palatine	palatine	0
-.	.	.	.	.	1

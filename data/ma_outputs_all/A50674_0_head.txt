@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-his	his	po31	his	his	0
-loving	loving	j-vvg	loving	love	0
-Country-men	Country-men	n2	Countrymen	countryman	0
-.	.	.	.	.	1

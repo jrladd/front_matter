@@ -1,3 +1,0 @@
-Rich.	Rich.	np1	Rich.	Richard	0
-Farneworth	Farneworth	np1	Farneworth	Farneworth	0
-.	.	.	.	.	1

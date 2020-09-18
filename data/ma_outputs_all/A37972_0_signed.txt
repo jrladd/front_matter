@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-entire	entire	j	entire	entire	0
-Servant	Servant	n1	Servant	servant	0
-and	and	cc	and	and	0
-Honoer	Honoer	np1	Honoer	Honoer	0
-JOHN	JOHN	np1	JOHN	John	0
-EDWARDS	EDWARDS	npg1	EDWARDS	Edward	0
-.	.	.	.	.	1

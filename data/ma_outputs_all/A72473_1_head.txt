@@ -1,6 +1,0 @@
-THE	THE	dt	THE	the	0
-PROLOGVE	PROLOGVE	n1	PROLOGVE	prologve	0
-FOR	FOR	p-acp	FOR	for	0
-THE	THE	dt	THE	the	0
-STAGE	STAGE	n1	STAGE	stage	0
-.	.	.	.	.	1

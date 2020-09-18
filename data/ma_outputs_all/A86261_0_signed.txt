@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-VICARS	VICARS	np1	VICARS	Vicars	0
-.	.	.	.	.	1

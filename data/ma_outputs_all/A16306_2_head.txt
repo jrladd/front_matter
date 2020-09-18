@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
-of	of	pp-f	of	of	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	0
-in	in	p-acp	in	in	0
-generall	generall	n1	general	general	0
-.	.	.	.	.	1

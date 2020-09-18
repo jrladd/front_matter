@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-CON	CON	vvi	CON	con	0
-∣	∣	sy	∣	∣	0
-scionable	scionable	j	scionable	scionable	0
-Reader	Reader	n1	Reader	reader	0
-.	.	.	.	.	1

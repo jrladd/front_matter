@@ -1,3 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Russel	Russel	np1	Russel	Russel	0
-.	.	.	.	.	1

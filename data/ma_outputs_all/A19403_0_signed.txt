@@ -1,3 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-COTTA	COTTA	np1	COTTA	Cotta	0
-.	.	.	.	.	1

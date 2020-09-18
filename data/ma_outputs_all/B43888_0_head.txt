@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-Ingenious	Ingenious	j	Ingenious	ingenious	0
-Lovers	Lovers	n2	Lovers	lover	0
-of	of	pp-f	of	of	0
-musicK	musicK	n1	musicK	music	0
-.	.	.	.	.	1

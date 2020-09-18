@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-S	S	n1	S	saint	0
-:	:	:	:	:	0
-C	C	sy	C	c	0
-:	:	:	:	:	1

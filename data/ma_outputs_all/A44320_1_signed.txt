@@ -1,9 +1,0 @@
-Dignitatis	Dignitatis	fw-la	Dignitatis	dignitatis	0
-&	&	cc	&	and	0
-Honoris	Honoris	fw-la	Honoris	honoris	0
-Tui	Tui	fw-la	Tui	tui	0
-Studiosissimus	Studiosissimus	fw-la	Studiosissimus	studiosissimus	0
-,	,	,	,	,	0
-ROBERTUS	ROBERTUS	np1	ROBERTUS	ROBERTUS	0
-HOOKE	HOOKE	n1	HOOKE	hook	0
-.	.	.	.	.	1

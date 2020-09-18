@@ -1,3 +1,0 @@
-H.	H.	np1	H.	H.	0
-Brooke	Brooke	n1	Brook	brook	0
-.	.	.	.	.	1

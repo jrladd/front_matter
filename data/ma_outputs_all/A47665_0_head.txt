@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-Authors	Authors	n2	Authors	author	0
-Panegyrical	Panegyrical	j	Panegyrical	panegyrical	0
-Address	Address	n1	Address	address	0
-to	to	p-acp	to	to	0
-the	the	dt	the	the	0
-Queen	Queen	n1	Queen	queen	0
-Regent	Regent	n1	Regent	regent	0
-.	.	.	.	.	1

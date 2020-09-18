@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-good	good	j	good	good	0
-La.	La.	n1	La.	lady	0
-assuredly	assuredly	av-vvn	assuredly	assure	0
-bounden	bounden	vvn	bounden	bind	0
-.	.	.	.	.	1
-Roger	Roger	np1	Roger	Roger	0
-Edwardes	Edwardes	np1	Edwardes	Edwardes	0
-.	.	.	.	.	1

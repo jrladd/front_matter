@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-wel-willers	wel-willers	n2	wellwillers	wellwiller	0
-and	and	cc	and	and	0
-lovers	lovers	n2	lovers	lover	0
-of	of	pp-f	of	of	0
-ART	ART	n1	ART	art	0
-.	.	.	.	.	1

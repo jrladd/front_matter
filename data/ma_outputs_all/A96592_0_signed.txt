@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-most	most	av-ds	most	most	0
-faithfull	faithfull	j	faithful	faithful	0
-to	to	p-acp	to	to	0
-Your	Your	po22	Your	your	0
-Majestie	Majestie	n1	Majesty	majesty	0
-GRYFFITH	GRYFFITH	np1	GRYFFITH	GRYFFITH	0
-OSSORY	OSSORY	np1	OSSORY	Ossory	0
-.	.	.	.	.	1

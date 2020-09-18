@@ -1,3 +1,0 @@
-FABIAN	FABIAN	np1	FABIAN	Fabian	0
-PHILIPPS	PHILIPPS	np1	PHILIPPS	Philipps	0
-.	.	.	.	.	1

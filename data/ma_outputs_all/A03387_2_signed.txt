@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-perpetually	perpetually	av-j	perpetually	perpetual	0
-devoted	devoted	vvn	devoted	devote	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Hilton	Hilton	np1	Hilton	Hilton	0
-.	.	.	.	.	1

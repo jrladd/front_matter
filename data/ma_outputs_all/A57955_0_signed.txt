@@ -1,9 +1,0 @@
-A	A	dt	A	a	0
-Sincere	Sincere	j	Sincere	sincere	0
-Lover	Lover	n1	Lover	lover	0
-of	of	pp-f	of	of	0
-your	your	po22	your	your	0
-Soul	Soul	n1	Soul	soul	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-R.	R.	np1	R.	R.	1

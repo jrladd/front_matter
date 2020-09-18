@@ -1,9 +1,0 @@
-A	A	dt	A	a	0
-true	true	j	true	true	0
-lover	lover	n1	lover	lover	0
-of	of	pp-f	of	of	0
-your	your	po22	your	your	0
-family	family	n1	family	family	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-W.	W.	np1	W.	W.	1

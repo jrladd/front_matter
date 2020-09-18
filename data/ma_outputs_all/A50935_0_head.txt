@@ -1,5 +1,0 @@
-In	In	p-acp	In	in	0
-Laudem	Laudem	n1	Laudem	laudem	0
-Academiae	Academiae	np1	Academiae	Academiae	0
-Cantabrigiensis	Cantabrigiensis	np1	Cantabrigiensis	Cantabrigiensis	0
-.	.	.	.	.	1

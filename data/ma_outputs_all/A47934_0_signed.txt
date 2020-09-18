@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-Most	Most	av-ds	Most	most	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Roger	Roger	np1	Roger	Roger	0
-L'Estrange	L'Estrange	np1	L'Estrange	L'Estrange	0
-.	.	.	.	.	1

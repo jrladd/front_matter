@@ -1,9 +1,0 @@
-Most	Most	av-ds	Most	most	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-duty	duty	n1	duty	duty	0
-John	John	np1	John	John	0
-Trappe	Trappe	np1	Trappe	Trappe	0
-.	.	.	.	.	1

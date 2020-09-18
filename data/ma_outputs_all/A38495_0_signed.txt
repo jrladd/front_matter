@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-EDMƲND	EDMƲND	n1	EDMƲND	edmʋnd	0
-ENTWISLE	ENTWISLE	np1	ENTWISLE	ENTWISLE	0
-.	.	.	.	.	1

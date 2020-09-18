@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-MAY	MAY	vmb	MAY	may	0
-.	.	.	.	.	1

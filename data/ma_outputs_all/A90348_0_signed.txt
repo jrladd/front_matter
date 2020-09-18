@@ -1,4 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-F.	F.	np1	F.	F.	0
-P.	P.	np1	P.	P.	1

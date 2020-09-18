@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-his	his	po31	his	his	0
-power	power	n1	power	power	0
-,	,	,	,	,	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-FULLER	FULLER	np1	FULLER	Fuller	0
-.	.	.	.	.	1

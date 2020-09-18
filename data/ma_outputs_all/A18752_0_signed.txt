@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-CHVRCHYARD	CHVRCHYARD	n1	CHVRCHYARD	chvrchyard	0
-.	.	.	.	.	1

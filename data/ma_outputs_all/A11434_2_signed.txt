@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	ng1	honours	honour	0
-servant	servant	n1	servant	servant	0
-till	till	p-acp	till	till	0
-Death	Death	n1	Death	death	0
-.	.	.	.	.	1
-VVilliam	VVilliam	np1	VVilliam	William	0
-Sampson	Sampson	np1	Sampson	Samson	0
-.	.	.	.	.	1

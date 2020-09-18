@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-humbly-deuoted	humbly-deuoted	j	humbly-devoted	humbly-devoted	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-IOS	IOS	np1	IOS	Ios	0
-.	.	.	.	.	1
-HALL	HALL	n1	HALL	hall	0
-.	.	.	.	.	1

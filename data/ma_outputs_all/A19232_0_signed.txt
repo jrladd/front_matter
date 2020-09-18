@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyshippes	Ladyshippes	n2	Ladyshippes	ladyshippe	0
-most	most	av-ds	most	most	0
-faithfully	faithfully	av-j	faithfully	faithful	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-LEWES	LEWES	np1	LEWES	Lewes	0
-LEWKENOR	LEWKENOR	np1	LEWKENOR	LEWKENOR	0
-.	.	.	.	.	1

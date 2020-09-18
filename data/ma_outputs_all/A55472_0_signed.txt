@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-truly	truly	av-j	truly	true	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Father	Father	n1	Father	father	0
-.	.	.	.	.	1
-B.	B.	np1	B.	B.	1

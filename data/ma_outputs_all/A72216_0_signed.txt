@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-beadsman	beadsman	n1	beadsman	beadsman	0
-.	.	.	.	.	1
-B.	B.	np1	B.	B.	0
-E.	E.	np1	E.	E.	0
-T.	T.	np1	T.	T.	1

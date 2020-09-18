@@ -1,4 +1,0 @@
-Pro	Pro	np1	Pro	Pro	0
-Nobilitate	Nobilitate	fw-la	Nobilitate	nobilitate	0
-Britannica	Britannica	fw-la	Britannica	britannica	0
-.	.	.	.	.	1

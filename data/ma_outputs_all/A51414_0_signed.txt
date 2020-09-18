@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Nathaniel	Nathaniel	np1	Nathaniel	Nathaniel	0
-Morton	Morton	np1	Morton	Morton	0
-.	.	.	.	.	1

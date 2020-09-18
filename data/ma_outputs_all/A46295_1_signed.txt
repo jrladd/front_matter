@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Humble	Humble	j	Humble	humble	0
-and	and	cc	and	and	0
-ready	ready	j	ready	ready	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1
-JAMES	JAMES	np1	JAMES	James	0
-HOWEL	HOWEL	np1	HOWEL	Howel	0
-.	.	.	.	.	1

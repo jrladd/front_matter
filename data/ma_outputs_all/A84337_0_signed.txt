@@ -1,9 +1,0 @@
-Thine	Thine	po21	Thine	thy	0
-in	in	n1	in	inn	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-EACHARD	EACHARD	np1	EACHARD	EACHARD	0
-.	.	.	.	.	1

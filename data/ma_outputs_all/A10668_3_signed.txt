@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-truly	truly	av-j	truly	true	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-IOHN	IOHN	np1	IOHN	John	0
-REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
-.	.	.	.	.	1

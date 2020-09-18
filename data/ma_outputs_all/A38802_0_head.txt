@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-King	King	n1	King	king	0
-.	.	.	.	.	1

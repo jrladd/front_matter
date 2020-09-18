@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Fervent	Fervent	j	Fervent	fervent	0
-Lover	Lover	n1	Lover	lover	0
-and	and	cc	and	and	0
-Oratour	Oratour	n1	Orator	orator	0
-.	.	.	.	.	1
-D.	D.	np1	D.	D.	0
-Burgess	Burgess	np1	Burgess	Burgess	0
-.	.	.	.	.	1

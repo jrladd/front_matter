@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Affectionately	Affectionately	av-j	Affectionately	affectionate	0
-Sympathizing	Sympathizing	vvg	Sympathizing	sympathize	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-Sam.	Sam.	np1	Sam.	Sam	0
-Fairclough	Fairclough	np1	Fairclough	Fairclough	0
-.	.	.	.	.	1

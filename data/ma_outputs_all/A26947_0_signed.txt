@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesses	Highnesses	ng1	Highnesses	highness	0
-faithfull	faithfull	j	faithful	faithful	0
-Subject	Subject	j-jn	Subject	subject	0
-Rich.	Rich.	np1	Rich.	Richard	0
-Baxter	Baxter	np1	Baxter	Baxter	0
-.	.	.	.	.	1

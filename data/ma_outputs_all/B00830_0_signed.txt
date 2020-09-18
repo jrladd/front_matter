@@ -1,7 +1,0 @@
-¶	¶	¶	¶	¶	0
-Your	Your	po22	Your	your	0
-vvorshippes	vvorshippes	ng1	worships	worship	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-T.K.	T.K.	np1	T.K.	T.K.	1

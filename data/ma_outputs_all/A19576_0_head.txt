@@ -1,5 +1,0 @@
-REX	REX	fw-la	REX	rex	0
-HENRICVS	HENRICVS	fw-la	HENRICVS	henricvs	0
-.	.	.	.	.	1
-Octauus	Octauus	np1	Octauus	Octauus	0
-.	.	.	.	.	1

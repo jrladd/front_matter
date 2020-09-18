@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-Her	Her	po31	Her	her	0
-GRACE	GRACE	n1	GRACE	grace	0
-The	The	dt	The	the	0
-Dutchess	Dutchess	n1	Duchess	duchess	0
-of	of	pp-f	of	of	0
-Buclugh	Buclugh	np1	Buclugh	Buclugh	0
-.	.	.	.	.	1

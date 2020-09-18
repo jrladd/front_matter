@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-and	and	cc	and	and	0
-the	the	dt	the	the	0
-Churches	Churches	ng1	Churches	church	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-Robert	Robert	np1	Robert	Robert	0
-Ienison	Ienison	np1	Ienison	Ienison	1

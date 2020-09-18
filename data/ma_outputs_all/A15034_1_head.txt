@@ -1,9 +1,0 @@
-Vnto	Vnto	p-acp	Unto	unto	0
-the	the	dt	the	the	0
-friendly	friendly	j	friendly	friendly	0
-Reader	Reader	n1	Reader	reader	0
-,	,	,	,	,	0
-Wealthe	Wealthe	n1	Wealth	wealth	0
-and	and	cc	and	and	0
-welfare	welfare	n1	welfare	welfare	0
-.	.	.	.	.	1

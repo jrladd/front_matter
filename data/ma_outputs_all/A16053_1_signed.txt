@@ -1,3 +1,0 @@
-MATHEO	MATHEO	np1	MATHEO	Matheo	0
-ALEMAN	ALEMAN	np1	ALEMAN	Aleman	0
-.	.	.	.	.	1

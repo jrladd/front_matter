@@ -1,9 +1,0 @@
-My	My	po11	My	my	0
-Lord	Lord	n1	Lord	lord	0
-your	your	po22	your	your	0
-Honour's	Honour's	n1|vbz	Honour's	honour|be	0
-Most	Most	av-ds	Most	most	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-R.	R.	np1	R.	R.	0
-G.	G.	np1	G.	G.	1

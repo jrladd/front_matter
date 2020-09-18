@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-Symon	Symon	np1	Symon	Simon	0
-Presse	Presse	vvb	Press	press	0
-.	.	.	.	.	1

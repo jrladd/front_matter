@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-High-Hopeful	High-Hopeful	j	High-Hopeful	high-hopeful	0
-CHARLES	CHARLES	np1	CHARLES	Charles	0
-,	,	,	,	,	0
-Prince	Prince	n1	Prince	prince	0
-of	of	pp-f	of	of	0
-Great-Britanne	Great-Britanne	j	Greatbritain	greatbritain	0
-.	.	.	.	.	1

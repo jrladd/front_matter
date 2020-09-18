@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-most	most	av-ds	most	most	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-BLOME	BLOME	np1	BLOME	Blome	0
-.	.	.	.	.	1

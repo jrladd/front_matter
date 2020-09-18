@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-truly	truly	av-j	truly	true	0
-Noble	Noble	j	Noble	noble	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Judge	Judge	n1	Judge	judge	0
-Rookesby	Rookesby	np1	Rookesby	Rookesby	0
-.	.	.	.	.	1

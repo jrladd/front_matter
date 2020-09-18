@@ -1,3 +1,0 @@
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-BVBB	BVBB	np1	BVBB	BVBB	0
-.	.	.	.	.	1

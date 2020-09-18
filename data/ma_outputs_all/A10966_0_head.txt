@@ -1,8 +1,0 @@
-K.	K.	n1	K.	king	0
-Iames.	Iames.	np1	Iames.	James	0
-After	After	p-acp	After	after	0
-Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
-,	,	,	,	,	0
-raigned	raigned	vvd	reigned	reign	0
-King	King	n1	King	king	0
-Iames.	Iames.	np1	Iames.	James	1

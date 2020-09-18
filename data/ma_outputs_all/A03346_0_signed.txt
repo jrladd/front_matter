@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-ready	ready	j	ready	ready	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-AUGUSTINE	AUGUSTINE	np1	AUGUSTINE	Augustine	0
-HILL	HILL	n1	HILL	hill	0
-.	.	.	.	.	1

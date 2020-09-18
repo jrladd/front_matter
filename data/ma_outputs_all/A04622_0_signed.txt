@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-assured	assured	vvn	assured	assure	0
-ROB	ROB	vvb	ROB	rob	0
-:	:	:	:	:	0
-BARNES	BARNES	np1	BARNES	Barnes	0
-.	.	.	.	.	1

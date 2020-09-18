@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-duetie	duetie	n1	duty	duty	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-EST.	EST.	np1	EST.	EST.	1

@@ -1,3 +1,0 @@
-Barnabe	Barnabe	np1	Barnabe	Barnaby	0
-Riche	Riche	j	Rich	rich	0
-.	.	.	.	.	1

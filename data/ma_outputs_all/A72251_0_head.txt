@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-DEARE	DEARE	j-jn	DEER	dear	0
-MOTHER	MOTHER	n1	MOTHER	mother	0
-Mrs.	Mrs.	n1	Mrs.	mrs.	0
-HELLEN	HELLEN	np1	HELLEN	Helen	0
-PIERSON	PIERSON	np1	PIERSON	Pierson	0
-.	.	.	.	.	1

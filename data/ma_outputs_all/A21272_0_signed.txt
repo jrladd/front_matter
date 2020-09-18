@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	ng1	honours	honour	0
-humble	humble	j	humble	humble	0
-at	at	p-acp	at	at	0
-commaundement	commaundement	n1	commandment	commandment	0
-,	,	,	,	,	0
-Edmund	Edmund	np1	Edmund	Edmund	0
-Eluiden	Eluiden	vvi	Elviden	elviden	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	n2	Ladyships	ladyship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutifull	dutifull	j	dutiful	dutiful	0
-office	office	n1	office	office	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Powell	Powell	np1	Powell	Powell	0
-.	.	.	.	.	1

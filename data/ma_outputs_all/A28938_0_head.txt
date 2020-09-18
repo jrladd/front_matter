@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-very	very	j	very	very	0
-Learned	Learned	j	Learned	learned	0
-Friend	Friend	n1	Friend	friend	0
-Dr.	Dr.	n1	Dr.	dr.	0
-J.	J.	np1	J.	J.	0
-B.	B.	np1	B.	B.	1

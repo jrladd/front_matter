@@ -1,3 +1,0 @@
-Franciscus	Franciscus	np1	Franciscus	Franciscus	0
-Masonus	Masonus	np1	Masonus	Masonus	0
-.	.	.	.	.	1

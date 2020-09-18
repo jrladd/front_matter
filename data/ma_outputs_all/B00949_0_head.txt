@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-Excellent	Excellent	j	Excellent	excellent	0
-Prince	Prince	n1	Prince	prince	0
-Charles	Charles	np1	Charles	Charles	0
-&c.	&c.	av	etc.	etc	1

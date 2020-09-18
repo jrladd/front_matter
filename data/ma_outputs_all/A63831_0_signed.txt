@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Obliged	Obliged	j-vvn	Obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-and	and	cc	and	and	0
-Honourer	Honourer	n1	Honourer	honourer	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-T.	T.	np1	T.	T.	1

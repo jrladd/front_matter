@@ -1,4 +1,0 @@
-RICH	RICH	j	RICH	rich	0
-.	.	.	.	.	1
-SEABROOKE	SEABROOKE	np1	SEABROOKE	SEABROOKE	0
-.	.	.	.	.	1

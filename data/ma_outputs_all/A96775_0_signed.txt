@@ -1,3 +1,0 @@
-Britans	Britans	npg1	Britans	britans	0
-Remembrancer	Remembrancer	n1	Remembrancer	remembrancer	0
-.	.	.	.	.	1

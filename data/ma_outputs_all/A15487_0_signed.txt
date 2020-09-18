@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-,	,	,	,	,	0
-Hadrian	Hadrian	np1	Hadrian	Hadrian	0
-Dorrell	Dorrell	np1	Dorrell	Dorrell	0
-.	.	.	.	.	1

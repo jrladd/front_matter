@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-unworthy	unworthy	j	unworthy	unworthy	0
-Kinsman	Kinsman	n1	Kinsman	kinsman	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Hartley	Hartley	np1	Hartley	Hartley	0
-.	.	.	.	.	1

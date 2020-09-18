@@ -1,7 +1,0 @@
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
-MARSHALL	MARSHALL	np1	MARSHALL	Marshall	0
-.	.	.	.	.	1

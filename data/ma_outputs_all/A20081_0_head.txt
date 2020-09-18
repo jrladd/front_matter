@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-VVorld	VVorld	n1	VVorld	world	0
-.	.	.	.	.	1

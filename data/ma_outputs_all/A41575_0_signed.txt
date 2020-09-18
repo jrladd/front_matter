@@ -1,3 +1,0 @@
-Samuel	Samuel	np1	Samuel	Samuel	0
-Gorton	Gorton	np1	Gorton	Gorton	0
-.	.	.	.	.	1

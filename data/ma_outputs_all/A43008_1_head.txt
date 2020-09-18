@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-Most	Most	av-ds	Most	most	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-Mother	Mother	n1	Mother	mother	0
-ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
-HARVEY	HARVEY	np1	HARVEY	Harvey	0
-.	.	.	.	.	1

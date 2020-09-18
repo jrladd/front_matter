@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-most	most	av-ds	most	most	0
-Loyall	Loyall	j	Loyal	loyal	0
-Subiect	Subiect	j-jn	Subject	subject	0
-Gerard	Gerard	np1	Gerard	Gerard	0
-Malynes	Malynes	n1	Malynes	malynes	0
-.	.	.	.	.	1

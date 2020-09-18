@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-KING	KING	n1	KING	king	0
-and	and	cc	and	and	0
-QUEEN	QUEEN	n1	QUEEN	queen	0
-.	.	.	.	.	1

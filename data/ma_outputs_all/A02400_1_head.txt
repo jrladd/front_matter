@@ -1,8 +1,0 @@
-DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
-vnto	vnto	p-acp	unto	unto	0
-Sir	Sir	n1	Sir	sir	0
-ROGER	ROGER	np1	ROGER	Roger	0
-TOVVNSEND	TOVVNSEND	np1	TOVVNSEND	TOVVNSEND	0
-;	;	;	;	;	0
-Knight-Baronet	Knight-Baronet	n1	Knight-Baronet	knight-baronet	0
-:	:	:	:	:	1

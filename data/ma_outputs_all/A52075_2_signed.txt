@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1
-W.	W.	np1	W.	W.	0
-M.	M.	n1	M.	m.	1

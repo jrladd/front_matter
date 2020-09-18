@@ -1,2 +1,0 @@
-BABYLON	BABYLON	np1	BABYLON	Babylon	0
-.	.	.	.	.	1

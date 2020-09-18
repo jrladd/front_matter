@@ -1,3 +1,0 @@
-INCREASE	INCREASE	n1	INCREASE	increase	0
-MATHER	MATHER	np1	MATHER	Mather	0
-.	.	.	.	.	1

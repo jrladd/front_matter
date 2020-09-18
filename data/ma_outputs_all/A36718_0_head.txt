@@ -1,3 +1,0 @@
-TO	TO	p-acp	TO	to	0
-EUDORA	EUDORA	np1	EUDORA	Eudora	0
-.	.	.	.	.	1

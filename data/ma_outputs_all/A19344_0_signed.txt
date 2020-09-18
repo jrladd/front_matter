@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-intirely	intirely	av-j	entirely	entire	0
-to	to	pc-acp	to	to	0
-dispose	dispose	vvi	dispose	dispose	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Corkine	Corkine	np1	Corkine	Corkine	0
-.	.	.	.	.	1

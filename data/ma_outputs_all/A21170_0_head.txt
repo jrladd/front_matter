@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-worshipfull	worshipfull	j	worshipful	worshipful	0
-Master	Master	n1	Master	master	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Argall	Argall	np1	Argall	Argall	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

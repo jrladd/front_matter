@@ -1,5 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-remembrancer	remembrancer	n1	remembrancer	remembrancer	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-B.	B.	np1	B.	B.	1

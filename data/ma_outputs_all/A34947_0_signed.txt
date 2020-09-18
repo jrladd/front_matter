@@ -1,4 +1,0 @@
-Will	Will	n1	Will	will	0
-.	.	.	.	.	1
-Pinkethman	Pinkethman	np1	Pinkethman	Pinkethman	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-A	A	dt	A	a	0
-STANZA	STANZA	np1	STANZA	Stanza	0
-.	.	.	.	.	1

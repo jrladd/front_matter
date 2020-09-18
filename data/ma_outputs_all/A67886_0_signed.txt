@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-and	and	cc	and	and	0
-faithfull	faithfull	j	faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-NATHANAEL	NATHANAEL	np1	NATHANAEL	Nathanael	0
-INGELO	INGELO	np1	INGELO	INGELO	1

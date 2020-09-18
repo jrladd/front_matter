@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-true	true	j	true	true	0
-Christian	Christian	njp	Christian	christian	0
-affection	affection	n1	affection	affection	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-B.	B.	np1	B.	B.	1

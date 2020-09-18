@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-ADAMS	ADAMS	np1	ADAMS	Adams	0
-.	.	.	.	.	1

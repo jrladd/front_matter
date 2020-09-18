@@ -1,4 +1,0 @@
-Mich	Mich	np1	Mich	Mich	0
-:	:	:	:	:	0
-Drayton	Drayton	np1	Drayton	Drayton	0
-.	.	.	.	.	1

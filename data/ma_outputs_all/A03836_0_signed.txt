@@ -1,7 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-C.	C.	np1	C.	C.	0
-obsequentissimus	obsequentissimus	fw-la	obsequentissimus	obsequentissimus	0
-subditus	subditus	fw-la	subditus	subditus	0
-.	.	.	.	.	1
-D.	D.	np1	D.	D.	0
-H.	H.	np1	H.	H.	1

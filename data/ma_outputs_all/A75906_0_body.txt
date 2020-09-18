@@ -1,5 +1,0 @@
-Gentlemen	Gentlemen	np1	Gentlemen	Gentlemen	0
-,	,	,	,	,	0
-I	I	pns11	I	i	0
-am	am	vbm	am	be	0
-.	.	.	.	.	1

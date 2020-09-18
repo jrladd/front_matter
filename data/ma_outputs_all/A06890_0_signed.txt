@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-bounde	bounde	vvn	bound	bind	0
-oratour	oratour	n1	orator	orator	0
-Iohan	Iohan	np1	Iohan	Johan	0
-Ble	Ble	j	••••••ble	••••••ble	1

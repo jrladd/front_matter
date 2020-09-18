@@ -1,3 +1,0 @@
-Gaspar	Gaspar	np1	Gaspar	Gaspar	0
-Huberine	Huberine	np1	Huberine	Huberine	0
-.	.	.	.	.	1

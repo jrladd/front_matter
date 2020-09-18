@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-Most	Most	av-ds	Most	most	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-STAPYLTON	STAPYLTON	np1	STAPYLTON	Stapylton	0
-.	.	.	.	.	1

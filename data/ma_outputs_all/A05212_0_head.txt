@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-FRINDS	FRINDS	n2	FRINDS	friend	0
-IN	IN	p-acp	IN	in	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	0
-.	.	.	.	.	1

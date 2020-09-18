@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Fuller	Fuller	np1	Fuller	Fuller	0
-.	.	.	.	.	1

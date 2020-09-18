@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	0
-L.	L.	n1	L.	lord	0
-A.	A.	np1	A.	A.	1

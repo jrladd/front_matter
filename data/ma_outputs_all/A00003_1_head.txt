@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-MOST	MOST	av-ds	MOST	most	0
-worthy	worthy	j	worthy	worthy	0
-Friend	Friend	n1	Friend	friend	0
-.	.	.	.	.	1

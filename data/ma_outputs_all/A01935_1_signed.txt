@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-poore	poore	j	poor	poor	0
-unworthy	unworthy	j	unworthy	unworthy	0
-friend	friend	n1	friend	friend	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-GORE	GORE	n1	GORE	gore	0
-.	.	.	.	.	1

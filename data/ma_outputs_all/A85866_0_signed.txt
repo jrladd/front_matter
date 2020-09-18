@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-Loyal	Loyal	j	Loyal	loyal	0
-Subject	Subject	j-jn	Subject	subject	0
-JOHN	JOHN	np1	JOHN	John	0
-GAULE	GAULE	np1	GAULE	Gaul	0
-.	.	.	.	.	1

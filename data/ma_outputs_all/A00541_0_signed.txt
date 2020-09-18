@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-gratefull	gratefull	j	grateful	grateful	0
-Obseruance	Obseruance	n1	Observance	observance	0
-,	,	,	,	,	0
-S.	S.	n1	S.	saint	0
-B.	B.	np1	B.	B.	1

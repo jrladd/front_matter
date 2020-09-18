@@ -1,7 +1,0 @@
-Ad	Ad	fw-la	Ad	ad	0
-Paternum	Paternum	np1	Paternum	Paternum	0
-Regnum	Regnum	fw-la	Regnum	regnum	0
-Divinae	Divinae	np1	Divinae	Divinae	0
-Providentiae	Providentiae	fw-la	Providentiae	providentiae	0
-Observatio	Observatio	np1	Observatio	Observatio	0
-.	.	.	.	.	1

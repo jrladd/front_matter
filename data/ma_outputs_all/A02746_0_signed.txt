@@ -1,9 +1,0 @@
-The	The	dt	The	the	0
-Watch-man	Watch-man	n1	Watchman	watchman	0
-of	of	pp-f	of	of	0
-your	your	po22	your	your	0
-soules	soules	n2	souls	soul	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-HARSNET	HARSNET	n1	HARSNET	harsnet	0
-.	.	.	.	.	1

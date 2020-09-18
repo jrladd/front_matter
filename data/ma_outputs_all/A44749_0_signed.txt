@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
-Votaries	Votaries	n2	Votaries	votary	0
-&	&	cc	&	and	0
-Vassals	Vassals	n2	Vassals	vassal	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-Howel	Howel	np1	Howel	Howel	0
-.	.	.	.	.	1

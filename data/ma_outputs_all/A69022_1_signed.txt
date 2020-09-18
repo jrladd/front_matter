@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Grace's	Grace's	ng1	Grace's	grace	0
-poore	poore	j	poor	poor	0
-Oratour	Oratour	n1	Orator	orator	0
-HENRY	HENRY	np1	HENRY	Henry	0
-BVRTON	BVRTON	np1	BVRTON	BVRTON	0
-.	.	.	.	.	1

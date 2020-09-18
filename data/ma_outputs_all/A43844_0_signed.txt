@@ -1,4 +1,0 @@
-JOH	JOH	np1	JOH	Joh	0
-:	:	:	:	:	0
-HINGKLEY	HINGKLEY	np1	HINGKLEY	HINGKLEY	0
-.	.	.	.	.	1

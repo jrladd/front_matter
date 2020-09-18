@@ -1,4 +1,0 @@
-Hez	Hez	np1	Hez	Hez	0
-.	.	.	.	.	1
-Holland	Holland	np1	Holland	Holland	0
-.	.	.	.	.	1

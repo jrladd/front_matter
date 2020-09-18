@@ -1,8 +1,0 @@
-¶	¶	¶	¶	¶	0
-Your	Your	po22	Your	your	0
-bounden	bounden	vvn	bounden	bind	0
-and	and	cc	and	and	0
-assured	assured	vvn	assured	assure	0
-George	George	np1	George	George	0
-Gascoigne	Gascoigne	np1	Gascoigne	Gascoigne	0
-.	.	.	.	.	1

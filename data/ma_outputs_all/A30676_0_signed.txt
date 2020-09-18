@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-ever	ever	av	ever	ever	0
-obliged	obliged	vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Bury	Bury	vvb	Bury	bury	0
-.	.	.	.	.	1

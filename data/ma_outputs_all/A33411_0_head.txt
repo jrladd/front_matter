@@ -1,9 +1,0 @@
-ALLA	ALLA	np1	ALLA	Alla	0
-SERENISSIMA	SERENISSIMA	fw-la	SERENISSIMA	serenissimus	0
-PRINCIPESSA	PRINCIPESSA	np1	PRINCIPESSA	PRINCIPESSA	0
-Maria	Maria	fw-la	Maria	maria	0
-d'Esté	d'Esté	fw-fr	d'Esté	d'esté	0
-REINA	REINA	np1	REINA	REINA	0
-d'INGHILTERRA	d'INGHILTERRA	fw-la	d'INGHILTERRA	d'inghilterra	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

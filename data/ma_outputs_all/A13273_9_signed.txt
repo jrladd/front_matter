@@ -1,5 +1,0 @@
-praies	praies	vvz	prays	pray	0
-Prostrate	Prostrate	j	Prostrate	prostrate	0
-Iosuah	Iosuah	np1	Iosuah	Iosuah	0
-Sylvester	Sylvester	np1	Sylvester	Sylvester	0
-.	.	.	.	.	1

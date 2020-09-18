@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Dear	Dear	j-jn	Dear	dear	0
-Sister	Sister	n1	Sister	sister	0
-Mrs.	Mrs.	n1	Mrs.	mrs.	0
-Stanhope	Stanhope	np1	Stanhope	Stanhope	0
-Hutchinson	Hutchinson	np1	Hutchinson	Hutchinson	0
-.	.	.	.	.	1

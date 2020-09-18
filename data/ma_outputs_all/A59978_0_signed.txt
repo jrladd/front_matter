@@ -1,3 +1,0 @@
-Jacobus	Jacobus	np1	Jacobus	Jacobus	0
-Shirleius	Shirleius	np1	Shirleius	Shirleius	0
-.	.	.	.	.	1

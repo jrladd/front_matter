@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-euer	euer	av	ever	ever	0
-at	at	p-acp	at	at	0
-command	command	n1	command	command	0
-.	.	.	.	.	1
-Henry	Henry	np1	Henry	Henry	0
-Robarts	Robarts	np1	Robarts	Robarts	0
-.	.	.	.	.	1

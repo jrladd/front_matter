@@ -1,4 +1,0 @@
-DE	DE	fw-fr	DE	de	0
-LA	LA	fw-fr	LA	la	0
-REYNIE	REYNIE	np1	REYNIE	REYNIE	0
-.	.	.	.	.	1

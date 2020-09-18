@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Soul-friend	Soul-friend	n1	Soul-friend	soul-friend	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-H.	H.	np1	H.	H.	1

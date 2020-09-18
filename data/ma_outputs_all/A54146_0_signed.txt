@@ -1,9 +1,0 @@
-From	From	p-acp	From	from	0
-a	a	dt	a	a	0
-Prisoner	Prisoner	n1	Prisoner	prisoner	0
-for	for	p-acp	for	for	0
-Conscience	Conscience	n1	Conscience	conscience	0
-Sake	Sake	n1	Sake	sake	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-P.	P.	np1	P.	P.	1

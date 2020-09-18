@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-Authors	Authors	ng1	Authors	author	0
-Apologie	Apologie	n1	Apology	apology	0
-for	for	p-acp	for	for	0
-his	his	po31	his	his	0
-Satyre	Satyre	n1	Satire	satire	0
-.	.	.	.	.	1

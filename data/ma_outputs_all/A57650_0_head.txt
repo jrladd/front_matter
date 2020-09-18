@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Iudicious	Iudicious	j	Judicious	judicious	0
-and	and	cc	and	and	0
-conscionable	conscionable	j	conscionable	conscionable	0
-hearers	hearers	n2	hearers	hearer	0
-at	at	p-acp	at	at	0
-Southampton	Southampton	np1	Southampton	Southampton	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Son	Son	n1	Son	son	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-Charles	Charles	np1	Charles	Charles	0
-Cotton	Cotton	np1	Cotton	Cotton	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Avowed	Avowed	j-vvn	Avowed	avow	0
-obliged	obliged	vvn	obliged	oblige	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-.	.	.	.	.	1

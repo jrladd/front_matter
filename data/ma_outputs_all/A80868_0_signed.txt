@@ -1,4 +1,0 @@
-Guliel	Guliel	np1	Guliel	Guliel	0
-.	.	.	.	.	1
-Crompton	Crompton	np1	Crompton	Crompton	0
-.	.	.	.	.	1

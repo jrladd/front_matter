@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-due	due	n-jn	endue	due	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Nicholson	Nicholson	np1	Nicholson	Nicholson	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Times	Times	ng1	Times	time	0
-truest	truest	js	truest	true	0
-child	child	n1	child	child	0
-.	.	.	.	.	1
-F.	F.	np1	F.	F.	0
-L.	L.	np1	L.	L.	1

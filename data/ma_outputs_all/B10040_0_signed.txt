@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Simpson	Simpson	np1	Simpson	Simpson	0
-.	.	.	.	.	1

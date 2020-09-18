@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-ROYAL	ROYAL	j	ROYAL	royal	0
-HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
-Prince	Prince	n1	Prince	prince	0
-Rupert	Rupert	np1	Rupert	Rupert	0
-.	.	.	.	.	1

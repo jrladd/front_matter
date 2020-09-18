@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Illustrious	Illustrious	j	Illustrious	illustrious	0
-Mainard	Mainard	np1	Mainard	Mainard	0
-Duke	Duke	n1	Duke	duke	0
-of	of	pp-f	of	of	0
-Leinster	Leinster	np1	Leinster	Leinster	0
-.	.	.	.	.	1

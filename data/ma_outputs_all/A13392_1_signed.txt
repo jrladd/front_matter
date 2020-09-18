@@ -1,5 +1,0 @@
-All	All	av-d	All	all	0
-yours	yours	png22	yours	you	0
-.	.	.	.	.	1
-B.	B.	np1	B.	B.	0
-D.	D.	np1	D.	D.	1

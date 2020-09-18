@@ -1,3 +1,0 @@
-An	An	dt	And	a	0
-Anagram	Anagram	n1	Anagram	anagram	0
-.	.	.	.	.	1

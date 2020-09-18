@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Soules	Soules	n2	Souls	soul	0
-well-wishing	well-wishing	j	wellwishing	wellwishing	0
-Admonisher	Admonisher	n1	Admonisher	admonisher	0
-,	,	,	,	,	0
-IANE	IANE	np1	IANE	Jane	0
-OVVEN	OVVEN	np1	OVVEN	OVVEN	0
-.	.	.	.	.	1

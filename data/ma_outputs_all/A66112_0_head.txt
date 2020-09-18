@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-Beloved	Beloved	j-vvn	Beloved	belove	0
-Friends	Friends	n2	Friends	friend	0
-the	the	dt	the	the	0
-Inhabitants	Inhabitants	n2	Inhabitants	inhabitant	0
-of	of	pp-f	of	of	0
-GROTON	GROTON	np1	GROTON	Groton	0
-.	.	.	.	.	1

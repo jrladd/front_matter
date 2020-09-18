@@ -1,4 +1,0 @@
-REX	REX	fw-la	REX	rex	0
-EDOVARDVS	EDOVARDVS	np1	EDOVARDVS	EDOVARDVS	0
-Sextus	Sextus	np1	Sextus	Sextus	0
-.	.	.	.	.	1

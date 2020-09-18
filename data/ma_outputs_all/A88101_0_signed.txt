@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-sincerely	sincerely	av-j	sincerely	sincere	0
-devoted	devoted	vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-LEY	LEY	np1	LEY	Ley	0
-.	.	.	.	.	1

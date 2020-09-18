@@ -1,8 +1,0 @@
-your	your	po22	your	your	0
-Worships	Worships	ng1	Worships	worship	0
-humble	humble	j	humble	humble	0
-devoted	devoted	vvn	devoted	devote	0
-.	.	.	.	.	1
-Henry	Henry	np1	Henry	Henry	0
-Harflete	Harflete	fw-la	Harflete	harflete	0
-.	.	.	.	.	1

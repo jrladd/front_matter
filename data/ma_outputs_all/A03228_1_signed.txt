@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-to	to	pc-acp	to	to	0
-bee	bee	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-.	.	.	.	.	1
-Thomas	Thomas	np1	Thomas	Thomas	0
-Heywood	Heywood	np1	Heywood	Heywood	0
-.	.	.	.	.	1

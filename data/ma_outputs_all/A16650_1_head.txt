@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-DAINTY	DAINTY	j	DAINTY	dainty	0
-DOXES	DOXES	n2	DOXES	dox	0
-.	.	.	.	.	1

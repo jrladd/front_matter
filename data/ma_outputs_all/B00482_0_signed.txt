@@ -1,3 +1,0 @@
-Jhon	Jhon	np1	Jhon	Jhon	0
-Hester	Hester	np1	Hester	Hester	0
-.	.	.	.	.	1

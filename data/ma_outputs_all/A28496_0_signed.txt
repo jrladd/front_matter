@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-servant	servant	n1	servant	servant	0
-SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
-HARTLIB	HARTLIB	j	HARTLIB	hartlib	0
-.	.	.	.	.	1

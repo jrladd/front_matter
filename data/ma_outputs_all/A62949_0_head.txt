@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-good	good	j	good	good	0
-Friends	Friends	n2	Friends	friend	0
-.	.	.	.	.	1

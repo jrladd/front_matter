@@ -1,6 +1,0 @@
-HONI	HONI	fw-fr	HONI	honi	0
-SOIT	SOIT	fw-fr	SOIT	soit	0
-QVI	QVI	fw-la	QVI	qvi	0
-MAL	MAL	fw-fr	MAL	mal	0
-Y	Y	zz	Y	y	0
-PENSE	PENSE	fw-fr	PENSE	pense	1

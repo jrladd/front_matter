@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Roger	Roger	np1	Roger	Roger	0
-L'	L'	fw-mi	L'	l'	0
-Estrange	Estrange	vvi	Estrange	estrange	0
-.	.	.	.	.	1

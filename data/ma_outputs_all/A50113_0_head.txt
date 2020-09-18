@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-Worthy	Worthy	j-jn	Worthy	worthy	0
-Nephew	Nephew	n1	Nephew	nephew	0
-Mr.	Mr.	n1	Mr.	mr.	0
-Cotton	Cotton	np1	Cotton	Cotton	0
-Mather	Mather	np1	Mather	Mather	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-Duty	Duty	n1	Duty	duty	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Eaton	Eaton	np1	Eaton	Eaton	0
-.	.	.	.	.	1

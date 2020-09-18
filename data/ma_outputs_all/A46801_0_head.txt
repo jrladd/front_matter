@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-AMOREA	AMOREA	np1	AMOREA	AMOREA	0
-;	;	;	;	;	0
-The	The	dt	The	the	0
-DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
-.	.	.	.	.	1

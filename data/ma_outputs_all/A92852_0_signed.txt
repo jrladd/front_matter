@@ -1,3 +1,0 @@
-Obadiah	Obadiah	np1	Obadiah	Obadiah	0
-Sedwicke	Sedwicke	np1	Sedwicke	Sedwicke	0
-.	.	.	.	.	1

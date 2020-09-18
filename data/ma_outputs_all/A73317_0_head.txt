@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-NOBLE	NOBLE	j	NOBLE	noble	0
-MAISTER	MAISTER	n1	MAISTER	master	0
-Mr.	Mr.	n1	Mr.	mr.	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-CARIE	CARIE	vvi	CARRY	carry	0
-.	.	.	.	.	1

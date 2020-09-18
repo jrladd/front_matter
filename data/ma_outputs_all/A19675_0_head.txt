@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-those	those	d	those	those	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-Romish	Romish	jp	Romish	romish	0
-CHVRCH	CHVRCH	n1	CHVRCH	church	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-GERARD	GERARD	np1	GERARD	Gerard	0
-LANGBAINE	LANGBAINE	n1	LANGBAINE	langbaine	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Humilimus	Humilimus	np1	Humilimus	Humilimus	0
-Subditus	Subditus	fw-la	Subditus	subditus	0
-tuus	tuus	fw-la	tuus	tuus	0
-,	,	,	,	,	0
-Ioannes	Ioannes	np1	Ioannes	Johannes	0
-Nicolaus	Nicolaus	np1	Nicolaus	Nicolaus	0
-Cambritanus	Cambritanus	np1	Cambritanus	Cambritanus	0
-.	.	.	.	.	1

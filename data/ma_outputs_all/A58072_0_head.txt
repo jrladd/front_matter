@@ -1,7 +1,0 @@
-THE	THE	dt	THE	the	0
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-Ingenious	Ingenious	j	Ingenious	ingenious	0
-Friend	Friend	n1	Friend	friend	0
-T.B.	T.B.	np1	T.B.	T.B.	1

@@ -1,4 +1,0 @@
-A	A	dt	A	a	0
-la	la	fw-fr	la	la	0
-Reine	Reine	np1	Reine	Rhine	0
-.	.	.	.	.	1

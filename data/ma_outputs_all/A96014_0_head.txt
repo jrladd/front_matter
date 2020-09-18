@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Worthily	Worthily	av-jn	Worthily	worthy	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-BOSWELL	BOSWELL	np1	BOSWELL	Boswell	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

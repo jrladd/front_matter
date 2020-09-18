@@ -1,6 +1,0 @@
-Stewards	Stewards	ng1	Stewards	steward	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-late	late	j	late	late	0
-Wiltshire-Feast	Wiltshire-Feast	n1	Wiltshire-Feast	wiltshire-feast	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Her	Her	po31	Her	her	0
-HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
-THE	THE	dt	THE	the	0
-Princess	Princess	n1	Princess	princess	0
-ANN	ANN	np1	ANN	Ann	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

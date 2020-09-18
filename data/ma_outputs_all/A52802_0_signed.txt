@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-sincerely	sincerely	av-j	sincerely	sincere	0
-and	and	cc	and	and	0
-thankfully	thankfully	av-j	thankfully	thankful	0
-Devoted	Devoted	j-vvn	Devoted	devote	0
-Christopher	Christopher	np1	Christopher	Christopher	0
-Nesse	Nesse	n1	Ness	ness	0
-.	.	.	.	.	1

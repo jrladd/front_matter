@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-observant	observant	j	observant	observant	0
-Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
-ANTONY	ANTONY	np1	ANTONY	Antony	0
-FAWKNER	FAWKNER	n1	FAWKNER	falconer	0
-.	.	.	.	.	1

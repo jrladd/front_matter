@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Christian	Christian	njp	Christian	christian	0
-reader	reader	n1	reader	reader	0
-,	,	,	,	,	0
-wisdome	wisdome	n1	wisdom	wisdom	0
-&	&	cc	&	and	0
-grace	grace	n1	grace	grace	0
-.	.	.	.	.	1

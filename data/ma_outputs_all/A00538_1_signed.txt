@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-assuredly	assuredly	av-vvn	assuredly	assure	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-F.	F.	np1	F.	F.	1

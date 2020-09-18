@@ -1,3 +1,0 @@
-ELEANOR	ELEANOR	np1	ELEANOR	Eleanor	0
-DOUGLAS	DOUGLAS	np1	DOUGLAS	Douglas	0
-.	.	.	.	.	1

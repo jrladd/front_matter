@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-really	really	av-j	really	real	0
-deserved	deserved	vvn	deserved	deserve	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Benjamin	Benjamin	np1	Benjamin	Benjamin	0
-Spencer	Spencer	np1	Spencer	Spencer	0
-.	.	.	.	.	1

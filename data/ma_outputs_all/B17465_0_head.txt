@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-worthy	worthy	j	worthy	worthy	0
-friend	friend	n1	friend	friend	0
-Colonell	Colonell	n1	Colonel	colonel	0
-Gervas	Gervas	np1	Gervas	Gervas	0
-Holles	Holles	np1	Holles	Holles	0
-.	.	.	.	.	1

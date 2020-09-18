@@ -1,8 +1,0 @@
-YOUR	YOUR	po22	YOUR	your	0
-LADISHIPS	LADISHIPS	ng1	LADISHIPS	ladyship	0
-Humblest	Humblest	js	Humblest	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-Partridge	Partridge	n1	Partridge	partridge	0
-.	.	.	.	.	1

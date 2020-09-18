@@ -1,4 +1,0 @@
-Your	Your	po22	Your	your	0
-Barten	Barten	np1	Barten	Barten	0
-Holyday	Holyday	n1	Holiday	holiday	0
-.	.	.	.	.	1

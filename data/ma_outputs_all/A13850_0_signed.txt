@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-faithfull	faithfull	j	faithful	faithful	0
-respects	respects	n2	respects	respect	0
-HENRY	HENRY	np1	HENRY	Henry	0
-TOZER	TOZER	np1	TOZER	Tozer	0
-.	.	.	.	.	1

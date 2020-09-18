@@ -1,6 +1,0 @@
-Margaritae	Margaritae	np1	Margaritae	Margaritae	0
-Henrici	Henrici	fw-la	Henrici	henrici	0
-Gallorum	Gallorum	np1	Gallorum	Gallorum	0
-Regis	Regis	fw-la	Regis	regis	0
-Sorori	Sorori	fw-la	Sorori	sorori	0
-.	.	.	.	.	1

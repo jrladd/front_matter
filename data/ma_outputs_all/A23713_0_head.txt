@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Colledge	Colledge	n1	College	college	0
-of	of	pp-f	of	of	0
-Physitians	Physitians	n2	Physicians	physician	0
-at	at	p-acp	at	at	0
-London	London	np1	London	London	0
-.	.	.	.	.	1

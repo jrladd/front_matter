@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-Serve	Serve	vvb	Serve	serve	0
-you	you	pn22	you	you	0
-,	,	,	,	,	0
-TIMOTHY	TIMOTHY	np1	TIMOTHY	Timothy	0
-HALL	HALL	n1	HALL	hall	0
-.	.	.	.	.	1

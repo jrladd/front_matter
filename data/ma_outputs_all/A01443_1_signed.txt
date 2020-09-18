@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-kinde	kinde	j	kind	kind	0
-affection	affection	n1	affection	affection	0
-,	,	,	,	,	0
-Edmund	Edmund	np1	Edmund	Edmund	0
-Gardiner	Gardiner	np1	Gardiner	Gardiner	0
-.	.	.	.	.	1

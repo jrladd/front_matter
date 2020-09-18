@@ -1,9 +1,0 @@
-Faciebat	Faciebat	j	Faciebat	faciebat	0
-Michael	Michael	np1	Michael	Michael	0
-Nostradamus	Nostradamus	np1	Nostradamus	Nostradamus	0
-,	,	,	,	,	0
-Salonae	Salonae	np1	Salonae	Salonae	0
-Petreae	Petreae	np1	Petreae	Petreae	0
-,	,	,	,	,	0
-Provinciae	Provinciae	fw-la	Provinciae	provinciae	0
-.	.	.	.	.	1

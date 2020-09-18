@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ready	Ready	j	Ready	ready	0
-and	and	cc	and	and	0
-Faithful	Faithful	j	Faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-JOHN	JOHN	np1	JOHN	John	0
-MERITON	MERITON	np1	MERITON	MERITON	0
-.	.	.	.	.	1

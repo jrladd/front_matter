@@ -1,5 +1,0 @@
-THE	THE	dt	THE	the	0
-AUTHOR	AUTHOR	n1	AUTHOR	author	0
-TO	TO	p-acp	TO	to	0
-CALISTA	CALISTA	np1	CALISTA	Calista	0
-.	.	.	.	.	1

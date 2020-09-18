@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Nephew	Nephew	n1	Nephew	nephew	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-SCOTT	SCOTT	np1	SCOTT	Scott	0
-.	.	.	.	.	1

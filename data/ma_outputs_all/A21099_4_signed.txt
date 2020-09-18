@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-obedient	obedient	j	obedient	obedient	0
-Seruant	Seruant	n1	Servant	servant	0
-Michael	Michael	np1	Michael	Michael	0
-Easte	Easte	np1	Easte	Easte	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-THE	THE	dt	THE	the	0
-PREFACE	PREFACE	n1	PREFACE	preface	0
-TO	TO	p-acp	TO	to	0
-the	the	dt	the	the	0
-Reader	Reader	n1	Reader	reader	0
-.	.	.	.	.	1

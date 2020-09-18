@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Obliged	Obliged	j-vvn	Obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Yarwood	Yarwood	np1	Yarwood	Yarwood	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	n2	Ladyships	ladyship	0
-readily	readily	av-j	readily	ready	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-GEFFREY	GEFFREY	np1	GEFFREY	Geffrey	0
-FENTON	FENTON	np1	FENTON	Fenton	0
-.	.	.	.	.	1

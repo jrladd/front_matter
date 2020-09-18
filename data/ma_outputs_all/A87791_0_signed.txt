@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-do	do	vdb	do	do	0
-you	you	pn22	you	you	0
-service	service	n1	service	service	0
-K.	K.	n1	K.	king	0
-F.	F.	np1	F.	F.	1

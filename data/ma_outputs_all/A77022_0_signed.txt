@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Bonham	Bonham	np1	Bonham	Bonham	0
-.	.	.	.	.	1

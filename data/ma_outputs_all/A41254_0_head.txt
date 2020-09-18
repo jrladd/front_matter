@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Royal	Royal	j	Royal	royal	0
-Society	Society	n1	Society	society	0
-the	the	dt	the	the	0
-Virtuosi	Virtuosi	n1	Virtuosi	virtuoso	0
-.	.	.	.	.	1

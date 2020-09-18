@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	n2	Majesties	majesty	0
-euer	euer	av	ever	ever	0
-loyall	loyall	j	loyal	loyal	0
-Subiect	Subiect	n-jn	Subject	subject	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Beaumont	Beaumont	np1	Beaumont	Beaumont	0
-.	.	.	.	.	1

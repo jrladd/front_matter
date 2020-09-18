@@ -1,3 +1,0 @@
-Edw.	Edw.	np1	Edw.	Edw.	0
-Wright	Wright	np1	Wright	Wright	0
-.	.	.	.	.	1

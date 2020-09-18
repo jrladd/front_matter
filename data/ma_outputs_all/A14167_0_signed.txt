@@ -1,3 +1,0 @@
-Petruccio	Petruccio	np1	Petruccio	Petruccio	0
-Vbaldino	Vbaldino	np1	Vbaldino	Vbaldino	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-His	His	po31	His	his	0
-Countries	Countries	n2	Countries	country	0
-and	and	cc	and	and	0
-your	your	po22	your	your	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Richard	Richard	np1	Richard	Richard	0
-Kilburne	Kilburne	n1	Kilburne	kilburne	0
-.	.	.	.	.	1

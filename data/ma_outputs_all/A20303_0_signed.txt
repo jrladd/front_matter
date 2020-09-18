@@ -1,9 +1,0 @@
-Youres	Youres	png22	Yours	you	0
-bounde	bounde	vvn	bound	bind	0
-as	as	p-acp	as	as	0
-his	his	po31	his	his	0
-owne	owne	d	own	own	0
-.	.	.	.	.	1
-Edwarde	Edwarde	np1	Edwarde	Edward	0
-Dering	Dering	np1	Dering	Dering	0
-.	.	.	.	.	1

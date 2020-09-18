@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-Eternal	Eternal	j	Eternal	eternal	0
-Happiness	Happiness	n1	Happiness	happiness	0
-.	.	.	.	.	1
-Robert	Robert	np1	Robert	Robert	0
-Foulkes	Foulkes	np1	Foulkes	Foulkes	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-SALTER	SALTER	np1	SALTER	Salter	0
-.	.	.	.	.	1

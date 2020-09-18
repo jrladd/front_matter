@@ -1,3 +1,0 @@
-R.	R.	np1	R.	R.	0
-Jenison	Jenison	np1	Jenison	Jenison	0
-.	.	.	.	.	1

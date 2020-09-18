@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-Worthy	Worthy	j-jn	Worthy	worthy	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-Mr	Mr	n1	Mr	mr.	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Appletree	Appletree	n1	Appletree	appletree	0
-.	.	.	.	.	1

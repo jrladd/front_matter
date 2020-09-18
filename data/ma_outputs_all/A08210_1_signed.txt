@@ -1,3 +1,0 @@
-Francis	Francis	np1	Francis	Francis	0
-Drake	Drake	np1	Drake	Drake	0
-.	.	.	.	.	1

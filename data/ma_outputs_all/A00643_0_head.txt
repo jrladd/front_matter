@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-Earle	Earle	n1	Earl	earl	0
-of	of	pp-f	of	of	0
-Warwicke	Warwicke	np1	Warwicke	Warwick	0
-.	.	.	.	.	1

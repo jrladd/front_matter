@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-and	and	cc	and	and	0
-the	the	dt	the	the	0
-Truths	Truths	n2	Truths	truth	0
-,	,	,	,	,	0
-SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
-FISHER	FISHER	n1	FISHER	fisher	0
-.	.	.	.	.	1

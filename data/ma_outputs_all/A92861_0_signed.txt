@@ -1,5 +1,0 @@
-I	I	pns11	I	i	0
-am	am	vbm	am	be	0
-W.	W.	np1	W.	W.	0
-Sedgwick	Sedgwick	np1	Sedgwick	Sedgwick	0
-.	.	.	.	.	1

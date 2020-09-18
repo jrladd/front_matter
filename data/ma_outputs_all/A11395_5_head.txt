@@ -1,3 +1,0 @@
-THE	THE	dt	THE	the	0
-DECAY	DECAY	n1	DECAY	decay	0
-.	.	.	.	.	1

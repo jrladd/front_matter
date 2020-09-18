@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-no	no	dx	no	no	0
-matter	matter	n1	matter	matter	0
-who	who	q-crq	who	who	0
-.	.	.	.	.	1

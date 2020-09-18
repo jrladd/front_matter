@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-vvorships	vvorships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-commaunde	commaunde	vvi	command	command	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-FRAMPTON	FRAMPTON	np1	FRAMPTON	Frampton	0
-.	.	.	.	.	1

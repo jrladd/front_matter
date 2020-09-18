@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Charles	Charles	np1	Charles	Charles	0
-Caesar	Caesar	np1	Caesar	Caesar	0
-,	,	,	,	,	0
-of	of	pp-f	of	of	0
-Benington	Benington	np1	Benington	Benington	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

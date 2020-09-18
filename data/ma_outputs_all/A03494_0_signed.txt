@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honour's	Honour's	n1|vbz	Honour's	honour|be	0
-most	most	av-ds	most	most	0
-faithfull	faithfull	j	faithful	faithful	0
-Barten	Barten	np1	Barten	Barten	0
-Holyday	Holyday	n1	Holiday	holiday	0
-.	.	.	.	.	1

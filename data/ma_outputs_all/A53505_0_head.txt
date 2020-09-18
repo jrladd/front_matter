@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-,	,	,	,	,	0
-Lord	Lord	n1	Lord	lord	0
-CAVENDISH	CAVENDISH	np1	CAVENDISH	Cavendish	0
-.	.	.	.	.	1

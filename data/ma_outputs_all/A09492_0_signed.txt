@@ -1,8 +1,0 @@
-Ex	Ex	fw-la	Ex	ex	0
-animo	animo	fw-la	animo	animo	0
-dignitatis	dignitatis	fw-la	dignitatis	dignitatis	0
-tuæ	tuæ	fw-la	tuæ	tuæ	0
-obseruans	obseruans	n2-j	observans	observans	0
-Henricus	Henricus	fw-la	Henricus	henricus	0
-Perræus	Perræus	np1	Perræus	Perræus	0
-.	.	.	.	.	1

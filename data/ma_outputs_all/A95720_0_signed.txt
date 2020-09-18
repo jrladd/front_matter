@@ -1,3 +1,0 @@
-Johannes	Johannes	np1	Johannes	Johannes	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-.	.	.	.	.	1

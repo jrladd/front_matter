@@ -1,7 +1,0 @@
-your	your	po22	your	your	0
-most	most	av-ds	most	most	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Kinsman	Kinsman	n1	Kinsman	kinsman	0
-Josiah	Josiah	np1	Josiah	Josiah	0
-Flint	Flint	n1	Flint	flint	0
-.	.	.	.	.	1

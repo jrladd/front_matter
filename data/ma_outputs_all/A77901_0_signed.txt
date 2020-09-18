@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-unworthy	unworthy	j	unworthy	unworthy	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Tho	Tho	av	Though	tho	0
-:	:	:	:	:	0
-Ball	Ball	n1	Ball	ball	0
-.	.	.	.	.	1

@@ -1,2 +1,0 @@
-CHARLES	CHARLES	np1	CHARLES	Charles	0
-R.	R.	np1	R.	R.	1

@@ -1,3 +1,0 @@
-JOSEPHUS	JOSEPHUS	np1	JOSEPHUS	Josephus	0
-MEDUS	MEDUS	np1	MEDUS	Medus	0
-.	.	.	.	.	1

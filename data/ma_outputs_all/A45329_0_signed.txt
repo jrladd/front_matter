@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-HALL	HALL	n1	HALL	hall	0
-.	.	.	.	.	1

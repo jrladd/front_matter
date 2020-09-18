@@ -1,9 +1,0 @@
-your	your	po22	your	your	0
-servant	servant	n1	servant	servant	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-,	,	,	,	,	0
-EDMUND	EDMUND	np1	EDMUND	Edmund	0
-CALAMY	CALAMY	np1	CALAMY	Calamy	0
-.	.	.	.	.	1

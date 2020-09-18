@@ -1,9 +1,0 @@
-YOURS	YOURS	png22	YOURS	you	0
-,	,	,	,	,	0
-Extraordinary	Extraordinary	j	Extraordinary	extraordinary	0
-obliged	obliged	vvn	obliged	oblige	0
-,	,	,	,	,	0
-GEO	GEO	np1	GEO	Geo	0
-.	.	.	.	.	1
-LESLY	LESLY	np1	LESLY	Lesly	0
-.	.	.	.	.	1

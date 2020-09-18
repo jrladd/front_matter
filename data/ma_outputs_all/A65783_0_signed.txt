@@ -1,9 +1,0 @@
-Salutem	Salutem	fw-la	Salutem	salutem	0
-&	&	cc	&	and	0
-sua	sua	fw-la	sua	sva	0
-tibi	tibi	fw-la	tibi	tibi	0
-debenti	debenti	fw-la	debenti	debenti	0
-,	,	,	,	,	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Albio	Albio	np1	Albio	Albio	0
-.	.	.	.	.	1

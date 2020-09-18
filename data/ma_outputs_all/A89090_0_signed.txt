@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-humblest	humblest	js	humblest	humble	0
-Servant	Servant	n1	Servant	servant	0
-and	and	cc	and	and	0
-Votary	Votary	n1	Votary	votary	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Merrifield	Merrifield	np1	Merrifield	Merrifield	0
-.	.	.	.	.	1

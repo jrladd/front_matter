@@ -1,8 +1,0 @@
-Amplitud	Amplitud	n1	Amplitud	amplitud	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Newtonus	Newtonus	np1	Newtonus	Newtonus	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-Worshipful	Worshipful	j	Worshipful	worshipful	0
-Sir	Sir	n1	Sir	sir	0
-T.	T.	np1	T.	T.	0
-R.	R.	np1	R.	R.	0
-Knight	Knight	n1	Knight	knight	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Magnificentiae	Magnificentiae	fw-la	Magnificentiae	magnificentiae	0
-ejus	ejus	fw-la	ejus	ejus	0
-observantissimus	observantissimus	fw-la	observantissimus	observantissimus	0
-R.	R.	np1	R.	R.	0
-BARONIVS	BARONIVS	np1	BARONIVS	BARONIVS	0
-,	,	,	,	,	0
-PHILOSOPHIAE	PHILOSOPHIAE	np1	PHILOSOPHIAE	PHILOSOPHIAE	0
-PROFESSOR	PROFESSOR	n1	PROFESSOR	professor	0
-.	.	.	.	.	1

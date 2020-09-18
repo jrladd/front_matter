@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-COLONEL	COLONEL	n1	COLONEL	colonel	0
-Edmund	Edmund	np1	Edmund	Edmund	0
-Ashton	Ashton	np1	Ashton	Ashton	0
-.	.	.	.	.	1

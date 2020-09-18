@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Truth	Truth	n1	Truth	truth	0
-.	.	.	.	.	1
-IHON	IHON	np1	IHON	IHON	0
-SQVIRE	SQVIRE	n1	SQVIRE	sqvire	0
-.	.	.	.	.	1

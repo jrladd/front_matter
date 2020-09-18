@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-TƲRNER	TƲRNER	n1	TƲRNER	tʋrner	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-worshipfull	worshipfull	j	worshipful	worshipful	0
-frend	frend	n1	friend	friend	0
-.	.	.	.	.	1
-W.W.	W.W.	np1	W.W.	W.W.	1

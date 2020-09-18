@@ -1,3 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-W.	W.	np1	W.	W.	0
-D.	D.	n1	D.	duke	1

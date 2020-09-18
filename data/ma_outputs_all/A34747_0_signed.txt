@@ -1,3 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-CARTER	CARTER	n1	CARTER	carter	0
-.	.	.	.	.	1

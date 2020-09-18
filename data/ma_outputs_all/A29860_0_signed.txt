@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-ever-faithfull	ever-faithfull	j	ever-faithfull	ever-faithfull	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Browne	Browne	j-jn	brown	brown	0
-.	.	.	.	.	1

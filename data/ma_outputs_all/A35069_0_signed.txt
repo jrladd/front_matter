@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-loyall	loyall	j	loyal	loyal	0
-Kinsman	Kinsman	n1	Kinsman	kinsman	0
-And	And	cc	And	and	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-Hugh	Hugh	j	Hugh	huge	0
-Crompton	Crompton	np1	Crompton	Crompton	0
-.	.	.	.	.	1

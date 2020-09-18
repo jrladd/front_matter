@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Beads-man	Beads-man	n1	Beadsman	beadsman	0
-,	,	,	,	,	0
-Ro	Ro	np1	Ro	Ro	0
-:	:	:	:	:	0
-WILLAN	WILLAN	np1	WILLAN	WILLAN	0
-.	.	.	.	.	1

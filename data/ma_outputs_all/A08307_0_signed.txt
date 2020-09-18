@@ -1,7 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-celcetudini	celcetudini	fw-la	celcetudini	celcetudini	0
-paratus	paratus	fw-la	paratus	paratus	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-Norden	Norden	np1	Norden	Norden	0
-.	.	.	.	.	1

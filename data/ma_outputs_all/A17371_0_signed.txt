@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-seruice	seruice	n1	service	service	0
-Robert	Robert	np1	Robert	Robert	0
-Butterfield	Butterfield	np1	Butterfield	Butterfield	0
-.	.	.	.	.	1

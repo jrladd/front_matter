@@ -1,6 +1,0 @@
-Witten	Witten	np1	Witten	Witten	0
-by	by	p-acp	by	by	0
-your	your	po22	your	your	0
-Servant	Servant	n1	Servant	servant	0
-PHILIP	PHILIP	np1	PHILIP	PHILIP	0
-SCOT	SCOT	np1	SCOT	Scot	1

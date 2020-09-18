@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-seruice	seruice	n1	service	service	0
-IER	IER	n1	IER	ier	0
-.	.	.	.	.	1
-DYKE	DYKE	np1	DYKE	Dyke	0
-.	.	.	.	.	1

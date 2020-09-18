@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-OVR	OVR	po12	OUR	our	0
-GRACIOVS	GRACIOVS	j	GRACIOUS	gracious	0
-SOVEREIGNE	SOVEREIGNE	j-jn	SOVEREIGN	sovereign	0
-King	King	n1	King	king	0
-CHARLES	CHARLES	np1	CHARLES	Charles	0
-.	.	.	.	.	1

@@ -1,4 +1,0 @@
-Marques	Marques	np1	Marques	Marques	0
-Uirgilio	Uirgilio	np1	Uirgilio	Uirgilio	0
-Malvezzi	Malvezzi	np1	Malvezzi	Malvezzi	0
-.	.	.	.	.	1

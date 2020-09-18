@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-he	he	pns31	he	he	0
-may	may	vmb	may	may	0
-,	,	,	,	,	0
-A.	A.	np1	A.	A.	0
-B.	B.	np1	B.	B.	1

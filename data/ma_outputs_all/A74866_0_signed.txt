@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-well	well	av	well	well	0
-meaning	meaning	vvg	meaning	mean	0
-Friend	Friend	n1	Friend	friend	0
-Henry	Henry	np1	Henry	Henry	0
-Phillippes	Phillippes	np1	Phillippes	Phillippes	0
-.	.	.	.	.	1

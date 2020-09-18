@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-dutifull	dutifull	j	dutiful	dutiful	0
-Seruitour	Seruitour	n1	Servitor	servitor	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-N.	N.	np1	N.	N.	0
-E.	E.	np1	E.	E.	1

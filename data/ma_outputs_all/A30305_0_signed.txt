@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Minister	Minister	n1	Minister	minister	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-BƲRKITT	BƲRKITT	np1	BƲRKITT	BƲRKITT	0
-.	.	.	.	.	1

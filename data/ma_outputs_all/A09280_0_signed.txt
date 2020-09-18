@@ -1,7 +1,0 @@
-Doctor	Doctor	n1	Doctor	doctor	0
-Iuan	Iuan	np1	Iuan	Juan	0
-Antonio	Antonio	np1	Antonio	Antonio	0
-de	de	fw-fr	de	de	0
-la	la	fw-fr	la	la	0
-Pen̄a	Pen̄a	fw-fr	Pen̄a	pen̄a	0
-.	.	.	.	.	1

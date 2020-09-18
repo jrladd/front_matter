@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-,	,	,	,	,	0
-THE	THE	dt	THE	the	0
-LADY	LADY	n1	LADY	lady	0
-ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
-RICH	RICH	j	RICH	rich	0
-.	.	.	.	.	1

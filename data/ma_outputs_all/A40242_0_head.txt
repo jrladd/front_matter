@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-that	that	cst	that	that	0
-love	love	vvb	love	love	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-Christ	Christ	np1	Christ	Christ	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-true	true	j	true	true	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Cl.	Cl.	np1	Cl.	Cl.	0
-Barksdale	Barksdale	np1	Barksdale	Barksdale	1

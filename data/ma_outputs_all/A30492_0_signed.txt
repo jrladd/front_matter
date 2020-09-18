@@ -1,8 +1,0 @@
-Celsitudinis	Celsitudinis	fw-la	Celsitudinis	celsitudinis	0
-Tuae	Tuae	fw-la	Tuae	tuus	0
-Devotissimus	Devotissimus	fw-la	Devotissimus	devotissimus	0
-Cliens	Cliens	n2-jn	Cliens	clien	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-BVRNET	BVRNET	np1	BVRNET	BVRNET	0
-.	.	.	.	.	1

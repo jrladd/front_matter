@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Woodward	Woodward	np1	Woodward	Woodward	0
-.	.	.	.	.	1

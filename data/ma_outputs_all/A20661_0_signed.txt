@@ -1,8 +1,0 @@
-your	your	po22	your	your	0
-mastershyps	mastershyps	ng1	mastershyps	mastership	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-Thom.	Thom.	np1	Thom.	Thom.	0
-Dorman	Dorman	np1	Dorman	Dorman	0
-.	.	.	.	.	1

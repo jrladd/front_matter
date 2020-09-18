@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-faithful	faithful	j	faithful	faithful	0
-,	,	,	,	,	0
-though	though	cs	though	though	0
-unwothy	unwothy	j	unwothy	unwothy	0
-Pastor	Pastor	n1	Pastor	pastor	0
-,	,	,	,	,	0
-Rich.	Rich.	np1	Rich.	Richard	0
-Baxte	Baxte	vvn	Baxte	baxte	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-Her	Her	po31	Her	her	0
-Majesty	Majesty	n1	Majesty	majesty	0
-THE	THE	dt	THE	the	0
-Queen	Queen	n1	Queen	queen	0
-Dowager	Dowager	n1	Dowager	dowager	0
-OF	OF	pp-f	OF	of	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	0
-.	.	.	.	.	1

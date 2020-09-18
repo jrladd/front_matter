@@ -1,3 +1,0 @@
-Catharine	Catharine	np1	Catharine	Catharine	0
-Trotter	Trotter	np1	Trotter	Trotter	0
-.	.	.	.	.	1

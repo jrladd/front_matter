@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-bounden	bounden	vvn	bounden	bind	0
-Tho	Tho	av	Though	tho	0
-∣	∣	sy	∣	∣	0
-mas	mas	n1	mass	mass	0
-Newton	Newton	np1	Newton	Newton	0
-.	.	.	.	.	1

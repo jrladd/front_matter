@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-respectfulnesse	respectfulnesse	n1	respectfulness	respectfulness	0
-William	William	np1	William	William	0
-Sclater	Sclater	np1	Sclater	Sclater	0
-.	.	.	.	.	1

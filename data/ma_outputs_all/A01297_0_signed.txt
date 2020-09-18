@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-familiar	familiar	j-jn	familiar	familiar	0
-frende	frende	n1	friend	friend	0
-Wil	Wil	vmb	Will	will	0
-∣	∣	sy	∣	∣	0
-lyam	lyam	n1	lyam	lyam	0
-Paynter	Paynter	n1	Painter	painter	0
-.	.	.	.	.	1

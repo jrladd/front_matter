@@ -1,8 +1,0 @@
-THE	THE	dt	THE	the	0
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
-TO	TO	p-acp	TO	to	0
-Mr.	Mr.	n1	Mr.	mr.	0
-Hezekiah	Hezekiah	np1	Hezekiah	Hezekiah	0
-Holland	Holland	np1	Holland	Holland	0
-.	.	.	.	.	1

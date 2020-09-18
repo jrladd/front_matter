@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-faithful	faithful	j	faithful	faithful	0
-Humble	Humble	j	Humble	humble	0
-Servitour	Servitour	n1	Servitor	servitor	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-SMITH	SMITH	n1	SMITH	smith	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-For	For	p-acp	For	for	0
-OLIVER	OLIVER	np1	OLIVER	Oliver	0
-Lord	Lord	n1	Lord	lord	0
-CROMVVELL	CROMVVELL	np1	CROMVVELL	CROMVVELL	0
-.	.	.	.	.	1

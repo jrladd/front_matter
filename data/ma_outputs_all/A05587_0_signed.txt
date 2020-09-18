@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-worthy	worthy	j	worthy	worthy	0
-vertues	vertues	n2	virtues	virtue	0
-euer	euer	av	ever	ever	0
-vowed	vowed	vvn	vowed	vow	0
-:	:	:	:	:	0
-VV.	VV.	np1	VV.	VV.	0
-L.	L.	np1	L.	L.	1

@@ -1,6 +1,0 @@
-The	The	dt	The	the	0
-Authour	Authour	n1	Author	author	0
-of	of	pp-f	of	of	0
-Lux	Lux	fw-la	Lux	lux	0
-Orientalis	Orientalis	np1	Orientalis	Orientalis	0
-:	:	:	:	:	1

@@ -1,3 +1,0 @@
-Joannes	Joannes	np1	Joannes	Joannes	0
-Brinsleius	Brinsleius	np1	Brinsleius	Brinsleius	0
-.	.	.	.	.	1

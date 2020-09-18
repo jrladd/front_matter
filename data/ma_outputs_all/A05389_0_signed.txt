@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-,	,	,	,	,	0
-Iames	Iames	np1	Iames	Iames	0
-Roubothum	Roubothum	np1	Roubothum	Roubothum	0
-.	.	.	.	.	1

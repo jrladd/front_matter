@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Hh.	Hh.	np1	Hh.	Hh.	0
-obidient	obidient	j	obidient	obidient	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-,	,	,	,	,	0
-Henrie	Henrie	np1	Henrie	Henry	0
-Arthington	Arthington	np1	Arthington	Arthington	0
-.	.	.	.	.	1

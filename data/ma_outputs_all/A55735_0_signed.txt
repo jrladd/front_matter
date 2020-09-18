@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Philo-Darby	Philo-Darby	np1	Philo-Darby	Philo-Darby	0
-.	.	.	.	.	1

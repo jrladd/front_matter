@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-most	most	av-ds	most	most	0
-assured	assured	vvn	assured	assure	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-Robert	Robert	np1	Robert	Robert	0
-Allott	Allott	vvb	Allot	allot	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-eternally	eternally	av-j	eternally	eternal	0
-,	,	,	,	,	0
-Ieruis	Ieruis	np1	Ieruis	Jarvis	0
-Markham	Markham	np1	Markham	Markham	0
-.	.	.	.	.	1

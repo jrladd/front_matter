@@ -1,7 +1,0 @@
-aeternum	aeternum	fw-la	aeternum	aeternum	0
-man	man	n1	man	man	0
-∣	∣	sy	∣	∣	0
-cipatus	cipatus	n1	cipatus	cipatus	0
-.	.	.	.	.	1
-G.	G.	np1	G.	G.	0
-A.	A.	np1	A.	A.	1

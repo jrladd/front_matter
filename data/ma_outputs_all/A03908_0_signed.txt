@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-to	to	p-acp	to	to	0
-command	command	n1	command	command	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-HVTCHINS	HVTCHINS	np1	HVTCHINS	HVTCHINS	0
-.	.	.	.	.	1

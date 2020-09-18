@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-JESVS	JESVS	np1	JESVS	JESVS	0
-.	.	.	.	.	1
-Tho.	Tho.	np1	Tho.	Tho.	0
-Purchas	Purchas	np1	Purchas	Purchas	0
-.	.	.	.	.	1

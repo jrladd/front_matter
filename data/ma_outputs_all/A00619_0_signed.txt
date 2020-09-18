@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-immutable	immutable	j	immutable	immutable	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-OW	OW	vvb	OWE	owe	0
-.	.	.	.	.	1
-FELTHAM	FELTHAM	np1	FELTHAM	Feltham	0
-.	.	.	.	.	1

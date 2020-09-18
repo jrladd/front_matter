@@ -1,3 +1,0 @@
-IOH.	IOH.	np1	IOH.	IOH.	0
-BRINSLEY	BRINSLEY	np1	BRINSLEY	Brinsley	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-HIS	HIS	po31	HIS	his	0
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-.	.	.	.	.	1

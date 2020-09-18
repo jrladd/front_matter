@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordshipps	Lordshipps	n2	Lordships	lordship	0
-poore	poore	j	poor	poor	0
-suppliant	suppliant	j-jn	suppliant	suppliant	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-LYSTER	LYSTER	np1	LYSTER	Lyster	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Lycophron	Lycophron	np1	Lycophron	Lycophron	0
-.	.	.	.	.	1

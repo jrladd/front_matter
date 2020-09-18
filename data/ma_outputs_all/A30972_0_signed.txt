@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-LORDSHIP's	LORDSHIP's	ng1	LORDSHIP's	lordship	0
-most	most	av-ds	most	most	0
-Obedient	Obedient	j	Obedient	obedient	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-OFFLEY	OFFLEY	np1	OFFLEY	Offley	0
-.	.	.	.	.	1

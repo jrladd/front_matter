@@ -1,2 +1,0 @@
-Edmund	Edmund	np1	Edmund	Edmund	0
-Cobbes	Cobbes	n2	Cobbes	cob	1

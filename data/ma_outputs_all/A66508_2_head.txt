@@ -1,3 +1,0 @@
-Carmen	Carmen	np1	Carmen	Carmen	0
-Gratulatorium	Gratulatorium	np1	Gratulatorium	Gratulatorium	0
-.	.	.	.	.	1

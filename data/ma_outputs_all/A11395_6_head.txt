@@ -1,2 +1,0 @@
-EDEN	EDEN	np1	EDEN	Eden	0
-.	.	.	.	.	1

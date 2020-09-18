@@ -1,3 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-FORD	FORD	n1	FORD	ford	0
-.	.	.	.	.	1

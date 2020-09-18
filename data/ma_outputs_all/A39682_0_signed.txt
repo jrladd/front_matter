@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-loving	loving	n-vvg	loving	love	0
-and	and	cc	and	and	0
-faithful	faithful	j	faithful	faithful	0
-Pastor	Pastor	n1	Pastor	pastor	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-FLAVELL	FLAVELL	np1	FLAVELL	FLAVELL	0
-.	.	.	.	.	1

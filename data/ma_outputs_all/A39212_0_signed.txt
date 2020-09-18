@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-unworthy	unworthy	j	unworthy	unworthy	0
-Christian	Christian	np1	Christian	Christian	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-E.	E.	np1	E.	E.	1

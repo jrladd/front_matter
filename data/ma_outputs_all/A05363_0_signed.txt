@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Smyth	Smyth	np1	Smyth	Smyth	0
-.	.	.	.	.	1

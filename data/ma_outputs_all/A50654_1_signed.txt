@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-Ready	Ready	j	Ready	ready	0
-to	to	pc-acp	to	to	0
-serve	serve	vvi	serve	serve	0
-you	you	pn22	you	you	0
-George	George	np1	George	George	0
-Meriton	Meriton	np1	Meriton	Meriton	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-Mr	Mr	n1	Mr	mr.	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-HALL	HALL	n1	HALL	hall	0
-.	.	.	.	.	1

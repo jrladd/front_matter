@@ -1,9 +1,0 @@
-Euer	Euer	av	Ever	ever	0
-readie	readie	j	ready	ready	0
-to	to	pc-acp	to	to	0
-doe	doe	vdi	do	do	0
-you	you	pn22	you	you	0
-seruice	seruice	n1	service	service	0
-.	.	.	.	.	1
-I.	I.	np1	I.	I.	0
-G.	G.	np1	G.	G.	1

@@ -1,4 +1,0 @@
-Nath	Nath	np1	Nath	Nath	0
-:	:	:	:	:	0
-Homes	Homes	np1	Homes	Homes	0
-.	.	.	.	.	1

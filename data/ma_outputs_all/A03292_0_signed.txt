@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-respectiuely	respectiuely	av-j	respectively	respective	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Hieron	Hieron	np1	Hieron	Hieron	0
-.	.	.	.	.	1

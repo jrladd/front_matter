@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-true	true	j	true	true	0
-seruant	seruant	n1	servant	servant	0
-Philip	Philip	np1	Philip	Philip	0
-Massinger	Massinger	np1	Massinger	Massinger	0
-.	.	.	.	.	1

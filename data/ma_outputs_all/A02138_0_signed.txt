@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-most	most	av-ds	most	most	0
-humblie	humblie	av-j	humbly	humble	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-Robert	Robert	np1	Robert	Robert	0
-Greene	Greene	j-jn	Green	green	0
-.	.	.	.	.	1

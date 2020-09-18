@@ -1,2 +1,0 @@
-W.	W.	np1	W.	W.	0
-B.	B.	np1	B.	B.	1

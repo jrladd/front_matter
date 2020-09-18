@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-LADIES	LADIES	n2	LADIES	lady	0
-.	.	.	.	.	1

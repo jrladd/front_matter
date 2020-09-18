@@ -1,9 +1,0 @@
-JACOBUM	JACOBUM	np1	JACOBUM	JACOBUM	0
-SALGADO	SALGADO	np1	SALGADO	SALGADO	0
-,	,	,	,	,	0
-Hispan	Hispan	np1	Hispan	Hispan	0
-.	.	.	.	.	1
-Presbyt	Presbyt	np1	Presbyt	Presbyt	0
-.	.	.	.	.	1
-Conversum	Conversum	np1	Conversum	Conversum	0
-.	.	.	.	.	1

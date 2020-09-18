@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-Authors	Authors	ng1	Authors	author	0
-Epistle	Epistle	n1	Epistle	epistle	0
-to	to	p-acp	to	to	0
-the	the	dt	the	the	0
-French	French	jp	French	french	0
-King	King	n1	King	king	0
-.	.	.	.	.	1

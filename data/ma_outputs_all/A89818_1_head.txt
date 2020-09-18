@@ -1,9 +1,0 @@
-NAUD	NAUD	np1	NAUD	NAUD	0
-AEVS	AEVS	np1	AEVS	AEVS	0
-.	.	.	.	.	1
-Viris	Viris	np1	Viris	Viris	0
-doctis	doctis	fw-la	doctis	doctis	0
-et	et	fw-la	et	et	0
-fautoribus	fautoribus	fw-la	fautoribus	fautoribus	0
-suis	suis	fw-la	suis	suis	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-THE	THE	dt	THE	the	0
-Author's	Author's	ng1	Author's	author	0
-Dedication	Dedication	n1	Dedication	dedication	0
-TO	TO	p-acp	TO	to	0
-Q.	Q.	np1	Q.	Q.	0
-ELIZABETH	ELIZABETH	np1	ELIZABETH	Elizabeth	0
-.	.	.	.	.	1

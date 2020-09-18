@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-JER	JER	np1	JER	JER	0
-:	:	:	:	:	0
-WHITTAKER	WHITTAKER	np1	WHITTAKER	Whittaker	0
-.	.	.	.	.	1

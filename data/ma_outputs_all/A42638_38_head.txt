@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-Master	Master	n1	Master	master	0
-William	William	np1	William	William	0
-Wine	Wine	n1	Wine	wine	0
-.	.	.	.	.	1

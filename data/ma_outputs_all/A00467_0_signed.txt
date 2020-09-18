@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-euer	euer	av	ever	ever	0
-louing	louing	vvg	loving	love	0
-Cousin	Cousin	n1	Cousin	cousin	0
-HVMPHRY	HVMPHRY	np1	HVMPHRY	HVMPHRY	0
-EVERINDEN	EVERINDEN	np1	EVERINDEN	EVERINDEN	0
-.	.	.	.	.	1

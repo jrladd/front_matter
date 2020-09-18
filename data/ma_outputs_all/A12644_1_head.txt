@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worshipfull	worshipfull	j	worshipful	worshipful	0
-and	and	cc	and	and	0
-vertuous	vertuous	j	virtuous	virtuous	0
-Gentlewoman	Gentlewoman	n1	Gentlewoman	gentlewoman	0
-,	,	,	,	,	0
-Mistresse	Mistresse	n1	Mistress	mistress	0
-D.A.	D.A.	np1	D.A.	D.A.	1

@@ -1,4 +1,0 @@
-Luci	Luci	np1	Luci	Luci	0
-quasi	quasi	fw-la	quasi	quasi	0
-Luxi	Luxi	fw-la	Luxi	luxi	0
-.	.	.	.	.	1

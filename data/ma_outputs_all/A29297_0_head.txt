@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-her	her	po31	her	her	0
-GRACE	GRACE	n1	GRACE	grace	0
-the	the	dt	the	the	0
-Dutchess	Dutchess	n1	Duchess	duchess	0
-of	of	pp-f	of	of	0
-ALBERMARLE	ALBERMARLE	np1	ALBERMARLE	ALBERMARLE	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

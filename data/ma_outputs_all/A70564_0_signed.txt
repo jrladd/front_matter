@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordship's	Lordship's	n1|vbz	Lordship's	lordship|be	0
-constant	constant	j	constant	constant	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Henry	Henry	np1	Henry	Henry	0
-Maurice	Maurice	np1	Maurice	Maurice	0
-.	.	.	.	.	1

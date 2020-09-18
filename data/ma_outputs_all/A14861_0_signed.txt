@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-duty	duty	n1	duty	duty	0
-George	George	np1	George	George	0
-Webbe	Webbe	np1	Webbe	Webbe	0
-.	.	.	.	.	1

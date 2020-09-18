@@ -1,9 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-amplitudini	amplitudini	fw-la	amplitudini	amplitudini	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-&	&	cc	&	and	0
-humilimus	humilimus	fw-la	humilimus	humilimus	0
-seruus	seruus	fw-la	seruus	seruus	0
-Ioannes	Ioannes	np1	Ioannes	Johannes	0
-Nicholaus	Nicholaus	np1	Nicholaus	Nicholaus	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-much	much	av-d	much	much	0
-obliged	obliged	vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-John	John	np1	John	John	0
-Tabor	Tabor	np1	Tabor	Tabor	0
-.	.	.	.	.	1

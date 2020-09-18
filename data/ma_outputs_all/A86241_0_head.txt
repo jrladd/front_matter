@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-COVNTREY	COVNTREY	n1	COVNTREY	covntrey	0
-.	.	.	.	.	1

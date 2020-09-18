@@ -1,8 +1,0 @@
-most	most	av-ds	most	most	0
-obsequiously	obsequiously	av-j	obsequiously	obsequious	0
-,	,	,	,	,	0
-obseruantly	obseruantly	av-j	observantly	observant	0
-:	:	:	:	:	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Westerne	Westerne	j	Western	western	0
-.	.	.	.	.	1

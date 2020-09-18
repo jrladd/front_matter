@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-Henry	Henry	np1	Henry	Henry	0
-Raymonde	Raymonde	np1	Raymonde	Raymonde	0
-.	.	.	.	.	1

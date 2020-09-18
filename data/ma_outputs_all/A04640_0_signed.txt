@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lo.	Lo.	n1	Lo.	lord	0
-most	most	av-ds	most	most	0
-faithfull	faithfull	j	faithful	faithful	0
-Honorer	Honorer	n1	Honorer	honourer	0
-.	.	.	.	.	1
-Ben.	Ben.	np1	Ben.	Ben.	0
-Ionson	Ionson	np1	Ionson	Jonson	0
-.	.	.	.	.	1

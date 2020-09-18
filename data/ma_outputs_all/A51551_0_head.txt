@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-ROPER	ROPER	np1	ROPER	Roper	0
-Esq.	Esq.	np1	Esq.	Esq.	1

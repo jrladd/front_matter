@@ -1,5 +1,0 @@
-The	The	dt	The	the	0
-same	same	d	same	same	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-POVVELL	POVVELL	np1	POVVELL	POVVELL	0
-.	.	.	.	.	1

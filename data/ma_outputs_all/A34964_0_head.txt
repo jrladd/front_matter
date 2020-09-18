@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-QVEEN	QVEEN	np1	QVEEN	QVEEN	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-VIA	VIA	np1	VIA	Via	0
-·	·	·	·	·	0
-VNA	VNA	np1	VNA	Una	0
-·	·	·	·	·	0
-COR	COR	fw-la	COR	cor	0
-·	·	·	·	·	0
-VNVM	VNVM	fw-la	VNVM	vnvm	0
-·	·	·	·	·	1

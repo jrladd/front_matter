@@ -1,9 +1,0 @@
-THE	THE	dt	THE	the	0
-DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-Beautiful	Beautiful	j	Beautiful	beautiful	0
-and	and	cc	and	and	0
-Ingenious	Ingenious	j	Ingenious	ingenious	0
-DIANA	DIANA	np1	DIANA	Diana	0
-.	.	.	.	.	1

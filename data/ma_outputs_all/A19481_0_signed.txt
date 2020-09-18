@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-Abraham	Abraham	np1	Abraham	Abraham	0
-Cowley	Cowley	np1	Cowley	Cowley	0
-.	.	.	.	.	1

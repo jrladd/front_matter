@@ -1,3 +1,0 @@
-CLA.	CLA.	np1	CLA.	CLA.	0
-FRA	FRA	np1	FRA	Fra	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-duety	duety	n1	duty	duty	0
-,	,	,	,	,	0
-Robert	Robert	np1	Robert	Robert	0
-Douland	Douland	np1	Douland	Douland	0
-.	.	.	.	.	1

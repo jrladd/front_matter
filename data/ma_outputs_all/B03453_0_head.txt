@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-truly	truly	av-j	truly	true	0
-honourable	honourable	j	honourable	honourable	0
-Mrs	Mrs	n1	Mrs	mrs.	0
-A.O.	A.O.	np1	A.O.	A.O.	1

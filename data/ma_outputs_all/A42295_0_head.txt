@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-Honest	Honest	j	Honest	honest	0
-JURY-MEN	JURY-MEN	n2	JURY-MEN	jury-man	0
-.	.	.	.	.	1

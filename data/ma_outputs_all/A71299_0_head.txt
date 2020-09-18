@@ -1,8 +1,0 @@
-THE	THE	dt	THE	the	0
-Repenting	Repenting	vvg	Repenting	repent	0
-Harlot	Harlot	n1	Harlot	harlot	0
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Insinuating	Insinuating	j-vvg	Insinuating	insinuate	0
-Bawd	Bawd	n1	Bawd	bawd	0
-.	.	.	.	.	1

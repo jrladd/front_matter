@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Howe	Howe	np1	Howe	Howe	0
-.	.	.	.	.	1

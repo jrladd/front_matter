@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Ever-honoured	Ever-honoured	j	Ever-honoured	ever-honoured	0
-Father-in-Law	Father-in-Law	n1	Father-in-Law	father-in-law	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-PHILIPS	PHILIPS	vvz	PHILIPS	fillip	0
-Esq	Esq	np1	Esq	Esq	1

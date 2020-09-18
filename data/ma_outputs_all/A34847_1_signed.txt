@@ -1,3 +1,0 @@
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-COX	COX	np1	COX	Cox	0
-▪	▪	▪	▪	▪	1

@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-command	command	n1	command	command	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Iesu.	Iesu.	np1	Iesu.	Jesus	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-MASSIE	MASSIE	np1	MASSIE	Massie	0
-.	.	.	.	.	1

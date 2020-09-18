@@ -1,7 +1,0 @@
-Thine	Thine	po21	Thine	thy	0
-assured	assured	j-vvn	assured	assure	0
-louing	louing	vvg	loving	love	0
-mother	mother	n1	mother	mother	0
-Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
-Grymeston	Grymeston	np1	Grymeston	Grymeston	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-IOHN	IOHN	np1	IOHN	John	0
-HOLME	HOLME	np1	HOLME	Holme	0
-.	.	.	.	.	1

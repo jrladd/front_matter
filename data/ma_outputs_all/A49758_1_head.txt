@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-Parents	Parents	n2	Parents	parent	0
-.	.	.	.	.	1

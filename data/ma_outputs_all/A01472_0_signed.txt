@@ -1,9 +1,0 @@
-Honori	Honori	fw-la	Honori	honori	0
-Tuo	Tuo	fw-la	Tuo	tuo	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-,	,	,	,	,	0
-obseruantissimusque	obseruantissimusque	fw-la	obseruantissimusque	obseruantissimusque	0
-;	;	;	;	;	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Garey	Garey	np1	Garey	Garey	0
-.	.	.	.	.	1

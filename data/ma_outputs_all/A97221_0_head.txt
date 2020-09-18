@@ -1,9 +1,0 @@
-CELSISSIMO	CELSISSIMO	n1	CELSISSIMO	celsissimo	0
-,	,	,	,	,	0
-HONORATISSIMO	HONORATISSIMO	fw-la	HONORATISSIMO	honoratissimo	0
-{	{	{	{	{	0
-que	que	fw-fr	que	que	0
-}	}	}	}	}	0
-SENATUI	SENATUI	np1	SENATUI	SENATUI	0
-,	,	,	,	,	0
-TOTIUS	TOTIUS	fw-la	TOTIUS	totius	1

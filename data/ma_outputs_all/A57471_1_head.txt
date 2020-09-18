@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Gentlemen	Gentlemen	n2	Gentlemen	gentleman	0
-Miners	Miners	n2	Miners	miner	0
-.	.	.	.	.	1

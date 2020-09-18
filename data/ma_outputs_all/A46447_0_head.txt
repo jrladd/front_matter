@@ -1,9 +1,0 @@
-Cato	Cato	np1	Cato	Cato	0
-ad	ad	fw-la	ad	ad	0
-Labienum	Labienum	fw-la	Labienum	labienum	0
-,	,	,	,	,	0
-Lucan	Lucan	np1	Lucan	Lucan	0
-.	.	.	.	.	0
-lib	lib	n1	lib	lib	0
-.	.	.	.	.	1
-9.	9.	crd	9.	9	1

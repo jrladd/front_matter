@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-most	most	av-ds	most	most	0
-Loyal	Loyal	j	Loyal	loyal	0
-Subject	Subject	j-jn	Subject	subject	0
-,	,	,	,	,	0
-LEWES	LEWES	zz	LEWES	lewes	0
-SHARP	SHARP	j	SHARP	sharp	0
-.	.	.	.	.	1

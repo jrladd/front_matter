@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-much	much	d	much	much	0
-beholden	beholden	vvi	beholden	behold	0
-Richard	Richard	np1	Richard	Richard	0
-Barnard	Barnard	np1	Barnard	Barnard	0
-.	.	.	.	.	1

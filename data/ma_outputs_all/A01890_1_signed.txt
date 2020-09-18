@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-duely	duely	av-jn	duly	due	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-GOODVVINNE	GOODVVINNE	vvi	GOODVVINNE	goodvvinne	0
-.	.	.	.	.	1

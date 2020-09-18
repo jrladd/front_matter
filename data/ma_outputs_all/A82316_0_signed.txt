@@ -1,3 +1,0 @@
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-DELL	DELL	n1	DELL	dell	0
-.	.	.	.	.	1

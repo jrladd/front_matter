@@ -1,7 +1,0 @@
-Humilimus	Humilimus	np1	Humilimus	Humilimus	0
-dominationum	dominationum	fw-la	dominationum	dominationum	0
-vestrarum	vestrarum	fw-la	vestrarum	vestrarum	0
-servus	servus	fw-la	servus	servus	0
-ODOARDUS	ODOARDUS	fw-la	ODOARDUS	odoardus	0
-WILSONUS	WILSONUS	np1	WILSONUS	WILSONUS	0
-.	.	.	.	.	1

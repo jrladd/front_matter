@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-at	at	p-acp	at	at	0
-commaund	commaund	n1	command	command	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-NICCOLLS	NICCOLLS	np1	NICCOLLS	Niccolls	0
-.	.	.	.	.	1

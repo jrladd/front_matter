@@ -1,3 +1,0 @@
-THE	THE	dt	THE	the	0
-ARK	ARK	n1	ARK	ark	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-RAWLEY	RAWLEY	np1	RAWLEY	Raleigh	0
-.	.	.	.	.	1

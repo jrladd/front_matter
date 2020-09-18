@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-L.	L.	n1	L.	lord	0
-devouted	devouted	vvd	devouted	devout	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-AN	AN	dt	AND	a	0
-.	.	.	.	.	1
-MURE	MURE	np1	MURE	Mure	0
-.	.	.	.	.	1

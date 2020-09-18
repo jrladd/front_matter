@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-hearty	hearty	j	hearty	hearty	0
-affection	affection	n1	affection	affection	0
-▪	▪	▪	▪	▪	0
-W.	W.	np1	W.	W.	0
-BARLOW	BARLOW	np1	BARLOW	Barlow	0
-.	.	.	.	.	1

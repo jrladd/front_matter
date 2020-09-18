@@ -1,3 +1,0 @@
-H.	H.	np1	H.	H.	0
-Redivivus	Redivivus	np1	Redivivus	Redivivus	0
-.	.	.	.	.	1

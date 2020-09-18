@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-if	if	cs	if	if	0
-you	you	pn22	you	you	0
-be	be	vbb	be	be	0
-Christes	Christes	npg1	Christes	Christ	0
-,	,	,	,	,	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-HVME	HVME	np1	HVME	HVME	0
-.	.	.	.	.	1

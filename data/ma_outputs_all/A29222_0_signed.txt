@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-deeply	deeply	av-jn	deeply	deep	0
-devoted	devoted	vvn	devoted	devote	0
-,	,	,	,	,	0
-SAM	SAM	np1	SAM	Sam	0
-.	.	.	.	.	1
-BRASSE	BRASSE	n1	BRASSE	brass	0
-.	.	.	.	.	1

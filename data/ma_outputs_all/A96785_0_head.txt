@@ -1,3 +1,0 @@
-A	A	dt	A	a	0
-Postscript	Postscript	n1	Postscript	postscript	0
-.	.	.	.	.	1

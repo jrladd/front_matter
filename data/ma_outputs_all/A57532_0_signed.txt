@@ -1,3 +1,0 @@
-Walter	Walter	np1	Walter	Walter	0
-Ralegh	Ralegh	np1	Ralegh	Ralegh	0
-.	.	.	.	.	1

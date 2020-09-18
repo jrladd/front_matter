@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-daily	daily	j	daily	daily	0
-Orator	Orator	n1	Orator	orator	0
-Iohn	Iohn	np1	Iohn	John	0
-Alday	Alday	np1	Alday	Alday	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-IENNEY	IENNEY	np1	IENNEY	IENNEY	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Of	Of	pp-f	Of	of	0
-the	the	dt	the	the	0
-Moone	Moone	n1	Moon	moon	0
-.	.	.	.	.	1
-☽	☽	sy	☽	☽	1

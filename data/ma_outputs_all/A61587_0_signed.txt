@@ -1,3 +1,0 @@
-E.	E.	np1	E.	E.	0
-Stillingfleet	Stillingfleet	np1	Stillingfleet	Stillingfleet	0
-.	.	.	.	.	1

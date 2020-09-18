@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-same	same	d	same	same	0
-Noble	Noble	j	Noble	noble	0
-HEROINES	HEROINES	n2	HEROINES	heroine	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-both	both	d	both	both	0
-your	your	po22	your	your	0
-worships	worships	n2	worships	worship	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-I.	I.	np1	I.	I.	0
-C.	C.	np1	C.	C.	1

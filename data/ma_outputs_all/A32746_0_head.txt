@@ -1,9 +1,0 @@
-Sebastianus	Sebastianus	np1	Sebastianus	Sebastianus	0
-Castellio	Castellio	np1	Castellio	Castellio	0
-TO	TO	p-acp	TO	to	0
-Bonifacius	Bonifacius	np1	Bonifacius	Bonifacius	0
-Amerbachius	Amerbachius	np1	Amerbachius	Amerbachius	0
-A	A	dt	A	a	0
-Famous	Famous	j	Famous	famous	0
-Councillor	Councillor	n1	Councillor	councillor	0
-.	.	.	.	.	1

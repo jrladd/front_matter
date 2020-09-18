@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MY	MY	po11	MY	my	0
-Candid	Candid	j	Candid	candid	0
-and	and	cc	and	and	0
-Cordial	Cordial	j	Cordial	cordial	0
-COUNTRYMEN	COUNTRYMEN	n2	COUNTRYMEN	countryman	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-TRVELY	TRVELY	av-j	TRULY	tru	0
-NOBLE	NOBLE	j	NOBLE	noble	0
-Sir	Sir	n1	Sir	sir	0
-KENELME	KENELME	np1	KENELME	KENELME	0
-DIGBY	DIGBY	np1	DIGBY	Digby	0
-,	,	,	,	,	0
-Kt.	Kt.	np1	Kt.	Kt.	1

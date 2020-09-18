@@ -1,3 +1,0 @@
-Henry	Henry	np1	Henry	Henry	0
-Ainsworth	Ainsworth	np1	Ainsworth	Ainsworth	0
-.	.	.	.	.	1

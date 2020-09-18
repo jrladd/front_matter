@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-and	and	cc	and	and	0
-Chaplaine	Chaplaine	n1	Chaplain	chaplain	0
-Ch.	Ch.	np1	Ch.	Ch.	0
-Potter	Potter	n1	Potter	potter	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-THE	THE	dt	THE	the	0
-Lady	Lady	n1	Lady	lady	0
-Olympia	Olympia	np1	Olympia	Olympia	0
-Roberts	Roberts	np1	Roberts	Roberts	0
-.	.	.	.	.	1

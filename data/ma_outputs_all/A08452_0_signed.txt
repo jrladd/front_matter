@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-vse	vse	n1	use	use	0
-.	.	.	.	.	1
-IOHN	IOHN	np1	IOHN	John	0
-SHARROCK	SHARROCK	np1	SHARROCK	Sharrock	0
-.	.	.	.	.	1

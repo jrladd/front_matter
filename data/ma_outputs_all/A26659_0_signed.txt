@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-devoted	devoted	j-vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-JOS	JOS	np1	JOS	Jos	0
-.	.	.	.	.	1
-ALFORD	ALFORD	np1	ALFORD	Alford	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	n2	Honours	honour	0
-very	very	av	very	very	0
-much	much	av-d	much	much	0
-bounden	bounden	vvn	bounden	bind	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-ABBOT	ABBOT	n1	ABBOT	abbot	0
-.	.	.	.	.	1

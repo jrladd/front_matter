@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-His	His	po31	His	his	0
-poor	poor	j	poor	poor	0
-PATRONS	PATRONS	n2	PATRONS	patron	0
-.	.	.	.	.	1

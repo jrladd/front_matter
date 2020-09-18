@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worthy	Worthy	j	Worthy	worthy	0
-COVENANTER	COVENANTER	np1	COVENANTER	Covenanter	0
-.	.	.	.	.	1

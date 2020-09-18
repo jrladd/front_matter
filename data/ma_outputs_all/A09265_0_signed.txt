@@ -1,9 +1,0 @@
-Suus	Suus	fw-la	Suus	suus	0
-in	in	p-acp	in	in	0
-Christo	Christo	fw-la	Christo	christo	0
-seruus	seruus	fw-la	seruus	seruus	0
-obsequentissimus	obsequentissimus	fw-la	obsequentissimus	obsequentissimus	0
-,	,	,	,	,	0
-Richardus	Richardus	fw-la	Richardus	richardus	0
-Bernard	Bernard	np1	Bernard	Bernard	0
-.	.	.	.	.	1

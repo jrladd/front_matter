@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Professors	Professors	n2	Professors	professor	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-glorious	glorious	j	glorious	glorious	0
-Gospel	Gospel	n1	Gospel	gospel	0
-.	.	.	.	.	1

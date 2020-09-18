@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-unworthy	unworthy	j	unworthy	unworthy	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Lupton	Lupton	np1	Lupton	Lupton	0
-.	.	.	.	.	1

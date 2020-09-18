@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Faithfully	Faithfully	av-j	Faithfully	faithful	0
-Devoted	Devoted	vvn	Devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-W.	W.	np1	W.	W.	1

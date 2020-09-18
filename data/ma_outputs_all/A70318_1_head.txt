@@ -1,5 +1,0 @@
-EPISTOLA	EPISTOLA	np1	EPISTOLA	EPISTOLA	0
-AD	AD	fw-la	AD	ad	0
-Virum	Virum	fw-la	Virum	virum	0
-Integerrimum	Integerrimum	fw-la	Integerrimum	integerrimum	0
-.	.	.	.	.	1

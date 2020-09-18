@@ -1,4 +1,0 @@
-SAM	SAM	np1	SAM	Sam	0
-.	.	.	.	.	1
-CRADOCK	CRADOCK	np1	CRADOCK	Cradock	0
-.	.	.	.	.	1

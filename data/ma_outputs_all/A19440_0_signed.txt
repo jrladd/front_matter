@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-begotten	begotten	vvn	begotten	beget	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Roger	Roger	np1	Roger	Roger	0
-Cotton	Cotton	np1	Cotton	Cotton	0
-.	.	.	.	.	1

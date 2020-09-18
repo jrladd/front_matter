@@ -1,7 +1,0 @@
-❧	❧	sy	❧	❧	0
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Intelligent	Intelligent	j	Intelligent	intelligent	0
-Generall	Generall	n1	General	general	0
-READER	READER	n1	READER	reader	0
-.	.	.	.	.	1

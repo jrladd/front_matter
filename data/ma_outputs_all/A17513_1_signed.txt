@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-much	much	av-d	much	much	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
-CADE	CADE	np1	CADE	Cade	0
-.	.	.	.	.	1

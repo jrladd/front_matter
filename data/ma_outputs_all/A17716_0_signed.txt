@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-graces	graces	n2	graces	grace	0
-humble	humble	j	humble	humble	0
-A.	A.	np1	A.	A.	0
-L.	L.	n1	L.	lord	1

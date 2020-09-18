@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-Seruant	Seruant	n1	Servant	servant	0
-Anthony	Anthony	np1	Anthony	Anthony	0
-du	du	fw-fr	du	du	0
-Verdier	Verdier	np1	Verdier	Verdier	0
-.	.	.	.	.	1

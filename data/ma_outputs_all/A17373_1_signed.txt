@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-Scholler	Scholler	n1	Scholar	scholar	0
-,	,	,	,	,	0
-H.	H.	np1	H.	H.	0
-Buttes	Buttes	vvz	Butts	butt	0
-.	.	.	.	.	1

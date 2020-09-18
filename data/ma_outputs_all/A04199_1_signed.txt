@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Pensioner	Pensioner	n1	Pensioner	pensioner	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-IACKSON	IACKSON	np1	IACKSON	IACKSON	0
-.	.	.	.	.	1

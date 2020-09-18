@@ -1,4 +1,0 @@
-DIEV	DIEV	np1	DIEV	DIEV	0
-ET	ET	fw-fr	ET	et	0
-MON	MON	fw-fr	MON	mon	0
-DROIT	DROIT	fw-fr	DROIT	droit	1

@@ -1,3 +1,0 @@
-E.	E.	np1	E.	E.	0
-SETTLE	SETTLE	vvb	SETTLE	settle	0
-▪	▪	▪	▪	▪	1

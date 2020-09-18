@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Hardie	Hardie	np1	Hardie	Hardie	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Sir	Sir	n1	Sir	sir	0
-,	,	,	,	,	0
-Of	Of	pp-f	Of	of	0
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-De	De	fw-fr	De	de	0
-Speciosâ	Speciosâ	fw-la	Speciosâ	speciosâ	0
-Villâ	Villâ	fw-la	Villâ	villâ	0
-,	,	,	,	,	1

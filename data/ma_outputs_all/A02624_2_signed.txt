@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-at	at	p-acp	at	at	0
-commaund	commaund	n1	command	command	0
-.	.	.	.	.	1
-William	William	np1	William	William	0
-Harbert	Harbert	np1	Harbert	Harbert	0
-.	.	.	.	.	1

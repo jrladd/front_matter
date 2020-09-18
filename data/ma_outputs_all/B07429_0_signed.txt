@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Bifield	Bifield	np1	Bifield	Bifield	0
-.	.	.	.	.	1

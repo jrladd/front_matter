@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-friend	friend	n1	friend	friend	0
-and	and	cc	and	and	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-DON	DON	n1	DON	don	0
-DIEGO	DIEGO	np1	DIEGO	Diego	0
-PVEDE-SER	PVEDE-SER	j	PVEDE-SER	pvede-s	0
-.	.	.	.	.	1

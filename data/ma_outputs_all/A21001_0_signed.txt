@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-euer	euer	av	ever	ever	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	1
-SHVTE	SHVTE	j	SHVTE	shvte	0
-.	.	.	.	.	1

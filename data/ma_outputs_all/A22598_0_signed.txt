@@ -1,7 +1,0 @@
-by	by	p-acp	by	by	0
-your	your	po22	your	your	0
-vertues	vertues	ng1	virtues	virtue	0
-honourer	honourer	n1	honourer	honourer	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-B.	B.	np1	B.	B.	1

@@ -1,4 +1,0 @@
-WILL	WILL	n1	WILL	will	0
-.	.	.	.	.	1
-FENNOR	FENNOR	np1	FENNOR	FENNOR	0
-.	.	.	.	.	1

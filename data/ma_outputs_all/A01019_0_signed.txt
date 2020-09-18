@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-incessant	incessant	j	incessant	incessant	0
-true	true	j	true	true	0
-Obseruant	Obseruant	j	Observant	observant	0
-William	William	np1	William	William	0
-Folkingham	Folkingham	np1	Folkingham	Folkingham	0
-.	.	.	.	.	1

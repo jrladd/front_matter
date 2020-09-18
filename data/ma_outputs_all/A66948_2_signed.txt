@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-In	In	p-acp	In	in	0
-all	all	d	all	all	0
-Humility	Humility	n1	Humility	humility	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-M.	M.	n1	M.	m.	1

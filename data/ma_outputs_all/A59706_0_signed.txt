@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-W.	W.	np1	W.	W.	0
-SHEPPARD	SHEPPARD	np1	SHEPPARD	Sheppard	0
-.	.	.	.	.	1

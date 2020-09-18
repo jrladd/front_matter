@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-KING	KING	n1	KING	king	0
-of	of	pp-f	of	of	0
-Greate	Greate	j	Great	great	0
-Britanne	Britanne	np1	Britanne	Britanne	0
-.	.	.	.	.	1

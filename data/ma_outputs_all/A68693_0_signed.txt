@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-faithfull	faithfull	j	faithful	faithful	0
-and	and	cc	and	and	0
-affectionate	affectionate	j	affectionate	affectionate	0
-,	,	,	,	,	0
-IOSVAH	IOSVAH	np1	IOSVAH	IOSVAH	0
-SILVESTER	SILVESTER	np1	SILVESTER	Silvester	0
-.	.	.	.	.	1

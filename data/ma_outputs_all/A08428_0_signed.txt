@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Beades-man	Beades-man	n1	Beadsman	beadsman	0
-Robert	Robert	np1	Robert	Robert	0
-Chambers	Chambers	n2	Chambers	chamber	0
-.	.	.	.	.	1

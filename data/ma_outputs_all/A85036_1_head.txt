@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-the	the	dt	the	the	0
-Two	Two	crd	Two	two	0
-most	most	av-ds	most	most	0
-Famous	Famous	j	Famous	famous	0
-VNIVERSITIES	VNIVERSITIES	n2	VNIVERSITIES	vniversity	0
-OF	OF	pp-f	OF	of	0
-ENGLAND	ENGLAND	np1	ENGLAND	England	1

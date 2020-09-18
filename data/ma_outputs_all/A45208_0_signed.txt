@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-,	,	,	,	,	0
-Josiah	Josiah	np1	Josiah	Josiah	0
-Hunter	Hunter	n1	Hunter	hunter	0
-.	.	.	.	.	1

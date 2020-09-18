@@ -1,9 +1,0 @@
-Continuance	Continuance	n1	Continuance	continuance	0
-of	of	pp-f	of	of	0
-what	what	r-crq	what	what	0
-they	they	pns32	they	they	0
-have	have	vhb	have	have	0
-wisheth	wisheth	vvz	wishes	wish	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-P.	P.	np1	P.	P.	1

@@ -1,8 +1,0 @@
-❧	❧	sy	❧	❧	0
-AD	AD	fw-la	AD	ad	0
-ACADEMI	ACADEMI	np1	ACADEMI	ACADEMI	0
-∣	∣	sy	∣	∣	0
-cam	cam	fw-la	cam	cam	0
-Iuventutem	Iuventutem	fw-la	Iuventutem	iuventutem	0
-paraenesis	paraenesis	n1	paraenesis	paraenesis	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-¶	¶	¶	¶	¶	0
-Your	Your	po22	Your	your	0
-graces	graces	n2	graces	grace	0
-dayely	dayely	av-j	daily	daily	0
-oratoure	oratoure	n1	orator	orator	0
-Gwalter	Gwalter	np1	Gwalter	Gualther	0
-Lynne	Lynne	np1	Lynne	Lynne	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-old	old	j	old	old	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-Lodowick	Lodowick	np1	Lodowick	Lodowick	0
-Lloyde	Lloyde	vvn	Lloyde	lloyde	1

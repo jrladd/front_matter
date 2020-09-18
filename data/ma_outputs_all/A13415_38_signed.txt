@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-ten	ten	crd	ten	ten	0
-thousand	thousand	crd	thousand	thousand	0
-wayes	wayes	n2	ways	way	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

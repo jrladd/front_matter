@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-be	be	vbb	be	be	0
-com	com	vvi	come	come	0
-∣	∣	sy	∣	∣	0
-manded	manded	vvd	manded	mand	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-L.	L.	np1	L.	L.	1

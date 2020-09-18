@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-much	much	av-d	much	much	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-F.	F.	np1	F.	F.	0
-B.	B.	np1	B.	B.	1

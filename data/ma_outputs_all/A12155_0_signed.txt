@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-.	.	.	.	.	1
-IAMES	IAMES	np1	IAMES	Iames	0
-SHIRLEY	SHIRLEY	np1	SHIRLEY	Shirley	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-DRYDEN	DRYDEN	np1	DRYDEN	Dryden	0
-.	.	.	.	.	1

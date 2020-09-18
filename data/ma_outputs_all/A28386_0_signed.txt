@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-sincere	sincere	j	sincere	sincere	0
-Clyent	Clyent	n1	Client	client	0
-,	,	,	,	,	0
-C.	C.	np1	C.	C.	0
-de	de	fw-fr	de	de	0
-IRYNGIO	IRYNGIO	np1	IRYNGIO	IRYNGIO	0
-.	.	.	.	.	1

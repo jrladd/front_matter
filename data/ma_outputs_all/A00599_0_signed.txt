@@ -1,3 +1,0 @@
-Tuus	Tuus	fw-la	Tuus	tuus	0
-A.	A.	np1	A.	A.	0
-B.	B.	np1	B.	B.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lady-ships	Lady-ships	n2	Ladyships	ladyship	0
-much	much	av-d	much	much	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-Iohn	Iohn	np1	Iohn	John	0
-Tillinghast	Tillinghast	np1	Tillinghast	Tillinghast	0
-.	.	.	.	.	1

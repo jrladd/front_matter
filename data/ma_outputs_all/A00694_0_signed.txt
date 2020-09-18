@@ -1,3 +1,0 @@
-Alfonso	Alfonso	np1	Alfonso	Alfonso	0
-Ferrabosco	Ferrabosco	np1	Ferrabosco	Ferrabosco	0
-.	.	.	.	.	1

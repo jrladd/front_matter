@@ -1,7 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-then	then	av	then	then	0
-happie	happie	j	happy	happy	0
-Father	Father	n1	Father	father	0
-W.	W.	np1	W.	W.	0
-HERBERT	HERBERT	np1	HERBERT	Herbert	0
-.	.	.	.	.	1

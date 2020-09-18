@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Kirby	Kirby	np1	Kirby	Kirby	0
-.	.	.	.	.	1

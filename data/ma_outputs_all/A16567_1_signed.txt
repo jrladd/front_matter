@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-to	to	pc-acp	to	to	0
-Commande	Commande	vvi	Command	command	0
-THEOPHILUS	THEOPHILUS	np1	THEOPHILUS	Theophilus	0
-BRABOURNE	BRABOURNE	np1	BRABOURNE	Brabourne	0
-.	.	.	.	.	1

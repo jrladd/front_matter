@@ -1,9 +1,0 @@
-by	by	p-acp	by	by	0
-their	their	po32	their	their	0
-Servant	Servant	n1	Servant	servant	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-CARTER	CARTER	n1	CARTER	carter	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-during	during	p-acp	during	during	0
-life	life	n1	life	life	0
-.	.	.	.	.	1
-Antony	Antony	np1	Antony	Antony	0
-Munday	Munday	np1	Munday	Monday	0
-.	.	.	.	.	1

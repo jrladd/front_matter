@@ -1,3 +1,0 @@
-Rapha	Rapha	np1	Rapha	Rapha	0
-Harford	Harford	np1	Harford	Harford	0
-.	.	.	.	.	1

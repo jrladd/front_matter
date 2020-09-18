@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worthily	worthily	av-j	worthily	worthy	0
-honoured	honoured	vvd	honoured	honour	0
-the	the	dt	the	the	0
-Company	Company	n1	Company	company	0
-of	of	pp-f	of	of	0
-HABERDASHERS	HABERDASHERS	n2	HABERDASHERS	haberdasher	0
-.	.	.	.	.	1

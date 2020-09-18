@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Souls	Souls	n2	Souls	soul	0
-hearty	hearty	j	hearty	hearty	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
-SCANDRETT	SCANDRETT	np1	SCANDRETT	SCANDRETT	0
-.	.	.	.	.	1

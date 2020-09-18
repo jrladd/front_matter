@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-worthy	worthy	j	worthy	worthy	0
-friend	friend	n1	friend	friend	0
-Mr.	Mr.	n1	Mr.	mr.	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-JORDAN	JORDAN	np1	JORDAN	Jordan	0
-.	.	.	.	.	1

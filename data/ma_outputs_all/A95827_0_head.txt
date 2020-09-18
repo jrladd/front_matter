@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Ingenuous	Ingenuous	j	Ingenuous	ingenuous	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-W.	W.	np1	W.	W.	1

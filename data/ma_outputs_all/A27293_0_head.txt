@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Mrs.	Mrs.	n1	Mrs.	mrs.	0
-ELLENGUIN	ELLENGUIN	np1	ELLENGUIN	ELLENGUIN	0
-.	.	.	.	.	1

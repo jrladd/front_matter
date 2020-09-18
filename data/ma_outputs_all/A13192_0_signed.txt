@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humble	humble	j	humble	humble	0
-manner	manner	n1	manner	manner	0
-Christopher	Christopher	np1	Christopher	Christopher	0
-Sutton	Sutton	np1	Sutton	Sutton	1

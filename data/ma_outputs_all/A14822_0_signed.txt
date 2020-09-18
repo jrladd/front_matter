@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-humbly	humbly	av-j	humbly	humble	0
-at	at	p-acp	at	at	0
-commaund	commaund	n1	command	command	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-VVatson	VVatson	np1	VVatson	VVatson	0
-.	.	.	.	.	1

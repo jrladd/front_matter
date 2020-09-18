@@ -1,4 +1,0 @@
-A	A	dt	A	a	0
-double	double	j-jn	double	double	0
-Epigram	Epigram	n1	Epigram	epigram	0
-.	.	.	.	.	1

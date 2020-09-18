@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-very	very	av	very	very	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-G.	G.	np1	G.	G.	0
-Meriton	Meriton	np1	Meriton	Meriton	0
-▪	▪	▪	▪	▪	1

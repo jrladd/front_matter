@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MONSIEUR	MONSIEUR	fw-fr	MONSIEUR	monsieur	0
-MONSIEUR	MONSIEUR	fw-fr	MONSIEUR	monsieur	0
-,	,	,	,	,	0
-THE	THE	dt	THE	the	0
-PRINCE	PRINCE	n1	PRINCE	prince	0
-.	.	.	.	.	1

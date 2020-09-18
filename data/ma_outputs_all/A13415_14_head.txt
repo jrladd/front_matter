@@ -1,5 +1,0 @@
-DEDICATED	DEDICATED	vvn	DEDICATED	dedicate	0
-TO	TO	p-acp	TO	to	0
-EVERY	EVERY	d	EVERY	every	0
-BODY	BODY	n1	BODY	body	0
-.	.	.	.	.	1

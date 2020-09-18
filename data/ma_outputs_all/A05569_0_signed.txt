@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-euer	euer	av	ever	ever	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-.	.	.	.	.	1
-IOHN	IOHN	np1	IOHN	John	0
-VVOLFE	VVOLFE	n1	VVOLFE	vvolfe	0
-.	.	.	.	.	1

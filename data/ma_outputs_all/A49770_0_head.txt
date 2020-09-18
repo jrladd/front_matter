@@ -1,3 +1,0 @@
-His	His	po31	His	his	0
-Example	Example	n1	Example	example	0
-.	.	.	.	.	1

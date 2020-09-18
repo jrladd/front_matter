@@ -1,9 +1,0 @@
-Devoted	Devoted	j-vvn	Devoted	devote	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-duty	duty	n1	duty	duty	0
-,	,	,	,	,	0
-Benjamin	Benjamin	np1	Benjamin	Benjamin	0
-Spencer	Spencer	np1	Spencer	Spencer	0
-.	.	.	.	.	1

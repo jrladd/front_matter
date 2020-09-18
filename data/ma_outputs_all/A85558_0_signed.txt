@@ -1,8 +1,0 @@
-In	In	p-acp	In	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-duty	duty	n1	duty	duty	0
-,	,	,	,	,	0
-ISAACK	ISAACK	np1	ISAACK	Isaac	0
-GRAYE	GRAYE	j-jn	GRAY	grey	0
-.	.	.	.	.	1

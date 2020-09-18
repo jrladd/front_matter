@@ -1,6 +1,0 @@
-Humblest	Humblest	js	Humblest	humble	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Danyel	Danyel	np1	Danyel	Danyel	0
-.	.	.	.	.	1

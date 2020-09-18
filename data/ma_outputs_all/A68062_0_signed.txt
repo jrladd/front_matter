@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-most	most	av-ds	most	most	0
-ready	ready	j	ready	ready	0
-Seruitour	Seruitour	n1	Servitor	servitor	0
-,	,	,	,	,	0
-John	John	np1	John	John	0
-Fouler	Fouler	jc	Fouler	foul	0
-.	.	.	.	.	1

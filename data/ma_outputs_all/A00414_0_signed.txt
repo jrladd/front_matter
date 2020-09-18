@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-W.	W.	np1	W.	W.	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Rogers	Rogers	np1	Rogers	Rogers	0
-.	.	.	.	.	1

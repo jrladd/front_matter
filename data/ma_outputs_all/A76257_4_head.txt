@@ -1,6 +1,0 @@
-Englynion	Englynion	n1	Englynion	englynion	0
-i	i	uh	i	i	0
-wythnos	wythnos	fw-la	wythnos	wythnos	0
-y	y	zz	y	y	0
-Dioddefaint	Dioddefaint	n1	Dioddefaint	dioddefaint	0
-.	.	.	.	.	1

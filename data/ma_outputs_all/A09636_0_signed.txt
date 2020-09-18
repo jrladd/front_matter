@@ -1,9 +1,0 @@
-I	I	pns11	I	i	0
-can	can	vmb	can	can	0
-tell	tell	vvi	tell	tell	0
-,	,	,	,	,	0
-my	my	po11	my	my	0
-name	name	n1	name	name	0
-full	full	av-j	full	full	0
-well	well	av	well	well	0
-.	.	.	.	.	1

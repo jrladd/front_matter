@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-Devoted	Devoted	j-vvn	Devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-EDW	EDW	np1	EDW	Edw	0
-.	.	.	.	.	1
-LEIGH	LEIGH	np1	LEIGH	Leigh	0
-.	.	.	.	.	1

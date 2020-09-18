@@ -1,8 +1,0 @@
-Most	Most	av-ds	Most	most	0
-Humbly	Humbly	av-j	Humbly	humble	0
-Devoted	Devoted	vvn	Devoted	devote	0
-Ever	Ever	av	Ever	ever	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Slatyer	Slatyer	np1	Slatyer	Slatyer	0
-.	.	.	.	.	1

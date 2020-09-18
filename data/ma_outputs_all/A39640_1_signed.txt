@@ -1,4 +1,0 @@
-M.	M.	n1	M.	m.	0
-ANTONIUS	ANTONIUS	np1	ANTONIUS	Antonius	0
-FLAMINIUS	FLAMINIUS	np1	FLAMINIUS	Flaminius	0
-.	.	.	.	.	1

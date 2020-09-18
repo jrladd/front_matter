@@ -1,3 +1,0 @@
-Mercurius	Mercurius	np1	Mercurius	Mercurius	0
-Hibernicus	Hibernicus	np1	Hibernicus	Hibernicus	0
-.	.	.	.	.	1

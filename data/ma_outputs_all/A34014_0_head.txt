@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-a	a	dt	a	a	0
-Learnd	Learnd	j	Learned	learned	0
-Romanist	Romanist	np1	Romanist	Romanist	0
-.	.	.	.	.	1

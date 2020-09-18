@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Truly	Truly	av-j	Truly	true	0
-Honourable	Honourable	j	Honourable	honourable	0
-LORD	LORD	n1	LORD	lord	0
-CUTTS	CUTTS	vvz	CUTS	cut	0
-.	.	.	.	.	1

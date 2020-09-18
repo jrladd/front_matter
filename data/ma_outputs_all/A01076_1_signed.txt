@@ -1,3 +1,0 @@
-Nathaniell	Nathaniell	np1	Nathaniell	Nathaniel	0
-Butter	Butter	n1	Butter	butter	0
-.	.	.	.	.	1

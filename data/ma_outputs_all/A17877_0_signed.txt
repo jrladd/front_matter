@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-CAMPION	CAMPION	np1	CAMPION	Campion	0
-.	.	.	.	.	1

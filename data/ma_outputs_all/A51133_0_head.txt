@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-ILLUSTRIOUS	ILLUSTRIOUS	j	ILLUSTRIOUS	illustrious	0
-The	The	dt	The	the	0
-Royal	Royal	j	Royal	royal	0
-Society	Society	n1	Society	society	0
-.	.	.	.	.	1

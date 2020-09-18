@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	n2	Ladyships	ladyship	0
-very	very	av	very	very	0
-much	much	d	much	much	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-R.	R.	np1	R.	R.	0
-V.	V.	np1	V.	V.	1

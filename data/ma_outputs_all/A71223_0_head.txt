@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-dread	dread	j	dread	dread	0
-Soveraign	Soveraign	n-jn	Sovereign	sovereign	0
-.	.	.	.	.	1

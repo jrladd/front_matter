@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-LEARNED	LEARNED	j	LEARNED	learned	0
-Dr.	Dr.	n1	Dr.	dr.	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-CAVE	CAVE	n1	CAVE	cave	0
-.	.	.	.	.	1

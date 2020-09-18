@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Andrew	Andrew	np1	Andrew	Andrew	0
-Dominick	Dominick	np1	Dominick	Dominick	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honour's	Honour's	n1|vbz	Honour's	honour|be	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Adams	Adams	np1	Adams	Adams	0
-.	.	.	.	.	1

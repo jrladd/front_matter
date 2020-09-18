@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutie	dutie	n1	duty	duty	0
-.	.	.	.	.	1
-Emmanuell	Emmanuell	np1	Emmanuell	Emmanuell	0
-Forde	Forde	np1	Forde	Ford	0
-.	.	.	.	.	1

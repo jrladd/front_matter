@@ -1,4 +1,0 @@
-Loue	Loue	n1	Love	love	0
-and	and	cc	and	and	0
-liue	liue	vvi	live	live	0
-.	.	.	.	.	1

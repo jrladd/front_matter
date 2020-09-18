@@ -1,4 +1,0 @@
-Your	Your	po22	Your	your	0
-Gio.	Gio.	np1	Gio.	Gio.	0
-Torriano	Torriano	np1	Torriano	Torriano	0
-.	.	.	.	.	1

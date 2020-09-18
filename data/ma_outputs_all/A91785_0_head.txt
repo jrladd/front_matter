@@ -1,7 +1,0 @@
-A	A	dt	A	a	0
-LADIES	LADIES	ng1	LADIES	lady	0
-LEGACIE	LEGACIE	n1	LEGACIE	legacy	0
-TO	TO	p-acp	TO	to	0
-HER	HER	po31	HER	her	0
-DAVGHTERS	DAVGHTERS	n2	DAVGHTERS	davghter	0
-.	.	.	.	.	1

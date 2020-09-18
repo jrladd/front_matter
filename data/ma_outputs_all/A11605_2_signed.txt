@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-hearty	hearty	j	hearty	hearty	0
-well-willer	well-willer	n1	well-willer	well-willer	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-SCLATER	SCLATER	np1	SCLATER	Sclater	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Joannes	Joannes	np1	Joannes	Joannes	0
-Owen	Owen	np1	Owen	Owen	0
-.	.	.	.	.	1

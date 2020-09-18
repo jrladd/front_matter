@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humble	humble	j	humble	humble	0
-&	&	cc	&	and	0
-faithfull	faithfull	j	faithful	faithful	0
-seruant	seruant	n1	servant	servant	0
-Geffrey	Geffrey	np1	Geffrey	Geffrey	0
-Whitney	Whitney	np1	Whitney	Whitney	0
-.	.	.	.	.	1

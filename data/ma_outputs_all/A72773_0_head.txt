@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
-LADY	LADY	n1	LADY	lady	0
-,	,	,	,	,	0
-The	The	dt	The	the	0
-Lady	Lady	n1	Lady	lady	0
-CROFTS	CROFTS	np1	CROFTS	Crofts	0
-.	.	.	.	.	1

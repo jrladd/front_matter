@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-seruaunt	seruaunt	n1	servant	servant	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-:	:	:	:	:	0
-I.	I.	uh	I	i	0
-Lyly	Lyly	np1	Lyly	Lyly	0
-.	.	.	.	.	1

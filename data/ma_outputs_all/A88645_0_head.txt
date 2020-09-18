@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-The	The	dt	The	the	0
-Right	Right	n-jn	Right	right	0
-Worshipfull	Worshipfull	j	Worshipful	worshipful	0
-Mrs	Mrs	n1	Mrs	mrs.	0
-Elizabeth	Elizabeth	np1	Elizabeth	Elizabeth	0
-Masham	Masham	np1	Masham	Masham	0
-.	.	.	.	.	1

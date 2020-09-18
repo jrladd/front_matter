@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-LORD	LORD	n1	LORD	lord	0
-VISCOUNT	VISCOUNT	n1	VISCOUNT	viscount	0
-FALKLAND	FALKLAND	np1	FALKLAND	Falkland	0
-.	.	.	.	.	1

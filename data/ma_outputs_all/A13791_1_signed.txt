@@ -1,6 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-louing	louing	j-vvg	loving	love	0
-Father	Father	n1	Father	father	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-T.	T.	np1	T.	T.	1

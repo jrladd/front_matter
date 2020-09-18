@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-affectionate	affectionate	j	affectionate	affectionate	0
-poore	poore	j	poor	poor	0
-friend	friend	n1	friend	friend	0
-,	,	,	,	,	0
-Nicholas	Nicholas	np1	Nicholas	Nicholas	0
-Breton	Breton	jp	Breton	breton	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Grace's	Grace's	ng1	Grace's	grace	0
-Most	Most	av-ds	Most	most	0
-Dutiful	Dutiful	j	Dutiful	dutiful	0
-Chaplain	Chaplain	n1	Chaplain	chaplain	0
-,	,	,	,	,	0
-Edm.	Edm.	np1	Edm.	Edm.	0
-Arwaker	Arwaker	n1	Arwaker	arwaker	0
-.	.	.	.	.	1

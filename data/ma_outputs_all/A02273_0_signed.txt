@@ -1,3 +1,0 @@
-R.	R.	np1	R.	R.	0
-Smith	Smith	n1	Smith	smith	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Vale	Vale	np1	Vale	Vale	0
-&	&	cc	&	and	0
-fruere	fruere	j	fruere	fruere	0
-.	.	.	.	.	1
-H.	H.	np1	H.	H.	0
-H.	H.	np1	H.	H.	1

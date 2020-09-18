@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-Sacred	Sacred	j	Sacred	sacred	0
-Majesty	Majesty	n1	Majesty	majesty	0
-.	.	.	.	.	1

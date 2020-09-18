@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-BATES	BATES	vvz	BATES	bate	0
-.	.	.	.	.	1

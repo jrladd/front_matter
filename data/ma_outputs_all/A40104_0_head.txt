@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-HIGHNESSE	HIGHNESSE	n1	HIGHNESSE	highness	0
-THE	THE	dt	THE	the	0
-LORD	LORD	n1	LORD	lord	0
-PROTECTOR	PROTECTOR	n1	PROTECTOR	protector	0
-,	,	,	,	,	1

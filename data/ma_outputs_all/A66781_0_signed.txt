@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-Loyal	Loyal	j	Loyal	loyal	0
-Subject	Subject	j-jn	Subject	subject	0
-,	,	,	,	,	0
-GEO	GEO	np1	GEO	Geo	0
-.	.	.	.	.	1
-WITHER	WITHER	np1	WITHER	Wither	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-LOVERS	LOVERS	n2	LOVERS	lover	0
-of	of	pp-f	of	of	0
-Ingenious	Ingenious	j	Ingenious	ingenious	0
-and	and	cc	and	and	0
-Artificiall	Artificiall	j	Artificial	artificial	0
-Conclusions	Conclusions	n2	Conclusions	conclusion	0
-.	.	.	.	.	1

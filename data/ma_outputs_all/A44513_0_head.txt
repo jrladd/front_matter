@@ -1,7 +1,0 @@
-ΑΓΝΩΣΤΩ	ΑΓΝΩΣΤΩ	np1	ΑΓΝΩΣΤΩ	ΑΓΝΩΣΤΩ	0
-ΕΥΕΡΓΕΤΗ	ΕΥΕΡΓΕΤΗ	np1	ΕΥΕΡΓΕΤΗ	ΕΥΕΡΓΕΤΗ	0
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Unknown	Unknown	j	Unknown	unknown	0
-Benefactor	Benefactor	n1	Benefactor	benefactor	0
-.	.	.	.	.	1

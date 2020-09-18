@@ -1,3 +1,0 @@
-Richard	Richard	np1	Richard	Richard	0
-Barnfield	Barnfield	np1	Barnfield	Barnfield	0
-.	.	.	.	.	1

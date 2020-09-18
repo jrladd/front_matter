@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-servant	servant	n1	servant	servant	0
-Rah	Rah	uh	Rah	rah	0
-Winterton	Winterton	np1	Winterton	Winterton	0
-.	.	.	.	.	1

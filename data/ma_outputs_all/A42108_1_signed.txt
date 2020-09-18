@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-humble	humble	j	humble	humble	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-N.	N.	np1	N.	N.	0
-GREW	GREW	vvd	GREW	grow	0
-.	.	.	.	.	1

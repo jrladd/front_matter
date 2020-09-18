@@ -1,2 +1,0 @@
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

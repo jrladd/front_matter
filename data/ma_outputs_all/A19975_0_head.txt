@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-Signior	Signior	n1	Signior	signior	0
-No-body	No-body	pix	Nobody	nobody	0
-.	.	.	.	.	1

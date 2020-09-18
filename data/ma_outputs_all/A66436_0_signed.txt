@@ -1,9 +1,0 @@
-SIR	SIR	n1	SIR	sir	0
-,	,	,	,	,	0
-Your	Your	po22	Your	your	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-WILLIAMS	WILLIAMS	np1	WILLIAMS	Williams	0
-.	.	.	.	.	1

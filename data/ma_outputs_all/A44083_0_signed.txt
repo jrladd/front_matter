@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Hodges	Hodges	np1	Hodges	Hodges	0
-.	.	.	.	.	1

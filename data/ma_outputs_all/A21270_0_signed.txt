@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-freend	freend	n1	friend	friend	0
-and	and	cc	and	and	0
-kinsman	kinsman	n1	kinsman	kinsman	0
-Edmond	Edmond	np1	Edmond	Edmond	0
-Eluiden	Eluiden	vvi	Elviden	elviden	0
-.	.	.	.	.	1

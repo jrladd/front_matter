@@ -1,3 +1,0 @@
-HENRY	HENRY	np1	HENRY	Henry	0
-HARFLETE	HARFLETE	fw-la	HARFLETE	harflete	0
-.	.	.	.	.	1

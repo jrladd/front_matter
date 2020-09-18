@@ -1,7 +1,0 @@
-Paternitatum	Paternitatum	j-jn	Paternitatum	paternitatum	0
-vestranum	vestranum	n1	vestranum	vestranum	0
-Servulus	Servulus	np1	Servulus	Servulus	0
-humillimus	humillimus	fw-la	humillimus	humillimus	0
-Jo.	Jo.	np1	Jo.	Jo.	0
-Stephens	Stephens	np1	Stephens	Stephens	0
-.	.	.	.	.	1

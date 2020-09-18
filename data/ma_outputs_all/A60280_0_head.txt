@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-SOCIETIES	SOCIETIES	n2	SOCIETIES	society	0
-FOR	FOR	p-acp	FOR	for	0
-Reformation	Reformation	n1	Reformation	reformation	0
-of	of	pp-f	of	of	0
-Manners	Manners	n2	Manners	manner	0
-.	.	.	.	.	1

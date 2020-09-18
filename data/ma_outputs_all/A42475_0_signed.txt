@@ -1,7 +1,0 @@
-John	John	np1	John	John	0
-Gauden	Gauden	np1	Gauden	Gauden	0
-,	,	,	,	,	0
-Bp.	Bp.	np1	Bp.	Bp.	0
-of	of	pp-f	of	of	0
-Exeter	Exeter	np1	Exeter	Exeter	0
-.	.	.	.	.	1

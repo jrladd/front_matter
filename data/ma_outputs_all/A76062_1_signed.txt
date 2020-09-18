@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-ready	ready	j	ready	ready	0
-servant	servant	n1	servant	servant	0
-for	for	p-acp	for	for	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-sake	sake	n1	sake	sake	0
-William	William	np1	William	William	0
-Barton	Barton	np1	Barton	Barton	0
-.	.	.	.	.	1

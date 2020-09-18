@@ -1,3 +1,0 @@
-W.	W.	np1	W.	W.	0
-TEMPLE	TEMPLE	n1	TEMPLE	temple	0
-.	.	.	.	.	1

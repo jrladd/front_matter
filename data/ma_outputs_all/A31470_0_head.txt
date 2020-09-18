@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Noble	Noble	j	Noble	noble	0
-Friend	Friend	n1	Friend	friend	0
-.	.	.	.	.	1

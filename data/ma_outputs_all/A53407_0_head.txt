@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-His	His	po31	His	his	0
-most	most	av-ds	most	most	0
-Excellent	Excellent	j	Excellent	excellent	0
-Majesty	Majesty	n1	Majesty	majesty	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-III	III	np1	III	Iii	0
-.	.	.	.	.	1

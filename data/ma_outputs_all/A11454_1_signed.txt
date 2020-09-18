@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-ROB	ROB	vvb	ROB	rob	0
-.	.	.	.	.	1
-SAVNDERSON	SAVNDERSON	np1	SAVNDERSON	SAVNDERSON	0
-.	.	.	.	.	1

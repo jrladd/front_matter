@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-LOYAL	LOYAL	j	LOYAL	loyal	0
-SUBJECTS	SUBJECTS	n2-jn	SUBJECT'S	subject	0
-.	.	.	.	.	1

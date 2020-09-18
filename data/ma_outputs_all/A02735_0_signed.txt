@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-assured	assured	j-vvn	assured	assure	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Iesus	Iesus	np1	Iesus	Jesus	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Brettergh	Brettergh	np1	Brettergh	Brettergh	0
-.	.	.	.	.	1

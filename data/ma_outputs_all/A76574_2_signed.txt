@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Humbly	Humbly	av-j	Humbly	humble	0
-Devoted	Devoted	vvn	Devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Jo.	Jo.	np1	Jo.	Jo.	1
-Turing	Turing	vvg	Turing	ture	0
-.	.	.	.	.	1

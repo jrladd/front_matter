@@ -1,8 +1,0 @@
-Increase	Increase	n1	Increase	increase	0
-of	of	pp-f	of	of	0
-all	all	d	all	all	0
-Outward	Outward	j	Outward	outward	0
-and	and	cc	and	and	0
-Inward	Inward	j	Inward	inward	0
-Blessings	Blessings	n2	Blessings	blessing	0
-.	.	.	.	.	1

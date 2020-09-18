@@ -1,4 +1,0 @@
-W.	W.	np1	W.	W.	0
-Rankins	Rankins	np1	Rankins	Rankins	0
-,	,	,	,	,	0
-Gent.	Gent.	n1	Gent.	gentleman	1

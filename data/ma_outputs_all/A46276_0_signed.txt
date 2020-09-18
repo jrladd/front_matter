@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Faithful	Faithful	j	Faithful	faithful	0
-and	and	cc	and	and	0
-Humblest	Humblest	js	Humblest	humble	0
-Honourer	Honourer	n1	Honourer	honourer	0
-,	,	,	,	,	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Iordan	Iordan	np1	Iordan	Jordan	0
-.	.	.	.	.	1

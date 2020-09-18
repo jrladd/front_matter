@@ -1,3 +1,0 @@
-Edmund	Edmund	np1	Edmund	Edmund	0
-Calamy	Calamy	np1	Calamy	Calamy	0
-.	.	.	.	.	1

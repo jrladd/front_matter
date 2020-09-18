@@ -1,7 +1,0 @@
-Thrice	Thrice	av	Thrice	thrice	0
-Noble	Noble	j	Noble	noble	0
-and	and	cc	and	and	0
-truly	truly	av-j	truly	true	0
-Vertuous	Vertuous	j	Virtuous	virtuous	0
-Lady	Lady	n1	Lady	lady	0
-.	.	.	.	.	1

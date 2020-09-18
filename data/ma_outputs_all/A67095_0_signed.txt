@@ -1,3 +1,0 @@
-George	George	np1	George	George	0
-Walker	Walker	np1	Walker	Walker	0
-.	.	.	.	.	1

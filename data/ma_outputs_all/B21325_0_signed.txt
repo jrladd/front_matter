@@ -1,7 +1,0 @@
-VVaiting	VVaiting	vvg	Waiting	wait	0
-on	on	p-acp	on	on	0
-your	your	po22	your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-Commands	Commands	vvz	Commands	command	0
-ELEANOR	ELEANOR	np1	ELEANOR	Eleanor	0
-.	.	.	.	.	1

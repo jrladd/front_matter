@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-MAJESTIES	MAJESTIES	ng1	MAJESTIES	majesty	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Don	Don	n1	DONE	don	0
-Antonio	Antonio	np1	Antonio	Antonio	0
-de	de	fw-fr	de	de	0
-Mendoza	Mendoza	np1	Mendoza	Mendoza	0
-.	.	.	.	.	1

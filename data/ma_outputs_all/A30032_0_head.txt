@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Sir	Sir	n1	Sir	sir	0
-H.	H.	np1	H.	H.	0
-N.	N.	np1	N.	N.	0
-Barronet	Barronet	np1	Barronet	Barronet	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Humiliter	Humiliter	np1	Humiliter	Humiliter	0
-consecrat	consecrat	vvb	consecrate	consecrate	0
-,	,	,	,	,	0
-dicat	dicat	fw-la	dicat	dicat	0
-,	,	,	,	,	0
-dedicátque	dedicátque	fw-la	dedicátque	dedicátque	0
-T.	T.	np1	T.	T.	0
-S.	S.	fw-la	S.	s.	1

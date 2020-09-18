@@ -1,7 +1,0 @@
-His	His	po31	His	his	0
-Singular	Singular	j	Singular	singular	0
-good	good	j	good	good	0
-Lord	Lord	n1	Lord	lord	0
-and	and	cc	and	and	0
-Master	Master	n1	Master	master	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-observant	observant	j	observant	observant	0
-Nephew	Nephew	n1	Nephew	nephew	0
-,	,	,	,	,	0
-DAN	DAN	uh	DAN	dan	0
-.	.	.	.	.	1
-CUD	CUD	n1	CUD	cud	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-WORTHIE	WORTHIE	j	WORTHY	worthy	0
-Knight	Knight	n1	Knight	knight	0
-Sir	Sir	n1	Sir	sir	0
-Peter	Peter	np1	Peter	Peter	0
-Manwood	Manwood	np1	Manwood	Manwood	0
-.	.	.	.	.	1

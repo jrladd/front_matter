@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-SACRED	SACRED	j	SACRED	sacred	0
-MAJESTY	MAJESTY	n1	MAJESTY	majesty	0
-OF	OF	pp-f	OF	of	0
-King	King	n1	King	king	0
-JAMES	JAMES	np1	JAMES	James	0
-II.	II.	crd	II	ii	1

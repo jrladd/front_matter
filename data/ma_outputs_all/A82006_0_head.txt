@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-PARISHIONERS	PARISHIONERS	n2	PARISHIONERS	parishioner	0
-.	.	.	.	.	1

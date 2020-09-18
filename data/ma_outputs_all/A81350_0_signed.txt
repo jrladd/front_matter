@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-SMITH	SMITH	np1	SMITH	Smith	0
-.	.	.	.	.	1

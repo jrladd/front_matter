@@ -1,3 +1,0 @@
-Francis	Francis	np1	Francis	Francis	0
-Bugg	Bugg	np1	Bugg	Bugg	0
-.	.	.	.	.	1

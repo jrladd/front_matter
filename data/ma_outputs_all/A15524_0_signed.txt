@@ -1,2 +1,0 @@
-Thomas	Thomas	np1	Thomas	Thomas	0
-Wilson	Wilson	np1	Wilson	Wilson	1

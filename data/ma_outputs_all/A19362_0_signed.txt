@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-sure	sure	j	sure	sure	0
-frende	frende	n1	friend	friend	0
-Geffray	Geffray	np1	Geffray	Geffray	0
-Fenton	Fenton	np1	Fenton	Fenton	0
-.	.	.	.	.	1

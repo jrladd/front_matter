@@ -1,8 +1,0 @@
-Yous	Yous	zz	Yous	yous	0
-in	in	p-acp	in	in	0
-better	better	jc	better	better	0
-seruice	seruice	n1	service	service	0
-:	:	:	:	:	0
-Nich.	Nich.	np1	Nich.	Nich.	0
-Breton	Breton	jp	Breton	breton	0
-,	,	,	,	,	1

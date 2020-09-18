@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-,	,	,	,	,	0
-submissiuely	submissiuely	av-j	submissively	submissive	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-.	.	.	.	.	1
-Rob.	Rob.	np1	Rob.	Rob.	0
-Wolcombe	Wolcombe	np1	Wolcombe	Wolcombe	0
-.	.	.	.	.	1

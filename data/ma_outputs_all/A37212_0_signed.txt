@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-Honourer	Honourer	n1	Honourer	honourer	0
-,	,	,	,	,	0
-Andrew	Andrew	np1	Andrew	Andrew	0
-Pennycuicke	Pennycuicke	j	Pennycuicke	pennycuicke	0
-.	.	.	.	.	1

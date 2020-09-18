@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-good	good	j	good	good	0
-honor	honor	n1	honour	honour	0
-Humblye	Humblye	av-j	Humbly	humble	0
-reuerencing	reuerencing	vvg	reverencing	reverence	0
-.	.	.	.	.	1
-Tho.	Tho.	np1	Tho.	Tho.	0
-Drant	Drant	vvb	Drant	drant	0
-▪	▪	▪	▪	▪	1

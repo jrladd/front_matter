@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-SOVERAINE	SOVERAINE	n-jn	SOVERAINE	sovereign	0
-,	,	,	,	,	0
-THE	THE	dt	THE	the	0
-KINGS	KINGS	ng1	KINGS	king	0
-MAIESTIE	MAIESTIE	n1	MAIESTIE	majesty	0
-.	.	.	.	.	1

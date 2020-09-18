@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-much	much	d	much	much	0
-obleiged	obleiged	vvn	obliged	oblige	0
-kinsman	kinsman	n1	kinsman	kinsman	0
-:	:	:	:	:	0
-EZEKIAS	EZEKIAS	np1	EZEKIAS	EZEKIAS	0
-WOODVVARD	WOODVVARD	av	UVOODWARD	uvoodward	0
-.	.	.	.	.	1

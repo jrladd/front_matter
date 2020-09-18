@@ -1,7 +1,0 @@
-❧	❧	sy	❧	❧	0
-A	A	dt	A	a	0
-Ma-dame	Ma-dame	n1	Madame	madam	0
-Ma-dame	Ma-dame	n1	Madame	madam	0
-De	De	fw-fr	De	de	0
-Sidney	Sidney	np1	Sidney	Sidney	0
-.	.	.	.	.	1

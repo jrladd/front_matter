@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Gentle	Gentle	j	Gentle	gentle	0
-Reader	Reader	n1	Reader	reader	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-FAIRBEARD	FAIRBEARD	n1	FAIRBEARD	fairbeard	0
-OF	OF	pp-f	OF	of	0
-GRAYS-INN	GRAYS-INN	np1	GRAYS-INN	Grays-Inn	0
-,	,	,	,	,	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

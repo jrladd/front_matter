@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-most	most	av-ds	most	most	0
-bownden	bownden	vvi	bownden	bownden	0
-Iohn	Iohn	np1	Iohn	John	0
-Prampton	Prampton	np1	Prampton	Prampton	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-Epistle	Epistle	n1	Epistle	epistle	0
-Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
-to	to	p-acp	to	to	0
-Alderman	Alderman	n1	Alderman	alderman	0
-Richard	Richard	np1	Richard	Richard	0
-Brown	Brown	j-jn	Brown	brown	0
-.	.	.	.	.	1

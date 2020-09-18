@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honour's	Honour's	n1|vbz	Honour's	honour|be	0
-to	to	p-acp	to	to	0
-dispose	dispose	n1	dispose	dispose	0
-of	of	pp-f	of	of	0
-DANIEL	DANIEL	np1	DANIEL	Daniel	0
-FEATLY	FEATLY	av-j	FEATLY	feat	0
-.	.	.	.	.	1

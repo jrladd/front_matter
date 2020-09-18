@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-friend	friend	n1	friend	friend	0
-and	and	cc	and	and	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-LEONARD	LEONARD	np1	LEONARD	Leonard	0
-LEE	LEE	n1	LEE	lee	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-worshipfull	worshipfull	j	worshipful	worshipful	0
-Sir	Sir	n1	Sir	sir	0
-Philip	Philip	np1	Philip	Philip	0
-Sydney	Sydney	np1	Sydney	Sidney	0
-knight	knight	n1	knight	knight	0
-.	.	.	.	.	1

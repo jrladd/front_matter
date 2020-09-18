@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Edmund	Edmund	np1	Edmund	Edmund	0
-Batson	Batson	np1	Batson	Batson	0
-.	.	.	.	.	1

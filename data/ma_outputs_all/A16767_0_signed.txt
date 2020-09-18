@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-Deuoted	Deuoted	vvn	Devoted	devote	0
-and	and	cc	and	and	0
-obliged	obliged	vvn	obliged	oblige	0
-:	:	:	:	:	0
-Nich.	Nich.	np1	Nich.	Nich.	0
-Breton	Breton	jp	Breton	breton	0
-.	.	.	.	.	1

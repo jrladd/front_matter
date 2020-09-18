@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-most	most	av-ds	most	most	0
-affectionatelie	affectionatelie	av-j	affectionately	affectionate	0
-devoted	devoted	j-vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-INNES	INNES	np1	INNES	Innes	0
-.	.	.	.	.	1

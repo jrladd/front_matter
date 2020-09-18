@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Gospel	Gospel	n1	Gospel	gospel	0
-,	,	,	,	,	0
-VV.	VV.	np1	VV.	VV.	0
-DELL	DELL	np1	DELL	Dell	0
-.	.	.	.	.	1

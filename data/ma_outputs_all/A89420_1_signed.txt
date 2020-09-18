@@ -1,7 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-HUSBAND	HUSBAND	n1	HUSBAND	husband	0
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-STAPYLTON	STAPYLTON	np1	STAPYLTON	Stapylton	0
-.	.	.	.	.	1

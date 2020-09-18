@@ -1,8 +1,0 @@
-Tuae	Tuae	fw-la	Tuae	tuus	0
-Maiestati	Maiestati	n1	Maiestati	maiestati	0
-deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
-subditus	subditus	fw-la	subditus	subditus	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Wardus	Wardus	np1	Wardus	Wardus	0
-.	.	.	.	.	1

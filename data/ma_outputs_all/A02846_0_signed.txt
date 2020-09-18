@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-wel-willer	wel-willer	n1	well-willer	well-willer	0
-Iohn	Iohn	np1	Iohn	John	0
-Hayward	Hayward	np1	Hayward	Hayward	0
-.	.	.	.	.	1

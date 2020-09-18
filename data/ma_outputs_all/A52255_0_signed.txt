@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-to	to	pc-acp	to	to	0
-dispose	dispose	vvi	dispose	dispose	0
-of	of	pp-f	of	of	0
-IOHN	IOHN	np1	IOHN	John	0
-NEWTON	NEWTON	np1	NEWTON	Newton	0
-.	.	.	.	.	1

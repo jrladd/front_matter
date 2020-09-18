@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-truly	truly	av-j	truly	true	0
-vertuous	vertuous	j	virtuous	virtuous	0
-The	The	dt	The	the	0
-Lady	Lady	n1	Lady	lady	0
-Rebecca	Rebecca	np1	Rebecca	Rebecca	0
-Bindlosse	Bindlosse	n1	Bindlosse	bindlosse	0
-.	.	.	.	.	1

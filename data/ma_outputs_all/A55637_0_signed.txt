@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-ever	ever	av	ever	ever	0
-oblig'd	oblig'd	vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-Prat.	Prat.	np1	Prat.	Prat.	1

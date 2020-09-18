@@ -1,6 +1,0 @@
-So	So	np1	So	So	0
-wisheth	wisheth	vvz	wishes	wish	0
-,	,	,	,	,	0
-Robert	Robert	np1	Robert	Robert	0
-Couch	Couch	n1	Couch	couch	0
-.	.	.	.	.	1

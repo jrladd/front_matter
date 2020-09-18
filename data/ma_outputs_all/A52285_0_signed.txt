@@ -1,7 +1,0 @@
-A	A	dt	A	a	0
-Real	Real	j	Real	real	0
-Honourer	Honourer	n1	Honourer	honourer	0
-of	of	pp-f	of	of	0
-Your	Your	po22	Your	your	0
-Worth	Worth	n1	Worth	worth	0
-.	.	.	.	.	1

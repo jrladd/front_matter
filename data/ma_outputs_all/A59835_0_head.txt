@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-QUEEN'S	QUEEN'S	ng1	QUEEN'S	queen	0
-MOST	MOST	av-ds	MOST	most	0
-EXCELLENT	EXCELLENT	j	EXCELLENT	excellent	0
-MAjESTY	MAjESTY	n1	MAjESTY	majesty	0
-.	.	.	.	.	1

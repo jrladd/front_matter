@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	ng1	honours	honour	0
-seruant	seruant	n1	servant	servant	0
-Io.	Io.	np1	Io.	Io.	0
-Squire	Squire	n1	Squire	squire	0
-.	.	.	.	.	1

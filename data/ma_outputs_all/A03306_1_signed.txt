@@ -1,8 +1,0 @@
-Thine	Thine	png21	Thine	thou	0
-in	in	p-acp	in	in	0
-our	our	po12	our	our	0
-common	common	j	common	common	0
-Sauiour	Sauiour	n1	Saviour	saviour	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-C.	C.	np1	C.	C.	1

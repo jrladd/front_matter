@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Fenton	Fenton	np1	Fenton	Fenton	0
-.	.	.	.	.	1

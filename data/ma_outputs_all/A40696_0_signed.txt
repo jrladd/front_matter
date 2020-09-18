@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-HIGHNESS's	HIGHNESS's	ng1	HIGHNESS's	highness	0
-Most	Most	av-ds	Most	most	0
-Dutiful	Dutiful	j	Dutiful	dutiful	0
-Servant	Servant	n1	Servant	servant	0
-W.	W.	np1	W.	W.	0
-Fuller	Fuller	np1	Fuller	Fuller	0
-.	.	.	.	.	1

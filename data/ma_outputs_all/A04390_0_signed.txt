@@ -1,3 +1,0 @@
-Stephen	Stephen	np1	Stephen	Stephen	0
-Ierome	Ierome	np1	Ierome	Ierome	0
-.	.	.	.	.	1

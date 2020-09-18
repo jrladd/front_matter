@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MAISTER	MAISTER	n1	MAISTER	master	0
-GRINDAL	GRINDAL	np1	GRINDAL	GRINDAL	0
-Lewys	Lewys	np1	Lewys	Lewis	0
-Euans	Euans	np1	Euans	Euans	0
-wisheth	wisheth	vvz	wishes	wish	0
-perfeicte	perfeicte	j	perfeicte	perfeicte	0
-healthe	healthe	n1	health	health	0
-.	.	.	.	.	1

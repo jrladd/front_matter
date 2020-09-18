@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-truly	truly	av-j	truly	true	0
-obseruant	obseruant	j	observant	observant	0
-,	,	,	,	,	0
-FRA	FRA	np1	FRA	Fra	0
-.	.	.	.	.	1
-QVARLES	QVARLES	np1	QVARLES	QVARLES	0
-.	.	.	.	.	1

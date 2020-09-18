@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-My	My	po11	My	my	0
-Lord	Lord	n1	Lord	lord	0
-of	of	pp-f	of	of	0
-Canterbury	Canterbury	np1	Canterbury	Canterbury	0
-His	His	po31	His	his	0
-Grace	Grace	n1	Grace	grace	0
-.	.	.	.	.	1

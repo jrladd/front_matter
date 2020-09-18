@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	ng1	Honours	honour	0
-poore	poore	j	poor	poor	0
-servant	servant	n1	servant	servant	0
-and	and	cc	and	and	0
-Souldier	Souldier	n1	Soldier	soldier	0
-,	,	,	,	,	0
-G.	G.	np1	G.	G.	0
-M.	M.	n1	M.	m.	1

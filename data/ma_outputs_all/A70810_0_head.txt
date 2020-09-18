@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-Mrs	Mrs	n1	Mrs	mrs.	0
-COOK	COOK	n1	COOK	cook	0
-of	of	pp-f	of	of	0
-Norfolk	Norfolk	np1	Norfolk	Norfolk	0
-.	.	.	.	.	1

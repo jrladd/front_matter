@@ -1,4 +1,0 @@
-THE	THE	dt	THE	the	0
-DRAWER's	DRAWER's	ng1	DRAWER's	drawer	0
-DEDICATION	DEDICATION	n1	DEDICATION	dedication	0
-.	.	.	.	.	1

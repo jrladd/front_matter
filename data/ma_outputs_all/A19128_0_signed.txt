@@ -1,3 +1,0 @@
-A.	A.	np1	A.	A.	0
-Monday	Monday	np1	Monday	Monday	0
-.	.	.	.	.	1

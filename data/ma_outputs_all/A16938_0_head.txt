@@ -1,5 +1,0 @@
-Interdum	Interdum	np1	Interdum	Interdum	0
-Lacrime	Lacrime	n1	Lacrime	lacrime	0
-pondera	pondera	fw-la	pondera	pondera	0
-vocis	vocis	fw-la	vocis	vocis	0
-habent	habent	fw-la	habent	habent	1

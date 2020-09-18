@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-Friend	Friend	n1	Friend	friend	0
-.	.	.	.	.	1

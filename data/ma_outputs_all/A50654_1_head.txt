@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-Churchwardens	Churchwardens	n2	Churchwardens	churchwarden	0
-,	,	,	,	,	0
-Over	Over	p-acp	Over	over	0
-∣	∣	sy	∣	∣	0
-seers	seers	n2	seers	seer	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

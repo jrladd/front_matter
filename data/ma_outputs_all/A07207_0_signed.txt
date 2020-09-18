@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-louing	louing	n1	loving	love	0
-and	and	cc	and	and	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-HENRIE	HENRIE	np1	HENRIE	Henry	0
-MASON	MASON	np1	MASON	Mason	0
-.	.	.	.	.	1

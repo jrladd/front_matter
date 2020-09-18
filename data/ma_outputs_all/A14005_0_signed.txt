@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-euer	euer	av	ever	ever	0
-humbly	humbly	av-j	humbly	humble	0
-THO	THO	av	THOUGH	tho	0
-:	:	:	:	:	0
-TVKE	TVKE	vvd	TOOK	take	0
-.	.	.	.	.	1

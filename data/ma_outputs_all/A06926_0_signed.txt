@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-seruiceable	seruiceable	j	serviceable	serviceable	0
-humblenesse	humblenesse	n1	humbleness	humbleness	0
-,	,	,	,	,	0
-G.	G.	np1	G.	G.	0
-M.	M.	n1	M.	m.	1

@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-THE	THE	dt	THE	the	0
-COUNTESS	COUNTESS	n1	COUNTESS	countess	0
-OF	OF	pp-f	OF	of	0
-KINNOVL	KINNOVL	np1	KINNOVL	KINNOVL	0
-.	.	.	.	.	1

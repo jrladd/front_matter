@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-Servant	Servant	n1	Servant	servant	0
-to	to	pc-acp	to	to	0
-Command	Command	vvi	Command	command	0
-Jos.	Jos.	np1	Jos.	Jos.	0
-Blagrave	Blagrave	np1	Blagrave	Blagrave	0
-.	.	.	.	.	1

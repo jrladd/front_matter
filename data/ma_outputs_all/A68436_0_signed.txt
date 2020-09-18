@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-to	to	p-acp	to	to	0
-Commaunde	Commaunde	n1	Command	command	0
-Myles	Myles	ng2	Miles	mile	0
-Iennynges	Iennynges	n2-vvg	Iennynges	iennynge	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-commande	commande	vvi	command	command	0
-IOHN	IOHN	np1	IOHN	John	0
-HVLL	HVLL	np1	HVLL	HVLL	0
-.	.	.	.	.	1

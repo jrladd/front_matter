@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Ready	Ready	j	Ready	ready	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-Hickeringil	Hickeringil	np1	Hickeringil	Hickeringil	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Ph.	Ph.	np1	Ph.	Ph.	0
-Goodwin	Goodwin	np1	Goodwin	Goodwin	0
-.	.	.	.	.	1

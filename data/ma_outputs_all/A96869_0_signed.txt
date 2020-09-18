@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-avowed	avowed	j-vvn	avowed	avow	0
-servant	servant	n1	servant	servant	0
-for	for	p-acp	for	for	0
-Christ	Christ	np1	Christ	Christ	0
-,	,	,	,	,	0
-Fra.	Fra.	np1	Fra.	Fra.	0
-Woodcock	Woodcock	n1	Woodcock	woodcock	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Subject	Subject	j-jn	Subject	subject	0
-,	,	,	,	,	0
-Andrew	Andrew	np1	Andrew	Andrew	0
-Willet	Willet	np1	Willet	Willet	0
-.	.	.	.	.	1

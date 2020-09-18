@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-Fra	Fra	np1	Fra	Fra	0
-:	:	:	:	:	0
-Quarles	Quarles	np1	Quarles	Quarles	0
-.	.	.	.	.	1

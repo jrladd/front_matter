@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-euer	euer	av	ever	ever	0
-to	to	pc-acp	to	to	0
-cōmaund	cōmaund	vvi	command	command	0
-,	,	,	,	,	0
-Hugh	Hugh	j	Hugh	huge	0
-Singleton	Singleton	np1	Singleton	Singleton	0
-.	.	.	.	.	1

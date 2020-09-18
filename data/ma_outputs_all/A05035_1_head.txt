@@ -1,6 +1,0 @@
-The	The	dt	The	the	0
-epystell	epystell	n1	epystell	epystell	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-auctour	auctour	n1	author	author	0
-.	.	.	.	.	1

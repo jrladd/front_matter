@@ -1,3 +1,0 @@
-Israel	Israel	np1	Israel	Israel	0
-Falgate	Falgate	np1	Falgate	Falgate	0
-.	.	.	.	.	1

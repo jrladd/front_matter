@@ -1,9 +1,0 @@
-Eich	Eich	n1	Eich	eich	0
-ffyddlonaf	ffyddlonaf	n1	ffyddlonaf	ffyddlonaf	0
-ach	ach	fw-ge	ach	ach	0
-Gostyngeiddiaf	Gostyngeiddiaf	n1	Gostyngeiddiaf	gostyngeiddiaf	0
-wâs	wâs	fw-fr	wâs	wâs	0
-Rondl	Rondl	np1	Rondl	Rondl	0
-.	.	.	.	.	1
-Davies	Davies	np1	Davies	Davies	0
-.	.	.	.	.	1

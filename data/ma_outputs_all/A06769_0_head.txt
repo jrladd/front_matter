@@ -1,3 +1,0 @@
-AD	AD	fw-la	AD	ad	0
-LIBRVM	LIBRVM	fw-la	LIBRVM	librvm	0
-.	.	.	.	.	1

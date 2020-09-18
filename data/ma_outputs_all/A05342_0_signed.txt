@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutie	dutie	n1	duty	duty	0
-Henrie	Henrie	np1	Henrie	Henry	0
-Leslie	Leslie	np1	Leslie	Leslie	0
-.	.	.	.	.	1

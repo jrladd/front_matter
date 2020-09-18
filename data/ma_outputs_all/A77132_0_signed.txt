@@ -1,9 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-Friend	Friend	n1	Friend	friend	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Spirit	Spirit	n1	Spirit	spirit	0
-,	,	,	,	,	0
-BENIAMINE	BENIAMINE	n1	BENIAMINE	beniamine	0
-BOURNI	BOURNI	np1	BOURNI	BOURNI	0
-.	.	.	.	.	1

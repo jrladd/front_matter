@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-wholly	wholly	av-jn	wholly	whole	0
-,	,	,	,	,	0
-Ri.	Ri.	np1	Ri.	Ri.	0
-Brathwait	Brathwait	np1	Brathwait	Brathwait	0
-.	.	.	.	.	1

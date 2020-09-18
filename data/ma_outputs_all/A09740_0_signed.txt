@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-bounden	bounden	vvn	bounden	bind	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Gabriel	Gabriel	np1	Gabriel	Gabriel	0
-Plattes	Plattes	n2	Plots	plot	0
-.	.	.	.	.	1

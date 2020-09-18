@@ -1,3 +1,0 @@
-VVilliam	VVilliam	np1	VVilliam	William	0
-Bulleyn	Bulleyn	np1	Bulleyn	Bulleyn	0
-.	.	.	.	.	1

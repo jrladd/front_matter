@@ -1,8 +1,0 @@
-Ed.	Ed.	np1	Ed.	Ed.	0
-Barbour	Barbour	np1	Barbour	Barbour	0
-A.	A.	np1	A.	A.	0
-B.	B.	np1	B.	B.	0
-Aedis	Aedis	fw-la	Aedis	aedis	0
-Christi	Christi	fw-la	Christi	christi	0
-Alumnus	Alumnus	np1	Alumnus	Alumnus	0
-.	.	.	.	.	1

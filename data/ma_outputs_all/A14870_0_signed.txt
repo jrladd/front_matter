@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-truely	truely	av-j	truly	true	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-seruant	seruant	n1	servant	servant	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-WEBSTER	WEBSTER	np1	WEBSTER	Webster	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-G.	G.	np1	G.	G.	1
-DV	DV	crd	DV	dv	0
-V.	V.	n1	V.	v.	1

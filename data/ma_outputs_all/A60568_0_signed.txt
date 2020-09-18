@@ -1,3 +1,0 @@
-Charles	Charles	np1	Charles	Charles	0
-Bertie	Bertie	np1	Bertie	Bertie	0
-.	.	.	.	.	1

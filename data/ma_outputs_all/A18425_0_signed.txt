@@ -1,7 +1,0 @@
-Euer	Euer	av	Ever	ever	0
-your	your	po22	your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-GEO	GEO	np1	GEO	Geo	0
-.	.	.	.	.	1
-CHAPMAN	CHAPMAN	np1	CHAPMAN	Chapman	0
-.	.	.	.	.	1

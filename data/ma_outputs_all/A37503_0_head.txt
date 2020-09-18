@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Mademoiselle	Mademoiselle	fw-fr	Mademoiselle	mademoiselle	0
-Du	Du	fw-ge	Du	du	0
-Cambout	Cambout	fw-fr	Cambout	cambout	0
-De	De	fw-fr	De	de	0
-Coslin	Coslin	np1	Coslin	Coslin	0
-.	.	.	.	.	1

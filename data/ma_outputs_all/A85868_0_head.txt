@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-all	all	d	all	all	0
-the	the	dt	the	the	0
-SAINTS	SAINTS	n2	SAINTS	saint	0
-.	.	.	.	.	1

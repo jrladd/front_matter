@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-more	more	n1	more	moor	0
-then	then	av	then	then	0
-much	much	d	much	much	0
-affectionate	affectionate	j	affectionate	affectionate	0
-.	.	.	.	.	1
-W.	W.	np1	W.	W.	0
-LOE	LOE	uh	LO	lo	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Faithful	Faithful	j	Faithful	faithful	0
-Servitor	Servitor	n1	Servitor	servitor	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-P.	P.	np1	P.	P.	1

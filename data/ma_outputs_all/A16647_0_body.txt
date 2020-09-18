@@ -1,9 +1,0 @@
-A	A	dt	A	a	0
-distilling	distilling	j-vvg	distilling	distil	0
-Viall	Viall	n1	Vial	vial	0
-of	of	pp-f	of	of	0
-Funerall	Funerall	n1	Funeral	funeral	0
-teares	teares	n2	tears	tear	0
-obsequiously	obsequiously	av-j	obsequiously	obsequious	0
-offered	offered	vvn	offered	offer	0
-.	.	.	.	.	1

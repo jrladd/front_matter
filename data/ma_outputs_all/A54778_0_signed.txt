@@ -1,9 +1,0 @@
-An	An	dt	And	a	0
-Admirer	Admirer	n1	Admirer	admirer	0
-of	of	pp-f	of	of	0
-Your	Your	po22	Your	your	0
-Honourable	Honourable	j	Honourable	honourable	0
-Society	Society	n1	Society	society	0
-.	.	.	.	.	1
-E.	E.	np1	E.	E.	0
-P.	P.	np1	P.	P.	1

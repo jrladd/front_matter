@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-ROYAL	ROYAL	j	ROYAL	royal	0
-HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
-The	The	dt	The	the	0
-DUKE	DUKE	n1	DUKE	duke	0
-.	.	.	.	.	1

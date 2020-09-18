@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-MƲRRAY	MƲRRAY	n1	MƲRRAY	mʋrray	0
-OF	OF	pp-f	OF	of	0
-Blackbarronie	Blackbarronie	np1	Blackbarronie	Blackbarronie	0
-,	,	,	,	,	0
-Esq	Esq	np1	Esq	Esq	1

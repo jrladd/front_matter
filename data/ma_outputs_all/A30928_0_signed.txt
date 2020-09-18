@@ -1,3 +1,0 @@
-Matthew	Matthew	np1	Matthew	Matthew	0
-Barker	Barker	np1	Barker	Barker	0
-.	.	.	.	.	1

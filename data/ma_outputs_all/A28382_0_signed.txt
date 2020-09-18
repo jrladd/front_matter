@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-unworthiest-Servant	unworthiest-Servant	n1	unworthiest-Servant	unworthiest-servant	0
-VVALTER	VVALTER	np1	VVALTER	VVALTER	0
-BLITH	BLITH	j	BLITHE	blithe	0
-.	.	.	.	.	1

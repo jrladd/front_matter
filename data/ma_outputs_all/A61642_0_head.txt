@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Right	Right	n-jn	Right	right	0
-Honourable	Honourable	j	Honourable	honourable	0
-,	,	,	,	,	0
-Lieutenant	Lieutenant	n1	Lieutenant	lieutenant	0
-Gen.	Gen.	np1	Gen.	Gen.	0
-Fleetwood	Fleetwood	np1	Fleetwood	Fleetwood	0
-.	.	.	.	.	1

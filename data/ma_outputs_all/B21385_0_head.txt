@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-JOHN	JOHN	np1	JOHN	John	0
-Lord	Lord	n1	Lord	lord	0
-VAƲGHAN	VAƲGHAN	np1	VAƲGHAN	VAƲGHAN	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

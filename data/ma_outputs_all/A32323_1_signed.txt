@@ -1,3 +1,0 @@
-Edward	Edward	np1	Edward	Edward	0
-Calver	Calver	np1	Calver	Calver	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-much	much	d	much	much	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-Mrs	Mrs	n1	Mrs	mrs.	0
-MARY	MARY	np1	MARY	MARY	0
-FANE	FANE	n1	FANE	fane	0
-.	.	.	.	.	1

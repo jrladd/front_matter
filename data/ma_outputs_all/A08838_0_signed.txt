@@ -1,8 +1,0 @@
-By	By	p-acp	By	by	0
-your	your	po22	your	your	0
-L.	L.	n1	L.	lord	0
-moste	moste	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-William	William	np1	William	William	0
-Pamter	Pamter	n1	Painter	painter	0
-.	.	.	.	.	1

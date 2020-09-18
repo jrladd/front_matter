@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-true	true	j	true	true	0
-Christian	Christian	njp	Christian	christian	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-Edward	Edward	np1	Edward	Edward	0
-Leigh	Leigh	np1	Leigh	Leigh	0
-.	.	.	.	.	1

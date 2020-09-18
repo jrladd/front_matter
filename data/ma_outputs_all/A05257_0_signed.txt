@@ -1,3 +1,0 @@
-IOHN	IOHN	np1	IOHN	John	0
-BARTON	BARTON	np1	BARTON	Barton	0
-.	.	.	.	.	1

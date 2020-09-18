@@ -1,4 +1,0 @@
-Your	Your	po22	Your	your	0
-constant	constant	j	constant	constant	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	1

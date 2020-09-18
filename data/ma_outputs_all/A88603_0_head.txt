@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Dear	Dear	j-jn	Dear	dear	0
-FLAVIA	FLAVIA	np1	FLAVIA	Flavia	0
-.	.	.	.	.	1

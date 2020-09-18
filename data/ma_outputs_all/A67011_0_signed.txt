@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-respectful	respectful	j	respectful	respectful	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Josiah	Josiah	np1	Josiah	Josiah	0
-Woodward	Woodward	np1	Woodward	Woodward	0
-.	.	.	.	.	1

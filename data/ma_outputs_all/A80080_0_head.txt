@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-HOUSES	HOUSES	n2	HOUSES	house	0
-OF	OF	pp-f	OF	of	0
-PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
-.	.	.	.	.	1

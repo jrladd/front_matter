@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-any	any	d	any	any	0
-body	body	n1	body	body	0
-.	.	.	.	.	1

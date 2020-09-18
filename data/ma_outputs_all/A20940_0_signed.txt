@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	n2	Ladyships	ladyship	0
-most	most	av-ds	most	most	0
-deepely	deepely	av-jn	deeply	deep	0
-bound	bound	vvn	bound	bind	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-BARNES	BARNES	np1	BARNES	Barnes	0
-.	.	.	.	.	1

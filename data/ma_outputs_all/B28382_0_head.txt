@@ -1,5 +1,0 @@
-Sir	Sir	n1	Sir	sir	0
-MARTIN	MARTIN	np1	MARTIN	Martin	0
-LƲMLEY	LƲMLEY	np1	LƲMLEY	LƲMLEY	0
-,	,	,	,	,	0
-Bart.	Bart.	np1	Bart.	Bart.	1

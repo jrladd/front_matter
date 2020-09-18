@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-AUTHOR	AUTHOR	n1	AUTHOR	author	0
-.	.	.	.	.	1

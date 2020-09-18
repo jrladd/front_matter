@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-carefull	carefull	j	careful	careful	0
-Pastor	Pastor	n1	Pastor	pastor	0
-Church-Court	Church-Court	n1	Church-Court	church-court	0
-in	in	p-acp	in	in	0
-Black-Friers	Black-Friers	npg2	Black-Friers	Blackfriar	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-GOVGE	GOVGE	np1	GOVGE	GOVGE	0
-.	.	.	.	.	1

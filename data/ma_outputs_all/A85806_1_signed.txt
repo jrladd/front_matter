@@ -1,6 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-GEORGE	GEORGE	np1	GEORGE	George	0
-GARDYNER	GARDYNER	n1	GARDYNER	gardyner	1

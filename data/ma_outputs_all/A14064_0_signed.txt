@@ -1,6 +1,0 @@
-your	your	po22	your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-seruant	seruant	n1	servant	servant	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Tusser	Tusser	np1	Tusser	Tusser	0
-.	.	.	.	.	1

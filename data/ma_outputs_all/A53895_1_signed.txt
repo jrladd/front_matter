@@ -1,7 +1,0 @@
-Sanctitatis	Sanctitatis	fw-la	Sanctitatis	sanctitatis	0
-tuae	tuae	fw-la	tuae	tuus	0
-cultor	cultor	fw-la	cultor	cultor	0
-studiosissimus	studiosissimus	fw-la	studiosissimus	studiosissimus	0
-Henricus	Henricus	fw-la	Henricus	henricus	0
-Dodwellus	Dodwellus	fw-la	Dodwellus	dodwellus	0
-.	.	.	.	.	1

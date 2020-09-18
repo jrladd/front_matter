@@ -1,3 +1,0 @@
-Lewes	Lewes	np1	Lewes	Lewes	0
-Machin	Machin	np1	Machin	Machin	0
-.	.	.	.	.	1

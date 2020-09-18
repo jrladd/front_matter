@@ -1,8 +1,0 @@
-Youre	Youre	po22	Your	your	0
-Lordship	Lordship	n1	Lordship	lordship	0
-his	his	po31	his	his	0
-louing	louing	j-vvg	loving	love	0
-broother	broother	n1	brother	brother	0
-Richard	Richard	np1	Richard	Richard	0
-Stanyhurst	Stanyhurst	np1	Stanyhurst	Stanyhurst	0
-.	.	.	.	.	1

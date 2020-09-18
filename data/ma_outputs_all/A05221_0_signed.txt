@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-euer	euer	av	ever	ever	0
-obliged	obliged	vvn	obliged	oblige	0
-,	,	,	,	,	0
-Richard	Richard	np1	Richard	Richard	0
-Lee.	Lee.	np1	Lee.	Lee.	1

@@ -1,3 +1,0 @@
-Edward	Edward	np1	Edward	Edward	0
-Hake	Hake	np1	Hake	Hake	0
-.	.	.	.	.	1

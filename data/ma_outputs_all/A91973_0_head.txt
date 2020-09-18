@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-honoured	honoured	j-vvn	honoured	honour	0
-Colonell	Colonell	n1	Colonel	colonel	0
-,	,	,	,	,	0
-Colonell	Colonell	n1	Colonel	colonel	0
-Edward	Edward	np1	Edward	Edward	0
-Rossiter	Rossiter	np1	Rossiter	Rossiter	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Jones	Jones	np1	Jones	Jones	0
-.	.	.	.	.	1

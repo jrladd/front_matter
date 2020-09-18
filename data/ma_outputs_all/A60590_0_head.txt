@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Honourable	Honourable	j	Honourable	honourable	0
-,	,	,	,	,	0
-Samuel	Samuel	np1	Samuel	Samuel	0
-Pepys	Pepys	np1	Pepys	Pepys	0
-Esquire	Esquire	n1	Esquire	esquire	0
-.	.	.	.	.	1

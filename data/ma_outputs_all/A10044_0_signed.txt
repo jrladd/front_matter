@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutifull	dutifull	j	dutiful	dutiful	0
-obseruance	obseruance	n1	observance	observance	0
-DANIELL	DANIELL	np1	DANIELL	Daniell	0
-PRICE	PRICE	n1	PRICE	price	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Eternal	Eternal	j	Eternal	eternal	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-CHARLETON	CHARLETON	np1	CHARLETON	Charleton	0
-.	.	.	.	.	1

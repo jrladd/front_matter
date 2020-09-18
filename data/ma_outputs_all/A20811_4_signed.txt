@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-euer	euer	av	ever	ever	0
-,	,	,	,	,	0
-Michaell	Michaell	np1	Michaell	Michael	0
-Drayton	Drayton	np1	Drayton	Drayton	0
-.	.	.	.	.	1

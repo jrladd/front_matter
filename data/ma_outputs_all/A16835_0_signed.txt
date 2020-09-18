@@ -1,9 +1,0 @@
-Youre	Youre	po22	Your	your	0
-Maiesties	Maiesties	ng1	Majesties	majesty	0
-humble	humble	j	humble	humble	0
-and	and	cc	and	and	0
-obedient	obedient	j	obedient	obedient	0
-subiect	subiect	j-jn	subject	subject	0
-IOHN	IOHN	np1	IOHN	John	0
-BRIDGES	BRIDGES	n2	BRIDGES	bridge	0
-.	.	.	.	.	1

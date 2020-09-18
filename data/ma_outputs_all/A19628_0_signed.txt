@@ -1,9 +1,0 @@
-Serenissimae	Serenissimae	fw-la	Serenissimae	serenissimae	0
-Majestati	Majestati	n1	Majestati	majestati	0
-tuae	tuae	fw-la	tuae	tuus	0
-Subditus	Subditus	fw-la	Subditus	subditus	0
-Deuotissimus	Deuotissimus	fw-la	Deuotissimus	deuotissimus	0
-,	,	,	,	,	0
-HELKIAH	HELKIAH	np1	HELKIAH	HELKIAH	0
-CROCVS	CROCVS	np1	CROCVS	CROCVS	0
-.	.	.	.	.	1

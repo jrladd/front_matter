@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-His	His	po31	His	his	0
-HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
-THE	THE	dt	THE	the	0
-DUKE	DUKE	n1	DUKE	duke	0
-of	of	pp-f	of	of	0
-GLOCESTER	GLOCESTER	np1	GLOCESTER	Gloucester	0
-.	.	.	.	.	1

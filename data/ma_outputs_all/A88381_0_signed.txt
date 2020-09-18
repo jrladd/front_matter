@@ -1,3 +1,0 @@
-J.	J.	np1	J.	J.	0
-Livesey	Livesey	np1	Livesey	Livesey	0
-.	.	.	.	.	1

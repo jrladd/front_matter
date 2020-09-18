@@ -1,9 +1,0 @@
-At	At	p-acp	At	at	0
-your	your	po22	your	your	0
-Worships	Worships	n2	Worships	worship	0
-com	com	vvb	come	come	0
-∣	∣	sy	∣	∣	0
-maundement	maundement	zz	maundement	maundement	0
-Francis	Francis	np1	Francis	Francis	0
-Meres	Meres	n2	Meres	mere	0
-.	.	.	.	.	1

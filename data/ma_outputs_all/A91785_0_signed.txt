@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-affectionate	affectionate	j	affectionate	affectionate	0
-Mother	Mother	n1	Mother	mother	0
-,	,	,	,	,	0
-ELIZ	ELIZ	np1	ELIZ	Eliz	0
-.	.	.	.	.	1
-ASHBOURNHAM	ASHBOURNHAM	np1	ASHBOURNHAM	ASHBOURNHAM	0
-.	.	.	.	.	1

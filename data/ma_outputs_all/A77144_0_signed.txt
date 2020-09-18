@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-service	service	n1	service	service	0
-.	.	.	.	.	1
-EDMOND	EDMOND	np1	EDMOND	Edmond	0
-BOWER	BOWER	n1	BOWER	bower	0
-.	.	.	.	.	1

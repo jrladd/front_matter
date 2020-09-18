@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-perpetually	perpetually	av-j	perpetually	perpetual	0
-obliged	obliged	vvn	obliged	oblige	0
-,	,	,	,	,	0
-Obadiah	Obadiah	np1	Obadiah	Obadiah	0
-Sedgwick	Sedgwick	np1	Sedgwick	Sedgwick	0
-.	.	.	.	.	1

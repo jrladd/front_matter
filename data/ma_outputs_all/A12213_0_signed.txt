@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordshippes	Lordshippes	n2	Lordships	lordship	0
-humble	humble	j	humble	humble	0
-at	at	p-acp	at	at	0
-Commandement	Commandement	n1	Commandment	commandment	0
-,	,	,	,	,	0
-Christopher	Christopher	np1	Christopher	Christopher	0
-Sibthorp	Sibthorp	np1	Sibthorp	Sibthorp	0
-.	.	.	.	.	1

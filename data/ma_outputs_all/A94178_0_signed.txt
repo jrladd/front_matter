@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Brother	Brother	n1	Brother	brother	0
-and	and	cc	and	and	0
-friend	friend	n1	friend	friend	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Jesus	Jesus	np1	Jesus	Jesus	0
-E.	E.	np1	E.	E.	0
-S.	S.	np1	S.	S.	1

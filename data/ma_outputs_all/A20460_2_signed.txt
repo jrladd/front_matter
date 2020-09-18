@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-graces	graces	n2	graces	grace	0
-poore	poore	j	poor	poor	0
-Subiect	Subiect	n-jn	Subject	subject	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-A.	A.	np1	A.	A.	1

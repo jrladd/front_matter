@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-maister	maister	n1	master	master	0
-Iohn	Iohn	np1	Iohn	John	0
-Harlowe	Harlowe	np1	Harlowe	Harlowe	0
-his	his	po31	his	his	0
-approoued	approoued	j-vvn	approved	approve	0
-friende	friende	n1	friend	friend	0
-.	.	.	.	.	1

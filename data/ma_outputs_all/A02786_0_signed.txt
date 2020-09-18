@@ -1,7 +1,0 @@
-Amplitudini	Amplitudini	np1	Amplitudini	Amplitudini	0
-tuae	tuae	fw-la	tuae	tuus	0
-deuotissimus	deuotissimus	fw-la	deuotissimus	deuotissimus	0
-,	,	,	,	,	0
-Simon	Simon	np1	Simon	Simon	0
-Harward	Harward	np1	Harward	Harward	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Affectionate	Affectionate	j	Affectionate	affectionate	0
-Unkle	Unkle	n1	Uncle	uncle	0
-Nath.	Nath.	np1	Nath.	Nath.	0
-Mather	Mather	np1	Mather	Mather	0
-.	.	.	.	.	1

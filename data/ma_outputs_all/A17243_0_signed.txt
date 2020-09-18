@@ -1,8 +1,0 @@
-From	From	p-acp	From	from	0
-Bolton-Percie	Bolton-Percie	np1	Bolton-Percie	Bolton-Percie	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-ancientie	ancientie	n1	ancienty	ancienty	0
-of	of	pp-f	of	of	0
-York	York	np1	York	York	0
-,	,	,	,	,	1

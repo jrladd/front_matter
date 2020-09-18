@@ -1,4 +1,0 @@
-THO	THO	np1	THO	Tho	0
-.	.	.	.	.	1
-EVANS	EVANS	np1	EVANS	Evans	0
-.	.	.	.	.	1

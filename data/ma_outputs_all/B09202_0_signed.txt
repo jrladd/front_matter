@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humbl	humbl	j	humbl	humbl	0
-Servant	Servant	n1	Servant	servant	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-GUILD	GUILD	n1	GUILD	guild	1

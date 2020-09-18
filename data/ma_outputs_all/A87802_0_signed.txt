@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Humble	Humble	j	Humble	humble	0
-Observance	Observance	n1	Observance	observance	0
-.	.	.	.	.	1
-William	William	np1	William	William	0
-Knapp	Knapp	np1	Knapp	Knapp	0
-.	.	.	.	.	1

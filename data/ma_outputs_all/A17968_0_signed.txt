@@ -1,4 +1,0 @@
-LOD	LOD	fw-mi	LOD	lod	0
-:	:	:	:	:	0
-CARLELL	CARLELL	np1	CARLELL	CARLELL	0
-.	.	.	.	.	1

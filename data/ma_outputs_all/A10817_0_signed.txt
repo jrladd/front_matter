@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-Oratour	Oratour	n1	Orator	orator	0
-,	,	,	,	,	0
-HVGH	HVGH	j	HUGH	hugh	0
-ROBERTS	ROBERTS	np1	ROBERTS	Roberts	0
-.	.	.	.	.	1

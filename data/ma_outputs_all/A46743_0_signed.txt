@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladyships	Ladyships	n2	Ladyships	ladyship	0
-obliged	obliged	vvn	obliged	oblige	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Jemmat	Jemmat	np1	Jemmat	Jemmat	0
-.	.	.	.	.	1

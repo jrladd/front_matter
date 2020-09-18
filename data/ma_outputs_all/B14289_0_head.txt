@@ -1,9 +1,0 @@
-My	My	po11	My	my	0
-Lord	Lord	n1	Lord	lord	0
-HENRY	HENRY	np1	HENRY	Henry	0
-Prince	Prince	n1	Prince	prince	0
-of	of	pp-f	of	of	0
-great	great	j	great	great	0
-Brittaine	Brittaine	np1	Brittaine	Britain	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

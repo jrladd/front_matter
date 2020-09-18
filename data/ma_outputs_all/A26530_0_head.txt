@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Royal	Royal	j	Royal	royal	0
-Highness	Highness	n1	Highness	highness	0
-Duke	Duke	n1	Duke	duke	0
-HUMFREY	HUMFREY	np1	HUMFREY	Humphrey	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-humblest	humblest	js	humblest	humble	0
-seruant	seruant	n1	servant	servant	0
-DALLINGTON	DALLINGTON	np1	DALLINGTON	Dallington	0
-.	.	.	.	.	1

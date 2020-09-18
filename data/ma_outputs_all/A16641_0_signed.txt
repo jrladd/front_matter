@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-seruant	seruant	n1	servant	servant	0
-and	and	cc	and	and	0
-dayly	dayly	j	daily	daily	0
-orator	orator	n1	orator	orator	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-B.	B.	np1	B.	B.	1

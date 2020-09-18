@@ -1,3 +1,0 @@
-GEORGE	GEORGE	np1	GEORGE	George	0
-BAKER	BAKER	n1	BAKER	baker	0
-.	.	.	.	.	1

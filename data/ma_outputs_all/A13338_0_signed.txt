@@ -1,8 +1,0 @@
-Diuotissimo	Diuotissimo	n1	Diuotissimo	diuotissimo	0
-seruitore	seruitore	n1	seruitore	seruitore	0
-.	.	.	.	.	1
-Gio	Gio	np1	Gio	Gio	0
-:	:	:	:	:	0
-Maria	Maria	np1	Maria	Maria	0
-Manelli	Manelli	np1	Manelli	Manelli	0
-.	.	.	.	.	1

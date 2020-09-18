@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-at	at	p-acp	at	at	0
-my	my	po11	my	my	0
-hearty	hearty	j	hearty	hearty	0
-praiers	praiers	n2	prayers	prayer	0
-,	,	,	,	,	0
-GILES	GILES	np1	GILES	Giles	0
-WIDDOWES	WIDDOWES	ng1	WIDDOWES	widow	0
-.	.	.	.	.	1

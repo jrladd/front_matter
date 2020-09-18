@@ -1,7 +1,0 @@
-The	The	dt	The	the	0
-Book	Book	n1	Book	book	0
-commended	commended	vvn	commended	commend	0
-to	to	p-acp	to	to	0
-Gods	Gods	npg1	Gods	God	0
-Blessing	Blessing	n1	Blessing	blessing	0
-.	.	.	.	.	1

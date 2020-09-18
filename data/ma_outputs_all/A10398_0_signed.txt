@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	n2	Ladyships	ladyship	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-IOSHVA	IOSHVA	np1	IOSHVA	IOSHVA	0
-RANDALL	RANDALL	np1	RANDALL	Randall	0
-.	.	.	.	.	1

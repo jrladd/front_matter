@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-Daniel	Daniel	np1	Daniel	Daniel	0
-Cudmore	Cudmore	np1	Cudmore	Cudmore	0
-.	.	.	.	.	1

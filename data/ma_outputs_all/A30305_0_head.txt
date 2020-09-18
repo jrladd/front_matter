@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-PEOPLE	PEOPLE	n1	PEOPLE	people	0
-of	of	pp-f	of	of	0
-my	my	po11	my	my	0
-Charge	Charge	n1	Charge	charge	0
-.	.	.	.	.	1

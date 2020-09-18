@@ -1,5 +1,0 @@
-Die	Die	fw-la	Die	die	0
-Mercurij	Mercurij	fw-la	Mercurij	mercurij	0
-27.	27.	crd	27.	27.	1
-Decemb.	Decemb.	np1	Decemb.	Decemb.	0
-1643.	1643.	crd	1643.	1643.	1

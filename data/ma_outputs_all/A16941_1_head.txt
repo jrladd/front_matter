@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MAISTER	MAISTER	n1	MAISTER	master	0
-CAMDEN	CAMDEN	np1	CAMDEN	Camden	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Omnibus	Omnibus	fw-la	Omnibus	omnibus	0
-obsequii	obsequii	fw-la	obsequii	obsequii	0
-nominibus	nominibus	fw-la	nominibus	nominibus	0
-addictissimus	addictissimus	fw-la	addictissimus	addictissimus	0
-,	,	,	,	,	0
-Joannes	Joannes	np1	Joannes	Joannes	0
-Howes	Howes	np1	Howes	Howes	0
-.	.	.	.	.	1

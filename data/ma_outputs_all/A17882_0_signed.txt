@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-CAPIAN	CAPIAN	jp	CAPIAN	capian	0
-.	.	.	.	.	1

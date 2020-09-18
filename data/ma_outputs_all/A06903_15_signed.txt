@@ -1,4 +1,0 @@
-Farewell	Farewell	n1	Farewell	farewell	0
-.	.	.	.	.	1
-G.	G.	np1	G.	G.	0
-M.	M.	n1	M.	m.	1

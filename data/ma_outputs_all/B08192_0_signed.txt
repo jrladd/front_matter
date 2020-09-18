@@ -1,9 +1,0 @@
-¶	¶	¶	¶	¶	0
-Your	Your	po22	Your	your	0
-graces	graces	n2	graces	grace	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Oratour	Oratour	n1	Orator	orator	0
-Wyllyam	Wyllyam	np1	Wyllyam	Wyllyam	0
-Owen	Owen	np1	Owen	Owen	0
-.	.	.	.	.	1

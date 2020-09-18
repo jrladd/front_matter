@@ -1,3 +1,0 @@
-Ieruis	Ieruis	np1	Ieruis	Jarvis	0
-Markham	Markham	np1	Markham	Markham	0
-.	.	.	.	.	1

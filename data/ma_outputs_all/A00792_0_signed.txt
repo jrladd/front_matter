@@ -1,4 +1,0 @@
-Your	Your	po22	Your	your	0
-friend	friend	n1	friend	friend	0
-J.	J.	np1	J.	J.	0
-F.	F.	np1	F.	F.	1

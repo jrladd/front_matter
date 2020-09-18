@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-vertuous	vertuous	j	virtuous	virtuous	0
-Ladie	Ladie	n1	Lady	lady	0
-M.	M.	n1	M.	m.	0
-Agape	Agape	np1	Agape	Agape	0
-Wrotha	Wrotha	np1	Wrotha	Wrotha	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-Oblig'd	Oblig'd	j-vvn	Obliged	oblige	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
-CHANDLER	CHANDLER	np1	CHANDLER	Chandler	1

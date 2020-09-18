@@ -1,3 +1,0 @@
-T.	T.	np1	T.	T.	0
-Churchyard	Churchyard	n1	Churchyard	churchyard	0
-.	.	.	.	.	1

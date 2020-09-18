@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	ng1	Worships	worship	0
-most	most	av-ds	most	most	0
-vnfainedly	vnfainedly	av-j	unfeignedly	unfeigned	0
-affected	affected	vvn	affected	affect	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-WALKER	WALKER	np1	WALKER	Walker	0
-.	.	.	.	.	1

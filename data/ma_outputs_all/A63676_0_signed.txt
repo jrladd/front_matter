@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-unworthy	unworthy	j	unworthy	unworthy	0
-,	,	,	,	,	0
-but	but	cc-acp	but	but	0
-oblidged	oblidged	j-vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-R.	R.	np1	R.	R.	0
-F.	F.	np1	F.	F.	1

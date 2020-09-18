@@ -1,2 +1,0 @@
-VAUGHAN	VAUGHAN	np1	VAUGHAN	Vaughan	0
-.	.	.	.	.	1

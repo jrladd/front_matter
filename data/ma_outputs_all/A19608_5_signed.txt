@@ -1,4 +1,0 @@
-Your	Your	po22	Your	your	0
-well-willer	well-willer	n1	well-willer	well-willer	0
-R.	R.	np1	R.	R.	0
-H.	H.	np1	H.	H.	1

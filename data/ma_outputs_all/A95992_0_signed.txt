@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Jesus-sake	Jesus-sake	n1	Jesus-sake	jesus-sake	0
-H.V.	H.V.	np1	H.V.	H.V.	1

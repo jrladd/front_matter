@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-His	His	po31	His	his	0
-Honoured	Honoured	j-vvn	Honoured	honour	0
-FRIEND	FRIEND	n1	FRIEND	friend	0
-,	,	,	,	,	0
-JAMES	JAMES	np1	JAMES	James	0
-CHADWICK	CHADWICK	np1	CHADWICK	Chadwick	0
-,	,	,	,	,	0
-Esq.	Esq.	np1	Esq.	Esq.	1

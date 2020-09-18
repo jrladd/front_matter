@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-most	most	av-ds	most	most	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Seruant	Seruant	n1	Servant	servant	0
-,	,	,	,	,	0
-ANDREA	ANDREA	np1	ANDREA	Andrea	0
-GHISI	GHISI	fw-la	GHISI	ghisi	0
-.	.	.	.	.	1

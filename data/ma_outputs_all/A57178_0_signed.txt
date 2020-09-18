@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-obedient	obedient	j	obedient	obedient	0
-son	son	n1	son	son	0
-and	and	cc	and	and	0
-devoted	devoted	j-vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-JOHN	JOHN	np1	JOHN	John	0
-REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-All	All	av-d	All	all	0
-Health	Health	n1	Health	health	0
-,	,	,	,	,	0
-Happinesse	Happinesse	n1	Happiness	happiness	0
-,	,	,	,	,	0
-&	&	cc	&	and	0
-Prosperity	Prosperity	n1	Prosperity	prosperity	0
-.	.	.	.	.	1

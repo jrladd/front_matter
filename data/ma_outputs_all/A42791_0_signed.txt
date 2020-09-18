@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-humble	humble	j	humble	humble	0
-and	and	cc	and	and	0
-ready	ready	j	ready	ready	0
-Servitor	Servitor	n1	Servitor	servitor	0
-,	,	,	,	,	0
-Iames	Iames	np1	Iames	Iames	0
-Howell	Howell	np1	Howell	Howell	0
-.	.	.	.	.	1

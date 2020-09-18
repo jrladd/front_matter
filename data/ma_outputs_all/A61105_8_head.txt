@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reader	Reader	n1	Reader	reader	0
-in	in	p-acp	in	in	0
-generall	generall	n1	general	general	0
-.	.	.	.	.	1

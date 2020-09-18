@@ -1,4 +1,0 @@
-JOHANN	JOHANN	np1	JOHANN	Johann	0
-:	:	:	:	:	0
-RAMSEYƲS	RAMSEYƲS	np1	RAMSEYƲS	RAMSEYƲS	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-Ed.	Ed.	np1	Ed.	Ed.	0
-S	S	n1	S	saint	0
-—	—	—	—	—	0
-cy	cy	n1	cy	cy	0
-.	.	.	.	.	1

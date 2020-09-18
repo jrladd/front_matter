@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-assured	assured	j-vvn	assured	assure	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-HOSKINS	HOSKINS	np1	HOSKINS	Hoskins	0
-.	.	.	.	.	1

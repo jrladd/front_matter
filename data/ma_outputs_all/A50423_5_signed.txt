@@ -1,5 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-M.	M.	n1	M.	m.	1

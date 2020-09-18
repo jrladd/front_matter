@@ -1,6 +1,0 @@
-Pater	Pater	np1	Pater	Pater	0
-tuus	tuus	fw-la	tuus	tuus	0
-,	,	,	,	,	0
-Harbottellus	Harbottellus	np1	Harbottellus	Harbottellus	0
-Grimstonius	Grimstonius	np1	Grimstonius	Grimstonius	0
-.	.	.	.	.	1

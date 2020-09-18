@@ -1,3 +1,0 @@
-Miles	Miles	np1	Miles	Miles	0
-Sandys	Sandys	np1	Sandys	Sandys	0
-.	.	.	.	.	1

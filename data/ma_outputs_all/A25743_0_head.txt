@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONORABLE	HONORABLE	j	HONOURABLE	honourable	0
-Sir	Sir	n1	Sir	sir	0
-Philip	Philip	np1	Philip	Philip	0
-Howard	Howard	np1	Howard	Howard	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Sorrowful	Sorrowful	j	Sorrowful	sorrowful	0
-Widow	Widow	n1	Widow	widow	0
-of	of	pp-f	of	of	0
-Mordecai	Mordecai	np1	Mordecai	Mordecai	0
-Abbott	Abbott	np1	Abbott	Abbott	0
-Esq	Esq	np1	Esq	Esq	1

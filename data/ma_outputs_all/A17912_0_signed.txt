@@ -1,4 +1,0 @@
-I	I	pns11	I	i	0
-.	.	.	.	.	1
-CANNE	CANNE	vmb	CAN	can	0
-.	.	.	.	.	1

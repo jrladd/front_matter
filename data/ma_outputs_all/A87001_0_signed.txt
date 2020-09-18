@@ -1,3 +1,0 @@
-Charles	Charles	np1	Charles	Charles	0
-Hammond	Hammond	np1	Hammond	Hammond	0
-.	.	.	.	.	1

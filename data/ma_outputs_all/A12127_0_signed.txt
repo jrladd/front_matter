@@ -1,8 +1,0 @@
-In	In	p-acp	In	in	0
-all	all	d	all	all	0
-duty	duty	n1	duty	duty	0
-and	and	cc	and	and	0
-observance	observance	n1	observance	observance	0
-,	,	,	,	,	0
-I.	I.	uh	I	i	0
-K.	K.	n1	K.	king	1

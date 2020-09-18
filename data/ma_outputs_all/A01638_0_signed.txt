@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-servant	servant	n1	servant	servant	0
-RALPH	RALPH	np1	RALPH	Ralph	0
-WINTERTON	WINTERTON	np1	WINTERTON	Winterton	0
-.	.	.	.	.	1

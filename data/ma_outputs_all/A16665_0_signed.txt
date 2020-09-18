@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	p-acp	to	to	0
-dispose	dispose	n1	dispose	dispose	0
-Richard	Richard	np1	Richard	Richard	0
-Brathwayt	Brathwayt	n1	Brathwayt	brathwayt	0
-.	.	.	.	.	1

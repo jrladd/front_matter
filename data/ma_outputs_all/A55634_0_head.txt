@@ -1,6 +1,0 @@
-THE	THE	dt	THE	the	0
-Epistle	Epistle	n1	Epistle	epistle	0
-Dedicatory	Dedicatory	j	Dedicatory	dedicatory	0
-TO	TO	p-acp	TO	to	0
-ALL	ALL	av-d	ALL	all	0
-PROTESTANTS	PROTESTANTS	n2	PROTESTANTS	protestant	1

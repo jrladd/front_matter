@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-vertues	vertues	ng1	virtues	virtue	0
-immoueable	immoueable	j	immovable	immovable	0
-Votarie	Votarie	n1	Votary	votary	0
-:	:	:	:	:	0
-THO	THO	av	THOUGH	tho	0
-:	:	:	:	:	0
-NASHE	NASHE	np1	NASHE	NASHE	0
-.	.	.	.	.	1

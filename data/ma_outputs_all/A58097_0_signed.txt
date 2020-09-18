@@ -1,9 +1,0 @@
-Clarissimi	Clarissimi	fw-la	Clarissimi	clarissimi	0
-tui	tui	fw-la	tui	tui	0
-Nominis	Nominis	fw-la	Nominis	nominis	0
-Studiosissimus	Studiosissimus	fw-la	Studiosissimus	studiosissimus	0
-cultor	cultor	fw-la	cultor	cultor	0
-,	,	,	,	,	0
-SYLVESTER	SYLVESTER	np1	SYLVESTER	Sylvester	0
-RATTRAY	RATTRAY	np1	RATTRAY	Rattray	0
-.	.	.	.	.	1

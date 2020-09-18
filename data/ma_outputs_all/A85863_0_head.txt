@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Reverend	Reverend	n-jn	Reverend	reverend	0
-Dr.	Dr.	n1	Dr.	dr.	0
-GAUDEN	GAUDEN	np1	GAUDEN	GAUDEN	0
-,	,	,	,	,	0
-these	these	d	these	these	0
-present	present	n1	present	present	0
-.	.	.	.	.	1

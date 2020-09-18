@@ -1,8 +1,0 @@
-Lord	Lord	n1	Lord	lord	0
-Mayor	Mayor	n1	Mayor	mayor	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-City	City	n1	City	city	0
-of	of	pp-f	of	of	0
-LONDON	LONDON	np1	LONDON	London	0
-.	.	.	.	.	1

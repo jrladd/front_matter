@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-assured	assured	j-vvn	assured	assure	0
-loving	loving	vvg	loving	love	0
-Nephew	Nephew	n1	Nephew	nephew	0
-Ro.	Ro.	np1	Ro.	Ro.	0
-Fage	Fage	n1	Fage	fage	0
-.	.	.	.	.	1

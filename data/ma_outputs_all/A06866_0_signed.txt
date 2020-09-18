@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-at	at	p-acp	at	at	0
-cōmaundement	cōmaundement	n1	commandment	commandment	0
-and	and	cc	and	and	0
-wyll	wyll	n1	will	will	0
-Theodore	Theodore	np1	Theodore	Theodore	0
-Basille	Basille	np1	Basille	Basille	0
-.	.	.	.	.	1

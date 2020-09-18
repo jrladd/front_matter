@@ -1,4 +1,0 @@
-FRA	FRA	np1	FRA	Fra	0
-.	.	.	.	.	1
-DAVISON	DAVISON	np1	DAVISON	Davison	0
-.	.	.	.	.	1

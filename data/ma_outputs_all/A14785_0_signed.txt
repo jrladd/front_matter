@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Warner	Warner	np1	Warner	Warner	0
-.	.	.	.	.	1

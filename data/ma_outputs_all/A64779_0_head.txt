@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-,	,	,	,	,	0
-The	The	dt	The	the	0
-Lady	Lady	n1	Lady	lady	0
-Martha	Martha	np1	Martha	Martha	0
-Cary.	Cary.	np1	Cary.	Cary.	1

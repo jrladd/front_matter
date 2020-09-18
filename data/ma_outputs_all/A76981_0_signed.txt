@@ -1,4 +1,0 @@
-NATH	NATH	np1	NATH	Nath	0
-.	.	.	.	.	1
-BACON	BACON	n1	BACON	bacon	0
-.	.	.	.	.	1

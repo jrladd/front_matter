@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-perpetuall	perpetuall	j	perpetual	perpetual	0
-votary	votary	n1	votary	votary	0
-.	.	.	.	.	1
-W.	W.	np1	W.	W.	0
-LOE	LOE	uh	LO	lo	0
-.	.	.	.	.	1

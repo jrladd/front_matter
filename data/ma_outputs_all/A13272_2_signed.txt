@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-devoted	devoted	j-vvn	devoted	devote	0
-HVM	HVM	n1	HVM	hvm	0
-.	.	.	.	.	1
-SYDENHAM	SYDENHAM	np1	SYDENHAM	Sydenham	0
-.	.	.	.	.	1

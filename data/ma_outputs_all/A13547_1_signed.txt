@@ -1,7 +1,0 @@
-Conseruus	Conseruus	fw-la	Conseruus	conseruus	0
-vester	vester	n1	vester	vester	0
-,	,	,	,	,	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	0
-.	.	.	.	.	1

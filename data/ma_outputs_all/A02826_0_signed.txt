@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Highnesse	Highnesse	n1	Highness	highness	0
-humble	humble	j	humble	humble	0
-and	and	cc	and	and	0
-devoted	devoted	j-vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-HAVVKINS	HAVVKINS	np1	HAVVKINS	HAVVKINS	1

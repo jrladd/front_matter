@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-at	at	p-acp	at	at	0
-an	an	dt	and	a	0
-houres	houres	n2	hours	hour	0
-warning	warning	vvg	warning	warn	0
-Double	Double	j-jn	Double	double	0
-V.	V.	n1	V.	v.	1

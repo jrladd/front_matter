@@ -1,3 +1,0 @@
-H.	H.	np1	H.	H.	0
-Barwick	Barwick	np1	Barwick	Barwick	0
-.	.	.	.	.	1

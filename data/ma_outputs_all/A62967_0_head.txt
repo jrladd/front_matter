@@ -1,4 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Edward	Edward	np1	Edward	Edward	0
-Tayler	Tayler	n1	Tailor	tailor	0
-ESQ	ESQ	np1	ESQ	Esq	1

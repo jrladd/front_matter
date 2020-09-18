@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Majesties	Majesties	ng1	Majesties	majesty	0
-Loyall	Loyall	j	Loyal	loyal	0
-Subject	Subject	j-jn	Subject	subject	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-SWADLIN	SWADLIN	np1	SWADLIN	SWADLIN	0
-D.D.	D.D.	np1	D.D.	D.D.	1

@@ -1,5 +1,0 @@
-F.	F.	np1	F.	F.	0
-tuus	tuus	fw-la	tuus	tuus	0
-.	.	.	.	.	1
-W.	W.	np1	W.	W.	0
-S.	S.	np1	S.	S.	1

@@ -1,7 +1,0 @@
-eych	eych	j	eych	eych	0
-Câr	Câr	n1	Câr	câr	0
-ffyddlonaf	ffyddlonaf	j	ffyddlonaf	ffyddlonaf	0
-M.	M.	n1	M.	m.	0
-Ky	Ky	np1	Ky	Ky	0
-ffin	ffin	n1	ffin	ffin	0
-.	.	.	.	.	1

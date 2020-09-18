@@ -1,6 +1,0 @@
-❧	❧	sy	❧	❧	0
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Ladie	Ladie	n1	Lady	lady	0
-Arabella	Arabella	np1	Arabella	Arabella	0
-.	.	.	.	.	1

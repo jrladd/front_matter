@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	ng1	Lordship's	lordship	0
-most	most	av-ds	most	most	0
-Obliged	Obliged	vvn	Obliged	oblige	0
-,	,	,	,	,	0
-Iosuah	Iosuah	np1	Iosuah	Iosuah	0
-Syluester	Syluester	np1	Syluester	Sylvester	0
-.	.	.	.	.	1

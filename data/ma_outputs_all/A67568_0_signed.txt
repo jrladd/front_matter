@@ -1,3 +1,0 @@
-SETHUM	SETHUM	np1	SETHUM	SETHUM	0
-WARDUM	WARDUM	fw-la	WARDUM	wardum	0
-.	.	.	.	.	1

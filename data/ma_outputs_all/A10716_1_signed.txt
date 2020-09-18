@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-as	as	p-acp	as	as	0
-his	his	po31	his	his	0
-owne	owne	d	own	own	0
-,	,	,	,	,	0
-Barnabe	Barnabe	np1	Barnabe	Barnaby	0
-Rich.	Rich.	np1	Rich.	Richard	1

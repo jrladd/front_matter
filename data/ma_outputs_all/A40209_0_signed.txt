@@ -1,9 +1,0 @@
-Sam.	Sam.	np1	Sam.	Sam	0
-Goodaker	Goodaker	np1	Goodaker	Goodaker	0
-.	.	.	.	.	1
-Amb.	Amb.	np1	Amb.	Amb.	0
-Rigg	Rigg	np1	Rigg	Rigg	0
-.	.	.	.	.	1
-William	William	np1	William	William	0
-Fallowfield	Fallowfield	np1	Fallowfield	Fallowfield	0
-.	.	.	.	.	1

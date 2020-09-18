@@ -1,9 +1,0 @@
-I	I	pns11	I	i	0
-am	am	vbm	am	be	0
-truly	truly	av-j	truly	true	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-:	:	:	:	:	0
-To	To	pc-acp	To	to	0
-.	.	.	.	.	1
-Gainsforde	Gainsforde	np1	Gainsforde	Gainsforde	0
-.	.	.	.	.	1

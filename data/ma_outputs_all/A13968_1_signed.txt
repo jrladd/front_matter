@@ -1,6 +1,0 @@
-Thine	Thine	po21	Thine	thy	0
-in	in	n1	in	inn	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-F.	F.	np1	F.	F.	0
-T.	T.	np1	T.	T.	1

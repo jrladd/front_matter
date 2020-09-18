@@ -1,5 +1,0 @@
-The	The	dt	The	the	0
-epystle	epystle	n1	epistle	epistle	0
-of	of	pp-f	of	of	0
-the	the	dt	the	the	0
-translator	translator	n1	translator	translator	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Earl	Earl	n1	Earl	earl	0
-of	of	pp-f	of	of	0
-Dorset	Dorset	np1	Dorset	Dorset	0
-and	and	cc	and	and	0
-Middlesex	Middlesex	np1	Middlesex	Middlesex	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

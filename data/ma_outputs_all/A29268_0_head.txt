@@ -1,7 +1,0 @@
-TO	TO	p-acp	TO	to	0
-The	The	dt	The	the	0
-High	High	j	High	high	0
-Court	Court	n1	Court	court	0
-OF	OF	pp-f	OF	of	0
-PARLIAMENT	PARLIAMENT	n1	PARLIAMENT	parliament	0
-.	.	.	.	.	1

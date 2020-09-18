@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-most	most	av-ds	most	most	0
-humbly	humbly	av-j	humbly	humble	0
-observant	observant	j	observant	observant	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-H.	H.	np1	H.	H.	1

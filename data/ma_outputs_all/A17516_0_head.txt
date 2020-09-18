@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-very	very	j	very	very	0
-friende	friende	n1	friend	friend	0
-P.	P.	np1	P.	P.	0
-L.	L.	np1	L.	L.	1

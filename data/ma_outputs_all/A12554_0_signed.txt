@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humblie	humblie	av-j	humbly	humble	0
-at	at	p-acp	at	at	0
-commandement	commandement	n1	commandment	commandment	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-SMITH	SMITH	n1	SMITH	smith	0
-.	.	.	.	.	1

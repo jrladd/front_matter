@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Rowland	Rowland	np1	Rowland	Rowland	0
-.	.	.	.	.	1

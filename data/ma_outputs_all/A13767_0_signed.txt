@@ -1,7 +1,0 @@
-Honoratissimae	Honoratissimae	fw-la	Honoratissimae	honoratissimae	0
-Amplitudinis	Amplitudinis	fw-la	Amplitudinis	amplitudinis	0
-tuae	tuae	fw-la	tuae	tuus	0
-obseruantissimus	obseruantissimus	fw-la	obseruantissimus	obseruantissimus	0
-IOHANNES	IOHANNES	np1	IOHANNES	Johannes	0
-TICHBORNVS	TICHBORNVS	np1	TICHBORNVS	TICHBORNVS	0
-.	.	.	.	.	1

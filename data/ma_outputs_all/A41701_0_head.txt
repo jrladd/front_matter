@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-Sir	Sir	n1	Sir	sir	0
-Fleetwood	Fleetwood	np1	Fleetwood	Fleetwood	0
-Sheppard	Sheppard	np1	Sheppard	Sheppard	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

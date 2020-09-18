@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-louing	louing	j-vvg	loving	love	0
-brother	brother	n1	brother	brother	0
-.	.	.	.	.	1
-Philip	Philip	np1	Philip	Philip	0
-Sidney	Sidney	np1	Sidney	Sidney	0
-.	.	.	.	.	1

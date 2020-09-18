@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-good	good	j	good	good	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-SAMVEL	SAMVEL	np1	SAMVEL	SAMVEL	0
-GAREY	GAREY	np1	GAREY	Garey	0
-.	.	.	.	.	1

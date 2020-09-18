@@ -1,6 +1,0 @@
-A	A	dt	A	a	0
-MY-LORD	MY-LORD	n1	MY-LORD	my-lord	0
-EVÊQUE	EVÊQUE	fw-fr	EVÊQUE	evêque	0
-DE	DE	fw-fr	DE	de	0
-LONDRES	LONDRES	np1	LONDRES	Londres	0
-.	.	.	.	.	1

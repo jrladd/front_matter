@@ -1,6 +1,0 @@
-Thy	Thy	po21	Thy	thy	0
-father	father	n1	father	father	0
-▪	▪	▪	▪	▪	0
-Harbottle	Harbottle	np1	Harbottle	Harbottle	0
-Grimstone	Grimstone	np1	Grimstone	Grimstone	0
-.	.	.	.	.	1

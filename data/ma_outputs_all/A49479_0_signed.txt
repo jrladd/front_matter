@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servan	Servan	np1	Servan	Servan	0
-FRA	FRA	np1	FRA	Fra	0
-.	.	.	.	.	1
-KIRKMAN	KIRKMAN	np1	KIRKMAN	Kirkman	0
-.	.	.	.	.	1
-Jun	Jun	np1	Jun	Jun	1

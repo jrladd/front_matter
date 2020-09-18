@@ -1,6 +1,0 @@
-Most	Most	ds	Most	most	0
-Faithful	Faithful	j	Faithful	faithful	0
-Servant	Servant	n1	Servant	servant	0
-JOHN	JOHN	np1	JOHN	John	0
-GASKARTH	GASKARTH	n1	GASKARTH	gaskarth	0
-.	.	.	.	.	1

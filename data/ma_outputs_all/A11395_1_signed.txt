@@ -1,4 +1,0 @@
-Voy	Voy	np1	Voy	Voy	0
-Sire	Sire	n1	Sire	sire	0
-Saluste	Saluste	vvi	Saluste	saluste	0
-.	.	.	.	.	1

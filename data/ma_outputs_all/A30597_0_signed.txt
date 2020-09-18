@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Balthrape	Balthrape	n1	Balthrape	balthrape	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-wholy	wholy	av-jn	wholly	whole	0
-,	,	,	,	,	0
-RICH	RICH	j	RICH	rich	0
-:	:	:	:	:	0
-BRATHVVAYTE	BRATHVVAYTE	vvb	BRATHVVAYTE	brathvvayte	0
-.	.	.	.	.	1

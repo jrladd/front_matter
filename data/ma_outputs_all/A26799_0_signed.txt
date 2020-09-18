@@ -1,2 +1,0 @@
-N.	N.	np1	N.	N.	0
-D.	D.	np1	D.	D.	1

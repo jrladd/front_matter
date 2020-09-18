@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-duety	duety	n1	duty	duty	0
-,	,	,	,	,	0
-Anonimus	Anonimus	np1	Anonimus	Anonimus	0
-.	.	.	.	.	1

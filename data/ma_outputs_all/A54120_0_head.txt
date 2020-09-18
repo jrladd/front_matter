@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-Noble	Noble	j	Noble	noble	0
-Bereans	Bereans	njp2	Bereans	bereans	0
-Of	Of	pp-f	Of	of	0
-THIS	THIS	d	THIS	this	0
-AGE	AGE	n1	AGE	age	0
-.	.	.	.	.	1

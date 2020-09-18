@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-RACHEL	RACHEL	n1	RACHEL	rakehell	0
-,	,	,	,	,	0
-Lady	Lady	n1	Lady	lady	0
-RUSSELL	RUSSELL	np1	RUSSELL	Russell	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-ALEXANDER	ALEXANDER	np1	ALEXANDER	Alexander	0
-ROSSE	ROSSE	np1	ROSSE	Rosse	0
-.	.	.	.	.	1

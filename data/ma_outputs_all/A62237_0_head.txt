@@ -1,4 +1,0 @@
-Mr.	Mr.	n1	Mr.	mr.	0
-Richard	Richard	np1	Richard	Richard	0
-Saunders	Saunders	np1	Saunders	Saunders	0
-.	.	.	.	.	1

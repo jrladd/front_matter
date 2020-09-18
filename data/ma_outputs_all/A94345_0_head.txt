@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-,	,	,	,	,	0
-Lieftenant	Lieftenant	n1	Lieutenant	lieutenant	0
-Generall	Generall	n1	General	general	0
-CROMWELL	CROMWELL	np1	CROMWELL	Cromwell	0
-.	.	.	.	.	1

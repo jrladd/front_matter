@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honors	Honors	ng1	Honours	honour	0
-poore	poore	j	poor	poor	0
-Oratour	Oratour	n1	Orator	orator	0
-IOHN	IOHN	np1	IOHN	John	0
-GRANGE	GRANGE	np1	GRANGE	Grange	0
-.	.	.	.	.	1

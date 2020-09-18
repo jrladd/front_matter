@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-VVors	VVors	av-jc	Worse	bad	0
-.	.	.	.	.	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-Homager	Homager	n1	Homager	homager	0
-THO	THO	av	THOUGH	tho	0
-:	:	:	:	:	0
-ADAMS	ADAMS	np1	ADAMS	Adams	0
-.	.	.	.	.	1

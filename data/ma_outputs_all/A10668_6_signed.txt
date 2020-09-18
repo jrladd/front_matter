@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humblest	humblest	js	humblest	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-REYNOLDS	REYNOLDS	np1	REYNOLDS	Reynolds	0
-.	.	.	.	.	1

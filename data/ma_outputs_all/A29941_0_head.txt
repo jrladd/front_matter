@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-LOYAL	LOYAL	j	LOYAL	loyal	0
-LONDONERS	LONDONERS	np2	LONDONERS	Londoner	0
-.	.	.	.	.	1

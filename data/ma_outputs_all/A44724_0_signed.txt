@@ -1,8 +1,0 @@
-—	—	—	—	—	0
-Sic	Sic	fw-la	Sic	sic	0
-Vaticinatur	Vaticinatur	fw-la	Vaticinatur	vaticinatur	0
-.	.	.	.	.	1
-IA	IA	zz	IA	ia	0
-.	.	.	.	.	1
-HOWELL	HOWELL	np1	HOWELL	Howell	0
-.	.	.	.	.	1

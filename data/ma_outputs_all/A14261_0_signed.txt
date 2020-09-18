@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-Christ	Christ	np1	Christ	Christ	0
-Henry	Henry	np1	Henry	Henry	0
-Valentine	Valentine	np1	Valentine	Valentine	0
-.	.	.	.	.	1

@@ -1,4 +1,0 @@
-Vester	Vester	np1	Vester	Vester	0
-Robertus	Robertus	np1	Robertus	Robertus	0
-Croleus	Croleus	np1	Croleus	Croleus	0
-.	.	.	.	.	1

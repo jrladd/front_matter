@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-True	True	j	True	true	0
-Honorer	Honorer	n1	Honorer	honourer	0
-,	,	,	,	,	0
-Robert	Robert	np1	Robert	Robert	0
-Stapylton	Stapylton	np1	Stapylton	Stapylton	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Fellow	Fellow	n1	Fellow	fellow	0
-Advocates	Advocates	np1	Advocates	Advocates	0
-.	.	.	.	.	1

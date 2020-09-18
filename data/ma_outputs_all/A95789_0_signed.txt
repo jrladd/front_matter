@@ -1,5 +1,0 @@
-Your	Your	po22	Your	your	0
-fellow-souldier	fellow-souldier	n1	fellow-soldier	fellow-soldier	0
-Tho.	Tho.	np1	Tho.	Tho.	0
-Ʋnderhill	Ʋnderhill	np1	Ʋnderhill	Ʋnderhill	0
-.	.	.	.	.	1

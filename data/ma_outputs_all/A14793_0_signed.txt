@@ -1,3 +1,0 @@
-Arthur	Arthur	np1	Arthur	Arthur	0
-Warren	Warren	np1	Warren	Warren	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worthily	worthily	av-j	worthily	worthy	0
-honor'd	honor'd	vvd	honoured	honour	0
-Knight	Knight	n1	Knight	knight	0
-Sir	Sir	n1	Sir	sir	0
-Iohn	Iohn	np1	Iohn	John	0
-Salisburie	Salisburie	np1	Salisburie	Salisbury	0
-.	.	.	.	.	1

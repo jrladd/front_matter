@@ -1,3 +1,0 @@
-Sam.	Sam.	np1	Sam.	Sam	0
-Moor	Moor	n1	Moor	moor	0
-.	.	.	.	.	1

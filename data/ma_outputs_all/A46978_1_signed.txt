@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-very	very	j	very	very	0
-Friend	Friend	n1	Friend	friend	0
-,	,	,	,	,	0
-Will	Will	n1	Will	will	0
-.	.	.	.	.	1
-Johnson	Johnson	np1	Johnson	Johnson	0
-.	.	.	.	.	1

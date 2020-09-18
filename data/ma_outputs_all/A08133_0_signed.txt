@@ -1,7 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-dutifull	dutifull	j	dutiful	dutiful	0
-seruice	seruice	n1	service	service	0
-J.	J.	np1	J.	J.	0
-N.	N.	np1	N.	N.	1

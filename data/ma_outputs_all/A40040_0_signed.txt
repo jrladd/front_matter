@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-ever	ever	av	ever	ever	0
-loving	loving	vvg	loving	love	0
-Brother	Brother	n1	Brother	brother	0
-,	,	,	,	,	0
-Hen	Hen	n1	Hen	hen	0
-.	.	.	.	.	1
-Foulis	Foulis	n2	Fowls	fowl	0
-.	.	.	.	.	1

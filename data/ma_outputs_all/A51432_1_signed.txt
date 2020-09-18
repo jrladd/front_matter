@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Curiosityships	Curiosityships	n2	Curiosityships	curiosityship	0
-Most	Most	av-ds	Most	most	0
-Humble	Humble	j	Humble	humble	0
-and	and	cc	and	and	0
-Faithful	Faithful	j	Faithful	faithful	0
-Serva	Serva	np1	Serva	Serva	0
-CARLO	CARLO	np1	CARLO	Carlo	0
-MOSCHE	MOSCHE	np1	MOSCHE	MOSCHE	1

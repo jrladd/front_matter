@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Friend	Friend	n1	Friend	friend	0
-and	and	cc	and	and	0
-Fellow-Traveller	Fellow-Traveller	n1	Fellow-Traveller	fellow-traveller	0
-.	.	.	.	.	1
-KAINOPHILVS	KAINOPHILVS	np1	KAINOPHILVS	KAINOPHILVS	0
-.	.	.	.	.	1

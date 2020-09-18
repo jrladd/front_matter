@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-MASTER	MASTER	n1	MASTER	master	0
-EVERARD	EVERARD	np1	EVERARD	Everard	0
-,	,	,	,	,	0
-RO	RO	np1	RO	Ro	0
-∣	∣	sy	∣	∣	0
-MISH	MISH	n1	MISH	mish	0
-PRIEST	PRIEST	n1	PRIEST	priest	0
-.	.	.	.	.	1

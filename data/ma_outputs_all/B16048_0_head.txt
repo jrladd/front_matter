@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Fishmongers	Fishmongers	n2	Fishmongers	fishmonger	0
-and	and	cc	and	and	0
-Butchers	Butchers	n2	Butchers	butcher	0
-,	,	,	,	,	0
-greeting	greeting	n1	greeting	greeting	0
-.	.	.	.	.	1

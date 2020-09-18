@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Heartily	Heartily	av-j	Heartily	hearty	0
-Humble	Humble	j	Humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-THO	THO	av	THOUGH	tho	0
-.	.	.	.	.	1
-IORDAN	IORDAN	np1	IORDAN	Jordan	0
-.	.	.	.	.	1

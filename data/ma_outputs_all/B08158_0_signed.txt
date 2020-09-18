@@ -1,3 +1,0 @@
-IO	IO	uh	IO	io	0
-.	.	.	.	.	1
-TAYLOR	TAYLOR	np1	TAYLOR	Taylor	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Woorships	Woorships	n2	Worships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-humblenes	humblenes	n1	humbleness	humbleness	0
-,	,	,	,	,	0
-Ia.	Ia.	zz	Ia.	ia.	0
-Aske	Aske	vvb	Ask	ask	0
-.	.	.	.	.	1

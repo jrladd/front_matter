@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-His	His	po31	His	his	0
-Highnesse	Highnesse	n1	Highness	highness	0
-the	the	dt	the	the	0
-PRINCE	PRINCE	n1	PRINCE	prince	0
-of	of	pp-f	of	of	0
-VVALES	VVALES	np1	VVALES	VVALES	0
-.	.	.	.	.	1

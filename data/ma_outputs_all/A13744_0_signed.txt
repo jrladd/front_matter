@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-VVorships	VVorships	n2	VVorships	worship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-loialtie	loialtie	n1	loyalty	loyalty	0
-HENRIE	HENRIE	np1	HENRIE	Henry	0
-THORNE	THORNE	np1	THORNE	THORNE	0
-.	.	.	.	.	1

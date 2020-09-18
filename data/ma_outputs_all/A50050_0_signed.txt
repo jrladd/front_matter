@@ -1,6 +1,0 @@
-Tibi	Tibi	fw-la	Tibi	tibi	0
-submississime	submississime	fw-la	submississime	submississime	0
-devotus	devotus	fw-la	devotus	devotus	0
-EDVARDUS	EDVARDUS	fw-la	EDVARDUS	edvardus	0
-LEIGH	LEIGH	zz	LEIGH	leigh	0
-.	.	.	.	.	1

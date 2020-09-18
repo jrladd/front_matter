@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-duety	duety	n1	duty	duty	0
-,	,	,	,	,	0
-William	William	np1	William	William	0
-Shakespeare	Shakespeare	np1	Shakespeare	Shakespeare	0
-.	.	.	.	.	1

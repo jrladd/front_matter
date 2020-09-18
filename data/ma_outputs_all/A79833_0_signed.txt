@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-CAN	CAN	vmb	CAN	can	0
-.	.	.	.	.	1

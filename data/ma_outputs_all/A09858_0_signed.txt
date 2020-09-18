@@ -1,3 +1,0 @@
-Walter	Walter	np1	Walter	Walter	0
-Porter	Porter	n1	Porter	porter	0
-▪	▪	▪	▪	▪	1

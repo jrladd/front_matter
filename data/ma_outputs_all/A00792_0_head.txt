@@ -1,8 +1,0 @@
-¶	¶	¶	¶	¶	0
-To	To	pc-acp	To	to	0
-his	his	po31	his	his	0
-very	very	j	very	very	0
-friend	friend	n1	friend	friend	0
-Maister	Maister	n1	Master	master	0
-J.	J.	np1	J.	J.	0
-D.	D.	np1	D.	D.	1

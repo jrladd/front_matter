@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-Richard	Richard	np1	Richard	Richard	0
-Tottell	Tottell	np1	Tottell	Tottell	0
-.	.	.	.	.	1

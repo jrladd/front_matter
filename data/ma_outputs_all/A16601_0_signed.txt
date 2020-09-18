@@ -1,3 +1,0 @@
-Charles	Charles	np1	Charles	Charles	0
-Allen	Allen	np1	Allen	Allen	0
-.	.	.	.	.	1

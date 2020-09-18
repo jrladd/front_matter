@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-Master	Master	n1	Master	master	0
-JOHN	JOHN	np1	JOHN	John	0
-KNOWLES	KNOWLES	vvz	KNOWLES	knoll	0
-late	late	j	late	late	0
-Preacher	Preacher	n1	Preacher	preacher	0
-at	at	p-acp	at	at	0
-Chester	Chester	np1	Chester	Chester	0
-.	.	.	.	.	1

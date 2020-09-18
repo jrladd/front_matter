@@ -1,6 +1,0 @@
-THE	THE	dt	THE	the	0
-AUTHOR	AUTHOR	n1	AUTHOR	author	0
-TO	TO	p-acp	TO	to	0
-A	A	dt	A	a	0
-FRIEND	FRIEND	n1	FRIEND	friend	0
-.	.	.	.	.	1

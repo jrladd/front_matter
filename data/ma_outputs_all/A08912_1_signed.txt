@@ -1,4 +1,0 @@
-VValter	VValter	np1	VValter	VValter	0
-Hamond	Hamond	np1	Hamond	Hamond	0
-Chirurgean	Chirurgean	n1	Chirurgean	chirurgean	0
-.	.	.	.	.	1

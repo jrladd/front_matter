@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Ʋnworthy	Ʋnworthy	j	Ʋnworthy	ʋnworthy	0
-Fellow	Fellow	n1	Fellow	fellow	0
-Labourer	Labourer	n1	Labourer	labourer	0
-JOHN	JOHN	np1	JOHN	John	0
-OWEN	OWEN	np1	OWEN	Owen	0
-.	.	.	.	.	1

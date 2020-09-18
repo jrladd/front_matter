@@ -1,2 +1,0 @@
-Philo-Regius	Philo-Regius	np1	Philo-Regius	Philo-Regius	0
-.	.	.	.	.	1

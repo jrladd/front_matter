@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-M.	M.	n1	M.	m.	1

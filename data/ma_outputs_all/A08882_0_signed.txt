@@ -1,3 +1,0 @@
-A.	A.	np1	A.	A.	0
-Munday	Munday	np1	Munday	Monday	0
-.	.	.	.	.	1

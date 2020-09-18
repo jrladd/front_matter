@@ -1,6 +1,0 @@
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-Vin.	Vin.	np1	Vin.	Vin.	0
-Wing	Wing	n1	Wing	wing	0
-.	.	.	.	.	1

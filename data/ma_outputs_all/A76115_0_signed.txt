@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Servant	Servant	n1	Servant	servant	0
-for	for	p-acp	for	for	0
-Iesus	Iesus	np1	Iesus	Jesus	0
-sake	sake	n1	sake	sake	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-B.	B.	np1	B.	B.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-VVoorships	VVoorships	ng1	VVoorships	vvoorships	0
-most	most	av-ds	most	most	0
-boun	boun	fw-fr	boun	boun	0
-∣	∣	sy	∣	∣	0
-den	den	n1	den	den	0
-William	William	np1	William	William	0
-Lowth	Lowth	np1	Lowth	Lowth	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-PH	PH	np1	PH	Ph	0
-.	.	.	.	.	1
-FALLE	FALLE	n1	FALLE	fall	1

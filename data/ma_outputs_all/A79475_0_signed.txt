@@ -1,3 +1,0 @@
-Francis	Francis	np1	Francis	Francis	0
-Cheynell	Cheynell	np1	Cheynell	Cheynell	0
-.	.	.	.	.	1

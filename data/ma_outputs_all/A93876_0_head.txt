@@ -1,8 +1,0 @@
-There	There	pc-acp	There	there	0
-is	is	vbz	is	be	0
-a	a	dt	a	a	0
-three-fold	three-fold	j	threefold	threefold	0
-Image	Image	n1	Image	image	0
-of	of	pp-f	of	of	0
-God	God	np1	God	God	0
-.	.	.	.	.	1

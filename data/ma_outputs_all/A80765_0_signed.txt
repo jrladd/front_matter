@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-,	,	,	,	,	0
-Peter	Peter	np1	Peter	Peter	0
-Chamberlen	Chamberlen	n1	Chamberlen	chamberlain	0
-.	.	.	.	.	1

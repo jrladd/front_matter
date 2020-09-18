@@ -1,5 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-PETTUS	PETTUS	np1	PETTUS	Pettus	0
-.	.	.	.	.	1

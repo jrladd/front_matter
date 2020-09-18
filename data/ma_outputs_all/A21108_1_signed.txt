@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humbly	humbly	av-j	humbly	humble	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-EBVRNE	EBVRNE	np1	EBVRNE	EBVRNE	0
-.	.	.	.	.	1

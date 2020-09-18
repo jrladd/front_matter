@@ -1,7 +1,0 @@
-Tui	Tui	fw-la	Tui	tui	0
-honori	honori	fw-la	honori	honori	0
-deditissimus	deditissimus	fw-la	deditissimus	deditissimus	0
-:	:	:	:	:	0
-R.	R.	np1	R.	R.	0
-Rawlyns	Rawlyns	np1	Rawlyns	Rawlyns	0
-.	.	.	.	.	1

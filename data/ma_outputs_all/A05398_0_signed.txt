@@ -1,9 +1,0 @@
-To	To	pc-acp	To	to	0
-be	be	vbi	be	be	0
-your	your	po22	your	your	0
-faithfull	faithfull	j	faithful	faithful	0
-brother	brother	n1	brother	brother	0
-,	,	,	,	,	0
-Will	Will	n1	Will	will	0
-.	.	.	.	.	1
-Bas.	Bas.	np1	Bas.	Bas.	1

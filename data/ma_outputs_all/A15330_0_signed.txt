@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humble	humble	j	humble	humble	0
-Eleemosynarie	Eleemosynarie	j	Eleemosynary	eleemosynary	0
-,	,	,	,	,	0
-MICHAEL	MICHAEL	np1	MICHAEL	Michael	0
-WIGMORE	WIGMORE	np1	WIGMORE	Wigmore	0
-.	.	.	.	.	1

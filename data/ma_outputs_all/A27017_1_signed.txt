@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-much	much	d	much	much	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Servant	Servant	n1	Servant	servant	0
-Rich.	Rich.	np1	Rich.	Richard	0
-Baxter	Baxter	np1	Baxter	Baxter	0
-.	.	.	.	.	1

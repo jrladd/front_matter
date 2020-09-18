@@ -1,4 +1,0 @@
-JO	JO	np1	JO	Jo	0
-.	.	.	.	.	1
-QUARLES	QUARLES	np1	QUARLES	Quarles	0
-.	.	.	.	.	1

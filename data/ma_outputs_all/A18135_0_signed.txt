@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-L.	L.	n1	L.	lord	0
-most	most	av-ds	most	most	0
-bounden	bounden	vvn	bounden	bind	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Hoby	Hoby	np1	Hoby	Hoby	0
-.	.	.	.	.	1

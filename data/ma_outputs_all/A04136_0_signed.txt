@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-honours	honours	n2	honours	honour	0
-as	as	p-acp	as	as	0
-most	most	ds	most	most	0
-bound	bound	j-vvn	bound	bind	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Forrest	Forrest	n1	Forest	forest	0
-.	.	.	.	.	1

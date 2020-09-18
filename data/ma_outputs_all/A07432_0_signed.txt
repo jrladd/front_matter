@@ -1,3 +1,0 @@
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-HOBY	HOBY	np1	HOBY	Hoby	0
-.	.	.	.	.	1

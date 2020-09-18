@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Worshipful	Worshipful	j	Worshipful	worshipful	0
-Sir	Sir	n1	Sir	sir	0
-Joseph	Joseph	np1	Joseph	Joseph	0
-Tredenham	Tredenham	np1	Tredenham	Tredenham	0
-,	,	,	,	,	0
-Kt.	Kt.	np1	Kt.	Kt.	1

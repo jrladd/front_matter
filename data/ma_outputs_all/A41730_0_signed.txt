@@ -1,4 +1,0 @@
-Reg.	Reg.	np1	Reg.	Reg.	0
-de	de	fw-fr	de	de	0
-Graaf	Graaf	np1	Graaf	Graaf	0
-.	.	.	.	.	1

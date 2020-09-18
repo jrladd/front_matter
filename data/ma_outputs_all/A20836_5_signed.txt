@@ -1,9 +1,0 @@
-That	That	cst	That	that	0
-loue	loue	n1	love	love	0
-you	you	pn22	you	you	0
-truely	truely	av-j	truly	true	0
-,	,	,	,	,	0
-Mich	Mich	np1	Mich	Mich	0
-:	:	:	:	:	0
-Drayton	Drayton	np1	Drayton	Drayton	0
-.	.	.	.	.	1

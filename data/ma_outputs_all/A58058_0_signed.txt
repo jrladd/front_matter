@@ -1,3 +1,0 @@
-J.	J.	np1	J.	J.	0
-DAVIES	DAVIES	np1	DAVIES	Davies	0
-.	.	.	.	.	1

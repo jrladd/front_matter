@@ -1,8 +1,0 @@
-At	At	p-acp	At	at	0
-your	your	po22	your	your	0
-Worships	Worships	ng1	Worships	worship	0
-commaund	commaund	n1	command	command	0
-.	.	.	.	.	1
-ROBERT	ROBERT	np1	ROBERT	Robert	0
-IONES	IONES	np1	IONES	Jones	0
-.	.	.	.	.	1

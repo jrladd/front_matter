@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-loving	loving	j-vvg	loving	love	0
-Cosen	Cosen	n1	Cousin	cousin	0
-Reginal	Reginal	np1	Reginal	Reginal	0
-Scot	Scot	np1	Scot	Scot	0
-.	.	.	.	.	1

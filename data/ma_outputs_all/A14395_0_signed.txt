@@ -1,7 +1,0 @@
-R.	R.	np1	R.	R.	0
-Y.	Y.	np1	Y.	Y.	0
-S.	S.	np1	S.	S.	0
-M.	M.	n1	M.	m.	0
-L.	L.	np1	L.	L.	0
-A.	A.	np1	A.	A.	0
-D.	D.	np1	D.	D.	1

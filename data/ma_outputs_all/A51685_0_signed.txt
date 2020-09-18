@@ -1,4 +1,0 @@
-I	I	pns11	I	i	0
-am	am	vbm	am	be	0
-;	;	;	;	;	0
-&c.	&c.	av	etc.	etc	1

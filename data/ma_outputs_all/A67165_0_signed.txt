@@ -1,3 +1,0 @@
-MICHAEL	MICHAEL	np1	MICHAEL	Michael	0
-WRIGHT	WRIGHT	np1	WRIGHT	Wright	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-D.	D.	np1	D.	D.	0
-Q.	Q.	np1	Q.	Q.	1
-ED	ED	wd	ED	ed	0
-.	.	.	.	.	1
-BENTALL	BENTALL	j	BENTALL	bentall	1

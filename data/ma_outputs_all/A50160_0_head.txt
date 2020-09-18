@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Countrey	Countrey	n1	Country	country	0
-.	.	.	.	.	1

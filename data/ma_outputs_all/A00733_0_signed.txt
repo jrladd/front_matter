@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-MAIESTIES	MAIESTIES	ng1	MAIESTIES	majesty	0
-faithfull	faithfull	j	faithful	faithful	0
-seruant	seruant	n1	servant	servant	0
-T.	T.	np1	T.	T.	0
-M.	M.	n1	M.	m.	1

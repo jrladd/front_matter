@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-obedient	obedient	j	obedient	obedient	0
-sonne	sonne	n1	son	son	0
-:	:	:	:	:	0
-Ieruis	Ieruis	np1	Ieruis	Jarvis	0
-Markham	Markham	np1	Markham	Markham	0
-.	.	.	.	.	1

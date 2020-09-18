@@ -1,9 +1,0 @@
-Humbly	Humbly	av-j	Humbly	humble	0
-dedicated	dedicated	vvn	dedicated	dedicate	0
-to	to	p-acp	to	to	0
-Ma	Ma	fw-fr	Ma	ma	0
-∣	∣	sy	∣	∣	0
-dam	dam	n1	dam	dam	0
-,	,	,	,	,	0
-M.	M.	n1	M.	m.	0
-A.	A.	np1	A.	A.	1

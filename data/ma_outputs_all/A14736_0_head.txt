@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-my	my	po11	my	my	0
-Reuerend	Reuerend	j-jn	Reverend	reverend	0
-friend	friend	n1	friend	friend	0
-,	,	,	,	,	0
-Mr.	Mr.	n1	Mr.	mr.	1
-Samuel	Samuel	np1	Samuel	Samuel	0
-Ward	Ward	n1	Ward	ward	0
-.	.	.	.	.	1

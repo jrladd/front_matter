@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Kinsman	Kinsman	n1	Kinsman	kinsman	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-HORNBY	HORNBY	np1	HORNBY	Hornby	0
-.	.	.	.	.	1

@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-FRANCIS	FRANCIS	np1	FRANCIS	Francis	0
-DRAKE	DRAKE	np1	DRAKE	Drake	0
-.	.	.	.	.	1

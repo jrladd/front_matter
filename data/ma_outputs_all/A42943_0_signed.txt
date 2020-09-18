@@ -1,2 +1,0 @@
-R.	R.	np1	R.	R.	0
-G.	G.	np1	G.	G.	1

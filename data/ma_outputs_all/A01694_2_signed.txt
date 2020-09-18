@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-euer	euer	av	ever	ever	0
-most	most	av-ds	most	most	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-.	.	.	.	.	1
-ANTHONY	ANTHONY	np1	ANTHONY	Anthony	0
-GIBSON	GIBSON	np1	GIBSON	Gibson	0
-.	.	.	.	.	1

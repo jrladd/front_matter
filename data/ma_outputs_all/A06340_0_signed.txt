@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-most	most	av-ds	most	most	0
-ready	ready	j	ready	ready	0
-at	at	p-acp	at	at	0
-commaundement	commaundement	n1	commandment	commandment	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Nicholas	Nicholas	np1	Nicholas	Nicholas	0
-.	.	.	.	.	1

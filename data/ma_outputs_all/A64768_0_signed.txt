@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Pupill	Pupill	n1	Pupil	pupil	0
-,	,	,	,	,	0
-&	&	cc	&	and	0
-servant	servant	n1	servant	servant	0
-E.	E.	np1	E.	E.	0
-P.	P.	np1	P.	P.	1

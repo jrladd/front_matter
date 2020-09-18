@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-GEO	GEO	np1	GEO	Geo	0
-:	:	:	:	:	0
-CRAKANTHORP	CRAKANTHORP	np1	CRAKANTHORP	CRAKANTHORP	0
-.	.	.	.	.	1

@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Graces	Graces	n2	Graces	grace	0
-most	most	av-ds	most	most	0
-humbly	humbly	av-j	humbly	humble	0
-obliged	obliged	vvn	obliged	oblige	0
-seruant	seruant	n1	servant	servant	0
-NATHANIEL	NATHANIEL	np1	NATHANIEL	Nathaniel	0
-FIELD	FIELD	n1	FIELD	field	0
-.	.	.	.	.	1

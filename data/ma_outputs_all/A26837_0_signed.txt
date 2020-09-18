@@ -1,3 +1,0 @@
-William	William	np1	William	William	0
-Battie	Battie	np1	Battie	Battie	0
-.	.	.	.	.	1

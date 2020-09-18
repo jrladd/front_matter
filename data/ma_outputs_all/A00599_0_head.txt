@@ -1,8 +1,0 @@
-Salutem	Salutem	fw-la	Salutem	salutem	0
-in	in	p-acp	in	in	0
-ipso	ipso	fw-la	ipso	ipso	0
-,	,	,	,	,	0
-qui	qui	fw-fr	qui	qui	0
-fons	fons	n2	fons	fon	0
-Gratiae	Gratiae	np1	Gratiae	Gratiae	0
-.	.	.	.	.	1

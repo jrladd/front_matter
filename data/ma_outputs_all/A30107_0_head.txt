@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-loving	loving	j-vvg	loving	love	0
-Father	Father	n1	Father	father	0
-Mr	Mr	n1	Mr	mr.	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Bulwer	Bulwer	np1	Bulwer	Bulwer	0
-.	.	.	.	.	1

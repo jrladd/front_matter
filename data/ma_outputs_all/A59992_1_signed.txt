@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-faithfull	faithfull	j	faithful	faithful	0
-Honourer	Honourer	n1	Honourer	honourer	0
-,	,	,	,	,	0
-IA	IA	zz	IA	ia	0
-.	.	.	.	.	1
-SHIRLEY	SHIRLEY	np1	SHIRLEY	Shirley	0
-.	.	.	.	.	1

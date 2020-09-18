@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-MOST	MOST	av-ds	MOST	most	0
-FAMOUS	FAMOUS	j	FAMOUS	famous	0
-UNIVERSITY	UNIVERSITY	n1	UNIVERSITY	university	0
-OF	OF	pp-f	OF	of	0
-CAMBRIDGE	CAMBRIDGE	np1	CAMBRIDGE	Cambridge	0
-.	.	.	.	.	1

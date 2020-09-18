@@ -1,3 +1,0 @@
-R.	R.	np1	R.	R.	0
-Flecknoe	Flecknoe	np1	Flecknoe	Flecknoe	0
-.	.	.	.	.	1

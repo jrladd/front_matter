@@ -1,6 +1,0 @@
-Liber	Liber	np1	Liber	Liber	0
-ad	ad	fw-la	ad	ad	0
-Lectorem	Lectorem	fw-la	Lectorem	lectorem	0
-de	de	fw-fr	de	de	0
-Authorosuo	Authorosuo	np1	Authorosuo	Authorosuo	0
-.	.	.	.	.	1

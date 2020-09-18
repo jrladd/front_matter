@@ -1,4 +1,0 @@
-Anagramma	Anagramma	n1	Anagramma	anagramma	0
-Gouerneth	Gouerneth	vvz	Governeth	govern	0
-many	many	d	many	many	0
-.	.	.	.	.	1

@@ -1,5 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-same	same	d	same	same	0
-Lady	Lady	n1	Lady	lady	0
-.	.	.	.	.	1

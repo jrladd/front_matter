@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-humbly	humbly	av-j	humbly	humble	0
-affectionate	affectionate	j	affectionate	affectionate	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-.	.	.	.	.	1
-T.	T.	np1	T.	T.	0
-C.	C.	np1	C.	C.	1

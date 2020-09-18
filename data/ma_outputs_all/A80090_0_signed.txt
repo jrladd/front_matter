@@ -1,3 +1,0 @@
-Rich.	Rich.	np1	Rich.	Richard	0
-Coler	Coler	np1	Coler	Coler	0
-.	.	.	.	.	1

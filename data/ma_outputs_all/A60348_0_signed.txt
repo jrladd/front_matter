@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-best	best	js	best	best	0
-Bonds	Bonds	n2	Bonds	bond	0
-,	,	,	,	,	0
-SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
-SLATER	SLATER	np1	SLATER	Slater	0
-.	.	.	.	.	1

@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-to	to	pc-acp	to	to	0
-commaund	commaund	vvi	command	command	0
-BARNABE	BARNABE	np1	BARNABE	Barnaby	0
-RYCH	RYCH	j	RICH	rich	1

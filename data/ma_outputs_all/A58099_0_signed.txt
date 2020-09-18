@@ -1,5 +1,0 @@
-Most	Most	ds	Most	most	0
-Humble	Humble	j	Humble	humble	0
-CHRISTIAN	CHRISTIAN	np1	CHRISTIAN	Christian	0
-RAVIS	RAVIS	np1	RAVIS	RAVIS	0
-.	.	.	.	.	1

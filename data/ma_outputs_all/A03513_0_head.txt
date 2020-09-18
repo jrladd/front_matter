@@ -1,9 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-most	most	av-ds	most	most	0
-honored	honored	j-vvn	honoured	honour	0
-Earle	Earle	n1	Earl	earl	0
-,	,	,	,	,	0
-Earle	Earle	n1	Earl	earl	0
-Marshall	Marshall	np1	Marshall	Marshall	0
-.	.	.	.	.	1

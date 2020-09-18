@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-L.	L.	n1	L.	lord	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Iohn	Iohn	np1	Iohn	John	0
-Stovve	Stovve	vvi	Stow	stow	0
-.	.	.	.	.	1

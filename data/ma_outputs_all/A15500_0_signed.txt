@@ -1,6 +1,0 @@
-Your	Your	po22	Your	your	0
-Wor.	Wor.	n1	Wor.	worship	0
-poore	poore	j	poor	poor	0
-scholler	scholler	n1	scholar	scholar	0
-R.	R.	np1	R.	R.	0
-W.	W.	np1	W.	W.	1

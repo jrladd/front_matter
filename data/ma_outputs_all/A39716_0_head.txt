@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-HIS	HIS	po31	HIS	his	0
-HIGHNESS	HIGHNESS	n1	HIGHNESS	highness	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-,	,	,	,	,	0
-Lord	Lord	n1	Lord	lord	0
-Protector	Protector	n1	Protector	protector	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

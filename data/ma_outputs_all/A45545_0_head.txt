@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-THE	THE	dt	THE	the	0
-House	House	n1	House	house	0
-of	of	pp-f	of	of	0
-PEERS	PEERS	n2	PEERS	peer	0
-.	.	.	.	.	1

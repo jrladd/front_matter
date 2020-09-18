@@ -1,8 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-to	to	pc-acp	to	to	0
-be	be	vbi	be	be	0
-commanded	commanded	vvn	commanded	command	0
-,	,	,	,	,	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-CVLMER	CVLMER	np1	CVLMER	CVLMER	0
-.	.	.	.	.	1

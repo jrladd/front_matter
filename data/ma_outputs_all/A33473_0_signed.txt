@@ -1,3 +1,0 @@
-Christopher	Christopher	np1	Christopher	Christopher	0
-Clobery	Clobery	np1	Clobery	Clobery	0
-.	.	.	.	.	1

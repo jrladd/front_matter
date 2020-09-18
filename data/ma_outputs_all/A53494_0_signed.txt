@@ -1,8 +1,0 @@
-SIR	SIR	n1	SIR	sir	0
-Your	Your	po22	Your	your	0
-Honourer	Honourer	n1	Honourer	honourer	0
-and	and	cc	and	and	0
-most	most	av-ds	most	most	0
-humbly-devoted	humbly-devoted	j	humbly-devoted	humbly-devoted	0
-Servant	Servant	n1	Servant	servant	0
-.	.	.	.	.	1

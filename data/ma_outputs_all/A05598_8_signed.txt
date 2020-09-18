@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Lomost	Lomost	j	Lomost	lomost	0
-incessant	incessant	j	incessant	incessant	0
-Oratour	Oratour	n1	Orator	orator	0
-,	,	,	,	,	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-LITHGOW	LITHGOW	np1	LITHGOW	Lithgow	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-.	.	.	.	.	1
-Th.	Th.	np1	Th.	Th.	0
-Hood	Hood	n1	Hood	hood	0
-.	.	.	.	.	1

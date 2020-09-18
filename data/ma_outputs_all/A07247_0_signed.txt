@@ -1,8 +1,0 @@
-Devoted	Devoted	j-vvn	Devoted	devote	0
-to	to	p-acp	to	to	0
-their	their	po32	their	their	0
-seruice	seruice	n1	service	service	0
-.	.	.	.	.	1
-Philip	Philip	np1	Philip	Philip	0
-Massinger	Massinger	np1	Massinger	Massinger	0
-.	.	.	.	.	1

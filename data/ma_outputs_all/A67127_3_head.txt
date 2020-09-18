@@ -1,6 +1,0 @@
-HENRY	HENRY	np1	HENRY	Henry	0
-WOTTON	WOTTON	np1	WOTTON	Wotton	0
-wisheth	wisheth	vvz	wishes	wish	0
-long	long	av-j	long	long	0
-life	life	n1	life	life	0
-.	.	.	.	.	1

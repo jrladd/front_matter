@@ -1,3 +1,0 @@
-Th.	Th.	np1	Th.	Th.	0
-Hawkins	Hawkins	np1	Hawkins	Hawkins	0
-.	.	.	.	.	1

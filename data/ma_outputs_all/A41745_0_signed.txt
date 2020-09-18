@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Graile	Graile	np1	Graile	Graile	0
-.	.	.	.	.	1

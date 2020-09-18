@@ -1,7 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Nobility	Nobility	n1	Nobility	nobility	0
-,	,	,	,	,	0
-Gentry	Gentry	n1	Gentry	gentry	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

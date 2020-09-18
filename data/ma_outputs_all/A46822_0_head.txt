@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-RIGHT	RIGHT	n-jn	RIGHT	right	0
-HONOURABLE	HONOURABLE	j	HONOURABLE	honourable	0
-THE	THE	dt	THE	the	0
-Lord	Lord	n1	Lord	lord	0
-Lambert	Lambert	np1	Lambert	Lambert	0
-&c.	&c.	av	etc.	etc	1

@@ -1,8 +1,0 @@
-GEORGE	GEORGE	np1	GEORGE	George	0
-RIPLEY	RIPLEY	np1	RIPLEY	Ripley	0
-UNTO	UNTO	p-acp	UNTO	unto	0
-King	King	n1	King	king	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-the	the	dt	the	the	0
-fourth	fourth	ord	fourth	four	0
-.	.	.	.	.	1

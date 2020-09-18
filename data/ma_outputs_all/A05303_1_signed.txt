@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-subiect	subiect	n-jn	subject	subject	0
-:	:	:	:	:	0
-PETER	PETER	np1	PETER	Peter	0
-DE	DE	fw-fr	DE	de	0
-LOIRK	LOIRK	np1	LOIRK	LOIRK	0
-.	.	.	.	.	1

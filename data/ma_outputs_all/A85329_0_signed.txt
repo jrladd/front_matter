@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-much	much	d	much	much	0
-engaged	engaged	vvn	engaged	engage	0
-,	,	,	,	,	0
-E.	E.	np1	E.	E.	0
-F.	F.	np1	F.	F.	1

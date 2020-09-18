@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Vniuersitie	Vniuersitie	n1	University	university	0
-of	of	pp-f	of	of	0
-Cambridge	Cambridge	np1	Cambridge	Cambridge	0
-.	.	.	.	.	1

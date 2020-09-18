@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-devoted	devoted	j-vvn	devoted	devote	0
-Nephew	Nephew	n1	Nephew	nephew	0
-THOMAS	THOMAS	np1	THOMAS	Thomas	0
-DVGARD	DVGARD	n1	DVGARD	dvgard	0
-.	.	.	.	.	1

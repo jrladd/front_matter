@@ -1,6 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-GENTRY	GENTRY	n1	GENTRY	gentry	0
-AND	AND	cc	AND	and	0
-CLERGY	CLERGY	n1	CLERGY	clergy	0
-.	.	.	.	.	1

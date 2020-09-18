@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-honors	honors	n2	honours	honour	0
-to	to	pc-acp	to	to	0
-command	command	vvi	command	command	0
-,	,	,	,	,	0
-R.	R.	np1	R.	R.	0
-COTTON	COTTON	np1	COTTON	Cotton	0
-.	.	.	.	.	1

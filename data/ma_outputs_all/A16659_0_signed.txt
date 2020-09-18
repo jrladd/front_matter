@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Ladiships	Ladiships	ng1	Ladyships	ladyship	0
-devoted	devoted	j-vvn	devoted	devote	0
-servant	servant	n1	servant	servant	0
-:	:	:	:	:	0
-Richard	Richard	np1	Richard	Richard	0
-Brathwait	Brathwait	np1	Brathwait	Brathwait	0
-.	.	.	.	.	1

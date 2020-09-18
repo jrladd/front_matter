@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-Humbly	Humbly	av-j	Humbly	humble	0
-devoted	devoted	j-vvn	devoted	devote	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-Martin	Martin	np1	Martin	Martin	0
-Blake	Blake	np1	Blake	Blake	0
-.	.	.	.	.	1

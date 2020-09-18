@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-worships	worships	n2	worships	worship	0
-to	to	pc-acp	to	to	0
-commaunde	commaunde	vvi	command	command	0
-.	.	.	.	.	1
-Adrian	Adrian	np1	Adrian	Adrian	0
-Pointz	Pointz	np1	Pointz	Pointz	0
-.	.	.	.	.	1

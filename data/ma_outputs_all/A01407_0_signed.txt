@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-euer	euer	av	ever	ever	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-Dunstan	Dunstan	np1	Dunstan	Dunstan	0
-Gale	Gale	n1	Gale	gale	0
-.	.	.	.	.	1

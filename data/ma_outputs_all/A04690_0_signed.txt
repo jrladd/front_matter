@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-to	to	pc-acp	to	to	0
-commannd	commannd	vvi	command	command	0
-,	,	,	,	,	0
-SIL	SIL	n1	SIL	sil	0
-.	.	.	.	.	1
-IOVRDAN	IOVRDAN	np1	IOVRDAN	IOVRDAN	0
-.	.	.	.	.	1

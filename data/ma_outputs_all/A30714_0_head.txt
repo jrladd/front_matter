@@ -1,4 +1,0 @@
-THE	THE	dt	THE	the	0
-EPISTLE	EPISTLE	n1	EPISTLE	epistle	0
-DEDICATORY	DEDICATORY	j	DEDICATORY	dedicatory	0
-.	.	.	.	.	1

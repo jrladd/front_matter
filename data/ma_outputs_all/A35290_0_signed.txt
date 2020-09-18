@@ -1,3 +1,0 @@
-John	John	np1	John	John	0
-Crowne	Crowne	n1	Crown	crown	0
-.	.	.	.	.	1

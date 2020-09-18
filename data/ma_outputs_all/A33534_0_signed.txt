@@ -1,3 +1,0 @@
-Thom.	Thom.	np1	Thom.	Thom.	0
-Cocke	Cocke	n1	Cock	cock	0
-.	.	.	.	.	1

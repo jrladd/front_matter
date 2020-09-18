@@ -1,6 +1,0 @@
-Deuoted	Deuoted	vvn	Devoted	devote	0
-yours	yours	png22	yours	you	0
-,	,	,	,	,	0
-Geo.	Geo.	np1	Geo.	Geo.	0
-Wilkins	Wilkins	np1	Wilkins	Wilkins	0
-.	.	.	.	.	1

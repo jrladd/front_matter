@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-humbly	humbly	av-j	humbly	humble	0
-deuoted	deuoted	j-vvn	devoted	devote	0
-,	,	,	,	,	0
-Hamlett	Hamlett	np1	Hamlett	Hamlett	0
-Marshall	Marshall	np1	Marshall	Marshall	0
-.	.	.	.	.	1

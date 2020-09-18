@@ -1,4 +1,0 @@
-THOM	THOM	np1	THOM	Thom	0
-.	.	.	.	.	1
-IOHNSON	IOHNSON	np1	IOHNSON	Johnson	0
-.	.	.	.	.	1

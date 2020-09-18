@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-poore	poore	j	poor	poor	0
-Servant	Servant	n1	Servant	servant	0
-EDVV	EDVV	np1	EDVV	EDVV	0
-.	.	.	.	.	1
-WILLAN	WILLAN	np1	WILLAN	WILLAN	0
-.	.	.	.	.	1

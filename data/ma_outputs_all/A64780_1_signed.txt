@@ -1,4 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-&c.	&c.	av	etc.	etc	0
-Philomusus	Philomusus	np1	Philomusus	Philomusus	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-YOUR	YOUR	po22	YOUR	your	0
-LORDSHIPS	LORDSHIPS	ng1	LORDSHIPS	lordship	0
-most	most	av-ds	most	most	0
-humble	humble	j	humble	humble	0
-Servant	Servant	n1	Servant	servant	0
-Thomas	Thomas	np1	Thomas	Thomas	0
-Hobbes	Hobbes	np1	Hobbes	Hobbes	0
-.	.	.	.	.	1

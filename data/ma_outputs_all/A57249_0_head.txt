@@ -1,5 +1,0 @@
-TO	TO	p-acp	TO	to	0
-King	King	n1	King	king	0
-LEWIS	LEWIS	np1	LEWIS	Lewis	0
-XIII	XIII	np1	XIII	Xiii	0
-.	.	.	.	.	1

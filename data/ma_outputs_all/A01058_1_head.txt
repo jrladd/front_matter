@@ -1,9 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-VVORTHY	VVORTHY	j-jn	WORTHY	worthy	0
-and	and	cc	and	and	0
-vertuous	vertuous	j	virtuous	virtuous	0
-knight	knight	n1	knight	knight	0
-Sir	Sir	n1	Sir	sir	0
-RICHARD	RICHARD	np1	RICHARD	Richard	0
-TICHBORNE	TICHBORNE	np1	TICHBORNE	Tichborne	1

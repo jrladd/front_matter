@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-Lordships	Lordships	n2	Lordship's	lordship	0
-much	much	av-d	much	much	0
-obliged	obliged	vvn	obliged	oblige	0
-STEPHEN	STEPHEN	np1	STEPHEN	Stephen	0
-MARSHALL	MARSHALL	j	MARSHAL	martial	0
-.	.	.	.	.	1

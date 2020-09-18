@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-worthiest	worthiest	js	worthiest	worthy	0
-Poet	Poet	n1	Poet	poet	0
-Maister	Maister	n1	Master	master	0
-Ed.	Ed.	np1	Ed.	Ed.	0
-Spenser	Spenser	np1	Spenser	Spenser	0
-.	.	.	.	.	1

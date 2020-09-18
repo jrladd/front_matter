@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-Christian	Christian	njp	Christian	christian	0
-Service	Service	n1	Service	service	0
-,	,	,	,	,	0
-JOHN	JOHN	np1	JOHN	John	0
-TEMPLER	TEMPLER	np1	TEMPLER	Templer	0
-.	.	.	.	.	1

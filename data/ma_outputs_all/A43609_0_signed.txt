@@ -1,3 +1,0 @@
-Israel	Israel	np1	Israel	Israel	0
-Hibner	Hibner	np1	Hibner	Hibner	0
-.	.	.	.	.	1

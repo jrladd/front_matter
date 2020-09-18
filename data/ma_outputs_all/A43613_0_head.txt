@@ -1,7 +1,0 @@
-His	His	po31	His	his	0
-Majesty's	Majesty's	ng1	Majesty's	majesty	0
-Principal	Principal	j-jn	Principal	principal	0
-Secretary	Secretary	n1	Secretary	secretary	0
-of	of	pp-f	of	of	0
-State	State	n1	State	state	0
-.	.	.	.	.	1
