@@ -1,6 +1,0 @@
-To	To	p-acp	To	to	0
-Mr.	Mr.	n1	Mr.	mr.	0
-WILLIAM	WILLIAM	np1	WILLIAM	William	0
-PRINNE	PRINNE	np1	PRINNE	PRINNE	0
-,	,	,	,	,	0
-&c.	&c.	av	etc.	etc	1

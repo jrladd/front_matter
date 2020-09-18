@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-PARLAMENT	PARLAMENT	n1	PARLAMENT	parliament	0
-.	.	.	.	.	1

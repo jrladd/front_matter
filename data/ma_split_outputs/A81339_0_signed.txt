@@ -1,7 +1,0 @@
-Alumnorum	Alumnorum	np1	Alumnorum	Alumnorum	0
-tuorum	tuorum	fw-la	tuorum	tuorum	0
-obſervantiſsimo	obſervantiſsimo	fw-la	obſervantiſsimo	obſervantiſsimo	0
-ED	ED	wd	ED	ed	0
-.	.	.	.	.	1
-DERING	DERING	np1	DERING	Dering	0
-.	.	.	.	.	1

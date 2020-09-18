@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-daily	daily	j	daily	daily	0
-Oratour	Oratour	n1	Orator	orator	0
-,	,	,	,	,	0
-W.	W.	np1	W.	W.	0
-GOUGE	GOUGE	np1	GOUGE	Gouge	0
-.	.	.	.	.	1

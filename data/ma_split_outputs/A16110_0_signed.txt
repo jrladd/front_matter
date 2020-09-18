@@ -1,5 +1,0 @@
-aeternum	aeternum	fw-la	aeternum	aeternum	0
-mancipatus	mancipatus	fw-la	mancipatus	mancipatus	0
-.	.	.	.	.	1
-G.	G.	np1	G.	G.	0
-A.	A.	np1	A.	A.	1

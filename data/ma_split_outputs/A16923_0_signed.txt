@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honour's	Honour's	n1|vbz	Honour's	honour|be	0
-humbly	humbly	av-j	humbly	humble	0
-devoted	devoted	vvn	devoted	devote	0
-:	:	:	:	:	0
-Richard	Richard	np1	Richard	Richard	0
-Brome	Brome	np1	Brome	Brome	0
-.	.	.	.	.	1

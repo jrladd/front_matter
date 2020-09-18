@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-to	to	pc-acp	to	to	0
-diſpoſe	diſpoſe	vvi	diſpoſe	diſpoſe	0
-of	of	pp-f	of	of	0
-William	William	np1	William	William	0
-Gilbert	Gilbert	np1	Gilbert	Gilbert	0
-.	.	.	.	.	1

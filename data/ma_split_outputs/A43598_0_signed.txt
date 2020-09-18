@@ -1,6 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-obsequiously	obsequiously	av-j	obsequiously	obsequious	0
-devoted	devoted	vvn	devoted	devote	0
-,	,	,	,	,	0
-T.	T.	np1	T.	T.	0
-H.	H.	np1	H.	H.	1

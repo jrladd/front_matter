@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worships	Worships	n2	Worships	worship	0
-,	,	,	,	,	0
-affectionately	affectionately	av-j	affectionately	affectionate	0
-observant	observant	j	observant	observant	0
-John	John	np1	John	John	0
-Trapp	Trapp	np1	Trapp	Trapp	0
-.	.	.	.	.	1

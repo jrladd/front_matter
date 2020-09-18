@@ -1,9 +1,0 @@
-Your	Your	po22	Your	your	0
-Honours	Honours	ng1	Honours	honour	0
-and	and	cc	and	and	0
-Worships	Worships	ng1	Worships	worship	0
-faithfull	faithfull	j	faithful	faithful	0
-Orator	Orator	n1	Orator	orator	0
-till	till	p-acp	till	till	0
-death	death	n1	death	death	0
-.	.	.	.	.	1

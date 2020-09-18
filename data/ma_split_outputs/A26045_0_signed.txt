@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-Worſhips	Worſhips	n2	Worſhips	worſhip	0
-bound	bound	vvn	bound	bind	0
-ſervant	ſervant	n1	ſervant	ſervant	0
-,	,	,	,	,	0
-IOHN	IOHN	np1	IOHN	John	0
-ASPLEY	ASPLEY	np1	ASPLEY	ASPLEY	0
-.	.	.	.	.	1

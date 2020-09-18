@@ -1,9 +1,0 @@
-Yours	Yours	png22	Yours	you	0
-in	in	p-acp	in	in	0
-the	the	dt	the	the	0
-Lord	Lord	n1	Lord	lord	0
-I	I	pns11	I	i	0
-.	.	.	.	.	0
-D.	D.	np1	D.	D.	0
-L.	L.	np1	L.	L.	0
-M.	M.	n1	M.	m.	1

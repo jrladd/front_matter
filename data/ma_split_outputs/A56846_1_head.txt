@@ -1,4 +1,0 @@
-To	To	p-acp	To	to	0
-the	the	dt	the	the	0
-Readers	Readers	n2	Readers	reader	0
-.	.	.	.	.	1

@@ -1,3 +1,0 @@
-Jo.	Jo.	np1	Jo.	Jo.	0
-Tatham	Tatham	np1	Tatham	Tatham	0
-.	.	.	.	.	1

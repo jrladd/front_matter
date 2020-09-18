@@ -1,8 +1,0 @@
-The	The	dt	The	the	0
-least	least	ds	least	least	0
-of	of	pp-f	of	of	0
-Christs	Christs	npg1	Christs	Christ	0
-Ministers	Ministers	n2	Ministers	minister	0
-Io.	Io.	np1	Io.	Io.	0
-Reading	Reading	vvg	Reading	read	0
-.	.	.	.	.	1

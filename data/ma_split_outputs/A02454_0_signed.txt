@@ -1,4 +1,0 @@
-WM	WM	np1	WM	WM	0
-.	.	.	.	.	1
-HABINGTON	HABINGTON	np1	HABINGTON	HABINGTON	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-TO	TO	p-acp	TO	to	0
-THE	THE	dt	THE	the	0
-MOST	MOST	av-ds	MOST	most	0
-ACCOMPLISH'D	ACCOMPLISH'D	vvn	ACCOMPLISHED	accomplish	0
-Sr.	Sr.	n1	Sr.	sir	0
-Kenelme	Kenelme	np1	Kenelme	Kenelme	0
-Digby	Digby	np1	Digby	Digby	0
-.	.	.	.	.	1

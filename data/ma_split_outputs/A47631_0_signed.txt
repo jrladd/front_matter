@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-obliged	obliged	j-vvn	obliged	oblige	0
-Son	Son	n1	Son	son	0
-and	and	cc	and	and	0
-Servant	Servant	n1	Servant	servant	0
-,	,	,	,	,	0
-EDWARD	EDWARD	np1	EDWARD	Edward	0
-LEGH	LEGH	np1	LEGH	Legh	1

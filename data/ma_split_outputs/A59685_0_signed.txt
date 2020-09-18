@@ -1,4 +1,0 @@
-Tho	Tho	np1	Tho	Tho	0
-:	:	:	:	:	0
-Shepard	Shepard	np1	Shepard	Shepard	0
-.	.	.	.	.	1

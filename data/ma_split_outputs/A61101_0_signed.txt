@@ -1,8 +1,0 @@
-Thine	Thine	png21	Thine	thou	0
-in	in	p-acp	in	in	0
-all	all	d	all	all	0
-faithfull	faithfull	j	faithful	faithful	0
-affections	affections	n2	affections	affection	0
-,	,	,	,	,	0
-J.	J.	np1	J.	J.	0
-S.	S.	np1	S.	S.	1

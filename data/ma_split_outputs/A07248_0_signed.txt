@@ -1,7 +1,0 @@
-Your	Your	po22	Your	your	0
-〈	〈	〈	〈	〈	0
-◊	◊	sy	◊	◊	0
-〉	〉	〉	〉	〉	0
-PHILIP	PHILIP	np1	PHILIP	PHILIP	0
-MASSINGER	MASSINGER	np1	MASSINGER	MASSINGER	0
-.	.	.	.	.	1

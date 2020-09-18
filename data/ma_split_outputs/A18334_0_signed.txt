@@ -1,4 +1,0 @@
-Don	Don	n1	DONE	don	0
-Diego	Diego	np1	Diego	Diego	0
-Puede-Ser	Puede-Ser	j	Puede-Ser	puede-s	0
-,	,	,	,	,	1

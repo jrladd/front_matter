@@ -1,3 +1,0 @@
-JOHN	JOHN	np1	JOHN	John	0
-GRAUNT	GRAUNT	vvb	GRANT	grant	0
-.	.	.	.	.	1

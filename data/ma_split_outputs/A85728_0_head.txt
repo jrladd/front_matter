@@ -1,9 +1,0 @@
-Dilecto	Dilecto	np1	Dilecto	Dilecto	0
-Georgio	Georgio	np1	Georgio	Georgio	0
-Grimſtonio	Grimſtonio	np1	Grimſtonio	Grimſtonio	0
-,	,	,	,	,	0
-filio	filio	fw-la	filio	filio	0
-&	&	cc	&	and	0
-haeredi	haeredi	fw-la	haeredi	haeredi	0
-ſuo	ſuo	fw-la	ſuo	ſuo	0
-.	.	.	.	.	1

@@ -1,2 +1,0 @@
-BARON	BARON	np1	BARON	Baron	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-Your	Your	po22	Your	your	0
-most	most	av-ds	most	most	0
-gratefull	gratefull	j	grateful	grateful	0
-servant	servant	n1	servant	servant	0
-,	,	,	,	,	0
-M.	M.	n1	M.	m.	0
-STEVENSON	STEVENSON	np1	STEVENSON	Stevenson	0
-.	.	.	.	.	1

@@ -1,8 +1,0 @@
-To	To	p-acp	To	to	0
-his	his	po31	his	his	0
-honoured	honoured	j-vvn	honoured	honour	0
-friend	friend	n1	friend	friend	0
-Master	Master	n1	Master	master	0
-SAMUEL	SAMUEL	np1	SAMUEL	Samuel	0
-HARTLIB	HARTLIB	j	HARTLIB	hartlib	0
-.	.	.	.	.	1
