@@ -1,2 +1,5 @@
-# front_matter
-Networks of EEBO-TCP dedications
+# Dedicatory Networks and Political Crisis in Early Modern Print
+
+This repository contains code and data that accompany an article by the same title. The initial data comes from the [*EarlyPrint* project](https://earlyprint.org/download). Some of the *EarlyPrint* texts are available to the public now, and the rest will be made available after the Text Creation Partnership Phase II public release in 2021. The metadata for this project is [also from *EarlyPrint*](https://github.com/earlyprint/epmetadata).
+
+Beginning with *EarlyPrint* XML documents, the scripts in `src/epnames.py` extract dedicatory epistles and detect names within them using the *EarlyPrint* markup and custom functions. After disambiguating names by hand using [OpenRefine](https://openrefine.org/), I then build the data into a NetworkX graph object using `src/epnetwork.py`, so that it can be analyzed in a Jupyter notebook, `src/explore_network.ipynb`. The visualizations and tables made in that notebook are what appear in the accompanying article draft.
