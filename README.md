@@ -1,4 +1,4 @@
-# Dedicatory Networks and Political Crisis in Early Modern Print
+# Imaginative Networks: Untimely Reference and Political Crisis in Early Modern Book Dedications
 
 This repository contains code and data that accompany an article by the same title. The initial data comes from the [*EarlyPrint* project](https://earlyprint.org/download). Some of the *EarlyPrint* texts are available to the public now, and the rest will be made available after the Text Creation Partnership Phase II public release in 2021. The metadata for this project is [also from *EarlyPrint*](https://github.com/earlyprint/epmetadata).
 
