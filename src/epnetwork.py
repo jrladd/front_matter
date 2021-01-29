@@ -93,7 +93,7 @@ if __name__ == "__main__":
     G.add_nodes_from(nodes)
     G.add_edges_from(edges)
     print(nx.info(G)) # Print graph info
-    nx.write_gpickle(G, 'data/test_joined0826.pkl') # Export Graph object as pickle
+    nx.write_gpickle(G, 'data/full_network0826.pkl') # Export Graph object as pickle
 
     end = time.process_time()
     print(end-start) # Print how long the process took
